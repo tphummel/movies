@@ -1,53 +1,37 @@
-{{ define "title" }}custom title override{{ end }}
 {{ define "head" }}
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
   "@type": "Organization",
-  "name": "my-site",
-  "url": "https://my.site",
-  "sameAs": [
-    "https://twitter.com/{{ $.Site.Params.twitter_handle }}"
-  ]
+  "name": "Tom Hummel Movie Journal",
+  "url": "https://movies.tomhummel.com",
 }
 </script>
 {{ end }}
 
 {{ define "main" }}
-<h1>title</h1>
+<h1>Tom Hummel's Movie Journal</h1>
 
-<p>subtitle</p>
-
-<p>
-  {{ with .Site.GetPage "page" "faq.md" }}<a href="{{ .Permalink }}">{{ .Title }}</a>{{ end }} |
-  {{ with .Site.GetPage "page" "contact.md" }}<a href="{{ .Permalink }}">{{ .Title }}</a>{{ end }} |
-</p>
-
-<p>Total Blog Posts: {{ len (where $.Data.Pages "Section" "blog") }}</p>
+<p>Total Movies: {{ len (where $.Data.Pages "Section" "m") }}</p>
 
 <div>
-  Newest Blogs:
+  Newest Movies Added:
   <ul>
-  {{ range first 5 (where .Site.RegularPages.ByDate.Reverse "Section" "blog") }}
+  {{ range first 5 (where .Site.RegularPages.ByDate.Reverse "Section" "m") }}
     <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
   {{ end }}
-    <li><a href="{{ with .Site.GetPage "section" "blog" }}{{ .Permalink }}{{ end }}">More...</a></li>
+    <li><a href="{{ with .Site.GetPage "section" "m" }}{{ .Permalink }}{{ end }}">More...</a></li>
   </ul>
 </div>
 
 <p>
   <small>
-    <a href="">status</a> |
     <a href="{{ $.Site.Params.github_repo }}">github</a> |
-    <a href="index.xml">rss</a> |
-    <a href="https://twitter.com/{{ $.Site.Params.twitter_handle }}">twitter</a> |
-    <a href="https://facebook.com/{{ $.Site.Params.facebook_handle }}">facebook</a> |
-    <a href="https://instagram.com/{{ $.Site.Params.instagram_handle }}">instagram</a>
   </small>
 </p>
 <p>
   <small>
-    footer
+    This product uses the TMDB API but is not endorsed or certified by TMDB.
   </small>
 </p>
 {{ end }}

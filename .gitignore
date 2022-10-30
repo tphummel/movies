@@ -1,4 +1,3 @@
 resources
-plan
-.terraform
-*.tfstate*
+.hugo_build.lock
+node_modules
