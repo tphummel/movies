@@ -50,7 +50,7 @@ const releaseYear = data.release_date.substring(0,4)
 const docYaml = `
 ---
 title: "${data.title}"
-date: ""
+date: "${(new Date()).toISOString()}"
 budget_usd: ${data.budget}
 genre_ids: [${data.genres.map(g => g.id).join(',')}]
 tsdb_id: ${data.id}
@@ -61,18 +61,28 @@ poster_path: "${data.poster_path}"
 production_company_ids: [${data.production_companies.map(g => g.id).join(',')}]
 production_countries: [${data.production_countries.map(g => g.iso_3166_1).join(',')}]
 release_date: "${data.release_date}"
-release_years: ["${releaseYear}"]
+release_years: [${releaseYear}]
 revenue_usd: ${data.revenue}
 status: "${data.status}"
 runtime_minutes: ${data.runtime}
-tagline: "${data.tagline}"
-overview: "${data.overview}"
+tagline: >
+  ${data.tagline}
+overview: >
+  ${data.overview}
 homepage: "${data.homepage}"
 ---
 `
 
-const outputFile = `content/m/${releaseYear}-${titleSlug}.md`
+const outputDir = `content/m/${releaseYear}-${titleSlug}`
+await $`mkdir -p ${outputDir}`
 
+const outputFile = `${outputDir}/index.md`
 await fs.writeFile(outputFile, docYaml)
-// const imageUrlPrefix = 'https://image.tmdb.org/t/p/w300_and_h450_bestv2'
+
+const posterUrl = `https://www.themoviedb.org/t/p/w600_and_h900_bestv2${data.poster_path}`
+fetch(posterUrl)
+	.then(res =>
+		res.body.pipe(fs.createWriteStream(`${outputDir}/poster.jpg`))
+	)
+
 ```

@@ -18,7 +18,7 @@
   Newest Movies Added:
   <ul>
   {{ range first 5 (where .Site.RegularPages.ByDate.Reverse "Section" "m") }}
-    <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+    <li><a href="{{ .Permalink }}">{{ .Title }} ({{ index .Params.release_years 0 }}) </a></li>
   {{ end }}
     <li><a href="{{ with .Site.GetPage "section" "m" }}{{ .Permalink }}{{ end }}">More...</a></li>
   </ul>

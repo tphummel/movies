@@ -1,15 +1,16 @@
-baseURL = "https://my.site/"
+baseURL = "https://movies.tomhummel.com/"
 languageCode = "en-us"
-title = "My Site"
+title = "Tom Hummel Movie Journal"
 
 [taxonomies]
   tag = "tags"
+  release_year = "release_years"
 
 [params]
     Title = ""
     site_description = ""
     # twitter_handle = ""
-    # github_repo = "https://github.com//"
+    github_repo = "https://github.com/tphummel/movies"
     # facebook_handle =
     # instagram_handle =
 
