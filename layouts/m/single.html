@@ -7,10 +7,6 @@
   {{ partial "tag-list.html" . }}
 </p>
 
-{{ with .Resources.GetMatch "poster.jpg" }}
-  <img src="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}">
-{{ end }}
-
 <p>Release Date: <strong>{{ .Params.release_date}}</strong></p>
 <p>Release Year: <strong><a href="{{ with $.GetPage (printf "/release_years/%s" (index .Params.release_years 0)) }}{{ .RelPermalink}}{{end}}">{{ index .Params.release_years 0 }}</a></strong></p>
 <p>Budget (USD): <strong>{{ .Params.budget_usd}}</strong></p>

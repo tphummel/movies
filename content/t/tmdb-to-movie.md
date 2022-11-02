@@ -80,10 +80,10 @@ await $`mkdir -p ${outputDir}`
 const outputFile = `${outputDir}/index.md`
 await fs.writeFile(outputFile, docYaml)
 
-const posterUrl = `https://www.themoviedb.org/t/p/w600_and_h900_bestv2${data.poster_path}`
-fetch(posterUrl)
-	.then(res =>
-		res.body.pipe(fs.createWriteStream(`${outputDir}/poster.jpg`))
-	)
+// const posterUrl = `https://www.themoviedb.org/t/p/w600_and_h900_bestv2${data.poster_path}`
+// fetch(posterUrl)
+// 	.then(res =>
+// 		res.body.pipe(fs.createWriteStream(`${outputDir}/poster.jpg`))
+// 	)
 
 ```
