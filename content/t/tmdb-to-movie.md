@@ -44,6 +44,7 @@ const titleSlug = data.title
   .replace(/\s+/g, '-')
   .replace(/[^\w-]+/g, '')
   .replace(/--+/g, '-')
+  .replace(/^the\-/, '')
 
 const releaseYear = data.release_date.substring(0,4)
 
