@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-<h2>{{.Title}}</h2>
+<h2>{{replace .Title "_" " " | title}}</h2>
 
 <p>
   {{ partial "breadcrumb.html" . }}

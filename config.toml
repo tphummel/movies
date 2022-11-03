@@ -9,7 +9,8 @@ title = "Tom Hummel Movie Journal"
   release_year = "release_years"
   cast_member = "cast_members"
   crew_member = "crew_members"
-  genre_id = "genre_ids"
+  genre = "genres"
+  rating = "ratings"
 
 [params]
     Title = ""

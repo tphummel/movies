@@ -114,7 +114,7 @@ title: "${data.title}"
 date: "${(new Date()).toISOString()}"
 collections: ${JSON.stringify(collections)}
 budget_usd: ${data.budget}
-genre_ids: [${data.genres.map(g => g.id).join(',')}]
+genres: ${JSON.stringify(data.genres.map(g => g.id))}
 tsdb_id: ${data.id}
 imdb_id: "${data.imdb_id}"
 metacritic:
@@ -124,19 +124,17 @@ rotten_tomatoes:
   score: ${rtScore}
   reviewCount: ${rtReviewCount}
 original_title: "${data.original_title}"
-rating: "${initialMovieRating}"
+ratings: ["${initialMovieRating}"]
 original_language: "${data.original_language}"
 poster_path: "${data.poster_path}"
-production_company_ids: ${JSON.stringify(data.production_companies.map(g => g.id))}
-production_companies: ${JSON.stringify(data.production_companies.map(g => g.name))}
+production_companies: ${JSON.stringify(data.production_companies.map(g => g.id))}
 production_countries: ${JSON.stringify(data.production_countries.map(g => g.iso_3166_1))}
 release_date: "${data.release_date}"
 release_years: [${releaseYear}]
 revenue_usd: ${data.revenue}
 status: "${data.status}"
 runtime_minutes: ${data.runtime}
-keywords: ${JSON.stringify(keywordsData.keywords.map(k => k.name))}
-keyword_ids: ${JSON.stringify(keywordsData.keywords.map(k => k.id))}
+keywords: ${JSON.stringify(keywordsData.keywords.map(k => k.id))}
 cast_members: ${JSON.stringify(topCast.map(k => k.id))}
 crew_members: ${JSON.stringify(topCrew.map(k => k.id))}
 tagline: >
@@ -173,7 +171,7 @@ homepage: "${data.homepage}"
     }
   }), null, 2))
 
-const releaseYearDir = `content/release_years/${releaseYear}`
+  const releaseYearDir = `content/release_years/${releaseYear}`
     await fs.outputFile(`${releaseYearDir}/_index.md`, `---
 title: ${releaseYear}
 ---
