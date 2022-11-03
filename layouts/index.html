@@ -12,10 +12,16 @@
 {{ define "main" }}
 <h1>Tom Hummel's Movie Journal</h1>
 
-<p>Total Movies: {{ len (where $.Data.Pages "Section" "m") }}</p>
+<ul>
+  <li>These are my <a href="{{ with .Site.GetPage "/m/1995-heat" }}{{ .Permalink }}{{ end }}">"drop of a hat"</a> movies. The movies I'll watch at a moment's notice, start to finish, a random 15 minute section in the middle, or anything in between.</li>
+  <li>These movies entertain me, invoke my curiosity, can be watched casually or with 100% intense focus</li>
+  <li>I've seen each of these movies at least five times and need to be at least five years old to be considered.</li>
+</ul>
+
+<p>Total Movies: <a href="{{ with .Site.GetPage "section" "m" }}{{ .Permalink }}{{ end }}">{{ len (where .Site.RegularPages "Section" "m") }}</a></p>
 
 <div>
-  Newest Movies Added:
+  Recently Added:
   <ul>
   {{ range first 5 (where .Site.RegularPages.ByDate.Reverse "Section" "m") }}
     <li><a href="{{ .Permalink }}">{{ .Title }} ({{ index .Params.release_years 0 }}) </a></li>
@@ -23,6 +29,40 @@
     <li><a href="{{ with .Site.GetPage "section" "m" }}{{ .Permalink }}{{ end }}">More...</a></li>
   </ul>
 </div>
+
+<h2>Categories</h2>
+<div>
+  <ul>
+    {{ with $.Site.GetPage "/release_years" }}
+      <li><a href="{{ .Permalink }}">By Release Year</a></li>
+    {{ end }}
+    {{ with $.Site.GetPage "/cast_members" }}
+      <li><a href="{{ .Permalink }}">By Cast Member</a></li>
+    {{ end }}
+    {{ with $.Site.GetPage "/crew_members" }}
+      <li><a href="{{ .Permalink }}">By Crew Member</a></li>
+    {{ end }}
+    {{ with $.Site.GetPage "/genres" }}
+      <li><a href="{{ .Permalink }}">By Genre</a></li>
+    {{ end }}
+    {{ with $.Site.GetPage "/keywords" }}
+      <li><a href="{{ .Permalink }}">By Keyword</a></li>
+    {{ end }}
+  </ul>
+</div>
+
+<h2>My Collections</h2>
+<ul>
+{{range $name, $taxonomy := .Site.Taxonomies.collections}}
+  {{ $cnt := .Count }}
+  {{ with $.Site.GetPage (printf "/collections/%s" $name) }}
+  <li>
+    <a href={{ .RelPermalink }} title="All pages with tag {{$name}}">{{ .LinkTitle }}</a>
+    <sup>{{ $cnt }}</sup>
+  </li>
+  {{end}}
+{{end}}
+</ul>
 
 <p>
   <small>

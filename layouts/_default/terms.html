@@ -6,13 +6,17 @@
 {{ with .Content }}
 <div>{{ . }}</div>
 {{ end }}
-
+{{ $type := .Type }}
 <ul>
-  {{ range .Data.Pages }}
+{{ range .Data.Terms.ByCount }}
+  {{ $name := .Name }}
+  {{ $count := .Count }}
+  {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
     <li>
-      <a href="{{ .RelPermalink }}">{{.Title}}</a>
+      <a href="{{ .RelPermalink }}">{{ .Name }}</a> ({{ $count }})
     </li>
   {{ end }}
+{{ end }}
 </ul>
 
 {{ end }}

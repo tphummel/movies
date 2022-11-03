@@ -12,6 +12,17 @@
 <p>Budget (USD): <strong>{{ .Params.budget_usd}}</strong></p>
 <p>Revenue (USD): <strong>{{ .Params.revenue_usd}}</strong></p>
 <p>Runtime: <strong>{{ .Params.runtime_minutes}} minutes</strong></p>
+<p>IMDB: <strong><a href="https://imdb.com/title/{{ .Params.imdb_id }}">IMDB</a></strong></p>
+{{ with .Params.rotten_tomatoes }}
+  {{ if .slug }}
+    <p>Rotten Tomatoes: <strong><a href="https://www.rottentomatoes.com/m/{{ .slug }}">{{ .score | default "--" }} {{ cond (.isFresh | default false) "🎖️" "" }}</a></strong></p>
+  {{ end }}
+{{ end }}
+{{ with .Params.metacritic }}
+  {{ if .slug }}
+    <p>Metacritic: <strong><a href="https://www.metacritic.com/movie/{{ .slug }}">{{ .score | default "--" }} {{ cond (.isMustSee | default false) "🎖️" "" }}</a></strong></p>
+  {{ end }}
+{{ end }}
 
 {{ .Content }}
 
