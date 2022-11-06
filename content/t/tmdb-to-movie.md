@@ -35,6 +35,7 @@ import fetch from 'fetch-vcr'
 // const certData = await certRes.json()
 
 async function loadMovie (movie) {
+  console.log(movie)
   const {tmdb_id: movieId, collections, mc_slug, rt_slug} = movie
 
   console.log(`processing: ${movieId}`)
@@ -67,6 +68,31 @@ async function loadMovie (movie) {
   const ldJson = JSON.parse(jsonRow.replace(' ', ''))
   const rtScore = parseInt(ldJson.aggregateRating.ratingValue, 10)
   const rtReviewCount = ldJson.aggregateRating.reviewCount
+
+  const mcUrl = `https://www.metacritic.com/movie/${mc_slug}`
+  const mcRes = await fetch(mcUrl, {
+    headers: {
+      'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36'
+    }
+  })
+  const mcData = await mcRes.text()
+  // console.log(mcData)
+  const mcRows = mcData.split('\n')
+  // console.log(mcRows)
+  const startRowIndex = mcRows.findIndex(i => /ld\+json/.test(i))
+  // console.log(mcRows[startRowIndex])
+  const remainingRows = mcRows.slice(startRowIndex + 1)
+  const endRowIndex = remainingRows.findIndex(i => /\<\/script\>/.test(i))
+  // console.log(remainingRows[endRowIndex])
+  const mcLdJsonStartIndex = startRowIndex + 1
+  const mcLdJsonEndIndex = startRowIndex + endRowIndex + 1
+  // console.log({startRowIndex, mcLdJsonStartIndex, endRowIndex, mcLdJsonEndIndex})
+  const mcLdJsonString = mcRows.slice(mcLdJsonStartIndex, mcLdJsonEndIndex).join('')
+  // console.log(mcLdJsonString)
+  const mcJson = JSON.parse(mcLdJsonString)
+  // console.log(mcJson)
+  const mcScore = parseInt(mcJson.aggregateRating.ratingValue, 10)
+  const mcReviewCount = parseInt(mcJson.aggregateRating.ratingCount, 10)
 
   const chronologicalReleases = releaseData.results
     .find(i => i.iso_3166_1 === 'US')
@@ -109,20 +135,26 @@ async function loadMovie (movie) {
 
   const releaseYear = data.release_date.substring(0,4)
 
+  console.log(titleSlug, releaseYear)
+
   const docYaml = `---
 title: "${data.title}"
+title_alpha_sortable: "${data.title.replace(/^The /, "")}"
 date: "${(new Date()).toISOString()}"
 collections: ${JSON.stringify(collections)}
 budget_usd: ${data.budget}
+tiers: []
 genres: ${JSON.stringify(data.genres.map(g => g.id))}
 tsdb_id: ${data.id}
 imdb_id: "${data.imdb_id}"
 metacritic:
   slug: "${mc_slug}"
+  score: ${mcScore}
+  review_count: ${mcReviewCount}
 rotten_tomatoes:
   slug: "${rt_slug}"
   score: ${rtScore}
-  reviewCount: ${rtReviewCount}
+  review_count: ${rtReviewCount}
 original_title: "${data.original_title}"
 ratings: ["${initialMovieRating}"]
 original_language: "${data.original_language}"
@@ -145,7 +177,8 @@ homepage: "${data.homepage}"
 ---
 `
 
-  const outputDir = `content/m/${releaseYear}-${titleSlug}`
+  const outputDir = `content/movies/${releaseYear}-${titleSlug}`
+  console.log(`writing ${outputDir}`)
   await fs.outputFile(`${outputDir}/index.md`, docYaml)
 
   await fs.outputFile(`${outputDir}/cast.json`, JSON.stringify(topCast.map((c) => {
@@ -172,7 +205,7 @@ homepage: "${data.homepage}"
   }), null, 2))
 
   const releaseYearDir = `content/release_years/${releaseYear}`
-    await fs.outputFile(`${releaseYearDir}/_index.md`, `---
+  await fs.outputFile(`${releaseYearDir}/_index.md`, `---
 title: ${releaseYear}
 ---
 `)
@@ -224,15 +257,24 @@ profile_path: "${crewMember.profile_path}"
   }
 }
 
+  await fs.outputFile(`content/movies/_index.md`, `---
+title: Movies
+---
+`)
+
+const allMovies = await fs.readJson('./movies.json')
+
 if (argv.all) {
   console.log('running all')
-  const allMovies = await fs.readJson('./movies.json')
   for (const movie of allMovies.movies) {
     await loadMovie(movie)
   }
 } else {
   const [movieId] = argv._
-  if (movieId) await loadMovie({ tmdb_id: movieId, collections: [], rt_slug: "terminator_2_judgment_day", mc_slug: "" })
+  if (movieId) {
+    const movie = allMovies.movies.find(m => m.tmdb_id === movieId)
+    console.log(`loading single movie: ${movie.tmdb_id} ${movie.name}`)
+    await loadMovie(movie)
+  }
 }
-
 ```
