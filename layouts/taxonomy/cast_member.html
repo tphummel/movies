@@ -1,0 +1,29 @@
+{{ define "main" }}
+<h1>{{.Title}}</h1>
+<p>ID: {{ .Params.id }}</p>
+
+<p>{{ partial "breadcrumb.html" . }}</p>
+
+{{ with .Content }}
+<div>{{ . }}</div>
+{{ end }}
+
+<table>
+  <tr>
+    <td>Movie</td>
+    <td>Release Year</td>
+    <td>Character</td>
+  </tr>
+  {{ $castId := .Params.id | int }}
+  {{ range .Data.Pages }}
+    <tr>
+      <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+      <td><a href="{{ with $.GetPage (printf "/release_years/%s" (index .Params.release_years 0)) }}{{ .RelPermalink}}{{end}}">{{ index .Params.release_years 0 }}</a></td>
+      {{ $movieCastJson := .Resources.GetMatch "cast.json" }}
+      {{ $movieCast := $movieCastJson.Content | transform.Unmarshal }}
+      {{ $castMember := index (first 1 (where $movieCast "id" "==" $castId)) 0 }}
+      <td>{{ $castMember.character }}</td>
+    </tr>
+  {{ end }}
+</table>
+{{ end }}

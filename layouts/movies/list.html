@@ -1,0 +1,30 @@
+{{ define "main" }}
+<h1>{{.Title}}</h1>
+
+<p>{{ partial "breadcrumb.html" . }}</p>
+
+{{ with .Content }}
+<div>{{ . }}</div>
+{{ end }}
+
+<table>
+  <tr>
+    <td>Title</td>
+    <td>Release Year</td>
+    <td>Rating</td>
+    <td>RT Score</td>
+    <td>MC Score</td>
+  </tr>
+
+  {{ range .Data.Pages.ByParam "title_alpha_sortable" }}
+    <tr>
+      <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+      <td><a href="{{ with $.GetPage (printf "/release_years/%s" (index .Params.release_years 0)) }}{{ .RelPermalink}}{{end}}">{{ index .Params.release_years 0 }}</a></td>
+      <td>{{ index .Params.ratings 0 }}</td>
+      <td>{{ .Params.rotten_tomatoes.score }} ({{ .Params.rotten_tomatoes.review_count}})</td>
+      <td>{{ .Params.metacritic.score }} ({{ .Params.metacritic.review_count}})</td>
+    </tr>
+
+  {{ end }}
+</table>
+{{ end }}

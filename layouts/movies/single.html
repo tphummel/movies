@@ -9,8 +9,8 @@
 
 <p>Release Date: <strong>{{ .Params.release_date}}</strong></p>
 <p>Release Year: <strong><a href="{{ with $.GetPage (printf "/release_years/%s" (index .Params.release_years 0)) }}{{ .RelPermalink}}{{end}}">{{ index .Params.release_years 0 }}</a></strong></p>
-<p>Budget (USD): <strong>{{ .Params.budget_usd}}</strong></p>
-<p>Revenue (USD): <strong>{{ .Params.revenue_usd}}</strong></p>
+<p>Budget (USD): <strong>{{ .Params.budget_usd | lang.FormatCurrency 2 "USD" }}</strong></p>
+<p>Revenue (USD): <strong>{{ .Params.revenue_usd | lang.FormatCurrency 2 "USD" }}</strong></p>
 <p>Runtime: <strong>{{ .Params.runtime_minutes}} minutes</strong></p>
 <p>IMDB: <strong><a href="https://imdb.com/title/{{ .Params.imdb_id }}">IMDB</a></strong></p>
 {{ with .Params.rotten_tomatoes }}
@@ -22,6 +22,42 @@
   {{ if .slug }}
     <p>Metacritic: <strong><a href="https://www.metacritic.com/movie/{{ .slug }}">{{ .score | default "--" }} {{ cond (.isMustSee | default false) "🎖️" "" }}</a></strong></p>
   {{ end }}
+{{ end }}
+
+{{ with .Resources.GetMatch "cast.json" }}
+<h2>Cast</h2>
+<table>
+  <tr>
+    <th>Actor</th>
+    <th>Character</th>
+  </tr>
+  {{ range (.Content | transform.Unmarshal) }}
+    {{ $taxo_path := printf "/cast_members/%s" (.id | string ) }}
+    {{ $taxo := $.GetPage $taxo_path }}
+    <tr>
+      <td><a href="{{ $taxo.Permalink }}">{{ .name }}</a></td>
+      <td>{{ .character }}</td>
+    </tr>
+  {{ end }}
+</table>
+{{ end }}
+
+{{ with .Resources.GetMatch "crew.json" }}
+<h2>Crew</h2>
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Job</th>
+  </tr>
+  {{ range (.Content | transform.Unmarshal) }}
+    {{ $taxo_path := printf "/crew_members/%s" (.id | string ) }}
+    {{ $taxo := $.GetPage $taxo_path }}
+    <tr>
+      <td><a href="{{ $taxo.Permalink }}">{{ .name }}</a></td>
+      <td>{{ .job }}</td>
+    </tr>
+  {{ end }}
+</table>
 {{ end }}
 
 {{ .Content }}
