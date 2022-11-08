@@ -1,5 +1,5 @@
 {
-  "core": [
+  "movies": [
     { "tmdb_id": 62, "mc_slug": "2001-a-space-odyssey", "rt_slug": "2001_a_space_odyssey", "name": "2001", "collections": []},
     { "tmdb_id": 348, "mc_slug": "alien-1979", "rt_slug": "alien", "name": "alien", "collections": []},
     { "tmdb_id": 679, "mc_slug": "aliens", "rt_slug": "1000617-aliens", "name": "aliens", "collections": []},
@@ -24,6 +24,7 @@
     { "tmdb_id": 949, "mc_slug": "heat", "rt_slug": "heat_1995", "name": "heat", "collections": []},
     { "tmdb_id": 338766, "mc_slug": "hell-or-high-water", "rt_slug": "hell_or_high_water", "name": "hell or high water", "collections": []},
     { "tmdb_id": 9003, "mc_slug": "hellraiser", "rt_slug": "hellraiser", "name": "hellraiser", "collections": []},
+    { "tmdb_id": 1669, "mc_slug": "the-hunt-for-red-october", "rt_slug": "hunt_for_red_october", "name": "Hunt for red october", "collections": []},
     { "tmdb_id": 89, "mc_slug": "indiana-jones-and-the-last-crusade", "rt_slug": "indiana_jones_and_the_last_crusade", "name": "Indy Last Crusade", "collections": []},
     { "tmdb_id": 9008, "mc_slug": "the-insider", "rt_slug": "insider", "name": "The Insider", "collections": []},
     { "tmdb_id": 578, "mc_slug": "jaws", "rt_slug": "jaws", "name": "jaws", "collections": []},
@@ -50,7 +51,7 @@
   ],
   "orbit": [
     { "tmdb_id": 5549, "mc_slug": "", "rt_slug": "robocop_2", "name": "robocop 2", "collections": []},
-    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "Hunt for red october", "collections": []},
+    
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "cliffhanger", "collections": []},
     { "tmdb_id": 44048, "mc_slug": "", "rt_slug": "", "name": "Unstoppable", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "dunkirk", "collections": []},

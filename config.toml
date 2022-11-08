@@ -11,6 +11,8 @@ title = "Tom Hummel Movie Journal"
   crew_member = "crew_members"
   genre = "genres"
   rating = "ratings"
+  production_country = "production_countries"
+  production_company = "production_companies"
 
 [params]
     Title = ""

@@ -15,14 +15,38 @@
 <p>IMDB: <strong><a href="https://imdb.com/title/{{ .Params.imdb_id }}">IMDB</a></strong></p>
 {{ with .Params.rotten_tomatoes }}
   {{ if .slug }}
-    <p>Rotten Tomatoes: <strong><a href="https://www.rottentomatoes.com/m/{{ .slug }}">{{ .score | default "--" }} {{ cond (.isFresh | default false) "🎖️" "" }}</a></strong></p>
+    <p>Rotten Tomatoes: <strong><a href="https://www.rottentomatoes.com/m/{{ .slug }}">{{ .score | default "--" }} ({{ .review_count }})</a></strong></p>
   {{ end }}
 {{ end }}
 {{ with .Params.metacritic }}
   {{ if .slug }}
-    <p>Metacritic: <strong><a href="https://www.metacritic.com/movie/{{ .slug }}">{{ .score | default "--" }} {{ cond (.isMustSee | default false) "🎖️" "" }}</a></strong></p>
+    <p>Metacritic: <strong><a href="https://www.metacritic.com/movie/{{ .slug }}">{{ .score | default "--" }} ({{ .review_count }})</a></strong></p>
   {{ end }}
 {{ end }}
+{{ with .Params.rotten_tomatoes }}
+  {{ $rt := . }}
+  {{ with $.Params.metacritic }}
+    {{ $mc := . }}
+    {{ $mcWeights := mul $mc.score $mc.review_count }}
+    {{ $rtWeights := mul $rt.score $rt.review_count }}
+    {{ $totalReviews := add $mc.review_count $rt.review_count }}
+    <p>Weighted Score: <strong>{{ lang.NumFmt 2 (div (add $mcWeights $rtWeights) (float $totalReviews)) }}</strong></p>
+  {{ end }}
+{{ end }}
+
+<p>Production Countries</p>
+<ul>
+  {{ range (.GetTerms "production_countries") }}
+    <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+  {{ end }}
+</ul>
+
+<p>Production Companies</p>
+<ul>
+  {{ range (.GetTerms "production_companies") }}
+    <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+  {{ end }}
+</ul>
 
 {{ with .Resources.GetMatch "cast.json" }}
 <h2>Cast</h2>

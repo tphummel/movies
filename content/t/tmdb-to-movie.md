@@ -176,10 +176,32 @@ overview: >
 homepage: "${data.homepage}"
 ---
 `
-
   const outputDir = `content/movies/${releaseYear}-${titleSlug}`
   console.log(`writing ${outputDir}`)
   await fs.outputFile(`${outputDir}/index.md`, docYaml)
+
+  for (const company of data.production_companies) {
+    const companyDir = `content/production_companies/${company.id}`
+    await fs.outputFile(`${companyDir}/_index.md`, `---
+title: "${company.name}"
+name: "${company.name}"
+id: "${company.id}"
+logo_path: "${company.logo_path}"
+origin_country: "${company.origin_country}"
+---
+`)
+  }
+
+  for (const country of data.production_countries) {
+    const countryDir = `content/production_countries/${country.id}`
+    await fs.outputFile(`${countryDir}/_index.md`, `---
+title: "${country.name}"
+name: "${country.name}"
+id: "${country.iso_3166_1}"
+---
+`)
+  }
+
 
   await fs.outputFile(`${outputDir}/cast.json`, JSON.stringify(topCast.map((c) => {
     return {
