@@ -34,6 +34,20 @@
 {{end}}
 </ul>
 
+<h2>Top Actors</h2>
+{{ $sortable := slice }}
+{{ range $key, $taxonomy := .Site.Taxonomies.cast_members }}
+  {{ $sortable = $sortable | append (dict "key" $key "pages" $taxonomy.Pages "count" (len $taxonomy.Pages) ) }}
+{{ end }}
+
+<ul>
+{{ range first 5 (sort $sortable "count" "desc") }}
+  {{ $count := .count }}
+  {{ with $.Site.GetPage (printf "/cast_members/%s" .key) }}
+      <li><a href="{{ .Permalink }}">{{ .Title }} </a><sup>{{ $count }}</sup></li>
+    {{ end }}
+{{ end }}
+</ul>
 <h2>Categories</h2>
 <div>
   <ul>
