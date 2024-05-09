@@ -1,0 +1,66 @@
+[
+  {
+    "id": 869,
+    "name": "Gale Anne Hurd",
+    "popularity": 6.215,
+    "credit_id": "52fe4228c3a36847f8008545",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 869,
+    "name": "Gale Anne Hurd",
+    "popularity": 6.215,
+    "credit_id": "52fe4228c3a36847f8008579",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 898,
+    "name": "Mark Goldblatt",
+    "popularity": 2.056,
+    "credit_id": "52fe4228c3a36847f8008563",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 2710,
+    "name": "James Cameron",
+    "popularity": 12.058,
+    "credit_id": "52fe4228c3a36847f8008515",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 2710,
+    "name": "James Cameron",
+    "popularity": 12.058,
+    "credit_id": "52fe4228c3a36847f8008573",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 2720,
+    "name": "Derek Gibson",
+    "popularity": 0.998,
+    "credit_id": "52fe4228c3a36847f800854b",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 2721,
+    "name": "John Daly",
+    "popularity": 1.4,
+    "credit_id": "52fe4228c3a36847f8008551",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 2723,
+    "name": "Adam Greenberg",
+    "popularity": 1.097,
+    "credit_id": "52fe4228c3a36847f800855d",
+    "department": "Camera",
+    "job": "Director of Photography"
+  }
+]

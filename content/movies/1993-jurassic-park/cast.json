@@ -1,0 +1,101 @@
+[
+  {
+    "id": 4783,
+    "name": "Sam Neill",
+    "popularity": 43.337,
+    "cast_id": 4,
+    "order": 0,
+    "character": "Dr. Alan Grant",
+    "credit_id": "52fe4238c3a36847f800d295"
+  },
+  {
+    "id": 4784,
+    "name": "Laura Dern",
+    "popularity": 21.058,
+    "cast_id": 5,
+    "order": 1,
+    "character": "Dr. Ellie Sattler",
+    "credit_id": "52fe4238c3a36847f800d299"
+  },
+  {
+    "id": 4785,
+    "name": "Jeff Goldblum",
+    "popularity": 31.047,
+    "cast_id": 6,
+    "order": 2,
+    "character": "Dr. Ian Malcolm",
+    "credit_id": "52fe4238c3a36847f800d29d"
+  },
+  {
+    "id": 4786,
+    "name": "Richard Attenborough",
+    "popularity": 9.918,
+    "cast_id": 7,
+    "order": 3,
+    "character": "John Hammond",
+    "credit_id": "52fe4238c3a36847f800d2a1"
+  },
+  {
+    "id": 4789,
+    "name": "Bob Peck",
+    "popularity": 11.425,
+    "cast_id": 10,
+    "order": 4,
+    "character": "Robert Muldoon",
+    "credit_id": "52fe4238c3a36847f800d2ad"
+  },
+  {
+    "id": 14592,
+    "name": "BD Wong",
+    "popularity": 34.816,
+    "cast_id": 137,
+    "order": 6,
+    "character": "Dr. Henry Wu",
+    "credit_id": "57cb105dc3a368674400106b"
+  },
+  {
+    "id": 4787,
+    "name": "Joseph Mazzello",
+    "popularity": 7.201,
+    "cast_id": 8,
+    "order": 7,
+    "character": "Tim Murphy",
+    "credit_id": "52fe4238c3a36847f800d2a5"
+  },
+  {
+    "id": 4788,
+    "name": "Ariana Richards",
+    "popularity": 11.463,
+    "cast_id": 9,
+    "order": 8,
+    "character": "Lex Murphy",
+    "credit_id": "52fe4238c3a36847f800d2a9"
+  },
+  {
+    "id": 2231,
+    "name": "Samuel L. Jackson",
+    "popularity": 62.95,
+    "cast_id": 138,
+    "order": 9,
+    "character": "Arnold",
+    "credit_id": "57cb10adc3a36872b90045f6"
+  },
+  {
+    "id": 4201,
+    "name": "Wayne Knight",
+    "popularity": 14.107,
+    "cast_id": 13,
+    "order": 10,
+    "character": "Dennis Nedry",
+    "credit_id": "52fe4238c3a36847f800d2b9"
+  },
+  {
+    "id": 30488,
+    "name": "Miguel Sandoval",
+    "popularity": 10.776,
+    "cast_id": 27,
+    "order": 12,
+    "character": "Juanito Rostagno",
+    "credit_id": "52fe4238c3a36847f800d2ff"
+  }
+]

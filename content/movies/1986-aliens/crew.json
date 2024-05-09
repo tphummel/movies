@@ -1,0 +1,58 @@
+[
+  {
+    "id": 244,
+    "name": "Ray Lovejoy",
+    "popularity": 0.739,
+    "credit_id": "52fe4269c3a36847f801c967",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 869,
+    "name": "Gale Anne Hurd",
+    "popularity": 6.215,
+    "credit_id": "52fe4269c3a36847f801c955",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 915,
+    "name": "David Giler",
+    "popularity": 1.22,
+    "credit_id": "5c912ae50e0a2612ef5b705a",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1723,
+    "name": "Walter Hill",
+    "popularity": 11.137,
+    "credit_id": "5c912adcc3a3686119512fc7",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 2710,
+    "name": "James Cameron",
+    "popularity": 12.058,
+    "credit_id": "52fe4269c3a36847f801c94f",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 5053,
+    "name": "Gordon Carroll",
+    "popularity": 1.646,
+    "credit_id": "5c912aeec3a3681c954e0312",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 7783,
+    "name": "Adrian Biddle",
+    "popularity": 3.269,
+    "credit_id": "52fe4269c3a36847f801c961",
+    "department": "Camera",
+    "job": "Director of Photography"
+  }
+]

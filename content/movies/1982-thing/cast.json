@@ -1,0 +1,101 @@
+[
+  {
+    "id": 6856,
+    "name": "Kurt Russell",
+    "popularity": 29.386,
+    "cast_id": 14,
+    "order": 0,
+    "character": "R.J. MacReady",
+    "credit_id": "52fe42e7c3a36847f802ba37"
+  },
+  {
+    "id": 65827,
+    "name": "Keith David",
+    "popularity": 34.663,
+    "cast_id": 18,
+    "order": 1,
+    "character": "Childs",
+    "credit_id": "52fe42e7c3a36847f802ba47"
+  },
+  {
+    "id": 11065,
+    "name": "Wilford Brimley",
+    "popularity": 8.071,
+    "cast_id": 15,
+    "order": 2,
+    "character": "Dr. Blair",
+    "credit_id": "52fe42e7c3a36847f802ba3b"
+  },
+  {
+    "id": 15411,
+    "name": "T.K. Carter",
+    "popularity": 5.087,
+    "cast_id": 16,
+    "order": 3,
+    "character": "Nauls",
+    "credit_id": "52fe42e7c3a36847f802ba3f"
+  },
+  {
+    "id": 15412,
+    "name": "David Clennon",
+    "popularity": 5.301,
+    "cast_id": 17,
+    "order": 4,
+    "character": "Palmer",
+    "credit_id": "52fe42e7c3a36847f802ba43"
+  },
+  {
+    "id": 15413,
+    "name": "Richard Dysart",
+    "popularity": 9.104,
+    "cast_id": 19,
+    "order": 5,
+    "character": "Dr. Copper",
+    "credit_id": "52fe42e7c3a36847f802ba4b"
+  },
+  {
+    "id": 15414,
+    "name": "Charles Hallahan",
+    "popularity": 9.057,
+    "cast_id": 20,
+    "order": 6,
+    "character": "Norris",
+    "credit_id": "52fe42e7c3a36847f802ba4f"
+  },
+  {
+    "id": 15415,
+    "name": "Peter Maloney",
+    "popularity": 7.629,
+    "cast_id": 21,
+    "order": 7,
+    "character": "Bennings",
+    "credit_id": "52fe42e7c3a36847f802ba53"
+  },
+  {
+    "id": 15416,
+    "name": "Richard Masur",
+    "popularity": 16.961,
+    "cast_id": 22,
+    "order": 8,
+    "character": "Clark",
+    "credit_id": "52fe42e7c3a36847f802ba57"
+  },
+  {
+    "id": 15417,
+    "name": "Donald Moffat",
+    "popularity": 8.683,
+    "cast_id": 23,
+    "order": 9,
+    "character": "Garry",
+    "credit_id": "52fe42e7c3a36847f802ba5b"
+  },
+  {
+    "id": 11782,
+    "name": "Adrienne Barbeau",
+    "popularity": 28.231,
+    "cast_id": 122,
+    "order": 16,
+    "character": "Computer (voice) (uncredited)",
+    "credit_id": "5cac1d479251411908b41090"
+  }
+]

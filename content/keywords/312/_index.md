@@ -1,0 +1,3 @@
+---
+title: man vs machine
+---

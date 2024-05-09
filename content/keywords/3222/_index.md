@@ -1,0 +1,3 @@
+---
+title: super computer
+---

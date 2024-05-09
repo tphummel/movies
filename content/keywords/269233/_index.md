@@ -1,0 +1,3 @@
+---
+title: good versus evil
+---

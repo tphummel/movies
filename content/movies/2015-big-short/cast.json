@@ -1,0 +1,173 @@
+[
+  {
+    "id": 3894,
+    "name": "Christian Bale",
+    "popularity": 24.956,
+    "cast_id": 2,
+    "order": 0,
+    "character": "Michael Burry",
+    "credit_id": "55187d53c3a36862f600484f"
+  },
+  {
+    "id": 4495,
+    "name": "Steve Carell",
+    "popularity": 35.257,
+    "cast_id": 5,
+    "order": 1,
+    "character": "Mark Baum",
+    "credit_id": "55187d649251412c1e0032f5"
+  },
+  {
+    "id": 30614,
+    "name": "Ryan Gosling",
+    "popularity": 39.911,
+    "cast_id": 4,
+    "order": 2,
+    "character": "Jared Vennett",
+    "credit_id": "55187d5e9251411500001d0c"
+  },
+  {
+    "id": 287,
+    "name": "Brad Pitt",
+    "popularity": 58.252,
+    "cast_id": 3,
+    "order": 3,
+    "character": "Ben Rickert",
+    "credit_id": "55187d59c3a36862f6004854"
+  },
+  {
+    "id": 6832,
+    "name": "Melissa Leo",
+    "popularity": 13.94,
+    "cast_id": 10,
+    "order": 4,
+    "character": "Georgia Hale",
+    "credit_id": "557221e292514111070006da"
+  },
+  {
+    "id": 184581,
+    "name": "Hamish Linklater",
+    "popularity": 9.441,
+    "cast_id": 19,
+    "order": 5,
+    "character": "Porter Collins",
+    "credit_id": "5605e2159251413058000264"
+  },
+  {
+    "id": 37154,
+    "name": "John Magaro",
+    "popularity": 10.804,
+    "cast_id": 20,
+    "order": 6,
+    "character": "Charlie Geller",
+    "credit_id": "5605e222925141305e000259"
+  },
+  {
+    "id": 28847,
+    "name": "Rafe Spall",
+    "popularity": 17.939,
+    "cast_id": 18,
+    "order": 7,
+    "character": "Danny Moses",
+    "credit_id": "5605e2089251413064000265"
+  },
+  {
+    "id": 239271,
+    "name": "Jeremy Strong",
+    "popularity": 17.307,
+    "cast_id": 23,
+    "order": 8,
+    "character": "Vinny Daniel",
+    "credit_id": "5605e2409251413055000277"
+  },
+  {
+    "id": 168877,
+    "name": "Finn Wittrock",
+    "popularity": 10.401,
+    "cast_id": 16,
+    "order": 9,
+    "character": "Jamie Shipley",
+    "credit_id": "5605e1f0c3a368120b00027c"
+  },
+  {
+    "id": 3141,
+    "name": "Marisa Tomei",
+    "popularity": 23.943,
+    "cast_id": 13,
+    "order": 10,
+    "character": "Cynthia Baum",
+    "credit_id": "5572220ac3a368382b0024cd"
+  },
+  {
+    "id": 543261,
+    "name": "Karen Gillan",
+    "popularity": 65.219,
+    "cast_id": 50,
+    "order": 14,
+    "character": "Evie",
+    "credit_id": "56a54ddfc3a368388b0085c4"
+  },
+  {
+    "id": 1213603,
+    "name": "Max Greenfield",
+    "popularity": 10.128,
+    "cast_id": 14,
+    "order": 15,
+    "character": "Mortgage Broker",
+    "credit_id": "55722239c3a368382b0024d1"
+  },
+  {
+    "id": 141034,
+    "name": "Billy Magnussen",
+    "popularity": 20.252,
+    "cast_id": 17,
+    "order": 16,
+    "character": "Mortgage Broker",
+    "credit_id": "5605e1fc925141305b00026d"
+  },
+  {
+    "id": 1629633,
+    "name": "Ryan Broussard",
+    "popularity": 10.497,
+    "cast_id": 124,
+    "order": 40,
+    "character": "Trader at Night Club",
+    "credit_id": "578b1ba3c3a3682bb2004fe9"
+  },
+  {
+    "id": 154917,
+    "name": "Al Sapienza",
+    "popularity": 14.744,
+    "cast_id": 138,
+    "order": 56,
+    "character": "Option One CEO",
+    "credit_id": "578b1f5e92514132c300417b"
+  },
+  {
+    "id": 1651994,
+    "name": "Jae Suh Park",
+    "popularity": 13.3,
+    "cast_id": 164,
+    "order": 84,
+    "character": "Michael Burry's Wife",
+    "credit_id": "578b2317c3a3687a0c003fed"
+  },
+  {
+    "id": 234352,
+    "name": "Margot Robbie",
+    "popularity": 35.575,
+    "cast_id": 24,
+    "order": 86,
+    "character": "Margot Robbie (uncredited)",
+    "credit_id": "56547f07c3a36850f600429d"
+  },
+  {
+    "id": 77948,
+    "name": "Selena Gomez",
+    "popularity": 25.438,
+    "cast_id": 12,
+    "order": 87,
+    "character": "Selena Gomez",
+    "credit_id": "55722200c3a3687f0c00477c"
+  }
+]

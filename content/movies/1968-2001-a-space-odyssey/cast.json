@@ -1,0 +1,56 @@
+[
+  {
+    "id": 245,
+    "name": "Keir Dullea",
+    "popularity": 12.405,
+    "cast_id": 6,
+    "order": 0,
+    "character": "Dr. David Bowman",
+    "credit_id": "52fe4212c3a36847f8001a1b"
+  },
+  {
+    "id": 246,
+    "name": "Gary Lockwood",
+    "popularity": 5.558,
+    "cast_id": 7,
+    "order": 1,
+    "character": "Dr. Frank Poole",
+    "credit_id": "52fe4212c3a36847f8001a1f"
+  },
+  {
+    "id": 247,
+    "name": "William Sylvester",
+    "popularity": 5.798,
+    "cast_id": 8,
+    "order": 2,
+    "character": "Dr. Heywood Floyd",
+    "credit_id": "52fe4212c3a36847f8001a23"
+  },
+  {
+    "id": 249,
+    "name": "Leonard Rossiter",
+    "popularity": 6.358,
+    "cast_id": 10,
+    "order": 5,
+    "character": "Dr. Andrei Smyslov",
+    "credit_id": "52fe4212c3a36847f8001a2b"
+  },
+  {
+    "id": 250,
+    "name": "Margaret Tyzack",
+    "popularity": 6.461,
+    "cast_id": 11,
+    "order": 6,
+    "character": "Elena",
+    "credit_id": "52fe4212c3a36847f8001a2f"
+  },
+  {
+    "id": 251,
+    "name": "Robert Beatty",
+    "popularity": 7.807,
+    "cast_id": 12,
+    "order": 7,
+    "character": "Dr. Ralph Halvorsen",
+    "credit_id": "52fe4212c3a36847f8001a33"
+  }
+]

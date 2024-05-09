@@ -1,0 +1,74 @@
+[
+  {
+    "id": 120,
+    "name": "Dariusz Wolski",
+    "popularity": 3.787,
+    "credit_id": "5607a7e19251413050003e2c",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 578,
+    "name": "Ridley Scott",
+    "popularity": 10.483,
+    "credit_id": "53e88b1ac3a368399f0035c5",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 578,
+    "name": "Ridley Scott",
+    "popularity": 10.483,
+    "credit_id": "554b7164c3a3685e63001f32",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 950,
+    "name": "Pietro Scalia",
+    "popularity": 2.174,
+    "credit_id": "554b71bfc3a3685e63001f48",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 8401,
+    "name": "Mark Huffam",
+    "popularity": 3.716,
+    "credit_id": "554b713592514104590013fe",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 11092,
+    "name": "Simon Kinberg",
+    "popularity": 6.943,
+    "credit_id": "53e851a8c3a368398a0031eb",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 22498,
+    "name": "Michael Schaefer",
+    "popularity": 2.076,
+    "credit_id": "554b714dc3a3685e5800211c",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 47506,
+    "name": "Drew Goddard",
+    "popularity": 5.712,
+    "credit_id": "5bb8d5dcc3a368242b00c800",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1320090,
+    "name": "Aditya Sood",
+    "popularity": 0.691,
+    "credit_id": "62d4c837fa40460071117911",
+    "department": "Production",
+    "job": "Producer"
+  }
+]

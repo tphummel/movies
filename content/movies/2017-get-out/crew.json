@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1587,
+    "name": "Sean McKittrick",
+    "popularity": 1.22,
+    "credit_id": "58a97c3692514173ea006539",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 55905,
+    "name": "Denson Baker",
+    "popularity": 1.4,
+    "credit_id": "59144b6dc3a36842c100bf53",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 75553,
+    "name": "Toby Oliver",
+    "popularity": 2.023,
+    "credit_id": "58610cbf92514115c002d11d",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 84348,
+    "name": "Jason Blum",
+    "popularity": 4.196,
+    "credit_id": "57f44d419251417fd700329a",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 291263,
+    "name": "Jordan Peele",
+    "popularity": 17.645,
+    "credit_id": "57f44d209251417fd700328e",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 291263,
+    "name": "Jordan Peele",
+    "popularity": 17.645,
+    "credit_id": "58f21cdec3a3682ece008d51",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 291263,
+    "name": "Jordan Peele",
+    "popularity": 17.645,
+    "credit_id": "58f21cd4c3a3682e660098bf",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 995462,
+    "name": "Gregory Plotkin",
+    "popularity": 3.316,
+    "credit_id": "58610d73c3a3681a6202ec0c",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 1030966,
+    "name": "Jeanette Volturno",
+    "popularity": 3.014,
+    "credit_id": "58f21d1dc3a3682ece008d8c",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1037124,
+    "name": "Edward H. Hamm Jr. \t",
+    "popularity": 0.624,
+    "credit_id": "58a97c1692514173ee00610d",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1201896,
+    "name": "Raymond Mansfield",
+    "popularity": 1.96,
+    "credit_id": "58f21ced9251412fb9009ebe",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1308741,
+    "name": "Shaun Redick",
+    "popularity": 0.972,
+    "credit_id": "58f21d129251412fdf009c89",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1319040,
+    "name": "Couper Samuelson",
+    "popularity": 2.433,
+    "credit_id": "58f21cf8c3a3682e95009415",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1527,
+    "name": "John Bailey",
+    "popularity": 1.282,
+    "credit_id": "52fe44fb9251416c75047a19",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 8844,
+    "name": "Lawrence Kasdan",
+    "popularity": 10.533,
+    "credit_id": "52fe44fb9251416c750479f5",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 8844,
+    "name": "Lawrence Kasdan",
+    "popularity": 10.533,
+    "credit_id": "52fe44fb9251416c75047a07",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 5381,
+    "name": "Michael Shamberg",
+    "popularity": 3.235,
+    "credit_id": "52fe44fb9251416c75047a13",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 9966,
+    "name": "Carol Littleton",
+    "popularity": 0.972,
+    "credit_id": "52fe44fb9251416c75047a1f",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 70189,
+    "name": "Marcia Nasatir",
+    "popularity": 1.4,
+    "credit_id": "52fe44fb9251416c75047a0d",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

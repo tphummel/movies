@@ -1,0 +1,42 @@
+[
+  {
+    "id": 9573,
+    "name": "Peter Deming",
+    "popularity": 5.183,
+    "credit_id": "52fe4458c3a368484e01dc2d",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 12891,
+    "name": "Joss Whedon",
+    "popularity": 14.082,
+    "credit_id": "52fe4458c3a368484e01dc1d",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 47506,
+    "name": "Drew Goddard",
+    "popularity": 5.712,
+    "credit_id": "52fe4458c3a368484e01dbe7",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 94534,
+    "name": "Jason Clark",
+    "popularity": 3.715,
+    "credit_id": "52fe4458c3a368484e01dc27",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1018965,
+    "name": "Lisa Lassek",
+    "popularity": 1.429,
+    "credit_id": "52fe4458c3a368484e01dc3f",
+    "department": "Editing",
+    "job": "Editor"
+  }
+]

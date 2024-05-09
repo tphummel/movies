@@ -1,0 +1,74 @@
+[
+  {
+    "id": 4139,
+    "name": "Tom Skerritt",
+    "popularity": 27.156,
+    "cast_id": 3,
+    "order": 0,
+    "character": "Arthur Koblenz Dallas",
+    "credit_id": "52fe423bc3a36847f800e121"
+  },
+  {
+    "id": 10205,
+    "name": "Sigourney Weaver",
+    "popularity": 61.301,
+    "cast_id": 4,
+    "order": 1,
+    "character": "Lt. Ellen Louise Ripley",
+    "credit_id": "52fe423bc3a36847f800e125"
+  },
+  {
+    "id": 5047,
+    "name": "Veronica Cartwright",
+    "popularity": 7.911,
+    "cast_id": 5,
+    "order": 2,
+    "character": "Joan Marie Lambert",
+    "credit_id": "52fe423bc3a36847f800e129"
+  },
+  {
+    "id": 5048,
+    "name": "Harry Dean Stanton",
+    "popularity": 11.478,
+    "cast_id": 6,
+    "order": 3,
+    "character": "Samuel Elias Brett",
+    "credit_id": "52fe423bc3a36847f800e12d"
+  },
+  {
+    "id": 5049,
+    "name": "John Hurt",
+    "popularity": 21.064,
+    "cast_id": 7,
+    "order": 4,
+    "character": "Gilbert Ward Kane",
+    "credit_id": "52fe423bc3a36847f800e131"
+  },
+  {
+    "id": 65,
+    "name": "Ian Holm",
+    "popularity": 15.21,
+    "cast_id": 8,
+    "order": 5,
+    "character": "Ash",
+    "credit_id": "52fe423bc3a36847f800e135"
+  },
+  {
+    "id": 5050,
+    "name": "Yaphet Kotto",
+    "popularity": 6.404,
+    "cast_id": 9,
+    "order": 6,
+    "character": "Dennis Monroe Parker",
+    "credit_id": "52fe423bc3a36847f800e139"
+  },
+  {
+    "id": 5052,
+    "name": "Helen Horton",
+    "popularity": 10.31,
+    "cast_id": 11,
+    "order": 8,
+    "character": "Mother (voice)",
+    "credit_id": "52fe423bc3a36847f800e141"
+  }
+]

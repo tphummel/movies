@@ -1,0 +1,3 @@
+---
+title: rise to power
+---

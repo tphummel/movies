@@ -1,0 +1,119 @@
+[
+  {
+    "id": 9221,
+    "name": "Donald Pleasence",
+    "popularity": 34.648,
+    "cast_id": 14,
+    "order": 0,
+    "character": "Dr. Sam Loomis",
+    "credit_id": "52fe4292c3a36847f8029083"
+  },
+  {
+    "id": 8944,
+    "name": "Jamie Lee Curtis",
+    "popularity": 67.857,
+    "cast_id": 15,
+    "order": 1,
+    "character": "Laurie Strode",
+    "credit_id": "52fe4292c3a36847f8029087"
+  },
+  {
+    "id": 11787,
+    "name": "Nancy Kyes",
+    "popularity": 32.49,
+    "cast_id": 16,
+    "order": 2,
+    "character": "Annie Brackett",
+    "credit_id": "52fe4292c3a36847f802908b"
+  },
+  {
+    "id": 15500,
+    "name": "P.J. Soles",
+    "popularity": 28.067,
+    "cast_id": 17,
+    "order": 3,
+    "character": "Lynda Van Der Klok",
+    "credit_id": "52fe4292c3a36847f802908f"
+  },
+  {
+    "id": 11786,
+    "name": "Charles Cyphers",
+    "popularity": 13.661,
+    "cast_id": 18,
+    "order": 4,
+    "character": "Sheriff Leigh Brackett",
+    "credit_id": "52fe4292c3a36847f8029093"
+  },
+  {
+    "id": 15503,
+    "name": "Kyle Richards",
+    "popularity": 23.635,
+    "cast_id": 19,
+    "order": 5,
+    "character": "Lindsey Wallace",
+    "credit_id": "52fe4292c3a36847f8029097"
+  },
+  {
+    "id": 15505,
+    "name": "Brian Andrews",
+    "popularity": 5.509,
+    "cast_id": 20,
+    "order": 6,
+    "character": "Tommy Doyle",
+    "credit_id": "52fe4292c3a36847f802909b"
+  },
+  {
+    "id": 15506,
+    "name": "John Michael Graham",
+    "popularity": 10.084,
+    "cast_id": 21,
+    "order": 7,
+    "character": "Bob Simms",
+    "credit_id": "52fe4292c3a36847f802909f"
+  },
+  {
+    "id": 15508,
+    "name": "Nancy Stephens",
+    "popularity": 7.207,
+    "cast_id": 22,
+    "order": 8,
+    "character": "Marion Chambers",
+    "credit_id": "52fe4292c3a36847f80290a3"
+  },
+  {
+    "id": 13392,
+    "name": "Arthur Malet",
+    "popularity": 7.346,
+    "cast_id": 23,
+    "order": 9,
+    "character": "Graveyard Keeper",
+    "credit_id": "52fe4292c3a36847f80290a7"
+  },
+  {
+    "id": 15516,
+    "name": "Tony Moran",
+    "popularity": 10.656,
+    "cast_id": 28,
+    "order": 14,
+    "character": "Michael Myers (age 21)",
+    "credit_id": "52fe4292c3a36847f80290bb"
+  },
+  {
+    "id": 15518,
+    "name": "Sandy Johnson",
+    "popularity": 10.273,
+    "cast_id": 45,
+    "order": 16,
+    "character": "Judith Myers",
+    "credit_id": "5a6944f30e0a260d7b009c38"
+  },
+  {
+    "id": 14692,
+    "name": "Nick Castle",
+    "popularity": 46.783,
+    "cast_id": 35,
+    "order": 19,
+    "character": "The Shape",
+    "credit_id": "52fe4292c3a36847f80290db"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1776,
+    "name": "Francis Ford Coppola",
+    "popularity": 9.337,
+    "credit_id": "5e92517a8e87020016cb1d0e",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 1776,
+    "name": "Francis Ford Coppola",
+    "popularity": 9.337,
+    "credit_id": "52fe422bc3a36847f80094e3",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 2870,
+    "name": "Gray Frederickson",
+    "popularity": 3.675,
+    "credit_id": "52fe422bc3a36847f80094e9",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 2871,
+    "name": "Fred Roos",
+    "popularity": 2.502,
+    "credit_id": "52fe422bc3a36847f80094ef",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 3170,
+    "name": "Mona Skager",
+    "popularity": 0.716,
+    "credit_id": "52fe422bc3a36847f80094f5",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 2988,
+    "name": "Barry Malkin",
+    "popularity": 1.118,
+    "credit_id": "52fe422bc3a36847f8009547",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 3097,
+    "name": "Gordon Willis",
+    "popularity": 2.177,
+    "credit_id": "52fe422bc3a36847f800952f",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 3100,
+    "name": "Peter Zinner",
+    "popularity": 3.143,
+    "credit_id": "52fe422bc3a36847f8009553",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 3175,
+    "name": "Richard Marks",
+    "popularity": 1.4,
+    "credit_id": "52fe422bc3a36847f800954d",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 12288,
+    "name": "Robert Evans",
+    "popularity": 2.138,
+    "credit_id": "57471c6ac3a36801a3000463",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

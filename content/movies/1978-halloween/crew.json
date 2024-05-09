@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1060,
+    "name": "Dean Cundey",
+    "popularity": 9.176,
+    "credit_id": "52fe4291c3a36847f8029049",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 2161,
+    "name": "Debra Hill",
+    "popularity": 19.557,
+    "credit_id": "52fe4291c3a36847f8029043",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 11770,
+    "name": "John Carpenter",
+    "popularity": 28.063,
+    "credit_id": "52fe4291c3a36847f8029037",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 11776,
+    "name": "Charles Bornstein",
+    "popularity": 1.473,
+    "credit_id": "52fe4291c3a36847f802904f",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 11777,
+    "name": "Tommy Lee Wallace",
+    "popularity": 11.763,
+    "credit_id": "52fe4291c3a36847f8029055",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 64059,
+    "name": "Irwin Yablans",
+    "popularity": 2.12,
+    "credit_id": "561bb14e9251415a72000f7c",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 66203,
+    "name": "Moustapha Akkad",
+    "popularity": 7.157,
+    "credit_id": "5c26c204c3a3683a66d131e0",
+    "department": "Production",
+    "job": "Producer"
+  }
+]

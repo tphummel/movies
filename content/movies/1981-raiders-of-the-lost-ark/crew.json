@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "George Lucas",
+    "popularity": 16.263,
+    "credit_id": "52fe4215c3a36847f8002a5b",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 1,
+    "name": "George Lucas",
+    "popularity": 16.263,
+    "credit_id": "52fe4215c3a36847f8002a3d",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 488,
+    "name": "Steven Spielberg",
+    "popularity": 25.735,
+    "credit_id": "52fe4215c3a36847f8002a01",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 493,
+    "name": "Michael Kahn",
+    "popularity": 1.511,
+    "credit_id": "52fe4215c3a36847f8002a55",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 664,
+    "name": "Frank Marshall",
+    "popularity": 3.721,
+    "credit_id": "52fe4215c3a36847f8002a37",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 665,
+    "name": "Howard G. Kazanjian",
+    "popularity": 1.011,
+    "credit_id": "52fe4215c3a36847f8002a43",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 666,
+    "name": "Douglas Slocombe",
+    "popularity": 1.4,
+    "credit_id": "52fe4215c3a36847f8002a4f",
+    "department": "Camera",
+    "job": "Director of Photography"
+  }
+]

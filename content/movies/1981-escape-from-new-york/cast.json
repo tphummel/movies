@@ -1,0 +1,110 @@
+[
+  {
+    "id": 6856,
+    "name": "Kurt Russell",
+    "popularity": 29.386,
+    "cast_id": 11,
+    "order": 0,
+    "character": "Snake Plissken",
+    "credit_id": "52fe42e7c3a36847f802bc09"
+  },
+  {
+    "id": 4078,
+    "name": "Lee Van Cleef",
+    "popularity": 8.463,
+    "cast_id": 12,
+    "order": 1,
+    "character": "Police Commissioner Bob Hauk",
+    "credit_id": "52fe42e7c3a36847f802bc0d"
+  },
+  {
+    "id": 7502,
+    "name": "Ernest Borgnine",
+    "popularity": 20.406,
+    "cast_id": 13,
+    "order": 2,
+    "character": "Cabbie",
+    "credit_id": "52fe42e7c3a36847f802bc11"
+  },
+  {
+    "id": 9221,
+    "name": "Donald Pleasence",
+    "popularity": 34.648,
+    "cast_id": 14,
+    "order": 3,
+    "character": "President of the United States",
+    "credit_id": "52fe42e7c3a36847f802bc15"
+  },
+  {
+    "id": 6542,
+    "name": "Isaac Hayes",
+    "popularity": 9.834,
+    "cast_id": 15,
+    "order": 4,
+    "character": "The Duke of New York",
+    "credit_id": "52fe42e7c3a36847f802bc19"
+  },
+  {
+    "id": 47456,
+    "name": "Season Hubley",
+    "popularity": 12.019,
+    "cast_id": 25,
+    "order": 5,
+    "character": "Girl in Chock Full O'Nuts",
+    "credit_id": "52fe42e7c3a36847f802bc49"
+  },
+  {
+    "id": 5048,
+    "name": "Harry Dean Stanton",
+    "popularity": 11.478,
+    "cast_id": 16,
+    "order": 6,
+    "character": "Harold 'Brain' Helman",
+    "credit_id": "52fe42e7c3a36847f802bc1d"
+  },
+  {
+    "id": 11782,
+    "name": "Adrienne Barbeau",
+    "popularity": 28.231,
+    "cast_id": 17,
+    "order": 7,
+    "character": "Maggie",
+    "credit_id": "52fe42e7c3a36847f802bc21"
+  },
+  {
+    "id": 11784,
+    "name": "Tom Atkins",
+    "popularity": 25.252,
+    "cast_id": 18,
+    "order": 8,
+    "character": "Rehme",
+    "credit_id": "52fe42e7c3a36847f802bc25"
+  },
+  {
+    "id": 11786,
+    "name": "Charles Cyphers",
+    "popularity": 13.661,
+    "cast_id": 26,
+    "order": 9,
+    "character": "Secretary of State",
+    "credit_id": "52fe42e7c3a36847f802bc4d"
+  },
+  {
+    "id": 8944,
+    "name": "Jamie Lee Curtis",
+    "popularity": 67.857,
+    "cast_id": 32,
+    "order": 17,
+    "character": "Narrator / Prison Recording Voice (voice) (uncredited)",
+    "credit_id": "5f83779fd8e15a003aeb8e90"
+  },
+  {
+    "id": 14692,
+    "name": "Nick Castle",
+    "popularity": 46.783,
+    "cast_id": 35,
+    "order": 18,
+    "character": "Pianist (uncredited)",
+    "credit_id": "60fd031c5ab81a002a4f8a14"
+  }
+]

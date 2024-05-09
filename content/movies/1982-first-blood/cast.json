@@ -1,0 +1,92 @@
+[
+  {
+    "id": 16483,
+    "name": "Sylvester Stallone",
+    "popularity": 44.016,
+    "cast_id": 20,
+    "order": 0,
+    "character": "John J. Rambo",
+    "credit_id": "52fe42efc3a36847f802e1fb"
+  },
+  {
+    "id": 16555,
+    "name": "Bill McKinney",
+    "popularity": 12.765,
+    "cast_id": 23,
+    "order": 2,
+    "character": "State Police Capt. Dave Kern",
+    "credit_id": "52fe42efc3a36847f802e207"
+  },
+  {
+    "id": 16554,
+    "name": "Richard Crenna",
+    "popularity": 15.421,
+    "cast_id": 21,
+    "order": 3,
+    "character": "Col. Samuel Trautman",
+    "credit_id": "52fe42efc3a36847f802e1ff"
+  },
+  {
+    "id": 6197,
+    "name": "Brian Dennehy",
+    "popularity": 15.5,
+    "cast_id": 22,
+    "order": 4,
+    "character": "Hope Sheriff Will Teasle",
+    "credit_id": "52fe42efc3a36847f802e203"
+  },
+  {
+    "id": 15824,
+    "name": "Chris Mulkey",
+    "popularity": 7.902,
+    "cast_id": 26,
+    "order": 5,
+    "character": "Deputy Ward",
+    "credit_id": "52fe42efc3a36847f802e213"
+  },
+  {
+    "id": 16557,
+    "name": "Michael Talbott",
+    "popularity": 6.82,
+    "cast_id": 25,
+    "order": 7,
+    "character": "Deputy Balford",
+    "credit_id": "52fe42efc3a36847f802e20f"
+  },
+  {
+    "id": 16558,
+    "name": "John McLiam",
+    "popularity": 5.861,
+    "cast_id": 27,
+    "order": 8,
+    "character": "Orval the Dog Man",
+    "credit_id": "52fe42efc3a36847f802e217"
+  },
+  {
+    "id": 16559,
+    "name": "Alf Humphreys",
+    "popularity": 5.544,
+    "cast_id": 28,
+    "order": 9,
+    "character": "Deputy Lester",
+    "credit_id": "52fe42efc3a36847f802e21b"
+  },
+  {
+    "id": 16560,
+    "name": "David Caruso",
+    "popularity": 26.604,
+    "cast_id": 29,
+    "order": 10,
+    "character": "Deputy Mitch",
+    "credit_id": "52fe42efc3a36847f802e21f"
+  },
+  {
+    "id": 21089,
+    "name": "Bruce Greenwood",
+    "popularity": 12.163,
+    "cast_id": 80,
+    "order": 20,
+    "character": "Guardsman #5",
+    "credit_id": "591852dfc3a3683a930420d5"
+  }
+]

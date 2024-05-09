@@ -1,0 +1,3 @@
+---
+title: griffith observatory
+---

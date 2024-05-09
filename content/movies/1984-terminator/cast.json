@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1100,
+    "name": "Arnold Schwarzenegger",
+    "popularity": 22.743,
+    "cast_id": 26,
+    "order": 0,
+    "character": "The Terminator",
+    "credit_id": "52fe4228c3a36847f8008581"
+  },
+  {
+    "id": 2712,
+    "name": "Michael Biehn",
+    "popularity": 21.618,
+    "cast_id": 6,
+    "order": 1,
+    "character": "Kyle Reese",
+    "credit_id": "52fe4228c3a36847f800851f"
+  },
+  {
+    "id": 2713,
+    "name": "Linda Hamilton",
+    "popularity": 19.56,
+    "cast_id": 7,
+    "order": 2,
+    "character": "Sarah Connor",
+    "credit_id": "52fe4228c3a36847f8008523"
+  },
+  {
+    "id": 1818,
+    "name": "Paul Winfield",
+    "popularity": 7.952,
+    "cast_id": 8,
+    "order": 3,
+    "character": "Lieutenant Ed Traxler",
+    "credit_id": "52fe4228c3a36847f8008527"
+  },
+  {
+    "id": 2714,
+    "name": "Lance Henriksen",
+    "popularity": 26.626,
+    "cast_id": 9,
+    "order": 4,
+    "character": "Detective Vukovich",
+    "credit_id": "52fe4228c3a36847f800852b"
+  },
+  {
+    "id": 2717,
+    "name": "Rick Rossovich",
+    "popularity": 11.421,
+    "cast_id": 12,
+    "order": 5,
+    "character": "Matt Buchanan",
+    "credit_id": "52fe4228c3a36847f8008537"
+  },
+  {
+    "id": 2715,
+    "name": "Bess Motta",
+    "popularity": 5.84,
+    "cast_id": 10,
+    "order": 6,
+    "character": "Ginger Ventura",
+    "credit_id": "52fe4228c3a36847f800852f"
+  },
+  {
+    "id": 2716,
+    "name": "Earl Boen",
+    "popularity": 5.561,
+    "cast_id": 11,
+    "order": 7,
+    "character": "Dr. Peter Silberman",
+    "credit_id": "52fe4228c3a36847f8008533"
+  },
+  {
+    "id": 102441,
+    "name": "Dick Miller",
+    "popularity": 9.28,
+    "cast_id": 25,
+    "order": 8,
+    "character": "Pawnshop Clerk",
+    "credit_id": "52fe4228c3a36847f800857d"
+  },
+  {
+    "id": 2053,
+    "name": "Bill Paxton",
+    "popularity": 19.925,
+    "cast_id": 13,
+    "order": 12,
+    "character": "Punk Leader",
+    "credit_id": "52fe4228c3a36847f800853b"
+  },
+  {
+    "id": 2719,
+    "name": "Brian Thompson",
+    "popularity": 15.836,
+    "cast_id": 14,
+    "order": 14,
+    "character": "Punk (uncredited)",
+    "credit_id": "52fe4228c3a36847f800853f"
+  }
+]

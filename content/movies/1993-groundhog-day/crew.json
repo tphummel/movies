@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1524,
+    "name": "Harold Ramis",
+    "popularity": 18.229,
+    "credit_id": "52fe421cc3a36847f8004ec7",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 1524,
+    "name": "Harold Ramis",
+    "popularity": 18.229,
+    "credit_id": "52fe421cc3a36847f8004ed3",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1525,
+    "name": "Trevor Albert",
+    "popularity": 0.6,
+    "credit_id": "52fe421cc3a36847f8004ecd",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1527,
+    "name": "John Bailey",
+    "popularity": 1.282,
+    "credit_id": "52fe421cc3a36847f8004ee5",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 1531,
+    "name": "Pembroke J. Herring",
+    "popularity": 1.22,
+    "credit_id": "52fe421dc3a36847f8004efd",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 7690,
+    "name": "C.O. Erickson",
+    "popularity": 2.741,
+    "credit_id": "52fe421dc3a36847f8004f81",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

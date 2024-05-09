@@ -1,0 +1,74 @@
+[
+  {
+    "id": 287,
+    "name": "Brad Pitt",
+    "popularity": 58.252,
+    "credit_id": "568349e09251414f6300f7b7",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 376,
+    "name": "Arnon Milchan",
+    "popularity": 3.664,
+    "credit_id": "568349d4c3a3684be90157db",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 3190,
+    "name": "Hank Corwin",
+    "popularity": 1.4,
+    "credit_id": "58416f81c3a36865b600732b",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 15493,
+    "name": "Barry Ackroyd",
+    "popularity": 2.252,
+    "credit_id": "55721d79c3a3687f0c004712",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 20458,
+    "name": "Dede Gardner",
+    "popularity": 6.327,
+    "credit_id": "568349b5c3a3686075014eff",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 55710,
+    "name": "Adam McKay",
+    "popularity": 15.761,
+    "credit_id": "55187d2e9251416f0a004c26",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 56327,
+    "name": "Louise Rosner-Meyer",
+    "popularity": 4.486,
+    "credit_id": "5683499c9251414ecb007a6c",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 56461,
+    "name": "Kevin J. Messick",
+    "popularity": 4.216,
+    "credit_id": "588b576992514156a6019fd3",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 967387,
+    "name": "Jeremy Kleiner",
+    "popularity": 4.258,
+    "credit_id": "568349c692514169d0002099",
+    "department": "Production",
+    "job": "Producer"
+  }
+]

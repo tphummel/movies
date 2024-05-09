@@ -1,0 +1,3 @@
+---
+title: struggle for survival
+---

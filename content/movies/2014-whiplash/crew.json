@@ -1,0 +1,98 @@
+[
+  {
+    "id": 53181,
+    "name": "Sharone Meir",
+    "popularity": 2.338,
+    "credit_id": "52fe4ef7c3a36847f82b3fb9",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 52443,
+    "name": "Jason Reitman",
+    "popularity": 6.889,
+    "credit_id": "56407e4ac3a3685059000c7c",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 60864,
+    "name": "David Lancaster",
+    "popularity": 1.96,
+    "credit_id": "52fe4ef7c3a36847f82b3fd9",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 66726,
+    "name": "Michel Litvak",
+    "popularity": 0.611,
+    "credit_id": "52fe4ef7c3a36847f82b3fdf",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 66727,
+    "name": "Gary Michael Walters",
+    "popularity": 0.652,
+    "credit_id": "56407e8b9251417052000c80",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 84348,
+    "name": "Jason Blum",
+    "popularity": 4.196,
+    "credit_id": "52fe4ef7c3a36847f82b3fcd",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 136495,
+    "name": "Damien Chazelle",
+    "popularity": 5.076,
+    "credit_id": "52fe4ef7c3a36847f82b3fad",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 136495,
+    "name": "Damien Chazelle",
+    "popularity": 5.076,
+    "credit_id": "629baca1992fe60050b3f306",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 1030966,
+    "name": "Jeanette Volturno",
+    "popularity": 3.014,
+    "credit_id": "56407e7f9251417052000c7c",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1156888,
+    "name": "Tom Cross",
+    "popularity": 1.828,
+    "credit_id": "52fe4ef7c3a36847f82b3fbf",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 1287961,
+    "name": "Helen Estabrook",
+    "popularity": 3.842,
+    "credit_id": "52fe4ef7c3a36847f82b3fd3",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1319040,
+    "name": "Couper Samuelson",
+    "popularity": 2.433,
+    "credit_id": "56407e599251417050000bac",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

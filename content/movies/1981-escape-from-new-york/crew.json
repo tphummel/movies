@@ -1,0 +1,50 @@
+[
+  {
+    "id": 511,
+    "name": "Larry J. Franco",
+    "popularity": 1.845,
+    "credit_id": "52fe42e7c3a36847f802bbdb",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1060,
+    "name": "Dean Cundey",
+    "popularity": 9.176,
+    "credit_id": "52fe42e7c3a36847f802bc33",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 1767,
+    "name": "Todd C. Ramsay",
+    "popularity": 3.406,
+    "credit_id": "52fe42e7c3a36847f802bbf3",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 2161,
+    "name": "Debra Hill",
+    "popularity": 19.557,
+    "credit_id": "52fe42e7c3a36847f802bbe1",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 2359,
+    "name": "Jake Eberts",
+    "popularity": 4.785,
+    "credit_id": "6209aad9ef8b3200667b81a4",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 11770,
+    "name": "John Carpenter",
+    "popularity": 28.063,
+    "credit_id": "52fe42e7c3a36847f802bc39",
+    "department": "Directing",
+    "job": "Director"
+  }
+]

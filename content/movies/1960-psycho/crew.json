@@ -1,0 +1,34 @@
+[
+  {
+    "id": 2636,
+    "name": "Alfred Hitchcock",
+    "popularity": 13.503,
+    "credit_id": "52fe424ec3a36847f8014203",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 2636,
+    "name": "Alfred Hitchcock",
+    "popularity": 13.503,
+    "credit_id": "52fe424fc3a36847f8014225",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 2655,
+    "name": "George Tomasini",
+    "popularity": 1.4,
+    "credit_id": "52fe424fc3a36847f8014237",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 7305,
+    "name": "John L. Russell",
+    "popularity": 0.997,
+    "credit_id": "52fe424fc3a36847f8014231",
+    "department": "Camera",
+    "job": "Director of Photography"
+  }
+]

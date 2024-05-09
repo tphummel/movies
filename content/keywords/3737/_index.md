@@ -1,0 +1,3 @@
+---
+title: dying and death
+---

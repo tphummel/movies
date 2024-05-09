@@ -1,0 +1,106 @@
+[
+  {
+    "id": 3055,
+    "name": "David Mackenzie",
+    "popularity": 4.295,
+    "credit_id": "5547ee489251415605000103",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 3079,
+    "name": "Giles Nuttgens",
+    "popularity": 1.161,
+    "credit_id": "563ea157925141344200486d",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 20743,
+    "name": "Gigi Pritzker",
+    "popularity": 1.165,
+    "credit_id": "5d2dec9f839d934d9eef1351",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 35180,
+    "name": "Sidney Kimmel",
+    "popularity": 1.38,
+    "credit_id": "5790e42e9251416b58002311",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 36602,
+    "name": "Peter Berg",
+    "popularity": 12.25,
+    "credit_id": "5790e418c3a3684a8c00565e",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 52989,
+    "name": "John Penotti",
+    "popularity": 0.92,
+    "credit_id": "5790e43f9251414b3200547b",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 63989,
+    "name": "Julie Yorn",
+    "popularity": 1.4,
+    "credit_id": "5790e46dc3a36865eb00a078",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 56534,
+    "name": "Rachel Shane",
+    "popularity": 1.004,
+    "credit_id": "5d2decc1caab6d1e81a35862",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 968402,
+    "name": "Jim Tauber",
+    "popularity": 0.6,
+    "credit_id": "5790e4649251410c06006f27",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1215399,
+    "name": "Taylor Sheridan",
+    "popularity": 35.682,
+    "credit_id": "61f3fb954fd14100d821c051",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 1353255,
+    "name": "Jake Roberts",
+    "popularity": 1.932,
+    "credit_id": "563ea1879251413b1300e0ba",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 1547427,
+    "name": "Carla Hacken",
+    "popularity": 1.535,
+    "credit_id": "5790e427c3a3681d24001e9d",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1654005,
+    "name": "Braden Aftergood",
+    "popularity": 1.442,
+    "credit_id": "5790e40fc3a3685b2600b5a7",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

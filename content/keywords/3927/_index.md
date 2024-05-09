@@ -1,0 +1,3 @@
+---
+title: rage and hate
+---

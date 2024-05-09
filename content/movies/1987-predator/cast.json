@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1100,
+    "name": "Arnold Schwarzenegger",
+    "popularity": 22.743,
+    "cast_id": 13,
+    "order": 0,
+    "character": "Major Alan \"Dutch\" Schaefer",
+    "credit_id": "52fe4218c3a36847f8003b53"
+  },
+  {
+    "id": 1101,
+    "name": "Carl Weathers",
+    "popularity": 16.355,
+    "cast_id": 14,
+    "order": 1,
+    "character": "Al Dillon",
+    "credit_id": "52fe4218c3a36847f8003b57"
+  },
+  {
+    "id": 1102,
+    "name": "Elpidia Carrillo",
+    "popularity": 16.681,
+    "cast_id": 15,
+    "order": 2,
+    "character": "Anna Gonsalves",
+    "credit_id": "52fe4218c3a36847f8003b5b"
+  },
+  {
+    "id": 1105,
+    "name": "Sonny Landham",
+    "popularity": 11.445,
+    "cast_id": 18,
+    "order": 4,
+    "character": "Billy Sole",
+    "credit_id": "52fe4218c3a36847f8003b67"
+  },
+  {
+    "id": 1103,
+    "name": "Bill Duke",
+    "popularity": 10.766,
+    "cast_id": 16,
+    "order": 5,
+    "character": "Mac Eliot",
+    "credit_id": "52fe4218c3a36847f8003b5f"
+  },
+  {
+    "id": 1106,
+    "name": "Richard Chaves",
+    "popularity": 7.743,
+    "cast_id": 19,
+    "order": 6,
+    "character": "Jorge \"Poncho\" Ramirez",
+    "credit_id": "52fe4218c3a36847f8003b6b"
+  },
+  {
+    "id": 1107,
+    "name": "R. G. Armstrong",
+    "popularity": 7.413,
+    "cast_id": 20,
+    "order": 7,
+    "character": "Major General Homer Phillips",
+    "credit_id": "52fe4218c3a36847f8003b6f"
+  },
+  {
+    "id": 1109,
+    "name": "Kevin Peter Hall",
+    "popularity": 9.383,
+    "cast_id": 23,
+    "order": 9,
+    "character": "Predator / Helicopter Pilot",
+    "credit_id": "52fe4218c3a36847f8003b7b"
+  },
+  {
+    "id": 19540,
+    "name": "Peter Cullen",
+    "popularity": 11.807,
+    "cast_id": 80,
+    "order": 13,
+    "character": "Predator (voice) (uncredited)",
+    "credit_id": "5a5b85a4c3a36867f601eebf"
+  }
+]

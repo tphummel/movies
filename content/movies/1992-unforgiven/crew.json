@@ -1,0 +1,50 @@
+[
+  {
+    "id": 190,
+    "name": "Clint Eastwood",
+    "popularity": 28.008,
+    "credit_id": "52fe4211c3a36847f8001437",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 190,
+    "name": "Clint Eastwood",
+    "popularity": 28.008,
+    "credit_id": "52fe4211c3a36847f800143d",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 3717,
+    "name": "Julian Ludwig",
+    "popularity": 1.396,
+    "credit_id": "52fe4211c3a36847f8001477",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 3718,
+    "name": "David Valdes",
+    "popularity": 4.389,
+    "credit_id": "52fe4211c3a36847f800147d",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 356,
+    "name": "Jack Green",
+    "popularity": 2.915,
+    "credit_id": "52fe4211c3a36847f8001483",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 384,
+    "name": "Joel Cox",
+    "popularity": 1.905,
+    "credit_id": "52fe4211c3a36847f800149b",
+    "department": "Editing",
+    "job": "Editor"
+  }
+]

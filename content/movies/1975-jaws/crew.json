@@ -1,0 +1,42 @@
+[
+  {
+    "id": 488,
+    "name": "Steven Spielberg",
+    "popularity": 25.735,
+    "credit_id": "52fe4255c3a36847f801601f",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 1297,
+    "name": "Richard D. Zanuck",
+    "popularity": 0.809,
+    "credit_id": "52fe4255c3a36847f8016037",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 2287,
+    "name": "Bill Butler",
+    "popularity": 5.778,
+    "credit_id": "53807bc5c3a36805a1004d8e",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 5322,
+    "name": "David Brown",
+    "popularity": 1.495,
+    "credit_id": "52fe4255c3a36847f8016031",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 8556,
+    "name": "Verna Fields",
+    "popularity": 3.452,
+    "credit_id": "52fe4255c3a36847f8016049",
+    "department": "Editing",
+    "job": "Editor"
+  }
+]

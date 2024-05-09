@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1707,
+    "name": "Stuart Beattie",
+    "popularity": 4.645,
+    "credit_id": "5811265bc3a368798a00d2e3",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 638,
+    "name": "Michael Mann",
+    "popularity": 9.238,
+    "credit_id": "52fe42fbc3a36847f8031853",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 638,
+    "name": "Michael Mann",
+    "popularity": 9.238,
+    "credit_id": "52fe42fbc3a36847f803189b",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 647,
+    "name": "Dion Beebe",
+    "popularity": 1.915,
+    "credit_id": "52fe42fbc3a36847f8031873",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 10816,
+    "name": "Paul Rubell",
+    "popularity": 0.734,
+    "credit_id": "52fe42fbc3a36847f8031885",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 4027,
+    "name": "Frank Darabont",
+    "popularity": 21.969,
+    "credit_id": "52fe42fbc3a36847f80318c5",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 9615,
+    "name": "Jim Miller",
+    "popularity": 2.317,
+    "credit_id": "52fe42fbc3a36847f803187f",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 12255,
+    "name": "Peter Giuliano",
+    "popularity": 1.397,
+    "credit_id": "52fe42fbc3a36847f80318d1",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 26713,
+    "name": "Chuck Russell",
+    "popularity": 9.275,
+    "credit_id": "52fe42fbc3a36847f80318d7",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 19290,
+    "name": "Paul Cameron",
+    "popularity": 1.158,
+    "credit_id": "52fe42fbc3a36847f8031879",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 54797,
+    "name": "Robert N. Fried",
+    "popularity": 2.381,
+    "credit_id": "52fe42fbc3a36847f80318cb",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 946579,
+    "name": "Julie Richardson",
+    "popularity": 0.84,
+    "credit_id": "52fe42fbc3a36847f80318a1",
+    "department": "Production",
+    "job": "Producer"
+  }
+]

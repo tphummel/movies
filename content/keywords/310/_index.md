@@ -1,0 +1,3 @@
+---
+title: artificial intelligence
+---

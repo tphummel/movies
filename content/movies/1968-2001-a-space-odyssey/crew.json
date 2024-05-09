@@ -1,0 +1,42 @@
+[
+  {
+    "id": 240,
+    "name": "Stanley Kubrick",
+    "popularity": 14.773,
+    "credit_id": "5e8354893344c600182bbb4d",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 240,
+    "name": "Stanley Kubrick",
+    "popularity": 14.773,
+    "credit_id": "52fe4212c3a36847f8001a05",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 243,
+    "name": "Geoffrey Unsworth",
+    "popularity": 5.889,
+    "credit_id": "52fe4212c3a36847f8001a11",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 244,
+    "name": "Ray Lovejoy",
+    "popularity": 0.739,
+    "credit_id": "52fe4212c3a36847f8001a17",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 257,
+    "name": "Victor Lyndon",
+    "popularity": 0.958,
+    "credit_id": "52fe4212c3a36847f8001a59",
+    "department": "Production",
+    "job": "Producer"
+  }
+]

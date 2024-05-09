@@ -1,0 +1,82 @@
+[
+  {
+    "id": 869,
+    "name": "Gale Anne Hurd",
+    "popularity": 6.215,
+    "credit_id": "52fe4231c3a36847f800b2c3",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 898,
+    "name": "Mark Goldblatt",
+    "popularity": 2.056,
+    "credit_id": "52fe4231c3a36847f800b2cf",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 2710,
+    "name": "James Cameron",
+    "popularity": 12.058,
+    "credit_id": "52fe4231c3a36847f800b289",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 2710,
+    "name": "James Cameron",
+    "popularity": 12.058,
+    "credit_id": "52fe4231c3a36847f800b2bd",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 2710,
+    "name": "James Cameron",
+    "popularity": 12.058,
+    "credit_id": "52fe4231c3a36847f800b33b",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 2711,
+    "name": "William Wisher",
+    "popularity": 6.869,
+    "credit_id": "52fe4231c3a36847f800b335",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 2723,
+    "name": "Adam Greenberg",
+    "popularity": 1.097,
+    "credit_id": "52fe4231c3a36847f800b2c9",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 3985,
+    "name": "Richard A. Harris",
+    "popularity": 3.109,
+    "credit_id": "52fe4231c3a36847f800b2d5",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 3986,
+    "name": "Mario Kassar",
+    "popularity": 3.713,
+    "credit_id": "52fe4231c3a36847f800b2db",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 3987,
+    "name": "Conrad Buff IV",
+    "popularity": 5.068,
+    "credit_id": "52fe4231c3a36847f800b2e7",
+    "department": "Editing",
+    "job": "Editor"
+  }
+]

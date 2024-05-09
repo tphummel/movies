@@ -1,0 +1,66 @@
+[
+  {
+    "id": 578,
+    "name": "Ridley Scott",
+    "popularity": 9.61,
+    "credit_id": "52fe423bc3a36847f800e117",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 915,
+    "name": "David Giler",
+    "popularity": 1.22,
+    "credit_id": "52fe423bc3a36847f800e14d",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1723,
+    "name": "Walter Hill",
+    "popularity": 11.137,
+    "credit_id": "52fe423bc3a36847f800e153",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 5046,
+    "name": "Ronald Shusett",
+    "popularity": 4.31,
+    "credit_id": "52fe423bc3a36847f800e15f",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 5053,
+    "name": "Gordon Carroll",
+    "popularity": 1.646,
+    "credit_id": "52fe423bc3a36847f800e147",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 5055,
+    "name": "Derek Vanlint",
+    "popularity": 2.432,
+    "credit_id": "52fe423bc3a36847f800e16b",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 5056,
+    "name": "Terry Rawlings",
+    "popularity": 4.927,
+    "credit_id": "52fe423bc3a36847f800e171",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 5057,
+    "name": "Peter Weatherley",
+    "popularity": 2.07,
+    "credit_id": "52fe423bc3a36847f800e177",
+    "department": "Editing",
+    "job": "Editor"
+  }
+]

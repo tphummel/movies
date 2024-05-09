@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6355,
+    "name": "Roy Scheider",
+    "popularity": 22.207,
+    "cast_id": 15,
+    "order": 0,
+    "character": "Police Chief Martin Brody",
+    "credit_id": "52fe4255c3a36847f8016071"
+  },
+  {
+    "id": 8606,
+    "name": "Robert Shaw",
+    "popularity": 17.617,
+    "cast_id": 16,
+    "order": 1,
+    "character": "Quint",
+    "credit_id": "52fe4255c3a36847f8016075"
+  },
+  {
+    "id": 3037,
+    "name": "Richard Dreyfuss",
+    "popularity": 21.01,
+    "cast_id": 17,
+    "order": 2,
+    "character": "Matt Hooper",
+    "credit_id": "52fe4255c3a36847f8016079"
+  },
+  {
+    "id": 8608,
+    "name": "Murray Hamilton",
+    "popularity": 11.333,
+    "cast_id": 19,
+    "order": 3,
+    "character": "Mayor Larry Vaughn",
+    "credit_id": "52fe4255c3a36847f8016081"
+  },
+  {
+    "id": 8607,
+    "name": "Lorraine Gary",
+    "popularity": 11.491,
+    "cast_id": 18,
+    "order": 4,
+    "character": "Ellen Brody",
+    "credit_id": "52fe4255c3a36847f801607d"
+  },
+  {
+    "id": 8612,
+    "name": "Jay Mello",
+    "popularity": 6.192,
+    "cast_id": 25,
+    "order": 6,
+    "character": "Sean Brody",
+    "credit_id": "52fe4255c3a36847f8016099"
+  },
+  {
+    "id": 8609,
+    "name": "Jeffrey Kramer",
+    "popularity": 5.576,
+    "cast_id": 21,
+    "order": 7,
+    "character": "Deputy Leonard 'Lenny' Hendricks",
+    "credit_id": "52fe4255c3a36847f8016089"
+  },
+  {
+    "id": 8610,
+    "name": "Susan Backlinie",
+    "popularity": 7.7,
+    "cast_id": 22,
+    "order": 9,
+    "character": "Christine 'Chrissie' Watkins",
+    "credit_id": "52fe4255c3a36847f801608d"
+  }
+]

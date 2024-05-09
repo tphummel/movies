@@ -1,0 +1,50 @@
+[
+  {
+    "id": 2082,
+    "name": "Andrew Laszlo",
+    "popularity": 0.76,
+    "credit_id": "52fe42efc3a36847f802e1b5",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 3986,
+    "name": "Mario Kassar",
+    "popularity": 1.362,
+    "credit_id": "5563a1309251415bfb001512",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 12882,
+    "name": "Buzz Feitshans",
+    "popularity": 1.178,
+    "credit_id": "52fe42efc3a36847f802e1a9",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 16544,
+    "name": "Ted Kotcheff",
+    "popularity": 4.535,
+    "credit_id": "52fe42efc3a36847f802e18b",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 16548,
+    "name": "Joan E. Chapman",
+    "popularity": 0.6,
+    "credit_id": "52fe42efc3a36847f802e1bb",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 56967,
+    "name": "Andrew G. Vajna",
+    "popularity": 3.814,
+    "credit_id": "5563a15f9251411946002e0d",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

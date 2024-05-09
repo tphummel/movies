@@ -1,0 +1,106 @@
+[
+  {
+    "id": 123,
+    "name": "Barrie M. Osborne",
+    "popularity": 1.142,
+    "credit_id": "52fe4271c3a36847f801f141",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1202,
+    "name": "Steven Reuther",
+    "popularity": 0.6,
+    "credit_id": "52fe4271c3a36847f801f18f",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 3392,
+    "name": "Michael Douglas",
+    "popularity": 11.638,
+    "credit_id": "5789de4b9251410deb003330",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 6668,
+    "name": "Christian Wagner",
+    "popularity": 1.034,
+    "credit_id": "52fe4271c3a36847f801f16b",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 11401,
+    "name": "John Woo",
+    "popularity": 8.957,
+    "credit_id": "52fe4271c3a36847f801f129",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 11402,
+    "name": "Mike Werb",
+    "popularity": 3.576,
+    "credit_id": "5789dd57925141641a00116c",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 11403,
+    "name": "Michael Colleary",
+    "popularity": 1.129,
+    "credit_id": "5789dd71c3a36874a80006b5",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 11404,
+    "name": "Terence Chang",
+    "popularity": 2.058,
+    "credit_id": "52fe4271c3a36847f801f13b",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 11405,
+    "name": "David Permut",
+    "popularity": 0.6,
+    "credit_id": "52fe4271c3a36847f801f147",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 11409,
+    "name": "Oliver Wood",
+    "popularity": 5.711,
+    "credit_id": "52fe4271c3a36847f801f15f",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 11410,
+    "name": "Steven Kemper",
+    "popularity": 1.4,
+    "credit_id": "52fe4271c3a36847f801f165",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 14093,
+    "name": "Jonathan D. Krane",
+    "popularity": 0.916,
+    "credit_id": "5789de7fc3a36874730007db",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 56996,
+    "name": "Christopher Godsick",
+    "popularity": 0.6,
+    "credit_id": "5789dec0c3a3686a65004a35",
+    "department": "Production",
+    "job": "Producer"
+  }
+]

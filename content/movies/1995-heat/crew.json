@@ -1,0 +1,82 @@
+[
+  {
+    "id": 376,
+    "name": "Arnon Milchan",
+    "popularity": 3.664,
+    "credit_id": "56bf65e09251410bb0000d9f",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 638,
+    "name": "Michael Mann",
+    "popularity": 6.794,
+    "credit_id": "52fe4292c3a36847f802916d",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 638,
+    "name": "Michael Mann",
+    "popularity": 6.794,
+    "credit_id": "52fe4292c3a36847f802917f",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 639,
+    "name": "Pieter Jan Brugge",
+    "popularity": 1.997,
+    "credit_id": "56bf6596c3a368180a009a90",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 15841,
+    "name": "William Goldenberg",
+    "popularity": 2.188,
+    "credit_id": "52fe4292c3a36847f8029197",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 1047,
+    "name": "Tom Rolf",
+    "popularity": 2.323,
+    "credit_id": "52fe4292c3a36847f80291a3",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 1254,
+    "name": "Art Linson",
+    "popularity": 2.07,
+    "credit_id": "52fe4292c3a36847f8029179",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 11099,
+    "name": "Dante Spinotti",
+    "popularity": 5.369,
+    "credit_id": "52fe4292c3a36847f802918b",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 15840,
+    "name": "Pasquale Buba",
+    "popularity": 3.665,
+    "credit_id": "52fe4292c3a36847f8029191",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 15842,
+    "name": "Dov Hoenig",
+    "popularity": 1.77,
+    "credit_id": "52fe4292c3a36847f802919d",
+    "department": "Editing",
+    "job": "Editor"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1090,
+    "name": "John McTiernan",
+    "popularity": 5.889,
+    "credit_id": "52fe430ac3a36847f8036031",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 2209,
+    "name": "Jan de Bont",
+    "popularity": 7.355,
+    "credit_id": "52fe430ac3a36847f8036037",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 4611,
+    "name": "Mace Neufeld",
+    "popularity": 1.48,
+    "credit_id": "52fe430ac3a36847f803605f",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 5584,
+    "name": "Dennis Virkler",
+    "popularity": 0.608,
+    "credit_id": "52fe430ac3a36847f8036089",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 8752,
+    "name": "John Wright",
+    "popularity": 2.931,
+    "credit_id": "52fe430ac3a36847f803608f",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 66754,
+    "name": "Larry DeWaay",
+    "popularity": 1.138,
+    "credit_id": "52fe430ac3a36847f803607d",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 955091,
+    "name": "Jerry Sherlock",
+    "popularity": 0.98,
+    "credit_id": "52fe430ac3a36847f8036083",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

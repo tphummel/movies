@@ -1,0 +1,82 @@
+[
+  {
+    "id": 151,
+    "name": "Roger Deakins",
+    "popularity": 7.831,
+    "credit_id": "52fe446dc3a36847f8095825",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 1223,
+    "name": "Joel Coen",
+    "popularity": 7.78,
+    "credit_id": "52fe446dc3a36847f80957f5",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 1223,
+    "name": "Joel Coen",
+    "popularity": 7.78,
+    "credit_id": "568467eb9251414ecb00a6d2",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 1223,
+    "name": "Joel Coen",
+    "popularity": 7.78,
+    "credit_id": "52fe446dc3a36847f8095807",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1224,
+    "name": "Ethan Coen",
+    "popularity": 6.772,
+    "credit_id": "52fe446dc3a36847f80957fb",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 1224,
+    "name": "Ethan Coen",
+    "popularity": 6.772,
+    "credit_id": "52fe446dc3a36847f8095849",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 1224,
+    "name": "Ethan Coen",
+    "popularity": 6.772,
+    "credit_id": "52fe446dc3a36847f809580d",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 2997,
+    "name": "Scott Rudin",
+    "popularity": 1.732,
+    "credit_id": "52fe446dc3a36847f8095801",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 6488,
+    "name": "Mark Roybal",
+    "popularity": 0.608,
+    "credit_id": "52fe446dc3a36847f809581f",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 44482,
+    "name": "Robert Graf",
+    "popularity": 3.5,
+    "credit_id": "52fe446dc3a36847f8095819",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

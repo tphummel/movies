@@ -1,0 +1,3 @@
+---
+title: group of friends
+---

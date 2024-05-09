@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1090,
+    "name": "John McTiernan",
+    "popularity": 9.105,
+    "credit_id": "52fe4252c3a36847f8015429",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 1091,
+    "name": "Joel Silver",
+    "popularity": 5.627,
+    "credit_id": "52fe4252c3a36847f801547f",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1093,
+    "name": "Lawrence Gordon",
+    "popularity": 6.046,
+    "credit_id": "52fe4252c3a36847f8015473",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1099,
+    "name": "John F. Link",
+    "popularity": 0.694,
+    "credit_id": "52fe4252c3a36847f8015491",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 2209,
+    "name": "Jan de Bont",
+    "popularity": 9.313,
+    "credit_id": "52fe4252c3a36847f801548b",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 7715,
+    "name": "Frank J. Urioste",
+    "popularity": 2.844,
+    "credit_id": "52fe4252c3a36847f8015497",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 7681,
+    "name": "Charles Gordon",
+    "popularity": 1.696,
+    "credit_id": "52fe4252c3a36847f801546d",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 7713,
+    "name": "Beau Marks",
+    "popularity": 1.908,
+    "credit_id": "52fe4252c3a36847f8015479",
+    "department": "Production",
+    "job": "Producer"
+  }
+]

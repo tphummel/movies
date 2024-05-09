@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1060,
+    "name": "Dean Cundey",
+    "popularity": 9.176,
+    "credit_id": "52fe42e7c3a36847f802ba15",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 1767,
+    "name": "Todd C. Ramsay",
+    "popularity": 3.406,
+    "credit_id": "52fe42e7c3a36847f802ba1b",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 11770,
+    "name": "John Carpenter",
+    "popularity": 28.063,
+    "credit_id": "52fe42e7c3a36847f802b9eb",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 11813,
+    "name": "David Foster",
+    "popularity": 1.841,
+    "credit_id": "52fe42e7c3a36847f802b9fd",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 15408,
+    "name": "Wilbur Stark",
+    "popularity": 0.652,
+    "credit_id": "52fe42e7c3a36847f802ba09",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 10770,
+    "name": "Lawrence Turman",
+    "popularity": 1.833,
+    "credit_id": "54e637c8c3a3685fea0003f7",
+    "department": "Production",
+    "job": "Producer"
+  }
+]

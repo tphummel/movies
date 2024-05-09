@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1100,
+    "name": "Arnold Schwarzenegger",
+    "popularity": 22.743,
+    "cast_id": 1,
+    "order": 0,
+    "character": "The Terminator",
+    "credit_id": "52fe4231c3a36847f800b283"
+  },
+  {
+    "id": 2713,
+    "name": "Linda Hamilton",
+    "popularity": 19.56,
+    "cast_id": 3,
+    "order": 1,
+    "character": "Sarah Connor",
+    "credit_id": "52fe4231c3a36847f800b28d"
+  },
+  {
+    "id": 820,
+    "name": "Edward Furlong",
+    "popularity": 24.419,
+    "cast_id": 5,
+    "order": 2,
+    "character": "John Connor",
+    "credit_id": "52fe4231c3a36847f800b297"
+  },
+  {
+    "id": 418,
+    "name": "Robert Patrick",
+    "popularity": 22.522,
+    "cast_id": 6,
+    "order": 3,
+    "character": "T-1000",
+    "credit_id": "52fe4231c3a36847f800b29b"
+  },
+  {
+    "id": 3977,
+    "name": "Joe Morton",
+    "popularity": 16.743,
+    "cast_id": 8,
+    "order": 4,
+    "character": "Dr. Miles Bennett Dyson",
+    "credit_id": "52fe4231c3a36847f800b2a3"
+  },
+  {
+    "id": 2716,
+    "name": "Earl Boen",
+    "popularity": 5.561,
+    "cast_id": 7,
+    "order": 5,
+    "character": "Dr. Peter Silberman",
+    "credit_id": "52fe4231c3a36847f800b29f"
+  },
+  {
+    "id": 3978,
+    "name": "S. Epatha Merkerson",
+    "popularity": 7.241,
+    "cast_id": 9,
+    "order": 6,
+    "character": "Tarissa Dyson",
+    "credit_id": "52fe4231c3a36847f800b2a7"
+  },
+  {
+    "id": 3980,
+    "name": "Danny Cooksey",
+    "popularity": 8.483,
+    "cast_id": 11,
+    "order": 8,
+    "character": "Tim",
+    "credit_id": "52fe4231c3a36847f800b2af"
+  },
+  {
+    "id": 3981,
+    "name": "Jenette Goldstein",
+    "popularity": 8.791,
+    "cast_id": 12,
+    "order": 9,
+    "character": "Janelle Voight",
+    "credit_id": "52fe4231c3a36847f800b2b3"
+  },
+  {
+    "id": 3982,
+    "name": "Xander Berkeley",
+    "popularity": 11.27,
+    "cast_id": 13,
+    "order": 10,
+    "character": "Todd Voight",
+    "credit_id": "52fe4231c3a36847f800b2b7"
+  },
+  {
+    "id": 87317,
+    "name": "Nikki Cox",
+    "popularity": 15.648,
+    "cast_id": 56,
+    "order": 30,
+    "character": "Girl",
+    "credit_id": "56b15932c3a368622100168b"
+  },
+  {
+    "id": 14329,
+    "name": "Dean Norris",
+    "popularity": 27.46,
+    "cast_id": 61,
+    "order": 40,
+    "character": "SWAT Team Leader",
+    "credit_id": "56b15a2d9251412645000b21"
+  }
+]

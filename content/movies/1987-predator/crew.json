@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1090,
+    "name": "John McTiernan",
+    "popularity": 9.105,
+    "credit_id": "52fe4218c3a36847f8003b0d",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 1091,
+    "name": "Joel Silver",
+    "popularity": 5.627,
+    "credit_id": "52fe4218c3a36847f8003b13",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1092,
+    "name": "Jim Thomas",
+    "popularity": 10.062,
+    "credit_id": "5af095e5c3a368142400cb1d",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1093,
+    "name": "Lawrence Gordon",
+    "popularity": 6.046,
+    "credit_id": "52fe4218c3a36847f8003b1f",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1095,
+    "name": "Donald McAlpine",
+    "popularity": 2.538,
+    "credit_id": "52fe4218c3a36847f8003b31",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 1098,
+    "name": "Mark Helfrich",
+    "popularity": 1.976,
+    "credit_id": "52fe4218c3a36847f8003b49",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 1099,
+    "name": "John F. Link",
+    "popularity": 0.694,
+    "credit_id": "52fe4218c3a36847f8003b4f",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 2043,
+    "name": "John Davis",
+    "popularity": 7.818,
+    "credit_id": "5af096080e0a261d8c01459d",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 2038143,
+    "name": "Laurence Pereira",
+    "popularity": 0.6,
+    "credit_id": "5af095ca9251417688016480",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": 638,
+    "name": "Michael Mann",
+    "popularity": 9.238,
+    "credit_id": "52fe44d0c3a36847f80abaa3",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 638,
+    "name": "Michael Mann",
+    "popularity": 9.238,
+    "credit_id": "52fe44d0c3a36847f80ababb",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 639,
+    "name": "Pieter Jan Brugge",
+    "popularity": 2.199,
+    "credit_id": "52fe44d0c3a36847f80abab5",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 15841,
+    "name": "William Goldenberg",
+    "popularity": 1.456,
+    "credit_id": "52fe44d0c3a36847f80abad3",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 10816,
+    "name": "Paul Rubell",
+    "popularity": 0.734,
+    "credit_id": "52fe44d1c3a36847f80abadf",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 11099,
+    "name": "Dante Spinotti",
+    "popularity": 5.211,
+    "credit_id": "52fe44d0c3a36847f80abacd",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 17816,
+    "name": "David Rosenbloom",
+    "popularity": 0.698,
+    "credit_id": "52fe44d1c3a36847f80abad9",
+    "department": "Editing",
+    "job": "Editor"
+  }
+]

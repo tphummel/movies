@@ -1,0 +1,50 @@
+[
+  {
+    "id": 510,
+    "name": "Tim Burton",
+    "popularity": 21.14,
+    "credit_id": "52fe43abc3a36847f80666cf",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 6900,
+    "name": "Jane Kurson",
+    "popularity": 1.595,
+    "credit_id": "52fe43abc3a36847f806671b",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 12843,
+    "name": "Richard Hashimoto",
+    "popularity": 1.508,
+    "credit_id": "52fe43abc3a36847f8066703",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 29529,
+    "name": "Larry Wilson",
+    "popularity": 1.763,
+    "credit_id": "52fe43abc3a36847f8066709",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 35139,
+    "name": "Michael Bender",
+    "popularity": 0.968,
+    "credit_id": "52fe43abc3a36847f80666fd",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 11371,
+    "name": "Thomas E. Ackerman",
+    "popularity": 1.575,
+    "credit_id": "52fe43abc3a36847f8066715",
+    "department": "Camera",
+    "job": "Director of Photography"
+  }
+]

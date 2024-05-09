@@ -1,0 +1,50 @@
+[
+  {
+    "id": 10570,
+    "name": "Joseph M. Caracciolo Jr.",
+    "popularity": 2.939,
+    "credit_id": "52fe4500c3a36847f80b6d7f",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 10853,
+    "name": "Howard E. Smith",
+    "popularity": 0.982,
+    "credit_id": "52fe4501c3a36847f80b6d9d",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 20693,
+    "name": "Juan Ruiz Anchía",
+    "popularity": 1.454,
+    "credit_id": "52fe4501c3a36847f80b6d97",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 15890,
+    "name": "James Foley",
+    "popularity": 3.035,
+    "credit_id": "52fe4500c3a36847f80b6d6d",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 57753,
+    "name": "Jerry Tokofsky",
+    "popularity": 0.98,
+    "credit_id": "52fe4500c3a36847f80b6d85",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 57754,
+    "name": "Stanley R. Zupnik",
+    "popularity": 0.728,
+    "credit_id": "52fe4500c3a36847f80b6d8b",
+    "department": "Production",
+    "job": "Producer"
+  }
+]

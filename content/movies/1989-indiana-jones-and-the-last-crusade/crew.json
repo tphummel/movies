@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "George Lucas",
+    "popularity": 16.263,
+    "credit_id": "52fe4216c3a36847f8002e69",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 1,
+    "name": "George Lucas",
+    "popularity": 16.263,
+    "credit_id": "52fe4216c3a36847f8002e01",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 488,
+    "name": "Steven Spielberg",
+    "popularity": 25.735,
+    "credit_id": "52fe4216c3a36847f8002df5",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 493,
+    "name": "Michael Kahn",
+    "popularity": 1.511,
+    "credit_id": "52fe4216c3a36847f8002e63",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 664,
+    "name": "Frank Marshall",
+    "popularity": 3.721,
+    "credit_id": "52fe4216c3a36847f8002e07",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 666,
+    "name": "Douglas Slocombe",
+    "popularity": 1.4,
+    "credit_id": "52fe4216c3a36847f8002e5d",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 711,
+    "name": "Robert Watts",
+    "popularity": 1.4,
+    "credit_id": "52fe4216c3a36847f8002dfb",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 735,
+    "name": "Arthur F. Repola",
+    "popularity": 1.62,
+    "credit_id": "52fe4216c3a36847f8002e0d",
+    "department": "Production",
+    "job": "Producer"
+  }
+]

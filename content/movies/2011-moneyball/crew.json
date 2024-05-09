@@ -1,0 +1,82 @@
+[
+  {
+    "id": 287,
+    "name": "Brad Pitt",
+    "popularity": 58.252,
+    "credit_id": "5383b2540e0a2624bd00d335",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 559,
+    "name": "Wally Pfister",
+    "popularity": 4.718,
+    "credit_id": "52fe461fc3a368484e080133",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 2997,
+    "name": "Scott Rudin",
+    "popularity": 1.732,
+    "credit_id": "5383b37c0e0a26588c008b53",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 4767,
+    "name": "Michael De Luca",
+    "popularity": 9.171,
+    "credit_id": "5383b26d0e0a2657cd005ec9",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 5345,
+    "name": "Bennett Miller",
+    "popularity": 2.76,
+    "credit_id": "52fe461fc3a368484e0800b9",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 5361,
+    "name": "Christopher Tellefsen",
+    "popularity": 2.417,
+    "credit_id": "5383b4000e0a2624cb00cede",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 31270,
+    "name": "Rachael Horovitz",
+    "popularity": 0.648,
+    "credit_id": "5383b2f90e0a2624b400d632",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 35180,
+    "name": "Sidney Kimmel",
+    "popularity": 1.38,
+    "credit_id": "5383b3640e0a2624b700d714",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 64841,
+    "name": "Andrew S. Karsch",
+    "popularity": 1.609,
+    "credit_id": "5383b3530e0a26588c008b4f",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1324649,
+    "name": "Mark Bakshi",
+    "popularity": 2.673,
+    "credit_id": "5383b30d0e0a2657cd005ed6",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

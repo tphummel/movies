@@ -1,0 +1,42 @@
+[
+  {
+    "id": 578,
+    "name": "Ridley Scott",
+    "popularity": 9.61,
+    "credit_id": "52fe4214c3a36847f8002595",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 581,
+    "name": "Michael Deeley",
+    "popularity": 1.917,
+    "credit_id": "52fe4214c3a36847f800259b",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 594,
+    "name": "Jordan Cronenweth",
+    "popularity": 2.554,
+    "credit_id": "52fe4214c3a36847f80025c9",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 600,
+    "name": "Marsha Nakashima",
+    "popularity": 1.284,
+    "credit_id": "52fe4214c3a36847f80025ed",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 21918,
+    "name": "Run Run Shaw",
+    "popularity": 2.096,
+    "credit_id": "62f6691becbde9007d65c8b3",
+    "department": "Production",
+    "job": "Producer"
+  }
+]
