@@ -19,6 +19,7 @@ Given a TMBD movie ID render out a hugo post
 
 ```
 TMDB_API_KEY=abc123 ./node_modules/.bin/zx content/t/tmdb-to-movie.md --id 290859
+TMDB_API_KEY=abc123 ./node_modules/.bin/zx content/t/tmdb-to-movie.md --all
 ```
 
 - The process will exit 0 on success
