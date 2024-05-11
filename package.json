@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "cheerio": "^1.0.0-rc.12",
     "fetch-vcr": "^3.2.0",
     "zx": "^7.1.1"
   }
