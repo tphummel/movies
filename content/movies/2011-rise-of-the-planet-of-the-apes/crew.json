@@ -1,0 +1,74 @@
+[
+  {
+    "id": 77357,
+    "name": "Rupert Wyatt",
+    "popularity": 11.478,
+    "credit_id": "52fe4664c3a368484e08e21f",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 266920,
+    "name": "Peter Chernin",
+    "popularity": 3.664,
+    "credit_id": "5369fe9d0e0a2647cb0099e4",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 935717,
+    "name": "Dylan Clark",
+    "popularity": 4.061,
+    "credit_id": "5369feb70e0a2647c4009b8a",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 67802,
+    "name": "Rick Jaffa",
+    "popularity": 15.072,
+    "credit_id": "5369fed10e0a2647c4009b8d",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 67803,
+    "name": "Amanda Silver",
+    "popularity": 15.878,
+    "credit_id": "5369feef0e0a2647cb0099ec",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1313,
+    "name": "Andrew Lesnie",
+    "popularity": 9.329,
+    "credit_id": "5546f0a29251413fc0005052",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 3987,
+    "name": "Conrad Buff IV",
+    "popularity": 10.766,
+    "credit_id": "56795a49c3a36847420029ea",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 898,
+    "name": "Mark Goldblatt",
+    "popularity": 12.964,
+    "credit_id": "56795a60c3a368474a002854",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 58190,
+    "name": "Thomas M. Hammel",
+    "popularity": 7.23,
+    "credit_id": "65c5b7bb41eee10161951965",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]
