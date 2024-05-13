@@ -29,6 +29,7 @@ TMDB_API_KEY=abc123 ./node_modules/.bin/zx content/t/tmdb-to-movie.md --all
 
 ```js
 import fetch from 'fetch-vcr'
+import * as cheerio from 'cheerio'
 
 // certification list shows a reference of the mpaa style movie ratings that are available
 // const certUrl = `https://api.themoviedb.org/3/certification/movie/list\?api_key\=${process.env.TMDB_API_KEY}`
@@ -63,10 +64,9 @@ async function loadMovie (movie) {
     }
   })
   const rtData = await rtRes.text()
-  const rows = rtData.split('\n')
-  const rowIndex = rows.findIndex(i => /ld\+json/.test(i))
-  const jsonRow = rows[rowIndex + 1]
-  const ldJson = JSON.parse(jsonRow.replace(' ', ''))
+  const rtPage = cheerio.load(rtData)
+  const ldJsonTags = rtPage('script[type="application/ld+json"]')
+  const ldJson = JSON.parse(ldJsonTags[0].children[0].data)
   const rtScore = parseInt(ldJson.aggregateRating.ratingValue, 10)
   const rtReviewCount = ldJson.aggregateRating.reviewCount
 
@@ -77,23 +77,13 @@ async function loadMovie (movie) {
     }
   })
   const mcData = await mcRes.text()
-  // console.log(mcData)
-  const mcRows = mcData.split('\n')
-  // console.log(mcRows)
-  const startRowIndex = mcRows.findIndex(i => /ld\+json/.test(i))
-  // console.log(mcRows[startRowIndex])
-  const remainingRows = mcRows.slice(startRowIndex + 1)
-  const endRowIndex = remainingRows.findIndex(i => /\<\/script\>/.test(i))
-  // console.log(remainingRows[endRowIndex])
-  const mcLdJsonStartIndex = startRowIndex + 1
-  const mcLdJsonEndIndex = startRowIndex + endRowIndex + 1
-  // console.log({startRowIndex, mcLdJsonStartIndex, endRowIndex, mcLdJsonEndIndex})
-  const mcLdJsonString = mcRows.slice(mcLdJsonStartIndex, mcLdJsonEndIndex).join('')
-  // console.log(mcLdJsonString)
-  const mcJson = JSON.parse(mcLdJsonString)
-  // console.log(mcJson)
+  const mcPage = cheerio.load(mcData)
+  const mcLdJsonTags = mcPage('script[type="application/ld+json"]')
+  const mcJson = JSON.parse(mcLdJsonTags[0].children[0].data)
+
   const mcScore = parseInt(mcJson.aggregateRating.ratingValue, 10)
-  const mcReviewCount = parseInt(mcJson.aggregateRating.ratingCount, 10)
+  let mcReviewCount = mcJson.aggregateRating.ratingCount || mcJson.aggregateRating.reviewCount
+  mcReviewCount = parseInt(mcReviewCount, 10)
 
   const chronologicalReleases = releaseData.results
     .find(i => i.iso_3166_1 === 'US')
@@ -296,8 +286,12 @@ if (argv.all) {
   const [movieId] = argv._
   if (movieId) {
     const movie = allMovies.movies.find(m => m.tmdb_id === movieId)
-    console.log(`loading single movie: ${movie.tmdb_id} ${movie.name}`)
-    await loadMovie(movie)
+    if (!movie) {
+      console.log(`movie with id ${movieId} not found in movies.json file`)
+    } else {
+      console.log(`loading single movie: ${movie.tmdb_id} ${movie.name}`)
+      await loadMovie(movie)
+    }
   }
 }
 ```
