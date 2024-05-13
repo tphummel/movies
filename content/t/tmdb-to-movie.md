@@ -82,7 +82,8 @@ async function loadMovie (movie) {
   const mcJson = JSON.parse(mcLdJsonTags[0].children[0].data)
 
   const mcScore = parseInt(mcJson.aggregateRating.ratingValue, 10)
-  const mcReviewCount = parseInt(mcJson.aggregateRating.ratingCount, 10)
+  let mcReviewCount = mcJson.aggregateRating.ratingCount || mcJson.aggregateRating.reviewCount
+  mcReviewCount = parseInt(mcReviewCount, 10)
 
   const chronologicalReleases = releaseData.results
     .find(i => i.iso_3166_1 === 'US')

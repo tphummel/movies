@@ -1,7 +1,7 @@
 ---
 title: "Rise of the Planet of the Apes"
 title_alpha_sortable: "Rise of the Planet of the Apes"
-date: "2024-05-12T14:28:41.699Z"
+date: "2024-05-13T04:52:16.863Z"
 collections: ["new-apes"]
 budget_usd: 93000000
 tiers: []
@@ -11,7 +11,7 @@ imdb_id: "tt1318514"
 metacritic:
   slug: "rise-of-the-planet-of-the-apes"
   score: 68
-  review_count: NaN
+  review_count: 39
 rotten_tomatoes:
   slug: "rise_of_the_planet_of_the_apes"
   score: 82
