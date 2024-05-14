@@ -242,10 +242,10 @@ title: ${genre.name}
   for (const castMember of topCast) {
     const castMemberDir = `content/cast_members/${castMember.id}`
     await fs.outputFile(`${castMemberDir}/_index.md`, `---
-title: "${castMember.name}"
-name: "${castMember.name}"
+title: "${castMember.name.replace(/"/g, '\\"')}"
+name: "${castMember.name.replace(/"/g, '\\"')}"
 id: "${castMember.id}"
-original_name: "${castMember.original_name}"
+original_name: "${castMember.original_name.replace(/"/g, '\\"')}"
 known_for_department: "${castMember.known_for_department}"
 gender: "${castMember.gender}"
 adult: "${castMember.adult}"
