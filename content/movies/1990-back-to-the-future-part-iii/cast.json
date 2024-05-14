@@ -1,0 +1,110 @@
+[
+  {
+    "id": 521,
+    "name": "Michael J. Fox",
+    "popularity": 13.18,
+    "cast_id": 14,
+    "order": 0,
+    "character": "Marty McFly / Seamus McFly",
+    "credit_id": "52fe4225c3a36847f80078fd"
+  },
+  {
+    "id": 1062,
+    "name": "Christopher Lloyd",
+    "popularity": 36.574,
+    "cast_id": 15,
+    "order": 1,
+    "character": "Emmett Brown",
+    "credit_id": "52fe4225c3a36847f8007901"
+  },
+  {
+    "id": 1065,
+    "name": "Thomas F. Wilson",
+    "popularity": 17.57,
+    "cast_id": 17,
+    "order": 2,
+    "character": "Buford \"Mad Dog\" Tannen / Biff Tannen",
+    "credit_id": "52fe4225c3a36847f8007909"
+  },
+  {
+    "id": 2453,
+    "name": "Mary Steenburgen",
+    "popularity": 18.451,
+    "cast_id": 16,
+    "order": 3,
+    "character": "Clara Clayton",
+    "credit_id": "52fe4225c3a36847f8007905"
+  },
+  {
+    "id": 1063,
+    "name": "Lea Thompson",
+    "popularity": 12.947,
+    "cast_id": 18,
+    "order": 4,
+    "character": "Maggie McFly / Lorraine McFly",
+    "credit_id": "52fe4225c3a36847f800790d"
+  },
+  {
+    "id": 1951,
+    "name": "Elisabeth Shue",
+    "popularity": 35.594,
+    "cast_id": 19,
+    "order": 5,
+    "character": "Jennifer Parker",
+    "credit_id": "52fe4225c3a36847f8007911"
+  },
+  {
+    "id": 2454,
+    "name": "Matt Clark",
+    "popularity": 11.311,
+    "cast_id": 21,
+    "order": 6,
+    "character": "Bartender",
+    "credit_id": "52fe4225c3a36847f8007919"
+  },
+  {
+    "id": 15413,
+    "name": "Richard Dysart",
+    "popularity": 9.104,
+    "cast_id": 36,
+    "order": 7,
+    "character": "Barbwire Salesman",
+    "credit_id": "52fe4225c3a36847f8007959"
+  },
+  {
+    "id": 21460,
+    "name": "Pat Buttram",
+    "popularity": 7.815,
+    "cast_id": 37,
+    "order": 8,
+    "character": "Saloon Old Timer",
+    "credit_id": "52fe4225c3a36847f800795d"
+  },
+  {
+    "id": 4316,
+    "name": "Harry Carey, Jr.",
+    "popularity": 5.034,
+    "cast_id": 38,
+    "order": 9,
+    "character": "Saloon Old Timer",
+    "credit_id": "52fe4225c3a36847f8007961"
+  },
+  {
+    "id": 1072,
+    "name": "James Tolkan",
+    "popularity": 10.482,
+    "cast_id": 20,
+    "order": 11,
+    "character": "Marshal Strickland",
+    "credit_id": "52fe4225c3a36847f8007915"
+  },
+  {
+    "id": 1237,
+    "name": "Flea",
+    "popularity": 10.831,
+    "cast_id": 32,
+    "order": 22,
+    "character": "Needles",
+    "credit_id": "52fe4225c3a36847f8007949"
+  }
+]
