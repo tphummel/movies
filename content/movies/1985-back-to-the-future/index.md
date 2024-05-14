@@ -1,8 +1,8 @@
 ---
 title: "Back to the Future"
 title_alpha_sortable: "Back to the Future"
-date: "2022-11-08T00:27:22.272Z"
-collections: []
+date: "2024-05-14T05:16:27.531Z"
+collections: ["bttf"]
 budget_usd: 19000000
 tiers: []
 genres: [12,35,878]
