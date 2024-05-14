@@ -1,0 +1,66 @@
+[
+  {
+    "id": 578,
+    "name": "Ridley Scott",
+    "popularity": 43.062,
+    "credit_id": "52fe4ae9c3a368484e16d6c1",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 578,
+    "name": "Ridley Scott",
+    "popularity": 43.062,
+    "credit_id": "575d852f9251415dd20035e0",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 8401,
+    "name": "Mark Huffam",
+    "popularity": 7.237,
+    "credit_id": "575d8515925141536d0009ba",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 22498,
+    "name": "Michael Schaefer",
+    "popularity": 4.071,
+    "credit_id": "575d8524c3a3681351002dbd",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1723,
+    "name": "Walter Hill",
+    "popularity": 18.087,
+    "credit_id": "575d850cc3a36837910001e7",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 915,
+    "name": "David Giler",
+    "popularity": 12.485,
+    "credit_id": "575d8502925141189e00158c",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 120,
+    "name": "Dariusz Wolski",
+    "popularity": 4.992,
+    "credit_id": "575e81abc3a368455c00082e",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 950,
+    "name": "Pietro Scalia",
+    "popularity": 7.167,
+    "credit_id": "5a74f6cb0e0a26643302aad0",
+    "department": "Editing",
+    "job": "Editor"
+  }
+]

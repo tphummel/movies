@@ -1,8 +1,9 @@
 {
   "movies": [
     { "tmdb_id": 62, "mc_slug": "2001-a-space-odyssey", "rt_slug": "2001_a_space_odyssey", "name": "2001", "collections": []},
-    { "tmdb_id": 348, "mc_slug": "alien-1979", "rt_slug": "alien", "name": "alien", "collections": []},
-    { "tmdb_id": 679, "mc_slug": "aliens", "rt_slug": "1000617-aliens", "name": "aliens", "collections": []},
+    { "tmdb_id": 126889, "mc_slug": "alien-covenant", "rt_slug": "alien_covenant", "name": "Alien: Covenant", "collections": ["alien"]},
+    { "tmdb_id": 348, "mc_slug": "alien-1979", "rt_slug": "alien", "name": "alien", "collections": ["alien"]},
+    { "tmdb_id": 679, "mc_slug": "aliens", "rt_slug": "1000617-aliens", "name": "aliens", "collections": ["alien"]},
     { "tmdb_id": 568, "mc_slug": "apollo-13", "rt_slug": "apollo_13", "name": "Apollo 13", "collections": []},
     { "tmdb_id": 105, "mc_slug": "back-to-the-future", "rt_slug": "back_to_the_future", "name": "Back to the Future", "collections": ["bttf"]},
     { "tmdb_id": 165, "mc_slug": "back-to-the-future-part-ii", "rt_slug": "back_to_the_future_2", "name": "Back to the Future Part II", "collections": ["bttf"]},
@@ -34,6 +35,7 @@
     { "tmdb_id": 60308, "mc_slug": "moneyball", "rt_slug": "moneyball", "name": "moneyball", "collections": []},
     { "tmdb_id": 6977, "mc_slug": "no-country-for-old-men", "rt_slug": "no_country_for_old_men", "name": "no country for old men", "collections": ["unstoppable-evil"]},
     { "tmdb_id": 106, "mc_slug": "predator", "rt_slug": "predator", "name": "predator", "collections": []},
+    { "tmdb_id": 70981, "mc_slug": "prometheus", "rt_slug": "prometheus_2012", "name": "prometheus", "collections": ["alien"]},
     { "tmdb_id": 539, "mc_slug": "psycho-1960", "rt_slug": "psycho", "name": "psycho", "collections": []},
     { "tmdb_id": 85, "mc_slug": "raiders-of-the-lost-ark", "rt_slug": "raiders_of_the_lost_ark", "name": "Raiders of the Lost Ark", "collections": []},
     { "tmdb_id": 61791, "mc_slug": "rise-of-the-planet-of-the-apes", "rt_slug": "rise_of_the_planet_of_the_apes", "name": "Rise of the Planet of the Apes", "collections": ["new-apes"]},
