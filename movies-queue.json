@@ -1,6 +1,5 @@
 {
   "queue": [
-    { "tmdb_id": 37799, "mc_slug": "the-social-network", "rt_slug": "the-social-network", "name": "social network", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "a few good men", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "as good as it gets", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "the abyss", "collections": []},
