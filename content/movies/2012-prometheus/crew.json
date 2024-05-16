@@ -1,0 +1,98 @@
+[
+  {
+    "id": 578,
+    "name": "Ridley Scott",
+    "popularity": 43.062,
+    "credit_id": "52fe481dc3a368484e0e9ddb",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 28974,
+    "name": "Damon Lindelof",
+    "popularity": 10.965,
+    "credit_id": "52fe481dc3a368484e0e9e19",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 1018939,
+    "name": "Michael Ellenberg",
+    "popularity": 1.369,
+    "credit_id": "52fe481dc3a368484e0e9dff",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1723,
+    "name": "Walter Hill",
+    "popularity": 18.087,
+    "credit_id": "52fe481dc3a368484e0e9ded",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 8401,
+    "name": "Mark Huffam",
+    "popularity": 7.237,
+    "credit_id": "52fe481dc3a368484e0e9df9",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 564940,
+    "name": "Jon Spaihts",
+    "popularity": 13.588,
+    "credit_id": "52fe481dc3a368484e0e9e0d",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 950,
+    "name": "Pietro Scalia",
+    "popularity": 7.167,
+    "credit_id": "52fe481dc3a368484e0e9dab",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 28974,
+    "name": "Damon Lindelof",
+    "popularity": 10.965,
+    "credit_id": "52fe481dc3a368484e0e9e13",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 578,
+    "name": "Ridley Scott",
+    "popularity": 43.062,
+    "credit_id": "52fe481dc3a368484e0e9d95",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 120,
+    "name": "Dariusz Wolski",
+    "popularity": 4.992,
+    "credit_id": "52fe481dc3a368484e0e9da5",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 40374,
+    "name": "Michael Costigan",
+    "popularity": 7.249,
+    "credit_id": "52fe481dc3a368484e0e9df3",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 915,
+    "name": "David Giler",
+    "popularity": 12.485,
+    "credit_id": "55385f6892514138a9001233",
+    "department": "Production",
+    "job": "Producer"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "id": 43387,
+    "name": "Joshua Astrachan",
+    "popularity": 0.6,
+    "credit_id": "60060a83b0040a003f957054",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 77107,
+    "name": "Alan Pao",
+    "popularity": 1.137,
+    "credit_id": "60060ba1b0040a003f95729e",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 77109,
+    "name": "Corey Large",
+    "popularity": 4.731,
+    "credit_id": "60060bb3223e20003fbcd629",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 463602,
+    "name": "Mike Gioulakis",
+    "popularity": 2.28,
+    "credit_id": "548972e292514161c7001429",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 558929,
+    "name": "David Robert Mitchell",
+    "popularity": 5.379,
+    "credit_id": "537770b20e0a261431002299",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 558929,
+    "name": "David Robert Mitchell",
+    "popularity": 5.379,
+    "credit_id": "60060a5651f99a003f6ae341",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 937872,
+    "name": "Erik Rommesmo",
+    "popularity": 0.6,
+    "credit_id": "54897467c3a3686f580013c5",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 937874,
+    "name": "Jeff Schlossman",
+    "popularity": 0.6,
+    "credit_id": "60060a9f30f79c003e0e91a1",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 971868,
+    "name": "Julio Perez IV",
+    "popularity": 1.4,
+    "credit_id": "548972eec3a3686f5500146a",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 1099032,
+    "name": "Laura D. Smith",
+    "popularity": 0.6,
+    "credit_id": "5489747992514161dc0013e2",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1301689,
+    "name": "Mia Chang",
+    "popularity": 1.048,
+    "credit_id": "60060bc0e942ee003ce6e410",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1353534,
+    "name": "Frederick W. Green",
+    "popularity": 0.6,
+    "credit_id": "60060a75e942ee003ee76f78",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1397714,
+    "name": "Rebecca Green",
+    "popularity": 0.648,
+    "credit_id": "548972fe92514161dc0013a4",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1397717,
+    "name": "David Kaplan",
+    "popularity": 1.294,
+    "credit_id": "548974b6c3a3686f580013cd",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1619917,
+    "name": "P. Jennifer Dana",
+    "popularity": 0.98,
+    "credit_id": "60060a8e4ca67600400baaaf",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1884686,
+    "name": "Bill Wallwork",
+    "popularity": 0.6,
+    "credit_id": "60060aac420228003ef1bec4",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

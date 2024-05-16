@@ -1,0 +1,74 @@
+[
+  {
+    "id": 7475,
+    "name": "Ceán Chaffin",
+    "popularity": 10.096,
+    "credit_id": "52fe466f9251416c91054717",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 4767,
+    "name": "Michael De Luca",
+    "popularity": 11.5,
+    "credit_id": "52fe466f9251416c91054711",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 7467,
+    "name": "David Fincher",
+    "popularity": 18.792,
+    "credit_id": "52fe466f9251416c91054741",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 54417,
+    "name": "Dana Brunetti",
+    "popularity": 8.896,
+    "credit_id": "52fe466f9251416c9105470b",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1979,
+    "name": "Kevin Spacey",
+    "popularity": 32.269,
+    "credit_id": "52fe466f9251416c9105471d",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 2997,
+    "name": "Scott Rudin",
+    "popularity": 9.326,
+    "credit_id": "52fe466f9251416c91054705",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 7479,
+    "name": "Jeff Cronenweth",
+    "popularity": 3.491,
+    "credit_id": "53266b30925141652a002961",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 17455,
+    "name": "Angus Wall",
+    "popularity": 5.232,
+    "credit_id": "5644cb17c3a36870d600629a",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 964726,
+    "name": "Kirk Baxter",
+    "popularity": 5.704,
+    "credit_id": "5644caeac3a36870dd006557",
+    "department": "Editing",
+    "job": "Editor"
+  }
+]
