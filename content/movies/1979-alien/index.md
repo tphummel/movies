@@ -1,8 +1,8 @@
 ---
 title: "Alien"
 title_alpha_sortable: "Alien"
-date: "2022-11-08T00:27:22.225Z"
-collections: []
+date: "2024-05-16T14:10:07.051Z"
+collections: ["alien"]
 budget_usd: 11000000
 tiers: []
 genres: [27,878]
