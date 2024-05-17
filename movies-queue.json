@@ -2,7 +2,6 @@
   "queue": [
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "a few good men", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "as good as it gets", "collections": []},
-    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "the abyss", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "the aviator", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "backdraft", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "braveheart", "collections": []},
