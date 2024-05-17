@@ -1,0 +1,98 @@
+[
+  {
+    "id": 963669,
+    "name": "Shannon McIntosh",
+    "popularity": 3.826,
+    "credit_id": "52fe479fc3a368484e0d137f",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1003189,
+    "name": "Pilar Savone",
+    "popularity": 2.802,
+    "credit_id": "52fe479fc3a368484e0d12fb",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 138,
+    "name": "Quentin Tarantino",
+    "popularity": 61.411,
+    "credit_id": "52fe479fc3a368484e0d12d7",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 149,
+    "name": "Robert Richardson",
+    "popularity": 5.036,
+    "credit_id": "52fe479fc3a368484e0d1385",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 4701,
+    "name": "James W. Skotchdopole",
+    "popularity": 2.683,
+    "credit_id": "52fe479fc3a368484e0d1373",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 5381,
+    "name": "Michael Shamberg",
+    "popularity": 7.879,
+    "credit_id": "52fe479fc3a368484e0d1379",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 59839,
+    "name": "Harvey Weinstein",
+    "popularity": 17.414,
+    "credit_id": "52fe479fc3a368484e0d135b",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 5382,
+    "name": "Stacey Sher",
+    "popularity": 8.559,
+    "credit_id": "52fe479fc3a368484e0d1301",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1307,
+    "name": "Bob Weinstein",
+    "popularity": 6.029,
+    "credit_id": "52fe479fc3a368484e0d136d",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 68215,
+    "name": "Reginald Hudlin",
+    "popularity": 11.337,
+    "credit_id": "52fe479fc3a368484e0d12f5",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 58194,
+    "name": "Fred Raskin",
+    "popularity": 5.596,
+    "credit_id": "52fe479fc3a368484e0d138b",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 138,
+    "name": "Quentin Tarantino",
+    "popularity": 61.411,
+    "credit_id": "5e840ff8cb6db50013a6b8d4",
+    "department": "Directing",
+    "job": "Director"
+  }
+]

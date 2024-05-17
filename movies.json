@@ -16,6 +16,7 @@
     { "tmdb_id": 22970, "mc_slug": "the-cabin-in-the-woods", "rt_slug": "the_cabin_in_the_woods", "name": "The Cabin in the Woods", "collections": []},
     { "tmdb_id": 1538, "mc_slug": "collateral", "rt_slug": "collateral", "name": "Collateral", "collections": []},
     { "tmdb_id": 562, "mc_slug": "die-hard", "rt_slug": "die_hard", "name": "die hard", "collections": []},
+    { "tmdb_id": 68718, "mc_slug": "django-unchained", "rt_slug": "django_unchained_2012", "name": "django unchained", "collections": []},
     { "tmdb_id": 1103, "mc_slug": "escape-from-new-york", "rt_slug": "1006717-escape_from_new_york", "name": "escape from ny", "collections": []},
     { "tmdb_id": 754, "mc_slug": "faceoff", "rt_slug": "faceoff", "name": "face/off", "collections": []},
     { "tmdb_id": 1368, "mc_slug": "first-blood", "rt_slug": "first_blood", "name": "first blood", "collections": []},
