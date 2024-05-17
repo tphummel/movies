@@ -41,7 +41,7 @@
 {{ end }}
 
 <ul>
-{{ range first 5 (sort $sortable "count" "desc") }}
+{{ range first 25 (sort $sortable "count" "desc") }}
   {{ $count := .count }}
   {{ with $.Site.GetPage (printf "/cast_members/%s" .key) }}
       <li><a href="{{ .Permalink }}">{{ .Title }} </a><sup>{{ $count }}</sup></li>
