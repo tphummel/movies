@@ -1,0 +1,470 @@
+[
+  {
+    "id": 134,
+    "name": "Jamie Foxx",
+    "popularity": 30.189,
+    "cast_id": 6,
+    "order": 0,
+    "character": "Django Freeman",
+    "credit_id": "52fe479fc3a368484e0d12e3"
+  },
+  {
+    "id": 27319,
+    "name": "Christoph Waltz",
+    "popularity": 33.865,
+    "cast_id": 5,
+    "order": 1,
+    "character": "Dr. King Schultz",
+    "credit_id": "52fe479fc3a368484e0d12df"
+  },
+  {
+    "id": 6193,
+    "name": "Leonardo DiCaprio",
+    "popularity": 63.836,
+    "cast_id": 3,
+    "order": 2,
+    "character": "Calvin J. Candie",
+    "credit_id": "52fe479fc3a368484e0d12db"
+  },
+  {
+    "id": 11703,
+    "name": "Kerry Washington",
+    "popularity": 36.315,
+    "cast_id": 13,
+    "order": 3,
+    "character": "Broomhilda von Shaft",
+    "credit_id": "52fe479fc3a368484e0d12ef"
+  },
+  {
+    "id": 2231,
+    "name": "Samuel L. Jackson",
+    "popularity": 70.172,
+    "cast_id": 12,
+    "order": 4,
+    "character": "Stephen",
+    "credit_id": "52fe479fc3a368484e0d12eb"
+  },
+  {
+    "id": 27740,
+    "name": "Walton Goggins",
+    "popularity": 55.887,
+    "cast_id": 45,
+    "order": 5,
+    "character": "Billy Crash",
+    "credit_id": "52fe479fc3a368484e0d135f"
+  },
+  {
+    "id": 27770,
+    "name": "Dennis Christopher",
+    "popularity": 21.854,
+    "cast_id": 27,
+    "order": 6,
+    "character": "Leonide Moguy",
+    "credit_id": "52fe479fc3a368484e0d1315"
+  },
+  {
+    "id": 1736,
+    "name": "James Remar",
+    "popularity": 45.491,
+    "cast_id": 18,
+    "order": 7,
+    "character": "Butch Pooch / Ace Speck",
+    "credit_id": "52fe479fc3a368484e0d1305"
+  },
+  {
+    "id": 1067187,
+    "name": "David Steen",
+    "popularity": 8.362,
+    "cast_id": 28,
+    "order": 8,
+    "character": "Mr. Stonesipher",
+    "credit_id": "52fe479fc3a368484e0d1319"
+  },
+  {
+    "id": 1133063,
+    "name": "Dana Gourrier",
+    "popularity": 13.709,
+    "cast_id": 29,
+    "order": 9,
+    "character": "Cora",
+    "credit_id": "52fe479fc3a368484e0d131d"
+  },
+  {
+    "id": 1037108,
+    "name": "Nichole Galicia",
+    "popularity": 12.537,
+    "cast_id": 30,
+    "order": 10,
+    "character": "Sheba",
+    "credit_id": "52fe479fc3a368484e0d1321"
+  },
+  {
+    "id": 5377,
+    "name": "Ato Essandoh",
+    "popularity": 12.82,
+    "cast_id": 32,
+    "order": 12,
+    "character": "D'Artagnan",
+    "credit_id": "52fe479fc3a368484e0d1329"
+  },
+  {
+    "id": 25129,
+    "name": "Don Johnson",
+    "popularity": 29.384,
+    "cast_id": 19,
+    "order": 17,
+    "character": "Spencer \"Big Daddy\" Bennett",
+    "credit_id": "52fe479fc3a368484e0d1309"
+  },
+  {
+    "id": 22383,
+    "name": "Franco Nero",
+    "popularity": 25.575,
+    "cast_id": 34,
+    "order": 18,
+    "character": "Amerigo Vessepi",
+    "credit_id": "52fe479fc3a368484e0d1331"
+  },
+  {
+    "id": 785,
+    "name": "James Russo",
+    "popularity": 31.171,
+    "cast_id": 21,
+    "order": 19,
+    "character": "Dicky Speck",
+    "credit_id": "52fe479fc3a368484e0d130d"
+  },
+  {
+    "id": 114293,
+    "name": "Tom Wopat",
+    "popularity": 18.445,
+    "cast_id": 35,
+    "order": 20,
+    "character": "U.S. Marshall Gill Tatum",
+    "credit_id": "52fe479fc3a368484e0d1335"
+  },
+  {
+    "id": 69494,
+    "name": "Don Stroud",
+    "popularity": 21.082,
+    "cast_id": 36,
+    "order": 21,
+    "character": "Sheriff Bill Sharp",
+    "credit_id": "52fe479fc3a368484e0d1339"
+  },
+  {
+    "id": 20354,
+    "name": "Amber Tamblyn",
+    "popularity": 29.014,
+    "cast_id": 125,
+    "order": 22,
+    "character": "Daughter of a Son of a Gunfighter",
+    "credit_id": "561f8f8d92514171d40032f8"
+  },
+  {
+    "id": 6905,
+    "name": "Bruce Dern",
+    "popularity": 46.12,
+    "cast_id": 124,
+    "order": 23,
+    "character": "Old Man Carrucan",
+    "credit_id": "561f8f7a9251417f470016a3"
+  },
+  {
+    "id": 22132,
+    "name": "M.C. Gainey",
+    "popularity": 13.2,
+    "cast_id": 22,
+    "order": 24,
+    "character": "Big John Brittle",
+    "credit_id": "52fe479fc3a368484e0d1311"
+  },
+  {
+    "id": 156653,
+    "name": "Cooper Huckabee",
+    "popularity": 12.989,
+    "cast_id": 127,
+    "order": 25,
+    "character": "Lil Raj Brittle",
+    "credit_id": "56770ab492514179db006756"
+  },
+  {
+    "id": 21007,
+    "name": "Jonah Hill",
+    "popularity": 27.887,
+    "cast_id": 40,
+    "order": 27,
+    "character": "Bag Head #2",
+    "credit_id": "52fe479fc3a368484e0d1349"
+  },
+  {
+    "id": 47859,
+    "name": "Lee Horsley",
+    "popularity": 22.759,
+    "cast_id": 129,
+    "order": 28,
+    "character": "Sheriff Gus (Snowy Snow)",
+    "credit_id": "56770b3e92514179e1006618"
+  },
+  {
+    "id": 20494,
+    "name": "Zoë Bell",
+    "popularity": 16.437,
+    "cast_id": 68,
+    "order": 29,
+    "character": "Tracker",
+    "credit_id": "52fe479fc3a368484e0d13d5"
+  },
+  {
+    "id": 2234,
+    "name": "Michael Bowen",
+    "popularity": 24.494,
+    "cast_id": 69,
+    "order": 30,
+    "character": "Tracker",
+    "credit_id": "52fe479fc3a368484e0d13d9"
+  },
+  {
+    "id": 62036,
+    "name": "Robert Carradine",
+    "popularity": 19.979,
+    "cast_id": 130,
+    "order": 31,
+    "character": "Tracker",
+    "credit_id": "56770ba892514179e1006628"
+  },
+  {
+    "id": 72739,
+    "name": "Ted Neeley",
+    "popularity": 13.037,
+    "cast_id": 131,
+    "order": 33,
+    "character": "Tracker",
+    "credit_id": "56770bc992514179db006778"
+  },
+  {
+    "id": 87312,
+    "name": "James Parks",
+    "popularity": 10.624,
+    "cast_id": 73,
+    "order": 34,
+    "character": "Tracker",
+    "credit_id": "52fe479fc3a368484e0d13e9"
+  },
+  {
+    "id": 11161,
+    "name": "Tom Savini",
+    "popularity": 17.458,
+    "cast_id": 132,
+    "order": 35,
+    "character": "Tracker",
+    "credit_id": "56770be592514179d40067cd"
+  },
+  {
+    "id": 2536,
+    "name": "Michael Parks",
+    "popularity": 21.414,
+    "cast_id": 41,
+    "order": 36,
+    "character": "The LeQuint Dickey Mining Co. Employee",
+    "credit_id": "52fe479fc3a368484e0d134d"
+  },
+  {
+    "id": 45210,
+    "name": "John Jarratt",
+    "popularity": 10.402,
+    "cast_id": 74,
+    "order": 37,
+    "character": "The Le Quint Dickey Mining Co. Employee",
+    "credit_id": "538c1f280e0a266712003842"
+  },
+  {
+    "id": 95979,
+    "name": "Louise Stratten",
+    "popularity": 18.264,
+    "cast_id": 139,
+    "order": 44,
+    "character": "Daughtrey Saloon Girl",
+    "credit_id": "56770dc292514179d200686a"
+  },
+  {
+    "id": 5150,
+    "name": "Kim Robillard",
+    "popularity": 13.627,
+    "cast_id": 140,
+    "order": 45,
+    "character": "Saloon Keeper Pete",
+    "credit_id": "56770ddac3a36816800066b4"
+  },
+  {
+    "id": 1116951,
+    "name": "Jack Lucarelli",
+    "popularity": 10.373,
+    "cast_id": 143,
+    "order": 48,
+    "character": "Daughtrey Rifleman",
+    "credit_id": "56770e5492514179e700655e"
+  },
+  {
+    "id": 1173099,
+    "name": "Christopher Berry",
+    "popularity": 24.368,
+    "cast_id": 147,
+    "order": 52,
+    "character": "Willard",
+    "credit_id": "56770ebcc3a3681685006872"
+  },
+  {
+    "id": 60874,
+    "name": "Dane Rhodes",
+    "popularity": 11.055,
+    "cast_id": 149,
+    "order": 54,
+    "character": "Tennessee Redfish",
+    "credit_id": "56770f0cc3a36816830065db"
+  },
+  {
+    "id": 129868,
+    "name": "J.D. Evermore",
+    "popularity": 13.54,
+    "cast_id": 150,
+    "order": 55,
+    "character": "O.D.",
+    "credit_id": "56770f20c3a36816800066d5"
+  },
+  {
+    "id": 16937,
+    "name": "Rex Linn",
+    "popularity": 38.061,
+    "cast_id": 151,
+    "order": 56,
+    "character": "Tennessee Harry",
+    "credit_id": "56770f3792514179d20068a5"
+  },
+  {
+    "id": 2141,
+    "name": "Ned Bellamy",
+    "popularity": 10.19,
+    "cast_id": 154,
+    "order": 59,
+    "character": "Wilson",
+    "credit_id": "56770f7a92514179d20068af"
+  },
+  {
+    "id": 231857,
+    "name": "Jon Eyez",
+    "popularity": 13.412,
+    "cast_id": 157,
+    "order": 62,
+    "character": "",
+    "credit_id": "56770fd5925141691a002e52"
+  },
+  {
+    "id": 59844,
+    "name": "Omar J. Dorsey",
+    "popularity": 16.449,
+    "cast_id": 158,
+    "order": 63,
+    "character": "Chicken Charlie",
+    "credit_id": "56770fee92514179e7006587"
+  },
+  {
+    "id": 3493,
+    "name": "Evan Parke",
+    "popularity": 12.123,
+    "cast_id": 159,
+    "order": 64,
+    "character": "Baghead",
+    "credit_id": "5677100492514179e30064f6"
+  },
+  {
+    "id": 183519,
+    "name": "Craig Stark",
+    "popularity": 12.117,
+    "cast_id": 160,
+    "order": 65,
+    "character": "Tommy Gilles",
+    "credit_id": "5677101f92514179db0067ed"
+  },
+  {
+    "id": 52885,
+    "name": "Ritchie Montgomery",
+    "popularity": 13.826,
+    "cast_id": 162,
+    "order": 67,
+    "character": "Overseer Johnny Jerome",
+    "credit_id": "5677106692514179e30064ff"
+  },
+  {
+    "id": 1292475,
+    "name": "Nicholas Dashnaw",
+    "popularity": 13.769,
+    "cast_id": 163,
+    "order": 68,
+    "character": "Baghead",
+    "credit_id": "5677108592514179e10066c2"
+  },
+  {
+    "id": 21484,
+    "name": "Todd Allen",
+    "popularity": 15.694,
+    "cast_id": 168,
+    "order": 73,
+    "character": "Dollar Bill",
+    "credit_id": "5677112fc3a368168b006311"
+  },
+  {
+    "id": 36041,
+    "name": "Lewis Smith",
+    "popularity": 13.804,
+    "cast_id": 169,
+    "order": 74,
+    "character": "Jinglebells Cody",
+    "credit_id": "5677114bc3a368167a006e5b"
+  },
+  {
+    "id": 187946,
+    "name": "Marsha Stephanie Blake",
+    "popularity": 15.028,
+    "cast_id": 186,
+    "order": 82,
+    "character": "House Slave (uncredited)",
+    "credit_id": "5703ea06925141566c000032"
+  },
+  {
+    "id": 1292479,
+    "name": "Deborah Ayorinde",
+    "popularity": 22.033,
+    "cast_id": 188,
+    "order": 84,
+    "character": "Cleopatra Pony (uncredited)",
+    "credit_id": "5703ea76c3a36861d900003f"
+  },
+  {
+    "id": 68180,
+    "name": "Gary Grubbs",
+    "popularity": 15.283,
+    "cast_id": 205,
+    "order": 99,
+    "character": "Bob Gibbs (uncredited)",
+    "credit_id": "5703f06ac3a36869740000dd"
+  },
+  {
+    "id": 64136,
+    "name": "Misty Upham",
+    "popularity": 11.575,
+    "cast_id": 219,
+    "order": 108,
+    "character": "Minnie (uncredited)",
+    "credit_id": "5703f5adc3a368698200019e"
+  },
+  {
+    "id": 6725,
+    "name": "Russ Tamblyn",
+    "popularity": 27.286,
+    "cast_id": 245,
+    "order": 109,
+    "character": "Son of a Gunfighter",
+    "credit_id": "618008c2cb6db500622bbfb4"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 2710,
+    "name": "James Cameron",
+    "popularity": 39.9,
+    "credit_id": "52fe436ac3a36847f80528c5",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 869,
+    "name": "Gale Anne Hurd",
+    "popularity": 10.91,
+    "credit_id": "52fe436ac3a36847f80528d1",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 30148,
+    "name": "Van Ling",
+    "popularity": 4.944,
+    "credit_id": "52fe436ac3a36847f80528d7",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 30149,
+    "name": "Mikael Salomon",
+    "popularity": 6.055,
+    "credit_id": "52fe436ac3a36847f80528e3",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 3987,
+    "name": "Conrad Buff IV",
+    "popularity": 4.726,
+    "credit_id": "53919c6b0e0a260fc5001631",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 64196,
+    "name": "Joel Goodman",
+    "popularity": 2.035,
+    "credit_id": "53919c910e0a260fc9001609",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 10853,
+    "name": "Howard E. Smith",
+    "popularity": 2.627,
+    "credit_id": "53919cb40e0a260fb1001752",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 93214,
+    "name": "Steven Quale",
+    "popularity": 6.063,
+    "credit_id": "5e70e0db357c00001346f67e",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 2710,
+    "name": "James Cameron",
+    "popularity": 39.9,
+    "credit_id": "6574421dbbe1dd00c40bec80",
+    "department": "Writing",
+    "job": "Writer"
+  }
+]

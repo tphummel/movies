@@ -1,0 +1,34 @@
+[
+  {
+    "id": 3351,
+    "name": "Lucien Ballard",
+    "popularity": 7.189,
+    "credit_id": "52fe4254c3a36847f8015ea1",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 7767,
+    "name": "Sam Peckinpah",
+    "popularity": 16.665,
+    "credit_id": "52fe4254c3a36847f8015e7f",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 7770,
+    "name": "Lou Lombardo",
+    "popularity": 2.318,
+    "credit_id": "52fe4254c3a36847f8015ea7",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 7768,
+    "name": "Phil Feldman",
+    "popularity": 5.649,
+    "credit_id": "52fe4254c3a36847f8015e95",
+    "department": "Production",
+    "job": "Producer"
+  }
+]
