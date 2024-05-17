@@ -1,0 +1,58 @@
+[
+  {
+    "id": 3904,
+    "name": "Lee Smith",
+    "popularity": 4.387,
+    "credit_id": "52fe440dc3a36847f807f8fb",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 7413,
+    "name": "Mark Irwin",
+    "popularity": 2.782,
+    "credit_id": "52fe440dc3a36847f807f8e9",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 7723,
+    "name": "Jon Davison",
+    "popularity": 2.06,
+    "credit_id": "52fe440dc3a36847f807f941",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 21271,
+    "name": "Armen Minasian",
+    "popularity": 1.553,
+    "credit_id": "52fe440dc3a36847f807f8ef",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 10930,
+    "name": "Irvin Kershner",
+    "popularity": 6.084,
+    "credit_id": "52fe440dc3a36847f807f8c5",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 25600,
+    "name": "Patrick Crowley",
+    "popularity": 4.25,
+    "credit_id": "54e5f1789251410a0100237a",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 44046,
+    "name": "Deborah Zeitman",
+    "popularity": 0.6,
+    "credit_id": "52fe440dc3a36847f807f901",
+    "department": "Editing",
+    "job": "Editor"
+  }
+]
