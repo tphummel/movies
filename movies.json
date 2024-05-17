@@ -50,6 +50,7 @@
     { "tmdb_id": 1091, "mc_slug": "the-thing-1982", "rt_slug": "1021244-thing", "name": "the thing", "collections": []},
     { "tmdb_id": 33, "mc_slug": "unforgiven", "rt_slug": "1041911-unforgiven", "name": "unforgiven", "collections": []},
     { "tmdb_id": 44048, "mc_slug": "unstoppable", "rt_slug": "unstoppable-2010", "name": "Unstoppable", "collections": []},
-    { "tmdb_id": 244786, "mc_slug": "whiplash", "rt_slug": "whiplash_2014", "name": "whiplash", "collections": []} 
+    { "tmdb_id": 244786, "mc_slug": "whiplash", "rt_slug": "whiplash_2014", "name": "whiplash", "collections": []},
+    { "tmdb_id": 576, "mc_slug": "the-wild-bunch", "rt_slug": "1059489-wild_bunch", "name": "the wild bunch", "collections": []}
   ]
 }
