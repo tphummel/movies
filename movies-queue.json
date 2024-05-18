@@ -17,7 +17,7 @@
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "demolition man", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "the departed", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "die hard 2", "collections": []},
-    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "dumb and dumber", "collections": []}
+    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "dumb and dumber", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "dunkirk", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "first man", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "fletch", "collections": []},
@@ -43,7 +43,6 @@
     { "tmdb_id": 766507, "mc_slug": "", "rt_slug": "", "name": "prey", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "remember the titans", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "robocop new", "collections": []},
-    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "rogue one", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "the rock", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "saving private ryan", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "speed", "collections": []},
@@ -54,8 +53,8 @@
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "top gun maverick", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "the town", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "the warriors", "collections": []},
-    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "waynes world", "collections": []}
-    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "waynes world 2", "collections": []}
+    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "waynes world", "collections": []},
+    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "waynes world 2", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "when harry met sally", "collections": []}
   ]
 }
