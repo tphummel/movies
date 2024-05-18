@@ -1,0 +1,66 @@
+[
+  {
+    "id": 8863,
+    "name": "David E. Blewitt",
+    "popularity": 2.129,
+    "credit_id": "52fe425fc3a36847f801925d",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 8859,
+    "name": "Bernie Brillstein",
+    "popularity": 5.192,
+    "credit_id": "52fe425fc3a36847f8019245",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 8858,
+    "name": "Ivan Reitman",
+    "popularity": 11.131,
+    "credit_id": "52fe425fc3a36847f801922d",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 57601,
+    "name": "Joe Medjuck",
+    "popularity": 9.7,
+    "credit_id": "52fe425fc3a36847f80192b7",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 7068,
+    "name": "Sheldon Kahn",
+    "popularity": 7.409,
+    "credit_id": "52fe425fc3a36847f8019263",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 8860,
+    "name": "Michael C. Gross",
+    "popularity": 2.969,
+    "credit_id": "52fe425fc3a36847f801924b",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 8858,
+    "name": "Ivan Reitman",
+    "popularity": 11.131,
+    "credit_id": "52fe425fc3a36847f801923f",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 8862,
+    "name": "László Kovács",
+    "popularity": 4.578,
+    "credit_id": "52fe425fc3a36847f8019257",
+    "department": "Camera",
+    "job": "Director of Photography"
+  }
+]

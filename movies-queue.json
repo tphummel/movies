@@ -17,14 +17,15 @@
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "demolition man", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "the departed", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "die hard 2", "collections": []},
+    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "dumb and dumber", "collections": []}
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "dunkirk", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "first man", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "fletch", "collections": []},
-    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "ghostbusters", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "gladiator", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "gone girl", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "good will hunting", "collections": []},
     { "tmdb_id": 769, "mc_slug": "", "rt_slug": "", "name": "Goodfellas", "collections": []},
+    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "greyhound", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "it", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "it: chapter 2", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "jerry maguire", "collections": []},
@@ -43,6 +44,7 @@
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "remember the titans", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "robocop new", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "the rock", "collections": []},
+    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "saving private ryan", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "speed", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "superbad", "collections": []},
     { "tmdb_id": 290859, "mc_slug": "", "rt_slug": "", "name": "terminator dark fate", "collections": []},
@@ -51,6 +53,8 @@
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "top gun maverick", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "the town", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "the warriors", "collections": []},
+    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "waynes world", "collections": []}
+    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "waynes world 2", "collections": []}
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "when harry met sally", "collections": []}
   ]
 }
