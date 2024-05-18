@@ -1,0 +1,74 @@
+[
+  {
+    "id": 2545,
+    "name": "Lawrence Bender",
+    "popularity": 9.002,
+    "credit_id": "52fe46f29251416c75088c77",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 156,
+    "name": "Sally Menke",
+    "popularity": 6.278,
+    "credit_id": "52fe46f29251416c75088cf1",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 138,
+    "name": "Quentin Tarantino",
+    "popularity": 52.687,
+    "credit_id": "52fe46f29251416c75088cff",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 149,
+    "name": "Robert Richardson",
+    "popularity": 4.453,
+    "credit_id": "52fe46f29251416c75088d05",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 286,
+    "name": "Lloyd Phillips",
+    "popularity": 3.586,
+    "credit_id": "52fe46f29251416c75088d11",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 16849,
+    "name": "Erica Steinberg",
+    "popularity": 4.416,
+    "credit_id": "52fe46f29251416c75088d17",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1307,
+    "name": "Bob Weinstein",
+    "popularity": 6.863,
+    "credit_id": "52fe46f29251416c75088d1d",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 59839,
+    "name": "Harvey Weinstein",
+    "popularity": 25.314,
+    "credit_id": "52fe46f29251416c75088d23",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 138,
+    "name": "Quentin Tarantino",
+    "popularity": 52.687,
+    "credit_id": "5e840fabda10f00018eb3ece",
+    "department": "Directing",
+    "job": "Director"
+  }
+]

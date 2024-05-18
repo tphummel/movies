@@ -1,8 +1,8 @@
 ---
 title: "Predator"
 title_alpha_sortable: "Predator"
-date: "2022-11-08T00:27:35.711Z"
-collections: []
+date: "2024-05-18T15:45:12.985Z"
+collections: ["predator"]
 budget_usd: 15000000
 tiers: []
 genres: [878,28,12,53]

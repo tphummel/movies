@@ -1,0 +1,98 @@
+[
+  {
+    "id": 129894,
+    "name": "Gareth Edwards",
+    "popularity": 11.921,
+    "credit_id": "5511b32cc3a36802c3001f9a",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 67113,
+    "name": "Greig Fraser",
+    "popularity": 10.65,
+    "credit_id": "5824e11e9251416d22003378",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 1174045,
+    "name": "Simon Emanuel",
+    "popularity": 9.979,
+    "credit_id": "5824e0a6c3a36802ca0033f8",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 489,
+    "name": "Kathleen Kennedy",
+    "popularity": 12.289,
+    "credit_id": "5824e0c09251416d2900347a",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 971840,
+    "name": "Allison Shearmur",
+    "popularity": 3.472,
+    "credit_id": "5824e0d59251416d1f003375",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 166291,
+    "name": "Tony To",
+    "popularity": 2.728,
+    "credit_id": "5824e0ec9251416d290034a9",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1377,
+    "name": "Jabez Olssen",
+    "popularity": 5.126,
+    "credit_id": "5824e131c3a36802cd0031be",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 1401796,
+    "name": "John Knoll",
+    "popularity": 6.151,
+    "credit_id": "58383706c3a36836b302373b",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1102139,
+    "name": "Jason McGatlin",
+    "popularity": 2.809,
+    "credit_id": "58383715c3a36836be023290",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1051401,
+    "name": "Colin Goudie",
+    "popularity": 3.375,
+    "credit_id": "5d02c49ac3a368431e1f1ece",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 67810,
+    "name": "John Gilroy",
+    "popularity": 2.829,
+    "credit_id": "5d02c4adc3a368489e1fab6e",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 1664405,
+    "name": "Leifur B. Dagfinnsson",
+    "popularity": 4.616,
+    "credit_id": "5ed290b89638640024725af4",
+    "department": "Production",
+    "job": "Producer"
+  }
+]

@@ -1,0 +1,3 @@
+---
+title: mushroom cloud
+---

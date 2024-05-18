@@ -1,0 +1,66 @@
+[
+  {
+    "id": 10930,
+    "name": "Irvin Kershner",
+    "popularity": 12.798,
+    "credit_id": "52fe431ec3a36847f803bb55",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 12401,
+    "name": "Gary Kurtz",
+    "popularity": 10.485,
+    "credit_id": "52fe431ec3a36847f803bb5b",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1,
+    "name": "George Lucas",
+    "popularity": 26.778,
+    "credit_id": "52fe431ec3a36847f803bbcb",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 10766,
+    "name": "Paul Hirsch",
+    "popularity": 4.355,
+    "credit_id": "566e19eb92514173ff011180",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 307,
+    "name": "Peter Suschitzky",
+    "popularity": 2.752,
+    "credit_id": "566e1a04925141500100762f",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 665,
+    "name": "Howard G. Kazanjian",
+    "popularity": 3.154,
+    "credit_id": "56b38f2592514114d900237b",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 19801,
+    "name": "Rick McCallum",
+    "popularity": 6.973,
+    "credit_id": "5ec505d53d3557001de2fcb7",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 2551,
+    "name": "Marcia Lucas",
+    "popularity": 11.932,
+    "credit_id": "64ed5a381feac100e16bf1a4",
+    "department": "Editing",
+    "job": "Editor"
+  }
+]

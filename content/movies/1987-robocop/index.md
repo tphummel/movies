@@ -1,8 +1,8 @@
 ---
 title: "RoboCop"
 title_alpha_sortable: "RoboCop"
-date: "2022-11-08T00:27:35.787Z"
-collections: []
+date: "2024-05-18T14:56:23.036Z"
+collections: ["robocop"]
 budget_usd: 13000000
 tiers: []
 genres: [28,53,878]

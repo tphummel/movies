@@ -6,5 +6,5 @@ original_name: "Elpidia Carrillo"
 known_for_department: "Acting"
 gender: "1"
 adult: "false"
-profile_path: "/zYVzGHtODIUs83uOlGnNtBMwLwo.jpg"
+profile_path: "/rlshxarDI8lbXNqTgvKhVlFzTZM.jpg"
 ---

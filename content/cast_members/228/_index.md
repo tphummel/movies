@@ -6,5 +6,5 @@ original_name: "Ed Harris"
 known_for_department: "Acting"
 gender: "2"
 adult: "false"
-profile_path: "/aAu9lJ02jlg0GAvv2vVnpJSDV1Y.jpg"
+profile_path: "/ryF0KkljweLhPkQ70x6w3u9Qjjj.jpg"
 ---

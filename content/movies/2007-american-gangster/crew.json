@@ -1,0 +1,90 @@
+[
+  {
+    "id": 339,
+    "name": "Brian Grazer",
+    "popularity": 17.098,
+    "credit_id": "52fe43ebc3a36847f807839d",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 40375,
+    "name": "Jim Whitaker",
+    "popularity": 5.723,
+    "credit_id": "52fe43ebc3a36847f80783b5",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 578,
+    "name": "Ridley Scott",
+    "popularity": 35.773,
+    "credit_id": "52fe43ebc3a36847f8078391",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 10688,
+    "name": "Harris Savides",
+    "popularity": 4.907,
+    "credit_id": "52fe43ebc3a36847f80783bb",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 578,
+    "name": "Ridley Scott",
+    "popularity": 35.773,
+    "credit_id": "52fe43ebc3a36847f80783a3",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 950,
+    "name": "Pietro Scalia",
+    "popularity": 4.624,
+    "credit_id": "52fe43ebc3a36847f80783c1",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 40374,
+    "name": "Michael Costigan",
+    "popularity": 4.405,
+    "credit_id": "52fe43ebc3a36847f80783a9",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 930,
+    "name": "Branko Lustig",
+    "popularity": 4.033,
+    "credit_id": "52fe43ebc3a36847f80783af",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 2260,
+    "name": "Steven Zaillian",
+    "popularity": 17.41,
+    "credit_id": "56c4c013925141244e00044a",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 34542,
+    "name": "Mark Jacobson",
+    "popularity": 3.896,
+    "credit_id": "56c3d0c7c3a36871fa0007f8",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 7163,
+    "name": "Nicholas Pileggi",
+    "popularity": 5.708,
+    "credit_id": "56c4bfd1925141245d000406",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

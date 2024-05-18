@@ -1,0 +1,82 @@
+[
+  {
+    "id": 43518,
+    "name": "Lawrence Kasanoff",
+    "popularity": 8.331,
+    "credit_id": "52fe461d9251416c91049945",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 21567,
+    "name": "Rae Sanchini",
+    "popularity": 3.889,
+    "credit_id": "52fe461d9251416c9104994b",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 3984,
+    "name": "Stephanie Austin",
+    "popularity": 6.284,
+    "credit_id": "52fe461d9251416c91049939",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 955123,
+    "name": "Robert Shriver",
+    "popularity": 4.589,
+    "credit_id": "52fe461d9251416c91049951",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 3987,
+    "name": "Conrad Buff IV",
+    "popularity": 4.785,
+    "credit_id": "52fe461d9251416c9104995d",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 898,
+    "name": "Mark Goldblatt",
+    "popularity": 7.741,
+    "credit_id": "52fe461d9251416c91049963",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 2710,
+    "name": "James Cameron",
+    "popularity": 39.551,
+    "credit_id": "52fe461d9251416c9104993f",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 8523,
+    "name": "Russell Carpenter",
+    "popularity": 5.86,
+    "credit_id": "52fe461d9251416c91049957",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 3985,
+    "name": "Richard A. Harris",
+    "popularity": 6.262,
+    "credit_id": "52fe461d9251416c91049969",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 2710,
+    "name": "James Cameron",
+    "popularity": 39.551,
+    "credit_id": "52fe461c9251416c91049903",
+    "department": "Directing",
+    "job": "Director"
+  }
+]

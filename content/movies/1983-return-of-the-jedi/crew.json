@@ -1,0 +1,74 @@
+[
+  {
+    "id": 19800,
+    "name": "Richard Marquand",
+    "popularity": 10.409,
+    "credit_id": "52fe431ec3a36847f803bbfd",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 665,
+    "name": "Howard G. Kazanjian",
+    "popularity": 3.154,
+    "credit_id": "52fe431ec3a36847f803bc03",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1,
+    "name": "George Lucas",
+    "popularity": 26.778,
+    "credit_id": "52fe431ec3a36847f803bc53",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 2551,
+    "name": "Marcia Lucas",
+    "popularity": 11.932,
+    "credit_id": "5b088a5dc3a36803e4000034",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 64876,
+    "name": "Sean Barton",
+    "popularity": 3.821,
+    "credit_id": "5b0889af92514118c4000288",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 6592,
+    "name": "Duwayne Dunham",
+    "popularity": 6.907,
+    "credit_id": "5b0889ef0e0a262fcf0002d5",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 19801,
+    "name": "Rick McCallum",
+    "popularity": 6.973,
+    "credit_id": "5ec53d930c0b3800206c55a1",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 10668,
+    "name": "Alec Mills",
+    "popularity": 2.735,
+    "credit_id": "6431b4481b7294007658ec80",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 8934,
+    "name": "Alan Hume",
+    "popularity": 12.811,
+    "credit_id": "6431b44c1b72940110bdb464",
+    "department": "Camera",
+    "job": "Director of Photography"
+  }
+]
