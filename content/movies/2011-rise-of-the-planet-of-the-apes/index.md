@@ -1,8 +1,8 @@
 ---
 title: "Rise of the Planet of the Apes"
 title_alpha_sortable: "Rise of the Planet of the Apes"
-date: "2024-05-13T04:52:16.863Z"
-collections: ["new-apes"]
+date: "2024-05-18T15:52:50.937Z"
+collections: ["apes"]
 budget_usd: 93000000
 tiers: []
 genres: [53,28,18,878]
