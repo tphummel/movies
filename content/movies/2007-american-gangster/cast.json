@@ -1,0 +1,353 @@
+[
+  {
+    "id": 934,
+    "name": "Russell Crowe",
+    "popularity": 84.395,
+    "cast_id": 11,
+    "order": 0,
+    "character": "Richie Roberts",
+    "credit_id": "52fe43ebc3a36847f80783cb"
+  },
+  {
+    "id": 5292,
+    "name": "Denzel Washington",
+    "popularity": 100.914,
+    "cast_id": 12,
+    "order": 1,
+    "character": "Frank Lucas",
+    "credit_id": "52fe43ebc3a36847f80783cf"
+  },
+  {
+    "id": 5294,
+    "name": "Chiwetel Ejiofor",
+    "popularity": 37.53,
+    "cast_id": 13,
+    "order": 2,
+    "character": "Huey Lucas",
+    "credit_id": "52fe43ebc3a36847f80783d3"
+  },
+  {
+    "id": 9777,
+    "name": "Cuba Gooding Jr.",
+    "popularity": 25.201,
+    "cast_id": 23,
+    "order": 3,
+    "character": "Nicky Barnes",
+    "credit_id": "52fe43ebc3a36847f80783fb"
+  },
+  {
+    "id": 16851,
+    "name": "Josh Brolin",
+    "popularity": 60.343,
+    "cast_id": 14,
+    "order": 4,
+    "character": "Detective Trupo",
+    "credit_id": "52fe43ebc3a36847f80783d7"
+  },
+  {
+    "id": 15854,
+    "name": "Ted Levine",
+    "popularity": 50.802,
+    "cast_id": 16,
+    "order": 5,
+    "character": "Lou Toback",
+    "credit_id": "52fe43ebc3a36847f80783df"
+  },
+  {
+    "id": 23346,
+    "name": "Armand Assante",
+    "popularity": 35.429,
+    "cast_id": 30,
+    "order": 6,
+    "character": "Dominic Cattano",
+    "credit_id": "52fe43ebc3a36847f8078413"
+  },
+  {
+    "id": 40543,
+    "name": "John Ortiz",
+    "popularity": 18.301,
+    "cast_id": 29,
+    "order": 7,
+    "character": "Javier J. Rivera",
+    "credit_id": "52fe43ebc3a36847f807840f"
+  },
+  {
+    "id": 16861,
+    "name": "John Hawkes",
+    "popularity": 21.388,
+    "cast_id": 18,
+    "order": 8,
+    "character": "Freddie Spearman",
+    "credit_id": "52fe43ebc3a36847f80783e7"
+  },
+  {
+    "id": 40376,
+    "name": "Lymari Nadal",
+    "popularity": 26.17,
+    "cast_id": 15,
+    "order": 10,
+    "character": "Eva",
+    "credit_id": "52fe43ebc3a36847f80783db"
+  },
+  {
+    "id": 75604,
+    "name": "Yul Vazquez",
+    "popularity": 10.193,
+    "cast_id": 24,
+    "order": 11,
+    "character": "Alfonso Abruzzo",
+    "credit_id": "52fe43ebc3a36847f80783ff"
+  },
+  {
+    "id": 15532,
+    "name": "Ruby Dee",
+    "popularity": 10.361,
+    "cast_id": 28,
+    "order": 12,
+    "character": "Mama Lucas",
+    "credit_id": "52fe43ebc3a36847f807840b"
+  },
+  {
+    "id": 17605,
+    "name": "Idris Elba",
+    "popularity": 63.739,
+    "cast_id": 35,
+    "order": 13,
+    "character": "Tango",
+    "credit_id": "52fe43ebc3a36847f8078423"
+  },
+  {
+    "id": 17832,
+    "name": "Carla Gugino",
+    "popularity": 64.143,
+    "cast_id": 20,
+    "order": 14,
+    "character": "Laurie Roberts",
+    "credit_id": "52fe43ebc3a36847f80783ef"
+  },
+  {
+    "id": 3977,
+    "name": "Joe Morton",
+    "popularity": 26.324,
+    "cast_id": 32,
+    "order": 15,
+    "character": "Charlie Williams",
+    "credit_id": "52fe43ebc3a36847f807841b"
+  },
+  {
+    "id": 4238,
+    "name": "Common",
+    "popularity": 18.657,
+    "cast_id": 21,
+    "order": 16,
+    "character": "Turner Lucas",
+    "credit_id": "52fe43ebc3a36847f80783f3"
+  },
+  {
+    "id": 13939,
+    "name": "Ritchie Coster",
+    "popularity": 16.747,
+    "cast_id": 33,
+    "order": 17,
+    "character": "Joey Sadano",
+    "credit_id": "52fe43ebc3a36847f807841f"
+  },
+  {
+    "id": 4253,
+    "name": "Jon Polito",
+    "popularity": 16.347,
+    "cast_id": 88,
+    "order": 18,
+    "character": "Rossi",
+    "credit_id": "56c4ad0892514124580001bb"
+  },
+  {
+    "id": 18472,
+    "name": "Kevin Corrigan",
+    "popularity": 36.382,
+    "cast_id": 41,
+    "order": 19,
+    "character": "Campizi",
+    "credit_id": "52fe43ebc3a36847f8078427"
+  },
+  {
+    "id": 40377,
+    "name": "Roger Guenveur Smith",
+    "popularity": 16.006,
+    "cast_id": 17,
+    "order": 20,
+    "character": "Nate",
+    "credit_id": "52fe43ebc3a36847f80783e3"
+  },
+  {
+    "id": 57997,
+    "name": "Malcolm Goodwin",
+    "popularity": 22.035,
+    "cast_id": 25,
+    "order": 21,
+    "character": "Jimmy Zee",
+    "credit_id": "52fe43ebc3a36847f8078403"
+  },
+  {
+    "id": 11397,
+    "name": "Ric Young",
+    "popularity": 10.198,
+    "cast_id": 106,
+    "order": 22,
+    "character": "Chinese General",
+    "credit_id": "56c4b155c3a3680d4e00027d"
+  },
+  {
+    "id": 45566,
+    "name": "Roger Bart",
+    "popularity": 20.004,
+    "cast_id": 98,
+    "order": 23,
+    "character": "US Attorney",
+    "credit_id": "56c4af54c3a3680d5200021a"
+  },
+  {
+    "id": 76126,
+    "name": "T.I.",
+    "popularity": 21.141,
+    "cast_id": 22,
+    "order": 24,
+    "character": "Stevie Lucas",
+    "credit_id": "52fe43ebc3a36847f80783f7"
+  },
+  {
+    "id": 20388,
+    "name": "KaDee Strickland",
+    "popularity": 18.036,
+    "cast_id": 47,
+    "order": 25,
+    "character": "Richie's Attorney",
+    "credit_id": "52fe43ebc3a36847f807842b"
+  },
+  {
+    "id": 31839,
+    "name": "Ruben Santiago-Hudson",
+    "popularity": 14.916,
+    "cast_id": 27,
+    "order": 26,
+    "character": "Doc",
+    "credit_id": "52fe43ebc3a36847f8078407"
+  },
+  {
+    "id": 4886,
+    "name": "Norman Reedus",
+    "popularity": 43.537,
+    "cast_id": 94,
+    "order": 27,
+    "character": "Detective in Morgue",
+    "credit_id": "56c4ae86925141245100021e"
+  },
+  {
+    "id": 164382,
+    "name": "Albert Jones",
+    "popularity": 10.148,
+    "cast_id": 84,
+    "order": 29,
+    "character": "Terrence Lucas",
+    "credit_id": "56c4abe8c3a3680d3e0001a5"
+  },
+  {
+    "id": 78719,
+    "name": "Jon DeVries",
+    "popularity": 12.859,
+    "cast_id": 90,
+    "order": 40,
+    "character": "Judge James Racine",
+    "credit_id": "56c4ad76925141245b0001e5"
+  },
+  {
+    "id": 78885,
+    "name": "Jim R. Coleman",
+    "popularity": 14.056,
+    "cast_id": 91,
+    "order": 41,
+    "character": "Bailiff",
+    "credit_id": "56c4adc9925141244e0001d8"
+  },
+  {
+    "id": 143237,
+    "name": "Linda Powell",
+    "popularity": 16.867,
+    "cast_id": 93,
+    "order": 44,
+    "character": "Social Worker",
+    "credit_id": "56c4ae56c3a3680d520001f0"
+  },
+  {
+    "id": 123587,
+    "name": "Cedric Sanders",
+    "popularity": 13.435,
+    "cast_id": 97,
+    "order": 49,
+    "character": "Serviceman in Cafe",
+    "credit_id": "56c4af1192514126960001cb"
+  },
+  {
+    "id": 1455760,
+    "name": "Jason Furlani",
+    "popularity": 10.676,
+    "cast_id": 104,
+    "order": 62,
+    "character": "Bailiff",
+    "credit_id": "56c4b0f8c3a3680d4900029a"
+  },
+  {
+    "id": 28040,
+    "name": "Dan Moran",
+    "popularity": 10.161,
+    "cast_id": 107,
+    "order": 67,
+    "character": "Army Captain",
+    "credit_id": "56c4b1c8c3a3680d490002b1"
+  },
+  {
+    "id": 87478,
+    "name": "Kevin Geer",
+    "popularity": 13.153,
+    "cast_id": 109,
+    "order": 71,
+    "character": "Law School Professor",
+    "credit_id": "56c4b24fc3a3680d490002c9"
+  },
+  {
+    "id": 17194,
+    "name": "Chance Kelly",
+    "popularity": 16.375,
+    "cast_id": 50,
+    "order": 72,
+    "character": "MP",
+    "credit_id": "52fe43ebc3a36847f8078439"
+  },
+  {
+    "id": 96793,
+    "name": "Al Santos",
+    "popularity": 15.698,
+    "cast_id": 119,
+    "order": 83,
+    "character": "Mechanic",
+    "credit_id": "56c4b48ec3a3680d520002e1"
+  },
+  {
+    "id": 15864,
+    "name": "Clarence Williams III",
+    "popularity": 13.454,
+    "cast_id": 170,
+    "order": 142,
+    "character": "Bumpy Johnson (uncredited)",
+    "credit_id": "56c60693c3a3680d3e003728"
+  },
+  {
+    "id": 205136,
+    "name": "Brad Lee Wind",
+    "popularity": 11.855,
+    "cast_id": 171,
+    "order": 143,
+    "character": "Trupo's detective in library (uncredited)",
+    "credit_id": "56c606ffc3a3680d440038bf"
+  }
+]

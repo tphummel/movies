@@ -6,5 +6,5 @@ original_name: "Russell Crowe"
 known_for_department: "Acting"
 gender: "2"
 adult: "false"
-profile_path: "/mGTtPuwE8OR00tkJGmVLJmt8KpW.jpg"
+profile_path: "/fbzD4utSGJlsV8XbYMLoMdEZ1Fc.jpg"
 ---
