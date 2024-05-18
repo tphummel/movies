@@ -1,7 +1,7 @@
 ---
 title: "RoboCop 2"
 title_alpha_sortable: "RoboCop 2"
-date: "2024-05-17T15:27:09.904Z"
+date: "2024-05-18T14:52:33.878Z"
 collections: ["robocop"]
 budget_usd: 35000000
 tiers: []
