@@ -1,22 +1,26 @@
 {{ define "main" }}
 <h1>{{replace .Title "_" " " | title}}</h1>
-
 <p>{{ partial "breadcrumb.html" . }}</p>
 
 {{ with .Content }}
 <div>{{ . }}</div>
 {{ end }}
 {{ $type := .Type }}
-<ul>
+<table>
+  <tr>
+    <td>{{ replace $type "_" " " | title  }}</td>
+    <td>Count</td>
+  </tr>
 {{ range .Data.Terms.ByCount }}
   {{ $name := .Name }}
   {{ $count := .Count }}
   {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
-    <li>
-      <a href="{{ .RelPermalink }}">{{ .Name }}</a> ({{ $count }})
-    </li>
+    <tr>
+      <td><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></td>
+      <td><a href="{{ .RelPermalink }}">{{ $count }}</a></td>
+    </tr>
   {{ end }}
 {{ end }}
-</ul>
+  </table>
 
 {{ end }}
