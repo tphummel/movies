@@ -1,0 +1,90 @@
+[
+  {
+    "id": 2042,
+    "name": "Stephen Hopkins",
+    "popularity": 14.115,
+    "credit_id": "52fe4222c3a36847f8006753",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 1093,
+    "name": "Lawrence Gordon",
+    "popularity": 4.885,
+    "credit_id": "52fe4222c3a36847f800676b",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1091,
+    "name": "Joel Silver",
+    "popularity": 6.99,
+    "credit_id": "52fe4222c3a36847f8006771",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 2044,
+    "name": "Peter Levy",
+    "popularity": 6.684,
+    "credit_id": "52fe4222c3a36847f8006777",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 898,
+    "name": "Mark Goldblatt",
+    "popularity": 7.741,
+    "credit_id": "52fe4222c3a36847f8006795",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 2043,
+    "name": "John Davis",
+    "popularity": 7.57,
+    "credit_id": "52fe4222c3a36847f8006765",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 2046,
+    "name": "Bert Lovitt",
+    "popularity": 5.039,
+    "credit_id": "52fe4222c3a36847f800679b",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 1092,
+    "name": "Jim Thomas",
+    "popularity": 8.522,
+    "credit_id": "5905ab2492514169d801ad2a",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 1094,
+    "name": "John Thomas",
+    "popularity": 7.109,
+    "credit_id": "5905ab3192514169e101b057",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 1993,
+    "name": "Lloyd Levin",
+    "popularity": 3.767,
+    "credit_id": "5e769eecb1f68d0019e4b1b6",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 20514,
+    "name": "Michael Levy",
+    "popularity": 3.989,
+    "credit_id": "5e769f06a055ef00162d4c69",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]
