@@ -6,5 +6,5 @@ original_name: "Bill Paxton"
 known_for_department: "Acting"
 gender: "2"
 adult: "false"
-profile_path: "/aLdNe6mt1cSi2zWlUYRregzfis5.jpg"
+profile_path: "/ltmFkM4v1WdWDAVk8mGnJu3eLmo.jpg"
 ---
