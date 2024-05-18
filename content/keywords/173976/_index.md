@@ -1,0 +1,3 @@
+---
+title: one armed man
+---
