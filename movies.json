@@ -35,6 +35,7 @@
     { "tmdb_id": 9003, "mc_slug": "hellraiser", "rt_slug": "hellraiser", "name": "hellraiser", "collections": []},
     { "tmdb_id": 1669, "mc_slug": "the-hunt-for-red-october", "rt_slug": "hunt_for_red_october", "name": "Hunt for red october", "collections": []},
     { "tmdb_id": 89, "mc_slug": "indiana-jones-and-the-last-crusade", "rt_slug": "indiana_jones_and_the_last_crusade", "name": "Indy Last Crusade", "collections": []},
+    { "tmdb_id": 16869, "mc_slug": "inglourious-basterds", "rt_slug": "inglourious_basterds", "name": "inglourious basterds", "collections": []},
     { "tmdb_id": 9008, "mc_slug": "the-insider", "rt_slug": "insider", "name": "The Insider", "collections": []},
     { "tmdb_id": 270303, "mc_slug": "it-follows", "rt_slug": "it_follows", "name": "It Follows", "collections": ["unstoppable-evil"]},
     { "tmdb_id": 578, "mc_slug": "jaws", "rt_slug": "jaws", "name": "jaws", "collections": []},
