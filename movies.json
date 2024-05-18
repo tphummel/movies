@@ -49,7 +49,7 @@
     { "tmdb_id": 70981, "mc_slug": "prometheus", "rt_slug": "prometheus_2012", "name": "prometheus", "collections": ["alien"]},
     { "tmdb_id": 539, "mc_slug": "psycho-1960", "rt_slug": "psycho", "name": "psycho", "collections": []},
     { "tmdb_id": 85, "mc_slug": "raiders-of-the-lost-ark", "rt_slug": "raiders_of_the_lost_ark", "name": "Raiders of the Lost Ark", "collections": []},
-    { "tmdb_id": 61791, "mc_slug": "rise-of-the-planet-of-the-apes", "rt_slug": "rise_of_the_planet_of_the_apes", "name": "Rise of the Planet of the Apes", "collections": ["new-apes"]},
+    { "tmdb_id": 61791, "mc_slug": "rise-of-the-planet-of-the-apes", "rt_slug": "rise_of_the_planet_of_the_apes", "name": "Rise of the Planet of the Apes", "collections": ["apes"]},
     { "tmdb_id": 5548, "mc_slug": "robocop", "rt_slug": "1017712-robocop", "name": "robocop", "collections": ["robocop"]},
     { "tmdb_id": 5549, "mc_slug": "robocop-2", "rt_slug": "robocop_2", "name": "robocop 2", "collections": ["robocop"]},
     { "tmdb_id": 37799, "mc_slug": "the-social-network", "rt_slug": "the-social-network", "name": "social network", "collections": []},

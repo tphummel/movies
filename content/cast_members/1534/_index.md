@@ -6,5 +6,5 @@ original_name: "Chris Elliott"
 known_for_department: "Acting"
 gender: "2"
 adult: "false"
-profile_path: "/oZFGgyDCZaanGfco1UdfxM4rHAJ.jpg"
+profile_path: "/t8sdwz8iV7dQWQlYb2rPMKepT8h.jpg"
 ---
