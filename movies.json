@@ -57,6 +57,7 @@
     { "tmdb_id": 5549, "mc_slug": "robocop-2", "rt_slug": "robocop_2", "name": "robocop 2", "collections": ["robocop"]},
     { "tmdb_id": 330459, "mc_slug": "rogue-one-a-star-wars-story", "rt_slug": "rogue_one_a_star_wars_story", "name": "rogue one", "collections": ["star-wars"]},
     { "tmdb_id": 37799, "mc_slug": "the-social-network", "rt_slug": "the-social-network", "name": "social network", "collections": []},
+    { "tmdb_id": 9277, "mc_slug": "the-sting", "rt_slug": "1020130-sting", "name": "the sting", "collections": []},
     { "tmdb_id": 280, "mc_slug": "terminator-2-judgment-day", "rt_slug": "terminator_2_judgment_day", "name": "terminator 2", "collections": []},
     { "tmdb_id": 218, "mc_slug": "the-terminator", "rt_slug": "terminator", "name": "terminator", "collections": ["unstoppable-evil"]},
     { "tmdb_id": 1091, "mc_slug": "the-thing-1982", "rt_slug": "1021244-thing", "name": "the thing", "collections": []},

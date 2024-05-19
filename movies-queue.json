@@ -83,7 +83,6 @@
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "so i married an axemurder", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "speed", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "st elmos fire", "collections": []},
-    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "the sting", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "superbad", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "taking of pelham 123", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "teenage mutant ninja turtles: mutant mayhem", "collections": []},
@@ -96,8 +95,8 @@
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "training day", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "wall street", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "the warriors", "collections": []},
-    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "waynes world", "collections": []},
-    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "waynes world 2", "collections": []},
+    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "waynes world", "collections": ["waynes-world"]},
+    { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "waynes world 2", "collections": ["waynes-world"]},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "weekend at bernies", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "when harry met sally", "collections": []},
     { "tmdb_id": -1, "mc_slug": "", "rt_slug": "", "name": "who framed roger rabbit", "collections": []}

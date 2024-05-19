@@ -1,0 +1,74 @@
+[
+  {
+    "id": 10005,
+    "name": "Robert Surtees",
+    "popularity": 6.626,
+    "credit_id": "52fe44e0c3a36847f80af59d",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 9577,
+    "name": "George Roy Hill",
+    "popularity": 10.341,
+    "credit_id": "52fe44e0c3a36847f80af579",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 12432,
+    "name": "Julia Phillips",
+    "popularity": 2.862,
+    "credit_id": "52fe44e0c3a36847f80af591",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 12433,
+    "name": "Michael Phillips",
+    "popularity": 2.029,
+    "credit_id": "52fe44e0c3a36847f80af597",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 57138,
+    "name": "Tony Bill",
+    "popularity": 10.079,
+    "credit_id": "52fe44e0c3a36847f80af585",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 3099,
+    "name": "William Reynolds",
+    "popularity": 2.734,
+    "credit_id": "52fe44e0c3a36847f80af5a3",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 5322,
+    "name": "David Brown",
+    "popularity": 7.096,
+    "credit_id": "574db98d92514179300001d2",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1297,
+    "name": "Richard D. Zanuck",
+    "popularity": 5.523,
+    "credit_id": "574db9bd92514179300001da",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 12920,
+    "name": "David S. Ward",
+    "popularity": 15.683,
+    "credit_id": "5c7da3060e0a2632290f7632",
+    "department": "Writing",
+    "job": "Writer"
+  }
+]
