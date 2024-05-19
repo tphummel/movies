@@ -1,0 +1,42 @@
+[
+  {
+    "id": 13017,
+    "name": "Hawk Koch",
+    "popularity": 4.699,
+    "credit_id": "52fe44c2c3a36847f80a8735",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 10815,
+    "name": "Theo van de Sande",
+    "popularity": 6.835,
+    "credit_id": "52fe44c2c3a36847f80a8747",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 58448,
+    "name": "Penelope Spheeris",
+    "popularity": 7.787,
+    "credit_id": "52fe44c2c3a36847f80a8717",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 56158,
+    "name": "Lorne Michaels",
+    "popularity": 7.858,
+    "credit_id": "52fe44c2c3a36847f80a873b",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 14457,
+    "name": "Malcolm Campbell",
+    "popularity": 2.527,
+    "credit_id": "52fe44c2c3a36847f80a874d",
+    "department": "Editing",
+    "job": "Editor"
+  }
+]
