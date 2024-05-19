@@ -6,5 +6,5 @@ original_name: "Alan Arkin"
 known_for_department: "Acting"
 gender: "2"
 adult: "false"
-profile_path: "/mhACkTNrnwR4E115h8EfCZ263zH.jpg"
+profile_path: "/lTMMpkqL0G3WeFNfbtdP5COZEiX.jpg"
 ---
