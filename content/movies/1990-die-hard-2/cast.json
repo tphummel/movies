@@ -1,0 +1,245 @@
+[
+  {
+    "id": 62,
+    "name": "Bruce Willis",
+    "popularity": 56.216,
+    "cast_id": 1,
+    "order": 0,
+    "character": "John McClane",
+    "credit_id": "52fe42ffc3a36847f8032a27"
+  },
+  {
+    "id": 7673,
+    "name": "Bonnie Bedelia",
+    "popularity": 34.32,
+    "cast_id": 4,
+    "order": 1,
+    "character": "Holly McClane",
+    "credit_id": "52fe42ffc3a36847f8032a37"
+  },
+  {
+    "id": 6573,
+    "name": "William Sadler",
+    "popularity": 29.876,
+    "cast_id": 5,
+    "order": 2,
+    "character": "Stuart",
+    "credit_id": "52fe42ffc3a36847f8032a3b"
+  },
+  {
+    "id": 56183,
+    "name": "Art Evans",
+    "popularity": 14.678,
+    "cast_id": 14,
+    "order": 3,
+    "character": "Leslie Barnes",
+    "credit_id": "52fe42ffc3a36847f8032a65"
+  },
+  {
+    "id": 11901,
+    "name": "Dennis Franz",
+    "popularity": 19.706,
+    "cast_id": 7,
+    "order": 4,
+    "character": "Capt. Carmine Lorenzo",
+    "credit_id": "52fe42ffc3a36847f8032a43"
+  },
+  {
+    "id": 7676,
+    "name": "William Atherton",
+    "popularity": 19.063,
+    "cast_id": 13,
+    "order": 5,
+    "character": "Richard Thornburg",
+    "credit_id": "52fe42ffc3a36847f8032a61"
+  },
+  {
+    "id": 22384,
+    "name": "John Amos",
+    "popularity": 29.191,
+    "cast_id": 8,
+    "order": 6,
+    "character": "Major Grant",
+    "credit_id": "52fe42ffc3a36847f8032a47"
+  },
+  {
+    "id": 17874,
+    "name": "Fred Thompson",
+    "popularity": 15.827,
+    "cast_id": 15,
+    "order": 7,
+    "character": "Trudeau",
+    "credit_id": "52fe42ffc3a36847f8032a69"
+  },
+  {
+    "id": 19453,
+    "name": "Tom Bower",
+    "popularity": 22.585,
+    "cast_id": 16,
+    "order": 8,
+    "character": "Marvin",
+    "credit_id": "52fe42ffc3a36847f8032a6d"
+  },
+  {
+    "id": 22383,
+    "name": "Franco Nero",
+    "popularity": 33.343,
+    "cast_id": 6,
+    "order": 9,
+    "character": "General Ramon Esperanza",
+    "credit_id": "52fe42ffc3a36847f8032a3f"
+  },
+  {
+    "id": 29384,
+    "name": "Sheila McCarthy",
+    "popularity": 15.91,
+    "cast_id": 17,
+    "order": 10,
+    "character": "Samantha 'Sam' Coleman",
+    "credit_id": "52fe42ffc3a36847f8032a71"
+  },
+  {
+    "id": 7672,
+    "name": "Reginald VelJohnson",
+    "popularity": 24.238,
+    "cast_id": 9,
+    "order": 11,
+    "character": "Sgt. Al Powell",
+    "credit_id": "52fe42ffc3a36847f8032a4b"
+  },
+  {
+    "id": 1280,
+    "name": "Don Harvey",
+    "popularity": 16.222,
+    "cast_id": 18,
+    "order": 12,
+    "character": "Garber",
+    "credit_id": "52fe42ffc3a36847f8032a75"
+  },
+  {
+    "id": 3010,
+    "name": "Tony Ganios",
+    "popularity": 14.336,
+    "cast_id": 19,
+    "order": 13,
+    "character": "Baker",
+    "credit_id": "52fe42ffc3a36847f8032a79"
+  },
+  {
+    "id": 58161,
+    "name": "Peter Nelson",
+    "popularity": 11.38,
+    "cast_id": 221,
+    "order": 14,
+    "character": "Thompson",
+    "credit_id": "642a554701b1ca0113cc65da"
+  },
+  {
+    "id": 418,
+    "name": "Robert Patrick",
+    "popularity": 36.164,
+    "cast_id": 21,
+    "order": 15,
+    "character": "O'Reilly",
+    "credit_id": "52fe42ffc3a36847f8032a81"
+  },
+  {
+    "id": 5723,
+    "name": "John Leguizamo",
+    "popularity": 53.681,
+    "cast_id": 23,
+    "order": 17,
+    "character": "Burke",
+    "credit_id": "52fe42ffc3a36847f8032a89"
+  },
+  {
+    "id": 155423,
+    "name": "Tom Verica",
+    "popularity": 12.059,
+    "cast_id": 24,
+    "order": 18,
+    "character": "Kahn",
+    "credit_id": "52fe42ffc3a36847f8032a8d"
+  },
+  {
+    "id": 6198,
+    "name": "Vondie Curtis-Hall",
+    "popularity": 18.325,
+    "cast_id": 26,
+    "order": 20,
+    "character": "Miller",
+    "credit_id": "52fe42ffc3a36847f8032a95"
+  },
+  {
+    "id": 534,
+    "name": "Mark Boone Junior",
+    "popularity": 28.876,
+    "cast_id": 27,
+    "order": 21,
+    "character": "Shockley",
+    "credit_id": "52fe42ffc3a36847f8032a99"
+  },
+  {
+    "id": 189162,
+    "name": "Dale Jacoby",
+    "popularity": 10.827,
+    "cast_id": 35,
+    "order": 29,
+    "character": "Blue Light Team",
+    "credit_id": "52fe42ffc3a36847f8032ab9"
+  },
+  {
+    "id": 140250,
+    "name": "Tom Everett",
+    "popularity": 18.348,
+    "cast_id": 43,
+    "order": 37,
+    "character": "Northeast Plane - Navigator",
+    "credit_id": "52fe42ffc3a36847f8032ad9"
+  },
+  {
+    "id": 33491,
+    "name": "Karla Tamburrelli",
+    "popularity": 10.94,
+    "cast_id": 45,
+    "order": 39,
+    "character": "Northeast Plane - Stewardess",
+    "credit_id": "52fe42ffc3a36847f8032ae1"
+  },
+  {
+    "id": 17782,
+    "name": "Colm Meaney",
+    "popularity": 31.993,
+    "cast_id": 47,
+    "order": 41,
+    "character": "Windsor Plane - Pilot",
+    "credit_id": "52fe42ffc3a36847f8032ae9"
+  },
+  {
+    "id": 27109,
+    "name": "Felicity Waterman",
+    "popularity": 15.129,
+    "cast_id": 131,
+    "order": 45,
+    "character": "Windsor Plane - Stewardess",
+    "credit_id": "60a9c8d8dbf144006d691edd"
+  },
+  {
+    "id": 33492,
+    "name": "Robert Costanzo",
+    "popularity": 18.267,
+    "cast_id": 128,
+    "order": 74,
+    "character": "Sgt. Vito Lorenzo",
+    "credit_id": "5fb53667202e11003f23b162"
+  },
+  {
+    "id": 84493,
+    "name": "Mickie McGowan",
+    "popularity": 16.384,
+    "cast_id": 121,
+    "order": 93,
+    "character": "Additional Dialogue Replacement (voice)",
+    "credit_id": "5aaf55140e0a265e1f01fc55"
+  }
+]

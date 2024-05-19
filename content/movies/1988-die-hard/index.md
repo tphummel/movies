@@ -1,8 +1,8 @@
 ---
 title: "Die Hard"
 title_alpha_sortable: "Die Hard"
-date: "2022-11-08T00:27:22.362Z"
-collections: []
+date: "2024-05-19T16:40:27.500Z"
+collections: ["die-hard"]
 budget_usd: 28000000
 tiers: []
 genres: [28,53]
