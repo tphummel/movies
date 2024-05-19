@@ -1,0 +1,58 @@
+[
+  {
+    "id": 2384,
+    "name": "Bernard Williams",
+    "popularity": 2.62,
+    "credit_id": "52fe43729251416c75010a6f",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 5505,
+    "name": "Cary Woods",
+    "popularity": 2.124,
+    "credit_id": "52fe43729251416c75010a75",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1918,
+    "name": "Richard Halsey",
+    "popularity": 2.7,
+    "credit_id": "52fe43729251416c75010a8d",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 54797,
+    "name": "Robert N. Fried",
+    "popularity": 2.85,
+    "credit_id": "52fe43729251416c75010a69",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1917,
+    "name": "Colleen Halsey",
+    "popularity": 2.902,
+    "credit_id": "52fe43729251416c75010a87",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 15106,
+    "name": "Thomas Schlamme",
+    "popularity": 9.052,
+    "credit_id": "52fe43729251416c75010a5d",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 11506,
+    "name": "Julio Macat",
+    "popularity": 3.715,
+    "credit_id": "52fe43729251416c75010a81",
+    "department": "Camera",
+    "job": "Director of Photography"
+  }
+]

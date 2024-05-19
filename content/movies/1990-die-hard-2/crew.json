@@ -1,0 +1,74 @@
+[
+  {
+    "id": 16938,
+    "name": "Renny Harlin",
+    "popularity": 23.396,
+    "credit_id": "52fe42ffc3a36847f8032a2d",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 1091,
+    "name": "Joel Silver",
+    "popularity": 5.697,
+    "credit_id": "52fe42ffc3a36847f8032a33",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1093,
+    "name": "Lawrence Gordon",
+    "popularity": 6.266,
+    "credit_id": "54d53ebcc3a3683b8f0000ba",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 7681,
+    "name": "Charles Gordon",
+    "popularity": 3.042,
+    "credit_id": "54d53efc9251417160000204",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 2523,
+    "name": "Stuart Baird",
+    "popularity": 11.595,
+    "credit_id": "54d53f40c3a3683b9200013c",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 16650,
+    "name": "Robert A. Ferretti",
+    "popularity": 2.75,
+    "credit_id": "54d53f5ec3a3683b950000a0",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 11409,
+    "name": "Oliver Wood",
+    "popularity": 4.124,
+    "credit_id": "573e5b6fc3a3687ae200055f",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 1993,
+    "name": "Lloyd Levin",
+    "popularity": 3.53,
+    "credit_id": "577022c2925141092b000475",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 20514,
+    "name": "Michael Levy",
+    "popularity": 2.393,
+    "credit_id": "577022e1925141092b000487",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

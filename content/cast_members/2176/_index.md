@@ -6,5 +6,5 @@ original_name: "Tommy Lee Jones"
 known_for_department: "Acting"
 gender: "2"
 adult: "false"
-profile_path: "/zixpaPmOonRh1I3TWgxDkeGxkrv.jpg"
+profile_path: "/mCiZNRAzbnPojJEZwVZWLw9kzxR.jpg"
 ---

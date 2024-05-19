@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1269,
+    "name": "Kevin Costner",
+    "popularity": 120.147,
+    "cast_id": 23,
+    "order": 0,
+    "character": "Jim Garrison",
+    "credit_id": "52fe427bc3a36847f80223ab"
+  },
+  {
+    "id": 2176,
+    "name": "Tommy Lee Jones",
+    "popularity": 67.771,
+    "cast_id": 24,
+    "order": 1,
+    "character": "Clay Shaw / Clay Bertrand",
+    "credit_id": "52fe427bc3a36847f80223af"
+  },
+  {
+    "id": 64,
+    "name": "Gary Oldman",
+    "popularity": 56.195,
+    "cast_id": 25,
+    "order": 2,
+    "character": "Lee Harvey Oswald",
+    "credit_id": "52fe427bc3a36847f80223b3"
+  },
+  {
+    "id": 4724,
+    "name": "Kevin Bacon",
+    "popularity": 73.879,
+    "cast_id": 26,
+    "order": 3,
+    "character": "Willie O'Keefe",
+    "credit_id": "52fe427bc3a36847f80223b7"
+  },
+  {
+    "id": 12132,
+    "name": "Michael Rooker",
+    "popularity": 38.284,
+    "cast_id": 27,
+    "order": 4,
+    "character": "Bill Broussard",
+    "credit_id": "52fe427bc3a36847f80223bb"
+  },
+  {
+    "id": 3151,
+    "name": "Jack Lemmon",
+    "popularity": 24.783,
+    "cast_id": 28,
+    "order": 5,
+    "character": "Jack Martin",
+    "credit_id": "52fe427bc3a36847f80223bf"
+  },
+  {
+    "id": 12133,
+    "name": "Laurie Metcalf",
+    "popularity": 27.502,
+    "cast_id": 29,
+    "order": 6,
+    "character": "Susie Cox",
+    "credit_id": "52fe427bc3a36847f80223c3"
+  },
+  {
+    "id": 5606,
+    "name": "Sissy Spacek",
+    "popularity": 32.546,
+    "cast_id": 30,
+    "order": 7,
+    "character": "Liz Garrison",
+    "credit_id": "52fe427bc3a36847f80223c7"
+  },
+  {
+    "id": 4517,
+    "name": "Joe Pesci",
+    "popularity": 45.896,
+    "cast_id": 31,
+    "order": 8,
+    "character": "David Ferrie",
+    "credit_id": "52fe427bc3a36847f80223cb"
+  },
+  {
+    "id": 7180,
+    "name": "John Candy",
+    "popularity": 18.483,
+    "cast_id": 32,
+    "order": 9,
+    "character": "Dean Andrews",
+    "credit_id": "52fe427bc3a36847f80223cf"
+  },
+  {
+    "id": 3201,
+    "name": "Pruitt Taylor Vince",
+    "popularity": 16.469,
+    "cast_id": 33,
+    "order": 10,
+    "character": "Lee Bowers",
+    "credit_id": "52fe427bc3a36847f80223d3"
+  },
+  {
+    "id": 6067,
+    "name": "Jay O. Sanders",
+    "popularity": 18.544,
+    "cast_id": 34,
+    "order": 11,
+    "character": "Lou Ivon",
+    "credit_id": "52fe427bc3a36847f80223d7"
+  },
+  {
+    "id": 6837,
+    "name": "Walter Matthau",
+    "popularity": 23.09,
+    "cast_id": 35,
+    "order": 12,
+    "character": "Senator Long",
+    "credit_id": "52fe427bc3a36847f80223db"
+  },
+  {
+    "id": 12134,
+    "name": "Sally Kirkland",
+    "popularity": 17.525,
+    "cast_id": 36,
+    "order": 13,
+    "character": "Rose Cheramie",
+    "credit_id": "52fe427bc3a36847f80223df"
+  },
+  {
+    "id": 55636,
+    "name": "Donald Sutherland",
+    "popularity": 52.845,
+    "cast_id": 37,
+    "order": 14,
+    "character": "X",
+    "credit_id": "52fe427bc3a36847f80223e3"
+  },
+  {
+    "id": 68812,
+    "name": "Ed Asner",
+    "popularity": 23.15,
+    "cast_id": 38,
+    "order": 15,
+    "character": "Guy Bannister",
+    "credit_id": "52fe427bc3a36847f80223e7"
+  },
+  {
+    "id": 1535,
+    "name": "Brian Doyle-Murray",
+    "popularity": 24.881,
+    "cast_id": 39,
+    "order": 16,
+    "character": "Jack Ruby",
+    "credit_id": "52fe427bc3a36847f80223eb"
+  },
+  {
+    "id": 7132,
+    "name": "Vincent D'Onofrio",
+    "popularity": 55.982,
+    "cast_id": 41,
+    "order": 18,
+    "character": "Bill Newman",
+    "credit_id": "52fe427bc3a36847f80223f3"
+  },
+  {
+    "id": 12139,
+    "name": "Lolita Davidovich",
+    "popularity": 24.996,
+    "cast_id": 44,
+    "order": 20,
+    "character": "Beverly Oliver",
+    "credit_id": "52fe427bc3a36847f80223fb"
+  },
+  {
+    "id": 4201,
+    "name": "Wayne Knight",
+    "popularity": 34.126,
+    "cast_id": 46,
+    "order": 22,
+    "character": "Numa Bertel",
+    "credit_id": "52fe427bc3a36847f8022403"
+  },
+  {
+    "id": 68180,
+    "name": "Gary Grubbs",
+    "popularity": 14.129,
+    "cast_id": 47,
+    "order": 23,
+    "character": "Al Oser",
+    "credit_id": "52fe427bc3a36847f8022407"
+  },
+  {
+    "id": 41737,
+    "name": "Tony Plana",
+    "popularity": 14.235,
+    "cast_id": 49,
+    "order": 25,
+    "character": "Carlos Bringuier",
+    "credit_id": "52fe427bc3a36847f802240f"
+  },
+  {
+    "id": 21708,
+    "name": "Tomas Milian",
+    "popularity": 30.723,
+    "cast_id": 59,
+    "order": 30,
+    "character": "Leopoldo",
+    "credit_id": "56185c33c3a3682441000aa2"
+  },
+  {
+    "id": 994259,
+    "name": "Marco Perella",
+    "popularity": 13.268,
+    "cast_id": 66,
+    "order": 37,
+    "character": "Mercer Interrogator",
+    "credit_id": "56185dc6925141375d000a8a"
+  },
+  {
+    "id": 553478,
+    "name": "George R. Robertson",
+    "popularity": 12.868,
+    "cast_id": 78,
+    "order": 49,
+    "character": "White House Man",
+    "credit_id": "561860fa9251413750000b43"
+  },
+  {
+    "id": 4029,
+    "name": "Bob Gunton",
+    "popularity": 24.029,
+    "cast_id": 83,
+    "order": 54,
+    "character": "TV Newsman #3",
+    "credit_id": "56186250925141374b000bb6"
+  },
+  {
+    "id": 14101,
+    "name": "John Larroquette",
+    "popularity": 17.604,
+    "cast_id": 96,
+    "order": 67,
+    "character": "Jerry Johnson (credited in Director's Cut)",
+    "credit_id": "561875439251413750000f55"
+  },
+  {
+    "id": 12122,
+    "name": "Ron Rifkin",
+    "popularity": 30.761,
+    "cast_id": 98,
+    "order": 69,
+    "character": "Mr. Goldberg / Spiesel (credited in Director's Cut)",
+    "credit_id": "561875a5925141375d000f6b"
+  },
+  {
+    "id": 11805,
+    "name": "Frank Whaley",
+    "popularity": 41.105,
+    "cast_id": 99,
+    "order": 70,
+    "character": "Oswald Imposter (credited in Director's Cut)",
+    "credit_id": "561876059251413750000f78"
+  },
+  {
+    "id": 8349,
+    "name": "Martin Sheen",
+    "popularity": 29.072,
+    "cast_id": 108,
+    "order": 79,
+    "character": "Narrator (voice) (uncredited)",
+    "credit_id": "56187944925141375a0010bd"
+  },
+  {
+    "id": 21111,
+    "name": "John F. Kennedy",
+    "popularity": 13.606,
+    "cast_id": 152,
+    "order": 80,
+    "character": "Self (archive footage)",
+    "credit_id": "5a893ecdc3a368637c0605f2"
+  }
+]

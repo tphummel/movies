@@ -1,8 +1,8 @@
 ---
 title: "Indiana Jones and the Last Crusade"
 title_alpha_sortable: "Indiana Jones and the Last Crusade"
-date: "2022-11-08T00:27:35.628Z"
-collections: []
+date: "2024-05-19T16:43:53.872Z"
+collections: ["indy"]
 budget_usd: 48000000
 tiers: []
 genres: [12,28]

@@ -6,5 +6,5 @@ original_name: "Jack Lemmon"
 known_for_department: "Acting"
 gender: "2"
 adult: "false"
-profile_path: "/yfS8K77QzICgOcBuQfd5WfgOnCo.jpg"
+profile_path: "/4yowflZgO62PGTPADoFzkYSrZv.jpg"
 ---

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 59839,
+    "name": "Harvey Weinstein",
+    "popularity": 19.994,
+    "credit_id": "538aa9a8c3a36871520005dd",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1307,
+    "name": "Bob Weinstein",
+    "popularity": 6.459,
+    "credit_id": "538aa99bc3a368713c00060a",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 12997,
+    "name": "Richard N. Gladstein",
+    "popularity": 2.099,
+    "credit_id": "56fd5f9fc3a3685cd7000550",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 58194,
+    "name": "Fred Raskin",
+    "popularity": 6.251,
+    "credit_id": "55a2aec9925141297d003c72",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 149,
+    "name": "Robert Richardson",
+    "popularity": 4.136,
+    "credit_id": "56fd5fdd925141150600052b",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 963669,
+    "name": "Shannon McIntosh",
+    "popularity": 1.709,
+    "credit_id": "57325b49c3a368692500084f",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 2947,
+    "name": "Georgia Kacandes",
+    "popularity": 2.427,
+    "credit_id": "578a14e792514163c400256b",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 5382,
+    "name": "Stacey Sher",
+    "popularity": 8.702,
+    "credit_id": "578a14c4c3a368662b00038a",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 138,
+    "name": "Quentin Tarantino",
+    "popularity": 51.806,
+    "credit_id": "5e84101e5aba320016e426c4",
+    "department": "Directing",
+    "job": "Director"
+  }
+]

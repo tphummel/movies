@@ -1,0 +1,42 @@
+[
+  {
+    "id": 8620,
+    "name": "John F. Seitz",
+    "popularity": 5.128,
+    "credit_id": "52fe4298c3a36847f802ada9",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 3146,
+    "name": "Billy Wilder",
+    "popularity": 16.715,
+    "credit_id": "52fe4298c3a36847f802ad7f",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 14972,
+    "name": "Buddy G. DeSylva",
+    "popularity": 3.315,
+    "credit_id": "52fe4298c3a36847f802ad97",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 3450,
+    "name": "Joseph Sistrom",
+    "popularity": 2.343,
+    "credit_id": "52fe4298c3a36847f802ad9d",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 3159,
+    "name": "Doane Harrison",
+    "popularity": 2.313,
+    "credit_id": "5b671ced92514168b60287d2",
+    "department": "Editing",
+    "job": "Editor"
+  }
+]
