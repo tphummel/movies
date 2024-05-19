@@ -1,8 +1,8 @@
 ---
 title: "Raiders of the Lost Ark"
 title_alpha_sortable: "Raiders of the Lost Ark"
-date: "2022-11-08T00:27:35.734Z"
-collections: []
+date: "2024-05-19T16:43:45.025Z"
+collections: ["indy"]
 budget_usd: 18000000
 tiers: []
 genres: [12,28]
