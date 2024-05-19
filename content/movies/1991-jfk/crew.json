@@ -1,0 +1,66 @@
+[
+  {
+    "id": 2621,
+    "name": "A. Kitman Ho",
+    "popularity": 3.797,
+    "credit_id": "52fe427bc3a36847f8022347",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1152,
+    "name": "Oliver Stone",
+    "popularity": 14.076,
+    "credit_id": "52fe427bc3a36847f802234d",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 376,
+    "name": "Arnon Milchan",
+    "popularity": 5.136,
+    "credit_id": "52fe427bc3a36847f8022353",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 3184,
+    "name": "Clayton Townsend",
+    "popularity": 5.669,
+    "credit_id": "52fe427bc3a36847f802235f",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 149,
+    "name": "Robert Richardson",
+    "popularity": 4.136,
+    "credit_id": "52fe427bc3a36847f802236b",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 4186,
+    "name": "Joe Hutshing",
+    "popularity": 1.992,
+    "credit_id": "52fe427bc3a36847f8022371",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 950,
+    "name": "Pietro Scalia",
+    "popularity": 4.587,
+    "credit_id": "52fe427bc3a36847f8022377",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 1152,
+    "name": "Oliver Stone",
+    "popularity": 14.076,
+    "credit_id": "5e921a12ca4f6700147efce4",
+    "department": "Directing",
+    "job": "Director"
+  }
+]
