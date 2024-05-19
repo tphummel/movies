@@ -48,6 +48,7 @@
     { "tmdb_id": 578, "mc_slug": "jaws", "rt_slug": "jaws", "name": "jaws", "collections": []},
     { "tmdb_id": 820, "mc_slug": "jfk", "rt_slug": "1037756-jfk", "name": "JFK", "collections": []},
     { "tmdb_id": 329, "mc_slug": "jurassic-park", "rt_slug": "jurassic_park", "name": "jurassic park", "collections": []},
+    { "tmdb_id": 76341, "mc_slug": "mad-max-fury-road", "rt_slug": "mad_max_fury_road", "name": "mad max fury road", "collections": []},
     { "tmdb_id": 286217, "mc_slug": "the-martian", "rt_slug": "the_martian", "name": "The Martian", "collections": []},
     { "tmdb_id": 60308, "mc_slug": "moneyball", "rt_slug": "moneyball", "name": "moneyball", "collections": []},
     { "tmdb_id": 37136, "mc_slug": "the-naked-gun-from-the-files-of-police-squad!", "rt_slug": "the_naked_gun_from_the_files_of_police_squad", "name": "Naked gun", "collections": []},

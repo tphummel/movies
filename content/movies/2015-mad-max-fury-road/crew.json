@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1027146,
+    "name": "Nico Lathouris",
+    "popularity": 15.866,
+    "credit_id": "53d451210e0a262841002dd1",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 20629,
+    "name": "George Miller",
+    "popularity": 36.042,
+    "credit_id": "52fe4933c3a368484e11f76f",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 11651,
+    "name": "Doug Mitchell",
+    "popularity": 5.452,
+    "credit_id": "52fe4933c3a368484e11f78d",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 20629,
+    "name": "George Miller",
+    "popularity": 36.042,
+    "credit_id": "53d451680e0a26283b002dbb",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 1468313,
+    "name": "Brendan McCarthy",
+    "popularity": 6.83,
+    "credit_id": "555923f09251411177000389",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 2702,
+    "name": "John Seale",
+    "popularity": 3.918,
+    "credit_id": "5571b0039251416d0800191f",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 58067,
+    "name": "Margaret Sixel",
+    "popularity": 3.793,
+    "credit_id": "56124019c3a36822060028f3",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 20629,
+    "name": "George Miller",
+    "popularity": 36.042,
+    "credit_id": "561236d99251416b56000748",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1518756,
+    "name": "P.J. Voeten",
+    "popularity": 3.088,
+    "credit_id": "561236fb925141061500782c",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 59774,
+    "name": "Graham Burke",
+    "popularity": 1.943,
+    "credit_id": "577da2ab9251415d980034fb",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1451219,
+    "name": "Steven Mnuchin",
+    "popularity": 3.783,
+    "credit_id": "577da3259251415da100365c",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1296,
+    "name": "Bruce Berman",
+    "popularity": 7.397,
+    "credit_id": "577da2849251415d980034ea",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 8374,
+    "name": "Iain Smith",
+    "popularity": 5.356,
+    "credit_id": "577da370c3a36817f8003838",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 66897,
+    "name": "Christopher DeFaria",
+    "popularity": 5.957,
+    "credit_id": "577da2ce9251415da4003592",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1726512,
+    "name": "Courtenay Valenti",
+    "popularity": 1.665,
+    "credit_id": "5be0b53e9251412f4f003167",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]
