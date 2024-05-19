@@ -13,6 +13,7 @@
     { "tmdb_id": 196, "mc_slug": "back-to-the-future-part-iii", "rt_slug": "back_to_the_future_3", "name": "Back to the Future Part III", "collections": ["bttf"]},
     { "tmdb_id": 4011, "mc_slug": "beetlejuice", "rt_slug": "beetlejuice", "name": "Beetlejuice", "collections": []},
     { "tmdb_id": 12560, "mc_slug": "the-big-chill", "rt_slug": "big_chill", "name": "big chill", "collections": []},
+    { "tmdb_id": 115, "mc_slug": "the-big-lebowski", "rt_slug": "the_big_lebowski", "name": "big lebowski", "collections": []},
     { "tmdb_id": 318846, "mc_slug": "the-big-short", "rt_slug": "the_big_short", "name": "big short", "collections": []},
     { "tmdb_id": 78, "mc_slug": "blade-runner", "rt_slug": "blade_runner", "name": "blade runner", "collections": []},
     { "tmdb_id": 22970, "mc_slug": "the-cabin-in-the-woods", "rt_slug": "the_cabin_in_the_woods", "name": "The Cabin in the Woods", "collections": []},
