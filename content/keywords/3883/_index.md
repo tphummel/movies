@@ -1,0 +1,3 @@
+---
+title: danger of life
+---

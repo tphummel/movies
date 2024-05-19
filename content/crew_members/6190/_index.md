@@ -6,5 +6,5 @@ original_name: "Mike Hill"
 known_for_department: "Editing"
 gender: "2"
 adult: "false"
-profile_path: "null"
+profile_path: "/5G8uLMgFbxYACw0zqejBon4KitQ.jpg"
 ---
