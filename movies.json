@@ -34,6 +34,7 @@
     { "tmdb_id": 240, "mc_slug": "the-godfather-part-ii", "rt_slug": "godfather_part_ii", "name": "godfather 2", "collections": []},
     { "tmdb_id": 137, "mc_slug": "groundhog-day", "rt_slug": "groundhog_day", "name": "groundhog day", "collections": ["calendar"]},
     { "tmdb_id": 948, "mc_slug": "halloween-1978", "rt_slug": "1009113-halloween", "name": "halloween", "collections": ["unstoppable-evil", "calendar"]},
+    { "tmdb_id": 273248, "mc_slug": "the-hateful-eight", "rt_slug": "the_hateful_eight", "name": "hateful eight", "collections": []},
     { "tmdb_id": 949, "mc_slug": "heat", "rt_slug": "heat_1995", "name": "heat", "collections": []},
     { "tmdb_id": 338766, "mc_slug": "hell-or-high-water", "rt_slug": "hell_or_high_water", "name": "hell or high water", "collections": []},
     { "tmdb_id": 9003, "mc_slug": "hellraiser", "rt_slug": "hellraiser", "name": "hellraiser", "collections": []},
