@@ -1,0 +1,90 @@
+[
+  {
+    "id": 12936,
+    "name": "Jim Abrahams",
+    "popularity": 12.6,
+    "credit_id": "52fe462c9251416c9104bb41",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 12987,
+    "name": "David Zucker",
+    "popularity": 18.493,
+    "credit_id": "52fe462c9251416c9104bb59",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 12987,
+    "name": "David Zucker",
+    "popularity": 18.493,
+    "credit_id": "52fe462c9251416c9104bb35",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 12991,
+    "name": "Pat Proft",
+    "popularity": 10.874,
+    "credit_id": "52fe462c9251416c9104bb3b",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 12936,
+    "name": "Jim Abrahams",
+    "popularity": 12.6,
+    "credit_id": "52fe462c9251416c9104bb2f",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 7181,
+    "name": "Robert K. Weiss",
+    "popularity": 4.813,
+    "credit_id": "52fe462c9251416c9104bb53",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 3415,
+    "name": "Jerry Zucker",
+    "popularity": 10.532,
+    "credit_id": "52fe462c9251416c9104bb5f",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 3415,
+    "name": "Jerry Zucker",
+    "popularity": 10.532,
+    "credit_id": "52fe462c9251416c9104bb29",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 12987,
+    "name": "David Zucker",
+    "popularity": 18.493,
+    "credit_id": "535cfdd90e0a264feb004ad4",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 12940,
+    "name": "Michael Jablow",
+    "popularity": 2.882,
+    "credit_id": "5a4818189251410311007421",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 56593,
+    "name": "Robert M. Stevens",
+    "popularity": 3.256,
+    "credit_id": "5bb913239251417f4900c0a5",
+    "department": "Camera",
+    "job": "Director of Photography"
+  }
+]
