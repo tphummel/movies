@@ -90,9 +90,16 @@ async function loadMovie (movie) {
     .release_dates
     .sort((a, b) => a.release_date < b.release_date ? -1 : 1)
 
-  const initialMovieRating = chronologicalReleases
-    .find(d => d.certification !== '')
-    .certification
+  const filteredReleases = chronologicalReleases.filter(d => d.certification !== '')
+
+  let initialMovieRating
+  if (filteredReleases.length === 0) {
+    initialMovieRating = 'unknown'
+  } else {
+    initialMovieRating = filteredReleases
+      .find(d => d.certification !== '')
+      .certification
+  }
 
   const topCast = creditsData.cast.filter((f) => {
     if (f.known_for_department === 'Acting') {
