@@ -72,6 +72,7 @@
     { "tmdb_id": 36955, "mc_slug": "true-lies", "rt_slug": "true_lies", "name": "true lies", "collections": []},
     { "tmdb_id": 33, "mc_slug": "unforgiven", "rt_slug": "1041911-unforgiven", "name": "unforgiven", "collections": []},
     { "tmdb_id": 44048, "mc_slug": "unstoppable", "rt_slug": "unstoppable-2010", "name": "Unstoppable", "collections": []},
+    { "tmdb_id": 281338, "mc_slug": "war-for-the-planet-of-the-apes", "rt_slug": "war_for_the_planet_of_the_apes", "name": "war for the planet of the apes", "collections": ["apes"]},
     { "tmdb_id": 8872, "mc_slug": "waynes-world", "rt_slug": "waynes_world", "name": "waynes world", "collections": ["waynes-world"]},
     { "tmdb_id": 8873, "mc_slug": "waynes-world-2", "rt_slug": "waynes_world_2", "name": "waynes world 2", "collections": ["waynes-world"]},
     { "tmdb_id": 244786, "mc_slug": "whiplash", "rt_slug": "whiplash_2014", "name": "whiplash", "collections": []},
