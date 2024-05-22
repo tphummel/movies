@@ -1,0 +1,90 @@
+[
+  {
+    "id": 9181,
+    "name": "Edward Zwick",
+    "popularity": 16.104,
+    "credit_id": "52fe431fc3a36847f803c125",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 21706,
+    "name": "Laura Bickford",
+    "popularity": 3.631,
+    "credit_id": "52fe431fc3a36847f803c119",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1884,
+    "name": "Steven Soderbergh",
+    "popularity": 16.066,
+    "credit_id": "52fe431fc3a36847f803c107",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 1891,
+    "name": "Stephen Mirrione",
+    "popularity": 4.32,
+    "credit_id": "52fe431fc3a36847f803c137",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 9182,
+    "name": "Marshall Herskovitz",
+    "popularity": 11.019,
+    "credit_id": "52fe431fc3a36847f803c11f",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1884,
+    "name": "Steven Soderbergh",
+    "popularity": 16.066,
+    "credit_id": "52fe431fc3a36847f803c131",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 4234925,
+    "name": "Cameron Jones",
+    "popularity": 1.132,
+    "credit_id": "64e989b55258ae012ca558d2",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 16729,
+    "name": "Graham King",
+    "popularity": 14.039,
+    "credit_id": "64e989c590ea4b011e795a32",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 40281,
+    "name": "Andreas Klein",
+    "popularity": 2.511,
+    "credit_id": "64e989d106f984014e689cc7",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 10723,
+    "name": "Mike Newell",
+    "popularity": 10.531,
+    "credit_id": "64e989dcc3c89101007d1d83",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 9197,
+    "name": "Richard Solomon",
+    "popularity": 2.45,
+    "credit_id": "64e989e8c613ce00c9f217f3",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]
