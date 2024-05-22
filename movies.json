@@ -18,6 +18,7 @@
     { "tmdb_id": 78, "mc_slug": "blade-runner", "rt_slug": "blade_runner", "name": "blade runner", "collections": []},
     { "tmdb_id": 22970, "mc_slug": "the-cabin-in-the-woods", "rt_slug": "the_cabin_in_the_woods", "name": "The Cabin in the Woods", "collections": []},
     { "tmdb_id": 1538, "mc_slug": "collateral", "rt_slug": "collateral", "name": "Collateral", "collections": []},
+    { "tmdb_id": 8963, "mc_slug": "crimson-tide", "rt_slug": "crimson_tide", "name": "crimson tide", "collections": []},
     { "tmdb_id": 119450, "mc_slug": "dawn-of-the-planet-of-the-apes", "rt_slug": "dawn_of_the_planet_of_the_apes", "name": "dawn of the planet of the apes", "collections": ["apes"]},
     { "tmdb_id": 11336, "mc_slug": "the-dead-zone", "rt_slug": "dead_zone", "name": "dead zone", "collections": []},
     { "tmdb_id": 562, "mc_slug": "die-hard", "rt_slug": "die_hard", "name": "die hard", "collections": ["die-hard"]},

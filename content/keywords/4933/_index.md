@@ -1,0 +1,3 @@
+---
+title: battle for power
+---
