@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5655,
+    "name": "Wes Anderson",
+    "popularity": 30.991,
+    "credit_id": "52fe44f6c3a36847f80b462f",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 5655,
+    "name": "Wes Anderson",
+    "popularity": 30.991,
+    "credit_id": "52fe44f6c3a36847f80b4659",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 5664,
+    "name": "Barry Mendel",
+    "popularity": 5.267,
+    "credit_id": "52fe44f6c3a36847f80b465f",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 2997,
+    "name": "Scott Rudin",
+    "popularity": 7.436,
+    "credit_id": "52fe44f6c3a36847f80b4665",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 3264,
+    "name": "Rudd Simmons",
+    "popularity": 3.309,
+    "credit_id": "52fe44f6c3a36847f80b466b",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 887,
+    "name": "Owen Wilson",
+    "popularity": 89.523,
+    "credit_id": "52fe44f6c3a36847f80b4671",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 5667,
+    "name": "Robert D. Yeoman",
+    "popularity": 7.642,
+    "credit_id": "52fe44f6c3a36847f80b467d",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 1809,
+    "name": "Dylan Tichenor",
+    "popularity": 11.757,
+    "credit_id": "52fe44f6c3a36847f80b4683",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 5655,
+    "name": "Wes Anderson",
+    "popularity": 30.991,
+    "credit_id": "52fe44f6c3a36847f80b4689",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 887,
+    "name": "Owen Wilson",
+    "popularity": 89.523,
+    "credit_id": "52fe44f6c3a36847f80b468f",
+    "department": "Writing",
+    "job": "Writer"
+  }
+]
