@@ -1,0 +1,66 @@
+[
+  {
+    "id": 738,
+    "name": "Sean Connery",
+    "popularity": 31.038,
+    "credit_id": "52fe4530c3a36847f80c1287",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 6581,
+    "name": "Richard Francis-Bruce",
+    "popularity": 7.506,
+    "credit_id": "52fe4530c3a36847f80c12b1",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 865,
+    "name": "Michael Bay",
+    "popularity": 30.128,
+    "credit_id": "52fe4530c3a36847f80c1269",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 892,
+    "name": "John Schwartzman",
+    "popularity": 4.401,
+    "credit_id": "52fe4530c3a36847f80c12ab",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 770,
+    "name": "Jerry Bruckheimer",
+    "popularity": 27.563,
+    "credit_id": "52fe4530c3a36847f80c1281",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 57652,
+    "name": "Louis A. Stroller",
+    "popularity": 3.942,
+    "credit_id": "52fe4530c3a36847f80c1293",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 771,
+    "name": "Don Simpson",
+    "popularity": 12.625,
+    "credit_id": "52fe4530c3a36847f80c128d",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 24050,
+    "name": "William Stuart",
+    "popularity": 0.688,
+    "credit_id": "52fe4530c3a36847f80c1299",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

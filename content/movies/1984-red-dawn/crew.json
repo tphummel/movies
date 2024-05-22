@@ -1,0 +1,50 @@
+[
+  {
+    "id": 19423,
+    "name": "Sidney Beckerman",
+    "popularity": 2.472,
+    "credit_id": "52fe431dc3a36847f803b613",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 17399,
+    "name": "Thom Noble",
+    "popularity": 5.6,
+    "credit_id": "52fe431dc3a36847f803b5e3",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 12882,
+    "name": "Buzz Feitshans",
+    "popularity": 10.294,
+    "credit_id": "52fe431dc3a36847f803b5cb",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 8328,
+    "name": "John Milius",
+    "popularity": 25.504,
+    "credit_id": "52fe431dc3a36847f803b5d7",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 1728,
+    "name": "Ric Waite",
+    "popularity": 0.92,
+    "credit_id": "52fe431dc3a36847f803b5dd",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 19736,
+    "name": "Barry Beckerman",
+    "popularity": 4.151,
+    "credit_id": "52fe431dc3a36847f803b5c5",
+    "department": "Production",
+    "job": "Producer"
+  }
+]

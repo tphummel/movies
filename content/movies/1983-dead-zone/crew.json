@@ -1,0 +1,42 @@
+[
+  {
+    "id": 224,
+    "name": "David Cronenberg",
+    "popularity": 18.321,
+    "credit_id": "52fe44299251416c7502ae43",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 2161,
+    "name": "Debra Hill",
+    "popularity": 19.23,
+    "credit_id": "52fe44299251416c7502ae55",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 7413,
+    "name": "Mark Irwin",
+    "popularity": 10.339,
+    "credit_id": "52fe44299251416c7502ae61",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 310,
+    "name": "Ronald Sanders",
+    "popularity": 4.604,
+    "credit_id": "52fe44299251416c7502ae67",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 5398,
+    "name": "Dino De Laurentiis",
+    "popularity": 8.301,
+    "credit_id": "52fe44299251416c7502ae6d",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

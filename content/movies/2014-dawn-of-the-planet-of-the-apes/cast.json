@@ -1,0 +1,227 @@
+[
+  {
+    "id": 1333,
+    "name": "Andy Serkis",
+    "popularity": 43.732,
+    "cast_id": 8,
+    "order": 0,
+    "character": "Caesar",
+    "credit_id": "52fe4c01c3a36847f821cf15"
+  },
+  {
+    "id": 76512,
+    "name": "Jason Clarke",
+    "popularity": 37.378,
+    "cast_id": 19,
+    "order": 1,
+    "character": "Malcolm",
+    "credit_id": "52fe4c01c3a36847f821cf35"
+  },
+  {
+    "id": 20286,
+    "name": "Toby Kebbell",
+    "popularity": 32.979,
+    "cast_id": 27,
+    "order": 2,
+    "character": "Koba",
+    "credit_id": "53c43f8b0e0a26157f00d766"
+  },
+  {
+    "id": 64,
+    "name": "Gary Oldman",
+    "popularity": 115.485,
+    "cast_id": 17,
+    "order": 3,
+    "character": "Dreyfus",
+    "credit_id": "52fe4c01c3a36847f821cf2d"
+  },
+  {
+    "id": 41292,
+    "name": "Keri Russell",
+    "popularity": 43.391,
+    "cast_id": 18,
+    "order": 4,
+    "character": "Ellie",
+    "credit_id": "52fe4c01c3a36847f821cf31"
+  },
+  {
+    "id": 113505,
+    "name": "Kodi Smit-McPhee",
+    "popularity": 25.192,
+    "cast_id": 20,
+    "order": 5,
+    "character": "Alexander",
+    "credit_id": "52fe4c01c3a36847f821cf39"
+  },
+  {
+    "id": 557930,
+    "name": "Nick Thurston",
+    "popularity": 17.41,
+    "cast_id": 28,
+    "order": 6,
+    "character": "Blue Eyes",
+    "credit_id": "53d5606a0e0a2628470046cb"
+  },
+  {
+    "id": 58395,
+    "name": "Karin Konoval",
+    "popularity": 25.438,
+    "cast_id": 21,
+    "order": 7,
+    "character": "Maurice",
+    "credit_id": "52fe4c01c3a36847f821cf3d"
+  },
+  {
+    "id": 236696,
+    "name": "Terry Notary",
+    "popularity": 23.961,
+    "cast_id": 14,
+    "order": 8,
+    "character": "Rocket",
+    "credit_id": "52fe4c01c3a36847f821cf23"
+  },
+  {
+    "id": 576041,
+    "name": "Doc Shaw",
+    "popularity": 20.394,
+    "cast_id": 79,
+    "order": 9,
+    "character": "Ash",
+    "credit_id": "547dceeec3a3685aed006232"
+  },
+  {
+    "id": 20750,
+    "name": "Judy Greer",
+    "popularity": 51.171,
+    "cast_id": 13,
+    "order": 10,
+    "character": "Cornelia",
+    "credit_id": "52fe4c01c3a36847f821cf1f"
+  },
+  {
+    "id": 93177,
+    "name": "Lee Ross",
+    "popularity": 16.118,
+    "cast_id": 80,
+    "order": 11,
+    "character": "Grey",
+    "credit_id": "547dd0e3c3a3685afd005b23"
+  },
+  {
+    "id": 55861,
+    "name": "Kirk Acevedo",
+    "popularity": 25.56,
+    "cast_id": 22,
+    "order": 14,
+    "character": "Carver",
+    "credit_id": "52fe4c01c3a36847f821cf41"
+  },
+  {
+    "id": 231857,
+    "name": "Jon Eyez",
+    "popularity": 17.537,
+    "cast_id": 29,
+    "order": 15,
+    "character": "Foster",
+    "credit_id": "53d560da0e0a2628410046a1"
+  },
+  {
+    "id": 12798,
+    "name": "Enrique Murciano",
+    "popularity": 17.171,
+    "cast_id": 78,
+    "order": 16,
+    "character": "Kemp",
+    "credit_id": "547dcc97c3a3685afd005a91"
+  },
+  {
+    "id": 39213,
+    "name": "Keir O'Donnell",
+    "popularity": 20.285,
+    "cast_id": 81,
+    "order": 17,
+    "character": "Finney",
+    "credit_id": "547dd1679251412d7f005933"
+  },
+  {
+    "id": 114000,
+    "name": "Kevin Rankin",
+    "popularity": 27.073,
+    "cast_id": 82,
+    "order": 18,
+    "character": "McVeigh",
+    "credit_id": "547dd1e69251412d7c005c4d"
+  },
+  {
+    "id": 107939,
+    "name": "Jocko Sims",
+    "popularity": 15.986,
+    "cast_id": 26,
+    "order": 19,
+    "character": "Werner",
+    "credit_id": "52fe4c01c3a36847f821cf53"
+  },
+  {
+    "id": 4992,
+    "name": "Lombardo Boyar",
+    "popularity": 14.592,
+    "cast_id": 88,
+    "order": 24,
+    "character": "Terry",
+    "credit_id": "547f2b00c3a368395c0019e3"
+  },
+  {
+    "id": 129868,
+    "name": "J.D. Evermore",
+    "popularity": 12.316,
+    "cast_id": 90,
+    "order": 26,
+    "character": "Sniper",
+    "credit_id": "547f314dc3a368396c0018d5"
+  },
+  {
+    "id": 20582,
+    "name": "Michael Papajohn",
+    "popularity": 13.351,
+    "cast_id": 92,
+    "order": 28,
+    "character": "Cannon-Gunner",
+    "credit_id": "547f385d92514124aa001966"
+  },
+  {
+    "id": 43010,
+    "name": "Thomas Rosales Jr.",
+    "popularity": 15.184,
+    "cast_id": 93,
+    "order": 29,
+    "character": "Old Man",
+    "credit_id": "547f3a1692514124b3001817"
+  },
+  {
+    "id": 60877,
+    "name": "Carol Sutton",
+    "popularity": 15.513,
+    "cast_id": 94,
+    "order": 30,
+    "character": "Old Woman",
+    "credit_id": "547f3d3192514124b3001877"
+  },
+  {
+    "id": 1173099,
+    "name": "Christopher Berry",
+    "popularity": 12.51,
+    "cast_id": 95,
+    "order": 31,
+    "character": "Gun-Clinching Man",
+    "credit_id": "547f3e8192514124bb00196e"
+  },
+  {
+    "id": 102786,
+    "name": "Barack Obama",
+    "popularity": 26.666,
+    "cast_id": 741,
+    "order": 53,
+    "character": "Self (archive footage) (uncredited)",
+    "credit_id": "64595ea41b70ae0187e0c8b9"
+  }
+]

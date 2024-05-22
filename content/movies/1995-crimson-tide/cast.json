@@ -1,0 +1,272 @@
+[
+  {
+    "id": 5292,
+    "name": "Denzel Washington",
+    "popularity": 95.481,
+    "cast_id": 3,
+    "order": 0,
+    "character": "Lt. Commander Ronald \"Ron\" Hunter",
+    "credit_id": "52fe44ccc3a36847f80aa7e5"
+  },
+  {
+    "id": 193,
+    "name": "Gene Hackman",
+    "popularity": 43.899,
+    "cast_id": 2,
+    "order": 1,
+    "character": "Captain Franklin \"Frank\" Ramsey",
+    "credit_id": "52fe44ccc3a36847f80aa7e1"
+  },
+  {
+    "id": 13525,
+    "name": "Matt Craven",
+    "popularity": 29.731,
+    "cast_id": 12,
+    "order": 2,
+    "character": "Lt. Roy Zimmer",
+    "credit_id": "52fe44ccc3a36847f80aa815"
+  },
+  {
+    "id": 10477,
+    "name": "George Dzundza",
+    "popularity": 29.502,
+    "cast_id": 13,
+    "order": 3,
+    "character": "Chief of the Boat Cob",
+    "credit_id": "52fe44ccc3a36847f80aa819"
+  },
+  {
+    "id": 110,
+    "name": "Viggo Mortensen",
+    "popularity": 57.221,
+    "cast_id": 4,
+    "order": 4,
+    "character": "Lt. Peter 'Weps' Ince",
+    "credit_id": "52fe44ccc3a36847f80aa7e9"
+  },
+  {
+    "id": 4691,
+    "name": "James Gandolfini",
+    "popularity": 22.099,
+    "cast_id": 5,
+    "order": 5,
+    "character": "Lt. Robert 'Bobby' Dougherty",
+    "credit_id": "52fe44ccc3a36847f80aa7ed"
+  },
+  {
+    "id": 27448,
+    "name": "Rocky Carroll",
+    "popularity": 22.614,
+    "cast_id": 14,
+    "order": 6,
+    "character": "Lt. Darik Westergard",
+    "credit_id": "52fe44ccc3a36847f80aa81d"
+  },
+  {
+    "id": 113387,
+    "name": "Jaime Gomez",
+    "popularity": 12.183,
+    "cast_id": 15,
+    "order": 7,
+    "character": "Officer of the Deck Mahoney",
+    "credit_id": "52fe44ccc3a36847f80aa821"
+  },
+  {
+    "id": 154295,
+    "name": "Michael Milhoan",
+    "popularity": 8.684,
+    "cast_id": 16,
+    "order": 8,
+    "character": "Chief of the Watch Hunsicker",
+    "credit_id": "52fe44ccc3a36847f80aa825"
+  },
+  {
+    "id": 104503,
+    "name": "Scott Burkholder",
+    "popularity": 9.839,
+    "cast_id": 17,
+    "order": 9,
+    "character": "Tactical Supervising Officer Billy Linkletter",
+    "credit_id": "52fe44ccc3a36847f80aa829"
+  },
+  {
+    "id": 8540,
+    "name": "Danny Nucci",
+    "popularity": 27.393,
+    "cast_id": 18,
+    "order": 10,
+    "character": "Petty Officer Danny Rivetti",
+    "credit_id": "52fe44ccc3a36847f80aa82d"
+  },
+  {
+    "id": 17917,
+    "name": "Lillo Brancato",
+    "popularity": 18.659,
+    "cast_id": 19,
+    "order": 11,
+    "character": "Petty Officer Third Class Russell Vossler Russell Vossler",
+    "credit_id": "52fe44ccc3a36847f80aa831"
+  },
+  {
+    "id": 76546,
+    "name": "Ricky Schroder",
+    "popularity": 24.64,
+    "cast_id": 21,
+    "order": 13,
+    "character": "Lt. Paul Hellerman",
+    "credit_id": "52fe44ccc3a36847f80aa839"
+  },
+  {
+    "id": 18324,
+    "name": "Steve Zahn",
+    "popularity": 67.91,
+    "cast_id": 22,
+    "order": 14,
+    "character": "Seaman William Barnes",
+    "credit_id": "52fe44ccc3a36847f80aa83d"
+  },
+  {
+    "id": 16429,
+    "name": "Jacob Vargas",
+    "popularity": 21.128,
+    "cast_id": 152,
+    "order": 21,
+    "character": "Sonarman #2",
+    "credit_id": "5f73c17dd388ae0035bca049"
+  },
+  {
+    "id": 21633,
+    "name": "Kai Lennox",
+    "popularity": 25.819,
+    "cast_id": 153,
+    "order": 22,
+    "character": "Sonarman #3",
+    "credit_id": "5f73c190d55e4d00379808be"
+  },
+  {
+    "id": 33501,
+    "name": "Mark Christopher Lawrence",
+    "popularity": 12.612,
+    "cast_id": 157,
+    "order": 26,
+    "character": "Head Cook Rono",
+    "credit_id": "5f73c1fd223e2000398133a1"
+  },
+  {
+    "id": 112053,
+    "name": "Michael Chieffo",
+    "popularity": 20.516,
+    "cast_id": 158,
+    "order": 27,
+    "character": "Chief Kline",
+    "credit_id": "5f73c228d388ae0035bca221"
+  },
+  {
+    "id": 155743,
+    "name": "James Lesure",
+    "popularity": 20.786,
+    "cast_id": 160,
+    "order": 29,
+    "character": "Guard #2",
+    "credit_id": "5f73c258ef48890036fe8134"
+  },
+  {
+    "id": 199298,
+    "name": "Trevor St. John",
+    "popularity": 10.1,
+    "cast_id": 161,
+    "order": 30,
+    "character": "Launcher",
+    "credit_id": "5f73c26d1967570039915a17"
+  },
+  {
+    "id": 184121,
+    "name": "Dennis Garber",
+    "popularity": 15.46,
+    "cast_id": 162,
+    "order": 31,
+    "character": "Fire Control Technician",
+    "credit_id": "5f73c28521621b00352aa6b1"
+  },
+  {
+    "id": 100653,
+    "name": "Vanessa Bell Calloway",
+    "popularity": 10.826,
+    "cast_id": 163,
+    "order": 32,
+    "character": "Julia Hunter",
+    "credit_id": "5f73c2a78c22c00038cc5d8a"
+  },
+  {
+    "id": 1473,
+    "name": "Daniel von Bargen",
+    "popularity": 19.129,
+    "cast_id": 165,
+    "order": 35,
+    "character": "Vladimir Radchenko",
+    "credit_id": "5f73c33a156cc700364629bf"
+  },
+  {
+    "id": 33836,
+    "name": "Sean O'Bryan",
+    "popularity": 17.121,
+    "cast_id": 169,
+    "order": 39,
+    "character": "Phone Talker",
+    "credit_id": "5f73c3e4156cc70036462bc6"
+  },
+  {
+    "id": 35091,
+    "name": "Scott Grimes",
+    "popularity": 26.669,
+    "cast_id": 51,
+    "order": 44,
+    "character": "Petty Officer Hilaire",
+    "credit_id": "595c12659251410a5905e6c0"
+  },
+  {
+    "id": 11864,
+    "name": "Ryan Phillippe",
+    "popularity": 49.115,
+    "cast_id": 50,
+    "order": 45,
+    "character": "Seaman Grattam",
+    "credit_id": "595c124b9251410c5605af46"
+  },
+  {
+    "id": 2082731,
+    "name": "Henry Mortensen",
+    "popularity": 12.828,
+    "cast_id": 180,
+    "order": 51,
+    "character": "Henry Ince",
+    "credit_id": "5fe6c59331644b003dfafbe7"
+  },
+  {
+    "id": 8191,
+    "name": "Chris Ellis",
+    "popularity": 13.849,
+    "cast_id": 181,
+    "order": 52,
+    "character": "Additional Magician",
+    "credit_id": "5fe6c5ad4539d0003da0bc61"
+  },
+  {
+    "id": 8180,
+    "name": "Mo Gallini",
+    "popularity": 18.441,
+    "cast_id": 184,
+    "order": 53,
+    "character": "Seaman Kuhne (uncredited)",
+    "credit_id": "6248e909a9117f006477125a"
+  },
+  {
+    "id": 4765,
+    "name": "Jason Robards",
+    "popularity": 25.098,
+    "cast_id": 182,
+    "order": 54,
+    "character": "Rear Admiral Anderson (uncredited)",
+    "credit_id": "6017c5f91511aa004157a053"
+  }
+]

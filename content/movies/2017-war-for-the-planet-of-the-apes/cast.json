@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1333,
+    "name": "Andy Serkis",
+    "popularity": 43.732,
+    "cast_id": 6,
+    "order": 0,
+    "character": "Caesar",
+    "credit_id": "57b93ce1c3a3682f91004dc2"
+  },
+  {
+    "id": 57755,
+    "name": "Woody Harrelson",
+    "popularity": 52.539,
+    "cast_id": 5,
+    "order": 1,
+    "character": "The Colonel",
+    "credit_id": "57b93cd9c3a3685c15003640"
+  },
+  {
+    "id": 58395,
+    "name": "Karin Konoval",
+    "popularity": 25.438,
+    "cast_id": 18,
+    "order": 2,
+    "character": "Maurice",
+    "credit_id": "57b93d41c3a368295b004269"
+  },
+  {
+    "id": 236696,
+    "name": "Terry Notary",
+    "popularity": 23.961,
+    "cast_id": 12,
+    "order": 3,
+    "character": "Rocket",
+    "credit_id": "57b93d1592514141ae0036b9"
+  },
+  {
+    "id": 18324,
+    "name": "Steve Zahn",
+    "popularity": 61.573,
+    "cast_id": 7,
+    "order": 4,
+    "character": "Bad Ape",
+    "credit_id": "57b93ce8925141423e0039a8"
+  },
+  {
+    "id": 1493969,
+    "name": "Amiah Miller",
+    "popularity": 36.978,
+    "cast_id": 13,
+    "order": 5,
+    "character": "Nova",
+    "credit_id": "57b93d1ac3a3685c1500366c"
+  },
+  {
+    "id": 42711,
+    "name": "Ty Olsson",
+    "popularity": 38.758,
+    "cast_id": 9,
+    "order": 6,
+    "character": "Red Donkey",
+    "credit_id": "57b93cf7c3a3682ed7005147"
+  },
+  {
+    "id": 63566,
+    "name": "Michael Adamthwaite",
+    "popularity": 24.242,
+    "cast_id": 24,
+    "order": 7,
+    "character": "Luca",
+    "credit_id": "596688d39251410a5912d7db"
+  },
+  {
+    "id": 20286,
+    "name": "Toby Kebbell",
+    "popularity": 32.979,
+    "cast_id": 26,
+    "order": 8,
+    "character": "Koba",
+    "credit_id": "5966893892514121f0113abe"
+  },
+  {
+    "id": 35231,
+    "name": "Gabriel Chavarria",
+    "popularity": 14.275,
+    "cast_id": 15,
+    "order": 9,
+    "character": "Preacher",
+    "credit_id": "57b93d29925141423e0039c6"
+  },
+  {
+    "id": 221840,
+    "name": "Sara Canning",
+    "popularity": 25.463,
+    "cast_id": 10,
+    "order": 10,
+    "character": "Lake",
+    "credit_id": "57b93cfd92514141ae0036b3"
+  },
+  {
+    "id": 20750,
+    "name": "Judy Greer",
+    "popularity": 51.171,
+    "cast_id": 4,
+    "order": 11,
+    "character": "Cornelia",
+    "credit_id": "57b93cd29251414209003758"
+  },
+  {
+    "id": 1164341,
+    "name": "Devyn Dalton",
+    "popularity": 16.803,
+    "cast_id": 25,
+    "order": 12,
+    "character": "Cornelius",
+    "credit_id": "596689299251417904092014"
+  },
+  {
+    "id": 107810,
+    "name": "Aleks Paunovic",
+    "popularity": 27.226,
+    "cast_id": 11,
+    "order": 13,
+    "character": "Winter",
+    "credit_id": "57b93d0dc3a3686112003ac8"
+  },
+  {
+    "id": 59312,
+    "name": "Alessandro Juliani",
+    "popularity": 15.917,
+    "cast_id": 14,
+    "order": 14,
+    "character": "Spear",
+    "credit_id": "57b93d2292514141e3003932"
+  },
+  {
+    "id": 83186,
+    "name": "Max Lloyd-Jones",
+    "popularity": 20.736,
+    "cast_id": 8,
+    "order": 15,
+    "character": "Blue Eyes",
+    "credit_id": "57b93cf0925141423e0039b2"
+  },
+  {
+    "id": 53720,
+    "name": "Timothy Webber",
+    "popularity": 23.635,
+    "cast_id": 17,
+    "order": 16,
+    "character": "Ape Elder",
+    "credit_id": "57b93d39c3a3682f91004dee"
+  },
+  {
+    "id": 134859,
+    "name": "Lauro David Chartrand-DelValle",
+    "popularity": 12.21,
+    "cast_id": 186,
+    "order": 17,
+    "character": "Look Out Ape",
+    "credit_id": "652ee0eccaef2d0139df887c"
+  },
+  {
+    "id": 1460719,
+    "name": "Shaun Omaid",
+    "popularity": 12.889,
+    "cast_id": 187,
+    "order": 18,
+    "character": "Soldier Who Sees Ape",
+    "credit_id": "652ee0f5358da75b60a607ef"
+  },
+  {
+    "id": 25877,
+    "name": "Roger Cross",
+    "popularity": 35.042,
+    "cast_id": 27,
+    "order": 19,
+    "character": "Captain",
+    "credit_id": "596fd4b9c3a3686f7c00d7e1"
+  },
+  {
+    "id": 169778,
+    "name": "Mercedes de la Zerda",
+    "popularity": 10.994,
+    "cast_id": 29,
+    "order": 20,
+    "character": "Lang",
+    "credit_id": "596fd4f9c3a3686fc700f687"
+  },
+  {
+    "id": 134609,
+    "name": "James Pizzinato",
+    "popularity": 19.949,
+    "cast_id": 188,
+    "order": 22,
+    "character": "Captured Soldier",
+    "credit_id": "652ee11c0cb33516fd4b59ed"
+  },
+  {
+    "id": 74678,
+    "name": "Chad Rook",
+    "popularity": 14.654,
+    "cast_id": 16,
+    "order": 23,
+    "character": "Boyle",
+    "credit_id": "57b93d31c3a3685c15003674"
+  },
+  {
+    "id": 1457268,
+    "name": "Steve Baran",
+    "popularity": 11.313,
+    "cast_id": 190,
+    "order": 25,
+    "character": "Tanker Guard",
+    "credit_id": "652ee16bcaef2d011cc704fe"
+  },
+  {
+    "id": 113930,
+    "name": "Sandy Robson",
+    "popularity": 13.145,
+    "cast_id": 191,
+    "order": 26,
+    "character": "Gunner",
+    "credit_id": "652ee1e7024ec800aecd96db"
+  },
+  {
+    "id": 1392950,
+    "name": "Billy Wickman",
+    "popularity": 14.7,
+    "cast_id": 193,
+    "order": 28,
+    "character": "Gasping Soldier",
+    "credit_id": "652ee219caef2d00ada82b00"
+  }
+]

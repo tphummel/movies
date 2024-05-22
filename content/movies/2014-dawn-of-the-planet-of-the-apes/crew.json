@@ -1,0 +1,114 @@
+[
+  {
+    "id": 266920,
+    "name": "Peter Chernin",
+    "popularity": 6.592,
+    "credit_id": "52fe4c01c3a36847f821cf0b",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 935717,
+    "name": "Dylan Clark",
+    "popularity": 6.868,
+    "credit_id": "52fe4c01c3a36847f821cf11",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 32278,
+    "name": "Matt Reeves",
+    "popularity": 22.033,
+    "credit_id": "52fe4c01c3a36847f821cf1b",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 67802,
+    "name": "Rick Jaffa",
+    "popularity": 13.752,
+    "credit_id": "544dbcd60e0a2608bb003a72",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 67803,
+    "name": "Amanda Silver",
+    "popularity": 22,
+    "credit_id": "544dbce20e0a26134b0002cb",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 18189,
+    "name": "Mark Bomback",
+    "popularity": 12.622,
+    "credit_id": "544dbc890e0a26134b0002c0",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 67802,
+    "name": "Rick Jaffa",
+    "popularity": 13.752,
+    "credit_id": "544dbc97c3a36872b40038db",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 67803,
+    "name": "Amanda Silver",
+    "popularity": 22,
+    "credit_id": "544dbcb00e0a2608c8003a28",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 18189,
+    "name": "Mark Bomback",
+    "popularity": 12.622,
+    "credit_id": "544dbcf0c3a36872bc003963",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 58190,
+    "name": "Thomas M. Hammel",
+    "popularity": 2.556,
+    "credit_id": "544dbd070e0a2608c8003a3b",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 9165,
+    "name": "Michael Seresin",
+    "popularity": 7.498,
+    "credit_id": "544dbd340e0a2608cd003830",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 2122,
+    "name": "William Hoy",
+    "popularity": 8.622,
+    "credit_id": "544dbd42c3a36872d8003aa9",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 181856,
+    "name": "Stan Salfas",
+    "popularity": 2.867,
+    "credit_id": "544dbd4fc3a3682429000ef4",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 36427,
+    "name": "Jenno Topping",
+    "popularity": 5.653,
+    "credit_id": "64338648e92d8300f46d3d99",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 893,
+    "name": "Tony Scott",
+    "popularity": 21.781,
+    "credit_id": "52fe44ccc3a36847f80aa7dd",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 541,
+    "name": "Chris Lebenzon",
+    "popularity": 7.013,
+    "credit_id": "52fe44ccc3a36847f80aa811",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 770,
+    "name": "Jerry Bruckheimer",
+    "popularity": 19.688,
+    "credit_id": "52fe44ccc3a36847f80aa847",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 771,
+    "name": "Don Simpson",
+    "popularity": 15.415,
+    "credit_id": "52fe44ccc3a36847f80aa84d",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 120,
+    "name": "Dariusz Wolski",
+    "popularity": 12.477,
+    "credit_id": "566b4f729251415ec5005aac",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 11695,
+    "name": "Lucas Foster",
+    "popularity": 6.089,
+    "credit_id": "576b18cac3a36816640002bf",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1242978,
+    "name": "Mike Moder",
+    "popularity": 6.889,
+    "credit_id": "576b18dcc3a36816640002cc",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 4702,
+    "name": "Bill Unger",
+    "popularity": 2.591,
+    "credit_id": "576b18f7c3a36817f50001f9",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

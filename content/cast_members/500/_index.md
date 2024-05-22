@@ -6,5 +6,5 @@ original_name: "Tom Cruise"
 known_for_department: "Acting"
 gender: "2"
 adult: "false"
-profile_path: "/8qBylBsQf4llkGrWR3qAsOtOU8O.jpg"
+profile_path: "/eOh4ubpOm2Igdg0QH2ghj0mFtC.jpg"
 ---

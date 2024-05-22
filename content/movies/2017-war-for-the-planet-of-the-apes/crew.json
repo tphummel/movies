@@ -1,0 +1,82 @@
+[
+  {
+    "id": 32278,
+    "name": "Matt Reeves",
+    "popularity": 22.033,
+    "credit_id": "53bfba670e0a26158500643b",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 9165,
+    "name": "Michael Seresin",
+    "popularity": 7.498,
+    "credit_id": "591f0368c3a3687a4b031d52",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 2122,
+    "name": "William Hoy",
+    "popularity": 8.622,
+    "credit_id": "591f036fc3a368774e036079",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 266920,
+    "name": "Peter Chernin",
+    "popularity": 6.592,
+    "credit_id": "59f8bfe09251414c35001232",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 935717,
+    "name": "Dylan Clark",
+    "popularity": 5.26,
+    "credit_id": "59f8bffcc3a3682d500011dd",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 67802,
+    "name": "Rick Jaffa",
+    "popularity": 13.752,
+    "credit_id": "59f8c017c3a3682d7b0013eb",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 67803,
+    "name": "Amanda Silver",
+    "popularity": 22,
+    "credit_id": "59f8c02cc3a3682dd7001252",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 18189,
+    "name": "Mark Bomback",
+    "popularity": 12.622,
+    "credit_id": "6335deb88c22c0007a4b115e",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 32278,
+    "name": "Matt Reeves",
+    "popularity": 22.033,
+    "credit_id": "6335debd2cde98007e413c7a",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 181856,
+    "name": "Stan Salfas",
+    "popularity": 2.867,
+    "credit_id": "643ab8d3e8d0b410bdcda149",
+    "department": "Editing",
+    "job": "Editor"
+  }
+]

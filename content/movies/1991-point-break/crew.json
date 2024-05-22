@@ -1,0 +1,66 @@
+[
+  {
+    "id": 14392,
+    "name": "Kathryn Bigelow",
+    "popularity": 17.099,
+    "credit_id": "52fe42e7c3a36847f802b863",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 15306,
+    "name": "Peter Abrams",
+    "popularity": 5.499,
+    "credit_id": "52fe42e7c3a36847f802b86f",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 15307,
+    "name": "Robert L. Levy",
+    "popularity": 5.12,
+    "credit_id": "52fe42e7c3a36847f802b875",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 9614,
+    "name": "Donald Peterman",
+    "popularity": 1.908,
+    "credit_id": "52fe42e7c3a36847f802b887",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 2046,
+    "name": "Bert Lovitt",
+    "popularity": 5.956,
+    "credit_id": "52fe42e7c3a36847f802b88d",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 10853,
+    "name": "Howard E. Smith",
+    "popularity": 3.925,
+    "credit_id": "52fe42e7c3a36847f802b893",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 2710,
+    "name": "James Cameron",
+    "popularity": 42.056,
+    "credit_id": "5fa5d7c421621d0040f51e6a",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 64935,
+    "name": "Joseph Newton Cohen",
+    "popularity": 2.804,
+    "credit_id": "5fa5d7fe323eba003e2384ab",
+    "department": "Production",
+    "job": "Producer"
+  }
+]

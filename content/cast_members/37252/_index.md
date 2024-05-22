@@ -6,5 +6,5 @@ original_name: "Yvonne Zima"
 known_for_department: "Acting"
 gender: "1"
 adult: "false"
-profile_path: "/hER5jc7v9Gls0rYSJNjfHqHlAA8.jpg"
+profile_path: "/ghA0ggEKEaktahED42LrxutbI5H.jpg"
 ---
