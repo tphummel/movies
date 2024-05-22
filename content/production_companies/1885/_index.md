@@ -2,6 +2,6 @@
 title: "Silver Pictures"
 name: "Silver Pictures"
 id: "1885"
-logo_path: "/tXMFoE8AtNdnFzWOW0aCLwl7xxS.png"
+logo_path: "/xlvoOZr4s1PygosrwZyolIFe5xs.png"
 origin_country: "US"
 ---
