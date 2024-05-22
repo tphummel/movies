@@ -1,0 +1,74 @@
+[
+  {
+    "id": 2210,
+    "name": "Bonnie Curtis",
+    "popularity": 6.312,
+    "credit_id": "52fe4223c3a36847f8006f83",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 2209,
+    "name": "Jan de Bont",
+    "popularity": 12.35,
+    "credit_id": "52fe4223c3a36847f8006f7d",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 492,
+    "name": "Janusz Kamiński",
+    "popularity": 9.085,
+    "credit_id": "52fe4223c3a36847f8006fa7",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 2212,
+    "name": "Walter F. Parkes",
+    "popularity": 5.797,
+    "credit_id": "52fe4223c3a36847f8006f8f",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 493,
+    "name": "Michael Kahn",
+    "popularity": 12.122,
+    "credit_id": "52fe4223c3a36847f8006fc5",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 488,
+    "name": "Steven Spielberg",
+    "popularity": 63.001,
+    "credit_id": "52fe4223c3a36847f8006f3d",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 2211,
+    "name": "Gerald R. Molen",
+    "popularity": 9.982,
+    "credit_id": "52fe4223c3a36847f8006f89",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 5046,
+    "name": "Ronald Shusett",
+    "popularity": 18.055,
+    "credit_id": "556b5fd192514174a8004114",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1582654,
+    "name": "Gary Goldman",
+    "popularity": 3.346,
+    "credit_id": "56ceff379251413e6d002345",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]
