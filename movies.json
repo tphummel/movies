@@ -26,6 +26,7 @@
     { "tmdb_id": 1573, "mc_slug": "die-hard-2", "rt_slug": "die_hard_2_1990", "name": "die hard 2", "collections": ["die-hard"]},
     { "tmdb_id": 68718, "mc_slug": "django-unchained", "rt_slug": "django_unchained_2012", "name": "django unchained", "collections": []},
     { "tmdb_id": 996, "mc_slug": "double-indemnity", "rt_slug": "double_indemnity", "name": "double indemnity", "collections": []},
+    { "tmdb_id": 8467, "mc_slug": "dumb-and-dumber", "rt_slug": "dumb_and_dumber", "name": "dumb and dumber", "collections": []},
     { "tmdb_id": 1891, "mc_slug": "star-wars-episode-v---the-empire-strikes-back", "rt_slug": "star_wars_episode_v_the_empire_strikes_back", "name": "empire strikes back", "collections": ["star-wars"]},
     { "tmdb_id": 9798, "mc_slug": "enemy-of-the-state", "rt_slug": "enemy_of_the_state", "name": "enemy of the state", "collections": []},
     { "tmdb_id": 1103, "mc_slug": "escape-from-new-york", "rt_slug": "1006717-escape_from_new_york", "name": "escape from ny", "collections": []},

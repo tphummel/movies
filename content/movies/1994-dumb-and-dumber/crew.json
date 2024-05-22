@@ -1,0 +1,90 @@
+[
+  {
+    "id": 7396,
+    "name": "Peter Farrelly",
+    "popularity": 12.574,
+    "credit_id": "52fe44acc3a36847f80a3757",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 51703,
+    "name": "Steven Stabler",
+    "popularity": 4.803,
+    "credit_id": "52fe44acc3a36847f80a3775",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 51702,
+    "name": "Brad Krevoy",
+    "popularity": 9.457,
+    "credit_id": "52fe44acc3a36847f80a377b",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 7408,
+    "name": "Charles B. Wessler",
+    "popularity": 2.681,
+    "credit_id": "52fe44acc3a36847f80a3781",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 55163,
+    "name": "Aaron Meyerson",
+    "popularity": 3.07,
+    "credit_id": "52fe44acc3a36847f80a3787",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 55164,
+    "name": "Gerald T. Olson",
+    "popularity": 1.422,
+    "credit_id": "52fe44acc3a36847f80a378d",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 7413,
+    "name": "Mark Irwin",
+    "popularity": 7.102,
+    "credit_id": "52fe44acc3a36847f80a3799",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 7414,
+    "name": "Christopher Greenbury",
+    "popularity": 3.555,
+    "credit_id": "52fe44acc3a36847f80a379f",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 7396,
+    "name": "Peter Farrelly",
+    "popularity": 12.574,
+    "credit_id": "592b296dc3a36877ee066b1b",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 7395,
+    "name": "Bobby Farrelly",
+    "popularity": 14.163,
+    "credit_id": "592b29469251413b54061e3e",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 55162,
+    "name": "Bennett Yellin",
+    "popularity": 7.301,
+    "credit_id": "592b2999c3a36877ee066b4c",
+    "department": "Writing",
+    "job": "Writer"
+  }
+]
