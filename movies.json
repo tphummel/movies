@@ -55,6 +55,7 @@
     { "tmdb_id": 578, "mc_slug": "jaws", "rt_slug": "jaws", "name": "jaws", "collections": []},
     { "tmdb_id": 820, "mc_slug": "jfk", "rt_slug": "1037756-jfk", "name": "JFK", "collections": []},
     { "tmdb_id": 329, "mc_slug": "jurassic-park", "rt_slug": "jurassic_park", "name": "jurassic park", "collections": []},
+    { "tmdb_id": 1885, "mc_slug": "the-karate-kid-1984", "rt_slug": "karate_kid", "name": "karate kid", "collections": []},
     { "tmdb_id": 76341, "mc_slug": "mad-max-fury-road", "rt_slug": "mad_max_fury_road", "name": "mad max fury road", "collections": []},
     { "tmdb_id": 286217, "mc_slug": "the-martian", "rt_slug": "the_martian", "name": "The Martian", "collections": []},
     { "tmdb_id": 180, "mc_slug": "minority-report", "rt_slug": "minority_report", "name": "minority report", "collections": []},

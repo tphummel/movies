@@ -1,0 +1,66 @@
+[
+  {
+    "id": 16513,
+    "name": "John G. Avildsen",
+    "popularity": 10.999,
+    "credit_id": "52fe431dc3a36847f803b819",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 1888,
+    "name": "Jerry Weintraub",
+    "popularity": 10.275,
+    "credit_id": "52fe431dc3a36847f803b825",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 14843,
+    "name": "James Crabe",
+    "popularity": 8.929,
+    "credit_id": "52fe431dc3a36847f803b831",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 16513,
+    "name": "John G. Avildsen",
+    "popularity": 10.999,
+    "credit_id": "52fe431dc3a36847f803b837",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 23913,
+    "name": "Walt Mulconery",
+    "popularity": 2.997,
+    "credit_id": "52fe431dc3a36847f803b83d",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 23914,
+    "name": "Bud S. Smith",
+    "popularity": 4.245,
+    "credit_id": "52fe431dc3a36847f803b843",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 61,
+    "name": "Robert Mark Kamen",
+    "popularity": 13.643,
+    "credit_id": "5f543f08848eb900375f9e0e",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 59809,
+    "name": "R.J. Louis",
+    "popularity": 3.044,
+    "credit_id": "600a152acf9ba3003e82f4c5",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]
