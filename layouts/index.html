@@ -12,12 +12,7 @@
 {{ define "main" }}
 <h1>Tom Hummel's Movie Journal</h1>
 
-<ul>
-  <li>These are my <a href="{{ with .Site.GetPage "/movies/1995-heat" }}{{ .Permalink }}{{ end }}">"drop of a hat"</a> movies. The movies I'll watch at a moment's notice, start to finish, a random 15 minute section in the middle, or anything in between.</li>
-  <li>These movies entertain me, invoke my curiosity, can be watched casually or with 100% intense focus</li>
-  <li>There is depth, layering, or canonical content of interest in each of these titles.</li>
-  <li>I've seen each of these movies at least five times and need to be at least five years old to be considered.</li>
-</ul>
+<blockquote>These are my <a href="{{ with .Site.GetPage "/movies/1995-heat" }}{{ .Permalink }}{{ end }}">"drop of a hat"</a> movies. The movies I'll watch at a moment's notice, start to finish, a random 15 minute section in the middle, or anything in between.</blockquote>
 
 <p>Total Movies: <a href="{{ with .Site.GetPage "section" "movies" }}{{ .Permalink }}{{ end }}">{{ len (where .Site.RegularPages "Section" "movies") }}</a></p>
 
