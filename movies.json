@@ -32,6 +32,7 @@
     { "tmdb_id": 1103, "mc_slug": "escape-from-new-york", "rt_slug": "1006717-escape_from_new_york", "name": "escape from ny", "collections": []},
     { "tmdb_id": 2320, "mc_slug": "executive-decision", "rt_slug": "executive_decision", "name": "executive decision", "collections": []},
     { "tmdb_id": 754, "mc_slug": "faceoff", "rt_slug": "faceoff", "name": "face/off", "collections": []},
+    { "tmdb_id": 275, "mc_slug": "fargo", "rt_slug": "fargo", "name": "fargo", "collections": []},
     { "tmdb_id": 1368, "mc_slug": "first-blood", "rt_slug": "first_blood", "name": "first blood", "collections": []},
     { "tmdb_id": 5503, "mc_slug": "the-fugitive", "rt_slug": "1046129-fugitive", "name": "the fugitive", "collections": []},
     { "tmdb_id": 419430, "mc_slug": "get-out", "rt_slug": "get_out", "name": "get out", "collections": []},

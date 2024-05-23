@@ -6,5 +6,5 @@ original_name: "Harve Presnell"
 known_for_department: "Acting"
 gender: "2"
 adult: "false"
-profile_path: "/m512mz6ubYzBh4LjSnN3yHVuMwq.jpg"
+profile_path: "/rQ59i2F9xMLp5MzuxmNN91iKzcV.jpg"
 ---
