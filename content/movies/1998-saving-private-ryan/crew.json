@@ -1,0 +1,66 @@
+[
+  {
+    "id": 9987,
+    "name": "Ian Bryce",
+    "popularity": 8.041,
+    "credit_id": "52fe4283c3a36847f8024ac7",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 6048,
+    "name": "Mark Gordon",
+    "popularity": 9.4,
+    "credit_id": "52fe4283c3a36847f8024acd",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 488,
+    "name": "Steven Spielberg",
+    "popularity": 62.1,
+    "credit_id": "52fe4283c3a36847f8024ac1",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 284,
+    "name": "Gary Levinsohn",
+    "popularity": 4.151,
+    "credit_id": "52fe4283c3a36847f8024ad3",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 488,
+    "name": "Steven Spielberg",
+    "popularity": 62.1,
+    "credit_id": "52fe4283c3a36847f8024abb",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 493,
+    "name": "Michael Kahn",
+    "popularity": 8.437,
+    "credit_id": "52fe4283c3a36847f8024aeb",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 492,
+    "name": "Janusz Kamiński",
+    "popularity": 6.726,
+    "credit_id": "52fe4283c3a36847f8024ae5",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 12832,
+    "name": "Robert Rodat",
+    "popularity": 9.478,
+    "credit_id": "655fd9e7efe37c0100ec4f8b",
+    "department": "Writing",
+    "job": "Writer"
+  }
+]
