@@ -1,5 +1,5 @@
 ---
-title: "United States of America"
-name: "United States of America"
-id: "US"
+title: "United Kingdom"
+name: "United Kingdom"
+id: "GB"
 ---

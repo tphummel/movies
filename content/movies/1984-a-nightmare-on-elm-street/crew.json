@@ -1,0 +1,82 @@
+[
+  {
+    "id": 5140,
+    "name": "Wes Craven",
+    "popularity": 23.405,
+    "credit_id": "52fe423cc3a36847f800e5cd",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 13663,
+    "name": "Robert Shaye",
+    "popularity": 16.281,
+    "credit_id": "52fe423cc3a36847f800e5ff",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 13664,
+    "name": "John Burrows",
+    "popularity": 1.699,
+    "credit_id": "52fe423cc3a36847f800e605",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 13665,
+    "name": "Stanley Dudelson",
+    "popularity": 1.819,
+    "credit_id": "52fe423cc3a36847f800e60b",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 13667,
+    "name": "Joseph Wolf",
+    "popularity": 4.938,
+    "credit_id": "52fe423cc3a36847f800e611",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 13668,
+    "name": "Sara Risher",
+    "popularity": 6.514,
+    "credit_id": "52fe423cc3a36847f800e617",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 13670,
+    "name": "Jacques Haitkin",
+    "popularity": 2.685,
+    "credit_id": "52fe423cc3a36847f800e623",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 13672,
+    "name": "Patrick McMahon",
+    "popularity": 7.364,
+    "credit_id": "52fe423cc3a36847f800e629",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 13673,
+    "name": "Rick Shaine",
+    "popularity": 6.283,
+    "credit_id": "52fe423cc3a36847f800e62f",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 5140,
+    "name": "Wes Craven",
+    "popularity": 23.405,
+    "credit_id": "5f032cc57caa470035e355de",
+    "department": "Writing",
+    "job": "Writer"
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "id": 5141,
+    "name": "Heather Langenkamp",
+    "popularity": 40.48,
+    "cast_id": 5,
+    "order": 0,
+    "character": "Nancy Thompson",
+    "credit_id": "52fe423cc3a36847f800e5d5"
+  },
+  {
+    "id": 11163,
+    "name": "John Saxon",
+    "popularity": 37.069,
+    "cast_id": 7,
+    "order": 1,
+    "character": "Lieutenant Donald Thompson",
+    "credit_id": "52fe423cc3a36847f800e5dd"
+  },
+  {
+    "id": 13652,
+    "name": "Ronee Blakley",
+    "popularity": 16.44,
+    "cast_id": 6,
+    "order": 2,
+    "character": "Marge Thompson",
+    "credit_id": "52fe423cc3a36847f800e5d9"
+  },
+  {
+    "id": 13656,
+    "name": "Amanda Wyss",
+    "popularity": 17.611,
+    "cast_id": 8,
+    "order": 3,
+    "character": "Tina Gray",
+    "credit_id": "52fe423cc3a36847f800e5e1"
+  },
+  {
+    "id": 13657,
+    "name": "Jsu Garcia",
+    "popularity": 14.684,
+    "cast_id": 9,
+    "order": 4,
+    "character": "Rod Lane",
+    "credit_id": "52fe423cc3a36847f800e5e5"
+  },
+  {
+    "id": 85,
+    "name": "Johnny Depp",
+    "popularity": 97.384,
+    "cast_id": 4,
+    "order": 5,
+    "character": "Glen Lantz",
+    "credit_id": "52fe423cc3a36847f800e5d1"
+  },
+  {
+    "id": 5139,
+    "name": "Robert Englund",
+    "popularity": 33.954,
+    "cast_id": 1,
+    "order": 6,
+    "character": "Fred Krueger",
+    "credit_id": "52fe423cc3a36847f800e5c1"
+  },
+  {
+    "id": 12826,
+    "name": "Charles Fleischer",
+    "popularity": 24.228,
+    "cast_id": 10,
+    "order": 7,
+    "character": "Dr. King",
+    "credit_id": "52fe423cc3a36847f800e5e9"
+  },
+  {
+    "id": 13660,
+    "name": "Joseph Whipp",
+    "popularity": 23.771,
+    "cast_id": 11,
+    "order": 8,
+    "character": "Sgt. Parker",
+    "credit_id": "52fe423cc3a36847f800e5ed"
+  },
+  {
+    "id": 7401,
+    "name": "Lin Shaye",
+    "popularity": 31.028,
+    "cast_id": 12,
+    "order": 9,
+    "character": "Teacher",
+    "credit_id": "52fe423cc3a36847f800e5f1"
+  },
+  {
+    "id": 13661,
+    "name": "Joe Unger",
+    "popularity": 24.7,
+    "cast_id": 13,
+    "order": 10,
+    "character": "Sergeant Garcia",
+    "credit_id": "52fe423cc3a36847f800e5f5"
+  },
+  {
+    "id": 13662,
+    "name": "Mimi Craven",
+    "popularity": 16.347,
+    "cast_id": 14,
+    "order": 11,
+    "character": "Nurse",
+    "credit_id": "52fe423cc3a36847f800e5f9"
+  },
+  {
+    "id": 120106,
+    "name": "Ed Call",
+    "popularity": 11.141,
+    "cast_id": 31,
+    "order": 13,
+    "character": "Mr. Lantz",
+    "credit_id": "580d2c4ec3a368260d0125b8"
+  },
+  {
+    "id": 7219,
+    "name": "David Andrews",
+    "popularity": 14.595,
+    "cast_id": 28,
+    "order": 15,
+    "character": "Foreman",
+    "credit_id": "52fe423cc3a36847f800e64b"
+  },
+  {
+    "id": 42820,
+    "name": "Shashawnee Hall",
+    "popularity": 16.022,
+    "cast_id": 38,
+    "order": 18,
+    "character": "Cop #1",
+    "credit_id": "580d2cb4c3a3682286013066"
+  }
+]
