@@ -82,6 +82,7 @@
     { "tmdb_id": 280, "mc_slug": "terminator-2-judgment-day", "rt_slug": "terminator_2_judgment_day", "name": "terminator 2", "collections": []},
     { "tmdb_id": 218, "mc_slug": "the-terminator", "rt_slug": "terminator", "name": "terminator", "collections": ["unstoppable-evil"]},
     { "tmdb_id": 1091, "mc_slug": "the-thing-1982", "rt_slug": "1021244-thing", "name": "the thing", "collections": []},
+    { "tmdb_id": 361743, "mc_slug": "top-gun-maverick", "rt_slug": "top_gun_maverick", "name": "top gun maverick", "collections": []},
     { "tmdb_id": 1900, "mc_slug": "traffic", "rt_slug": "1103281-traffic", "name": "traffic", "collections": []},
     { "tmdb_id": 36955, "mc_slug": "true-lies", "rt_slug": "true_lies", "name": "true lies", "collections": []},
     { "tmdb_id": 33, "mc_slug": "unforgiven", "rt_slug": "1041911-unforgiven", "name": "unforgiven", "collections": []},
