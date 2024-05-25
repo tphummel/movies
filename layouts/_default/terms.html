@@ -16,7 +16,7 @@
   {{ $count := .Count }}
   {{ with $.Site.GetPage (printf "/%s/%s" $type $name) }}
     <tr>
-      <td><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></td>
+      <td><a class="random-target" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></td>
       <td><a href="{{ .RelPermalink }}">{{ $count }}</a></td>
     </tr>
   {{ end }}

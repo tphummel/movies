@@ -12,9 +12,9 @@
 {{ define "main" }}
 <h1>Tom Hummel's Movie Journal</h1>
 
-<blockquote>These are my <a href="{{ with .Site.GetPage "/movies/1995-heat" }}{{ .Permalink }}{{ end }}">"drop of a hat"</a> movies. The movies I'll watch at a moment's notice, start to finish, a random 15 minute section in the middle, or anything in between.</blockquote>
+<blockquote>These are my <a href="{{ with .Site.GetPage "/movies/1995-heat" }}{{ .RelPermalink }}{{ end }}">"drop of a hat"</a> movies. The movies I'll watch at a moment's notice, start to finish, a random 15 minute section in the middle, or anything in between.</blockquote>
 
-<p>Total Movies: <a href="{{ with .Site.GetPage "section" "movies" }}{{ .Permalink }}{{ end }}">{{ len (where .Site.RegularPages "Section" "movies") }}</a></p>
+<p>Total Movies: <a href="{{ with .Site.GetPage "section" "movies" }}{{ .RelPermalink }}{{ end }}">{{ len (where .Site.RegularPages "Section" "movies") }}</a></p>
 
 <h2>Genres</h2>
 <ul>
@@ -39,7 +39,7 @@
 {{ range first 25 (sort $sortable "count" "desc") }}
   {{ $count := .count }}
   {{ with $.Site.GetPage (printf "/cast_members/%s" .key) }}
-      <li><a href="{{ .Permalink }}">{{ .Title }} </a><sup>{{ $count }}</sup></li>
+      <li><a href="{{ .RelPermalink }}">{{ .Title }} </a><sup>{{ $count }}</sup></li>
     {{ end }}
 {{ end }}
 </ul>
@@ -47,16 +47,16 @@
 <div>
   <ul>
     {{ with $.Site.GetPage "/release_years" }}
-      <li><a href="{{ .Permalink }}">By Release Year</a></li>
+      <li><a href="{{ .RelPermalink }}">By Release Year</a></li>
     {{ end }}
     {{ with $.Site.GetPage "/cast_members" }}
-      <li><a href="{{ .Permalink }}">By Cast Member</a></li>
+      <li><a href="{{ .RelPermalink }}">By Cast Member</a></li>
     {{ end }}
     {{ with $.Site.GetPage "/crew_members" }}
-      <li><a href="{{ .Permalink }}">By Crew Member</a></li>
+      <li><a href="{{ .RelPermalink }}">By Crew Member</a></li>
     {{ end }}
     {{ with $.Site.GetPage "/keywords" }}
-      <li><a href="{{ .Permalink }}">By Keyword</a></li>
+      <li><a href="{{ .RelPermalink }}">By Keyword</a></li>
     {{ end }}
   </ul>
 </div>
@@ -72,6 +72,14 @@
   </li>
   {{end}}
 {{end}}
+</ul>
+
+<h2>Tools</h2>
+<ul>
+  <li>🎰 <a href="/random/movie">Go to a random movie</a></li>
+  <li>🎰 <a href="/random/cast">Go to a random cast member</a></li>
+  <li>🎰 <a href="/random/crew">Go to a random crew member</a></li>
+  <li>🎰 <a href="/random/year">Go to a random release year</a></li>
 </ul>
 
 <p>
