@@ -38,21 +38,21 @@
 <p>Collections</p>
 <ul>
   {{ range (.GetTerms "collections") }}
-    <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
   {{ end }}
 </ul>
 
 <p>Production Countries</p>
 <ul>
   {{ range (.GetTerms "production_countries") }}
-    <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
   {{ end }}
 </ul>
 
 <p>Production Companies</p>
 <ul>
   {{ range (.GetTerms "production_companies") }}
-    <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
   {{ end }}
 </ul>
 
