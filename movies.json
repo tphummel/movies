@@ -67,6 +67,7 @@
     { "tmdb_id": 106, "mc_slug": "predator", "rt_slug": "predator", "name": "predator", "collections": ["predator"]},
     { "tmdb_id": 169, "mc_slug": "predator-2", "rt_slug": "predator_2", "name": "predator 2", "collections": ["predator"]},
     { "tmdb_id": 70981, "mc_slug": "prometheus", "rt_slug": "prometheus_2012", "name": "prometheus", "collections": ["alien"]},
+    { "tmdb_id": 582014, "mc_slug": "promising-young-woman", "rt_slug": "promising_young_woman", "name": "promising young woman", "collections": []},
     { "tmdb_id": 539, "mc_slug": "psycho-1960", "rt_slug": "psycho", "name": "psycho", "collections": []},
     { "tmdb_id": 85, "mc_slug": "raiders-of-the-lost-ark", "rt_slug": "raiders_of_the_lost_ark", "name": "Raiders of the Lost Ark", "collections": ["indy"]},
     { "tmdb_id": 1880, "mc_slug": "red-dawn-1984", "rt_slug": "1017321-red_dawn", "name": "red dawn", "collections": []},

@@ -1,0 +1,3 @@
+---
+title: living with parents
+---

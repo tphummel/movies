@@ -6,5 +6,5 @@ original_name: "Max Greenfield"
 known_for_department: "Acting"
 gender: "2"
 adult: "false"
-profile_path: "/8f7K5f81I0A9vz0plREVuVR5yWr.jpg"
+profile_path: "/kjm6oqNJx4WYVlKa2k7d6nZPOQ2.jpg"
 ---
