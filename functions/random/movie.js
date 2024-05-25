@@ -1,4 +1,5 @@
 export const onRequest = async ({request}) => {
+  const listPage = '/movies/'
   const url = new URL(request.url)
   const baseURL = url.origin
 
@@ -13,7 +14,7 @@ export const onRequest = async ({request}) => {
     },
   })
 
-  const response = await fetch(`${baseURL}/movies/`);
+  const response = await fetch(`${baseURL}${listPage}`);
   await rewriter.transform(response).arrayBuffer()
 
   if(movieUrls.length){
