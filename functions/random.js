@@ -1,4 +1,7 @@
-export const onRequest = async () => {
+export const onRequest = async ({request}) => {
+  const url = new URL(request.url)
+  const baseURL = url.origin
+
   const movieUrls = []
   const rewriter = new HTMLRewriter()
 
@@ -10,13 +13,13 @@ export const onRequest = async () => {
     },
   })
 
-  const response = await fetch('/movies/')
-  await rewriter.transform(response).arrayBuffer();
+  const response = await fetch(`${baseURL}/movies/`);
+  await rewriter.transform(response).arrayBuffer()
 
   if(movieUrls.length){
-    const randomIndex = Math.floor(Math.random() * movieUrls.length);
-    return Response.redirect(movieUrls[randomIndex], 302);
+    const randomIndex = Math.floor(Math.random() * movieUrls.length)
+    return Response.redirect(movieUrls[randomIndex], 302)
   }
 
-  return new Response('No links found on the page with class \'movie\'.', {status: 404});
+  return new Response('No links found on the page with class \'movie\'.', {status: 404})
 }
