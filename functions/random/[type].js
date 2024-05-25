@@ -1,12 +1,24 @@
-export const onRequest = async ({request}) => {
-  const listPage = '/movies/'
+const types = {
+  movie: {listPage: '/movies'},
+  cast: {listPage: '/cast_members'},
+  crew: {listPage: '/crew_members'},
+  year: {listPage: '/release_years'},
+}
+
+export const onRequest = async ({request, params}) => {
+  const {type} = params
+  if(!types[type]){
+    return new Response(`Invalid random type ${type}`, {status: 404})
+  }
+
+  const listPage = types[type].listPage
   const url = new URL(request.url)
   const baseURL = url.origin
 
   const movieUrls = []
   const rewriter = new HTMLRewriter()
 
-  rewriter.on('a.movie', {
+  rewriter.on('a.random-target', {
     element: (element) => {
       const link = element.getAttribute('href')
       movieUrls.push(link)
@@ -23,5 +35,5 @@ export const onRequest = async ({request}) => {
     return Response.redirect(`${baseURL}${movieUrls[randomIndex]}`, 302)
   }
 
-  return new Response('No links found on the page with class \'movie\'.', {status: 404})
+  return new Response(`No links found on the list page ${listPage}`, {status: 404})
 }

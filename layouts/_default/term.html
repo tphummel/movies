@@ -20,7 +20,7 @@
 
   {{ range .Data.Pages.ByParam "release_date" }}
     <tr>
-      <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
+      <td><a class="random-target" href="{{ .RelPermalink }}">{{ .Title }}</a></td>
       <td><a href="{{ with $.GetPage (printf "/release_years/%s" (index .Params.release_years 0)) }}{{ .RelPermalink}}{{end}}">{{ index .Params.release_years 0 }}</a></td>
 
       {{ $mcWeights := mul .Params.metacritic.score .Params.metacritic.review_count }}
