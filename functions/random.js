@@ -18,7 +18,8 @@ export const onRequest = async ({request}) => {
 
   if(movieUrls.length){
     const randomIndex = Math.floor(Math.random() * movieUrls.length)
-    return Response.redirect(movieUrls[randomIndex], 302)
+    console.log(`Redirecting to ${randomIndex} -> ${movieUrls[randomIndex]}`)
+    return Response.redirect(`${baseURL}${movieUrls[randomIndex]}`, 302)
   }
 
   return new Response('No links found on the page with class \'movie\'.', {status: 404})
