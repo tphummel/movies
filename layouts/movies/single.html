@@ -67,7 +67,7 @@
     {{ $taxo_path := printf "/cast_members/%s" (.id | string ) }}
     {{ $taxo := $.GetPage $taxo_path }}
     <tr>
-      <td><a href="{{ $taxo.Permalink }}">{{ .name }}</a></td>
+      <td><a href="{{ $taxo.RelPermalink }}">{{ .name }}</a></td>
       <td>{{ .character }}</td>
     </tr>
   {{ end }}
@@ -85,7 +85,7 @@
     {{ $taxo_path := printf "/crew_members/%s" (.id | string ) }}
     {{ $taxo := $.GetPage $taxo_path }}
     <tr>
-      <td><a href="{{ $taxo.Permalink }}">{{ .name }}</a></td>
+      <td><a href="{{ $taxo.RelPermalink }}">{{ .name }}</a></td>
       <td>{{ .job }}</td>
     </tr>
   {{ end }}
