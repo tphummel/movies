@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1252934,
+    "name": "Emerald Fennell",
+    "popularity": 8.935,
+    "credit_id": "5c6481d2c3a3684f97da0248",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1908039,
+    "name": "Josey McNamara",
+    "popularity": 2.338,
+    "credit_id": "5c6482310e0a2625d196b93f",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 475380,
+    "name": "Ben Browning",
+    "popularity": 1.919,
+    "credit_id": "5c6482410e0a267dfd9a7d09",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1252934,
+    "name": "Emerald Fennell",
+    "popularity": 8.935,
+    "credit_id": "5c6481a0c3a36843c6d6b850",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 1363079,
+    "name": "Tom Ackerley",
+    "popularity": 10.981,
+    "credit_id": "5c64821b0e0a26511196cc48",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 234352,
+    "name": "Margot Robbie",
+    "popularity": 61.733,
+    "credit_id": "5c6481e10e0a26562796b0db",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 62434,
+    "name": "Frédéric Thoraval",
+    "popularity": 3.815,
+    "credit_id": "5dd88f88b5bc210011c51d2b",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 1512668,
+    "name": "Benjamin Kracun",
+    "popularity": 2.584,
+    "credit_id": "5fef5f8ca88587003ebe594f",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 36662,
+    "name": "Carey Mulligan",
+    "popularity": 30.765,
+    "credit_id": "5fef6022fad8e9003c777b28",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1018975,
+    "name": "Glen Basner",
+    "popularity": 2.745,
+    "credit_id": "5fef602f60620a003f40ca42",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 2070395,
+    "name": "Alison Cohen",
+    "popularity": 0.901,
+    "credit_id": "5fef60394e4dff003f9756a1",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 1646476,
+    "name": "Milan Popelka",
+    "popularity": 2.243,
+    "credit_id": "5fef60442dda89003ef21b3b",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 2538064,
+    "name": "Ashley Fox",
+    "popularity": 1.565,
+    "credit_id": "5fef608285702e0040935517",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1252934,
+    "name": "Emerald Fennell",
+    "popularity": 8.935,
+    "credit_id": "5fef609c7e403d0042748856",
+    "department": "Writing",
+    "job": "Writer"
+  }
+]
