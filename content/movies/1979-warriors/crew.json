@@ -1,0 +1,66 @@
+[
+  {
+    "id": 2082,
+    "name": "Andrew Laszlo",
+    "popularity": 2.393,
+    "credit_id": "52fe44479251416c7502f21d",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 1093,
+    "name": "Lawrence Gordon",
+    "popularity": 2.124,
+    "credit_id": "52fe44479251416c7502f229",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 69568,
+    "name": "David Holden",
+    "popularity": 1.658,
+    "credit_id": "52fe44479251416c7502f223",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 1723,
+    "name": "Walter Hill",
+    "popularity": 15.6,
+    "credit_id": "52fe44479251416c7502f211",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 10440,
+    "name": "Susan E. Morse",
+    "popularity": 3.1,
+    "credit_id": "58519bb3c3a368258f00fb52",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 664,
+    "name": "Frank Marshall",
+    "popularity": 5.305,
+    "credit_id": "5a6fd11892514137570060c8",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 909,
+    "name": "Billy Weber",
+    "popularity": 2.957,
+    "credit_id": "604ada7f8741c40070c951c4",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 1731,
+    "name": "Freeman A. Davies",
+    "popularity": 1.136,
+    "credit_id": "604ada8c8a0e9b0079a132a8",
+    "department": "Editing",
+    "job": "Editor"
+  }
+]
