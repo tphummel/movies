@@ -2,6 +2,6 @@
 title: "Metro-Goldwyn-Mayer"
 name: "Metro-Goldwyn-Mayer"
 id: "21"
-logo_path: "/aOWKh4gkNrfFZ3Ep7n0ckPhoGb5.png"
+logo_path: "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png"
 origin_country: "US"
 ---

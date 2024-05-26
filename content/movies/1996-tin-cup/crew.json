@@ -1,0 +1,58 @@
+[
+  {
+    "id": 4037,
+    "name": "Ron Shelton",
+    "popularity": 5.458,
+    "credit_id": "52fe43779251416c75011877",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 12922,
+    "name": "Gary Foster",
+    "popularity": 2.727,
+    "credit_id": "52fe43789251416c75011889",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 4054,
+    "name": "David V. Lester",
+    "popularity": 2.556,
+    "credit_id": "52fe43789251416c7501188f",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 56594,
+    "name": "Kimberly Ray",
+    "popularity": 2.212,
+    "credit_id": "52fe43789251416c750118a1",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 25141,
+    "name": "Paul Seydor",
+    "popularity": 0.963,
+    "credit_id": "52fe43789251416c750118a7",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 31027,
+    "name": "Russell Boyd",
+    "popularity": 4.521,
+    "credit_id": "52fe43789251416c7501189b",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 376,
+    "name": "Arnon Milchan",
+    "popularity": 10.102,
+    "credit_id": "6422b48023be460082b39f8c",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]
