@@ -16,6 +16,7 @@
     { "tmdb_id": 115, "mc_slug": "the-big-lebowski", "rt_slug": "the_big_lebowski", "name": "big lebowski", "collections": []},
     { "tmdb_id": 318846, "mc_slug": "the-big-short", "rt_slug": "the_big_short", "name": "big short", "collections": []},
     { "tmdb_id": 78, "mc_slug": "blade-runner", "rt_slug": "blade_runner", "name": "blade runner", "collections": []},
+    { "tmdb_id": 287, "mc_slug": "bull-durham", "rt_slug": "bull_durham", "name": "bull durham", "collections": []},
     { "tmdb_id": 22970, "mc_slug": "the-cabin-in-the-woods", "rt_slug": "the_cabin_in_the_woods", "name": "The Cabin in the Woods", "collections": []},
     { "tmdb_id": 1538, "mc_slug": "collateral", "rt_slug": "collateral", "name": "Collateral", "collections": []},
     { "tmdb_id": 686, "mc_slug": "contact", "rt_slug": "1078021-contact", "name": "contact", "collections": []},
