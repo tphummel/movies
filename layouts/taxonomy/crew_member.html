@@ -7,6 +7,12 @@
 <div>{{ . }}</div>
 {{ end }}
 
+{{ with $.GetPage (printf "/cast_members/%s" .Params.id) }}
+<blockquote>
+  See: <a href="{{ .RelPermalink }}">acting credits</a>
+</blockquote>
+{{ end }}
+
 <table>
   <tr>
     <td>Movie</td>
