@@ -1,0 +1,66 @@
+[
+  {
+    "id": 10685,
+    "name": "Laurence Mark",
+    "popularity": 1.382,
+    "credit_id": "52fe44f1c3a36847f80b33d9",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 3388,
+    "name": "James L. Brooks",
+    "popularity": 8.272,
+    "credit_id": "52fe44f1c3a36847f80b33c7",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 57572,
+    "name": "Richard Sakai",
+    "popularity": 6.08,
+    "credit_id": "52fe44f1c3a36847f80b33df",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 11649,
+    "name": "Cameron Crowe",
+    "popularity": 6.841,
+    "credit_id": "52fe44f1c3a36847f80b33bb",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 492,
+    "name": "Janusz Kamiński",
+    "popularity": 4.378,
+    "credit_id": "52fe44f1c3a36847f80b33e5",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 4186,
+    "name": "Joe Hutshing",
+    "popularity": 1.814,
+    "credit_id": "52fe44f1c3a36847f80b33eb",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 11649,
+    "name": "Cameron Crowe",
+    "popularity": 6.841,
+    "credit_id": "52fe44f1c3a36847f80b33cd",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 11649,
+    "name": "Cameron Crowe",
+    "popularity": 6.841,
+    "credit_id": "554bf71f9251413acd000a4f",
+    "department": "Writing",
+    "job": "Writer"
+  }
+]

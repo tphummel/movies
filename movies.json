@@ -53,6 +53,7 @@
     { "tmdb_id": 9008, "mc_slug": "the-insider", "rt_slug": "insider", "name": "The Insider", "collections": []},
     { "tmdb_id": 270303, "mc_slug": "it-follows", "rt_slug": "it_follows", "name": "It Follows", "collections": ["unstoppable-evil"]},
     { "tmdb_id": 578, "mc_slug": "jaws", "rt_slug": "jaws", "name": "jaws", "collections": []},
+    { "tmdb_id": 9390, "mc_slug": "jerry-maguire", "rt_slug": "jerry_maguire", "name": "jerry maguire", "collections": []},
     { "tmdb_id": 820, "mc_slug": "jfk", "rt_slug": "1037756-jfk", "name": "JFK", "collections": []},
     { "tmdb_id": 329, "mc_slug": "jurassic-park", "rt_slug": "jurassic_park", "name": "jurassic park", "collections": []},
     { "tmdb_id": 1885, "mc_slug": "the-karate-kid-1984", "rt_slug": "karate_kid", "name": "karate kid", "collections": []},

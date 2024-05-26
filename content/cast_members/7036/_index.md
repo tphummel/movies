@@ -6,5 +6,5 @@ original_name: "Eric Stoltz"
 known_for_department: "Acting"
 gender: "2"
 adult: "false"
-profile_path: "/sP5tI3NVHrhmle5qotVz9q2mWfR.jpg"
+profile_path: "/idFuM00MeVmwGAiqvDaJcBiLAmD.jpg"
 ---
