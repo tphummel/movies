@@ -1,7 +1,7 @@
 ---
 title: "The Sting"
 title_alpha_sortable: "Sting"
-date: "2024-05-19T15:58:04.226Z"
+date: "2024-05-30T05:15:32.923Z"
 collections: []
 budget_usd: 5500000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [33,1865,903]
 production_countries: ["US"]
 release_date: "1973-12-25"
 release_years: [1973]
+release_decades: [1970]
 revenue_usd: 159616327
 status: "Released"
 runtime_minutes: 129

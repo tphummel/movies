@@ -1,7 +1,7 @@
 ---
 title: "Glengarry Glen Ross"
 title_alpha_sortable: "Glengarry Glen Ross"
-date: "2022-11-08T00:27:26.411Z"
+date: "2024-05-30T05:15:30.416Z"
 collections: []
 budget_usd: 12500000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [12,67780,67781]
 production_countries: ["US"]
 release_date: "1992-09-15"
 release_years: [1992]
+release_decades: [1990]
 revenue_usd: 10725228
 status: "Released"
 runtime_minutes: 100

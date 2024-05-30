@@ -90,6 +90,15 @@
     "credit_id": "5790e361c3a368664b009229"
   },
   {
+    "id": 1215399,
+    "name": "Taylor Sheridan",
+    "popularity": 35.682,
+    "cast_id": 49,
+    "order": 15,
+    "character": "Cowboy",
+    "credit_id": "57bbe6f1925141553b0028d6"
+  },
+  {
     "id": 1151637,
     "name": "Lora Martinez-Cunningham",
     "popularity": 10.03,

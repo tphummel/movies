@@ -1,7 +1,7 @@
 ---
 title: "Predator"
 title_alpha_sortable: "Predator"
-date: "2024-05-30T05:07:55.777Z"
+date: "2024-05-30T05:15:31.922Z"
 collections: ["predator"]
 budget_usd: 15000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [25,840,1302,1885,5263,5264,124763]
 production_countries: ["US"]
 release_date: "1987-06-12"
 release_years: [1987]
+release_decades: [1980]
 revenue_usd: 98267558
 status: "Released"
 runtime_minutes: 107

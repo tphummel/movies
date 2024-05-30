@@ -214,5 +214,14 @@
     "order": 57,
     "character": "Echo Base Trooper (uncredited)",
     "credit_id": "56b38e1a92514114e1002457"
+  },
+  {
+    "id": 4945,
+    "name": "Joe Johnston",
+    "popularity": 16.543,
+    "cast_id": 183,
+    "order": 71,
+    "character": "Hoth Rebel (uncredited)",
+    "credit_id": "5ec5333f9979d2001f330c9f"
   }
 ]

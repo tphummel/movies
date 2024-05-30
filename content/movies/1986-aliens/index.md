@@ -1,7 +1,7 @@
 ---
 title: "Aliens"
 title_alpha_sortable: "Aliens"
-date: "2024-05-16T14:10:12.913Z"
+date: "2024-05-30T05:15:28.380Z"
 collections: ["alien"]
 budget_usd: 18500000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [25,396,19747]
 production_countries: ["US"]
 release_date: "1986-07-18"
 release_years: [1986]
+release_decades: [1980]
 revenue_usd: 183316455
 status: "Released"
 runtime_minutes: 137

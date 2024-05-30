@@ -124,5 +124,14 @@
     "order": 16,
     "character": "Jody",
     "credit_id": "55ed3c84c3a3682c62013fbe"
+  },
+  {
+    "id": 138,
+    "name": "Quentin Tarantino",
+    "popularity": 51.806,
+    "cast_id": 87,
+    "order": 17,
+    "character": "Narrator (voice) (uncredited)",
+    "credit_id": "56fd5e8fc3a3685cd700052b"
   }
 ]

@@ -1,7 +1,7 @@
 ---
 title: "Wayne's World 2"
 title_alpha_sortable: "Wayne's World 2"
-date: "2024-05-19T16:57:34.164Z"
+date: "2024-05-30T05:15:33.695Z"
 collections: ["waynes-world"]
 budget_usd: 40000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [4]
 production_countries: ["US"]
 release_date: "1993-12-10"
 release_years: [1993]
+release_decades: [1990]
 revenue_usd: 48198019
 status: "Released"
 runtime_minutes: 95

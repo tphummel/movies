@@ -1,7 +1,7 @@
 ---
 title: "Raiders of the Lost Ark"
 title_alpha_sortable: "Raiders of the Lost Ark"
-date: "2024-05-19T16:43:45.025Z"
+date: "2024-05-30T05:15:32.186Z"
 collections: ["indy"]
 budget_usd: 18000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [1,4]
 production_countries: ["US"]
 release_date: "1981-06-12"
 release_years: [1981]
+release_decades: [1980]
 revenue_usd: 389925971
 status: "Released"
 runtime_minutes: 115

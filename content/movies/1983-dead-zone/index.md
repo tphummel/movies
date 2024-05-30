@@ -1,7 +1,7 @@
 ---
 title: "The Dead Zone"
 title_alpha_sortable: "Dead Zone"
-date: "2024-05-22T06:01:35.142Z"
+date: "2024-05-30T05:15:29.392Z"
 collections: []
 budget_usd: 10000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [1176,10308]
 production_countries: ["CA","US"]
 release_date: "1983-10-21"
 release_years: [1983]
+release_decades: [1980]
 revenue_usd: 20766616
 status: "Released"
 runtime_minutes: 103

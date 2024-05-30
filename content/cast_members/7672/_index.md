@@ -6,5 +6,5 @@ original_name: "Reginald VelJohnson"
 known_for_department: "Acting"
 gender: "2"
 adult: "false"
-profile_path: "/78x1ceFIKI8DHfEEj9dg4JrGwPa.jpg"
+profile_path: "/r0F5y1PAQEDM08MBj3oI1IIX4gi.jpg"
 ---

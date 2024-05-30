@@ -6,5 +6,5 @@ original_name: "Howard G. Kazanjian"
 known_for_department: "Production"
 gender: "2"
 adult: "false"
-profile_path: "/xoCVJOtHxV38BYEzX49JHrEpZNd.jpg"
+profile_path: "/c6BU9sH0I24hmglhXNR37itqaxT.jpg"
 ---

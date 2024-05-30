@@ -144,6 +144,24 @@
     "credit_id": "52fe4283c3a36847f8024b45"
   },
   {
+    "id": 39685,
+    "name": "Neil Finnighan",
+    "popularity": 12.279,
+    "cast_id": 257,
+    "order": 24,
+    "character": "Ramelle Paratrooper",
+    "credit_id": "5b27f8d20e0a267780000710"
+  },
+  {
+    "id": 1230574,
+    "name": "Peter Miles",
+    "popularity": 21.242,
+    "cast_id": 58,
+    "order": 25,
+    "character": "Ramelle Paratrooper",
+    "credit_id": "5783a9099251417df6001ca3"
+  },
+  {
     "id": 17199,
     "name": "Corey Johnson",
     "popularity": 25.088,
@@ -331,6 +349,24 @@
     "order": 85,
     "character": "Ryan's Granddaughter (uncredited)",
     "credit_id": "59f516f692514179dd01b3a0"
+  },
+  {
+    "id": 14630,
+    "name": "Mac Steinmeier",
+    "popularity": 13.454,
+    "cast_id": 235,
+    "order": 87,
+    "character": "Waffen SS Soldier (uncredited)",
+    "credit_id": "59f516a8c3a368200101ed8b"
+  },
+  {
+    "id": 97436,
+    "name": "Derek Lea",
+    "popularity": 15.935,
+    "cast_id": 232,
+    "order": 88,
+    "character": "Bangalore Assistant (uncredited)",
+    "credit_id": "59f5162b9251414d6201eefa"
   },
   {
     "id": 25753,

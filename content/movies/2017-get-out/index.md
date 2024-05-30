@@ -1,7 +1,7 @@
 ---
 title: "Get Out"
 title_alpha_sortable: "Get Out"
-date: "2022-11-08T00:27:26.398Z"
+date: "2024-05-30T05:15:30.226Z"
 collections: []
 budget_usd: 4500000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [3172,72725,88934]
 production_countries: ["US"]
 release_date: "2017-02-24"
 release_years: [2017]
+release_decades: [2010]
 revenue_usd: 255407969
 status: "Released"
 runtime_minutes: 104
 keywords: [1930,2586,2887,3363,3453,7856,8201,9748,10123,10131,10941,12425,12565,155583,156091,168567,189401,232495]
-cast_members: [206919,1255540,2229,11367,572541,1660452,1200864,17401,1488961,298410]
+cast_members: [206919,1255540,2229,11367,572541,1291961,1660452,1200864,17401,1488961,298410,291263]
 crew_members: [1587,55905,75553,84348,291263,291263,291263,995462,1030966,1037124,1201896,1308741,1319040]
 tagline: >
   Just because you're invited, doesn't mean you're welcome.

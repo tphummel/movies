@@ -27,6 +27,15 @@
     "credit_id": "52fe425fc3a36847f80192ab"
   },
   {
+    "id": 1524,
+    "name": "Harold Ramis",
+    "popularity": 28.241,
+    "cast_id": 20,
+    "order": 3,
+    "character": "Egon Spengler",
+    "credit_id": "52fe425fc3a36847f8019293"
+  },
+  {
     "id": 8872,
     "name": "Rick Moranis",
     "popularity": 31.07,
@@ -196,6 +205,15 @@
     "order": 62,
     "character": "Man Behind Barricade (uncredited)",
     "credit_id": "5f45d42099d5c30033c71458"
+  },
+  {
+    "id": 8858,
+    "name": "Ivan Reitman",
+    "popularity": 11.131,
+    "cast_id": 108,
+    "order": 68,
+    "character": "Zuul / Slimer (voice) (uncredited)",
+    "credit_id": "5f45d47e414291003755726e"
   },
   {
     "id": 176958,

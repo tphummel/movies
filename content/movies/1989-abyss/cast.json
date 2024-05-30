@@ -106,5 +106,14 @@
     "order": 18,
     "character": "Gerard Kirkhill",
     "credit_id": "52fe436ac3a36847f8052941"
+  },
+  {
+    "id": 2711,
+    "name": "William Wisher",
+    "popularity": 12.747,
+    "cast_id": 138,
+    "order": 20,
+    "character": "Bill Tyler",
+    "credit_id": "5ba22157c3a3687196017c58"
   }
 ]

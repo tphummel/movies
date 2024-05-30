@@ -70,5 +70,14 @@
     "order": 7,
     "character": "Karen Bowens",
     "credit_id": "52fe44fb9251416c75047a2f"
+  },
+  {
+    "id": 28167,
+    "name": "Don Galloway",
+    "popularity": 4.797,
+    "cast_id": 19,
+    "order": 8,
+    "character": "Richard Bowens",
+    "credit_id": "52fe44fb9251416c75047a33"
   }
 ]

@@ -1,7 +1,7 @@
 ---
 title: "Prometheus"
 title_alpha_sortable: "Prometheus"
-date: "2024-05-14T21:47:55.200Z"
+date: "2024-05-30T05:15:32.046Z"
 collections: ["alien"]
 budget_usd: 130000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [444,1645,25,401]
 production_countries: ["GB","US"]
 release_date: "2012-05-30"
 release_years: [2012]
+release_decades: [2010]
 revenue_usd: 403354469
 status: "Released"
 runtime_minutes: 124

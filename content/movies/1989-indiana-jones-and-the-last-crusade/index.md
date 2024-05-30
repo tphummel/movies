@@ -1,7 +1,7 @@
 ---
 title: "Indiana Jones and the Last Crusade"
 title_alpha_sortable: "Indiana Jones and the Last Crusade"
-date: "2024-05-19T16:43:53.872Z"
+date: "2024-05-30T05:15:30.896Z"
 collections: ["indy"]
 budget_usd: 48000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [1,4]
 production_countries: ["US"]
 release_date: "1989-05-24"
 release_years: [1989]
+release_decades: [1980]
 revenue_usd: 474171806
 status: "Released"
 runtime_minutes: 127

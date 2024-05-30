@@ -1,7 +1,7 @@
 ---
 title: "The Hateful Eight"
 title_alpha_sortable: "Hateful Eight"
-date: "2024-05-19T17:03:43.120Z"
+date: "2024-05-30T05:15:30.626Z"
 collections: []
 budget_usd: 44000000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [308,215,1811]
 production_countries: ["US"]
 release_date: "2015-12-25"
 release_years: [2015]
+release_decades: [2010]
 revenue_usd: 155760117
 status: "Released"
 runtime_minutes: 188
 keywords: [801,1016,2398,1262,7150,12570,33600,156783,187321,207928,210162]
-cast_members: [2231,6856,10431,27740,76961,3129,147,6905,87312,1133063,20494,47859,1194944,38673]
+cast_members: [2231,6856,10431,27740,76961,3129,147,6905,87312,1133063,20494,47859,1194944,38673,138]
 crew_members: [59839,1307,12997,58194,149,963669,2947,5382,138]
 tagline: >
   No one comes up here without a damn good reason.

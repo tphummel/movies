@@ -1,7 +1,7 @@
 ---
 title: "Face/Off"
 title_alpha_sortable: "Face/Off"
-date: "2022-11-08T00:27:26.359Z"
+date: "2024-05-30T05:15:30.033Z"
 collections: []
 budget_usd: 80000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [4,455,456,458,9195,25358]
 production_countries: ["US"]
 release_date: "1997-06-27"
 release_years: [1997]
+release_decades: [1990]
 revenue_usd: 245676146
 status: "Released"
 runtime_minutes: 138

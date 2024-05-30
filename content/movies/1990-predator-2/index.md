@@ -1,7 +1,7 @@
 ---
 title: "Predator 2"
 title_alpha_sortable: "Predator 2"
-date: "2024-05-18T15:45:14.731Z"
+date: "2024-05-30T05:15:31.997Z"
 collections: ["predator"]
 budget_usd: 35000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [1302,840,1885,25]
 production_countries: ["US"]
 release_date: "1990-11-21"
 release_years: [1990]
+release_decades: [1990]
 revenue_usd: 57120318
 status: "Released"
 runtime_minutes: 108

@@ -90,6 +90,15 @@
     "credit_id": "55fdc4ce92514152aa0017f0"
   },
   {
+    "id": 16563,
+    "name": "Charles A. Tamburro",
+    "popularity": 10.72,
+    "cast_id": 164,
+    "order": 17,
+    "character": "Helicopter Pilot",
+    "credit_id": "5d066f84c3a36877db219643"
+  },
+  {
     "id": 106468,
     "name": "Charles Cragin",
     "popularity": 11.285,
@@ -106,5 +115,14 @@
     "order": 26,
     "character": "Bread Van Terrorist #2",
     "credit_id": "5e7a6b3bcabfe400182665c2"
+  },
+  {
+    "id": 58338,
+    "name": "John Bruno",
+    "popularity": 11.015,
+    "cast_id": 192,
+    "order": 29,
+    "character": "Custodian",
+    "credit_id": "5e7a6b69357c00001953e5ab"
   }
 ]

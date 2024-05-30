@@ -61,5 +61,23 @@
     "order": 6,
     "character": "Carl Tanner",
     "credit_id": "5525414d925141720c001b56"
+  },
+  {
+    "id": 223012,
+    "name": "Jayson Blair",
+    "popularity": 3.632,
+    "cast_id": 13,
+    "order": 8,
+    "character": "Travis",
+    "credit_id": "52fe4ef7c3a36847f82b3feb"
+  },
+  {
+    "id": 159366,
+    "name": "Kavita Patil",
+    "popularity": 3.592,
+    "cast_id": 14,
+    "order": 9,
+    "character": "Sophie",
+    "credit_id": "52fe4ef7c3a36847f82b3fef"
   }
 ]

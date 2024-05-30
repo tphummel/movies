@@ -1,7 +1,7 @@
 ---
 title: "Die Hard 2"
 title_alpha_sortable: "Die Hard 2"
-date: "2024-05-19T16:39:53.863Z"
+date: "2024-05-30T05:15:29.542Z"
 collections: ["die-hard"]
 budget_usd: 70000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [1073,1885,25]
 production_countries: ["US"]
 release_date: "1990-07-03"
 release_years: [1990]
+release_decades: [1990]
 revenue_usd: 240031094
 status: "Released"
 runtime_minutes: 124

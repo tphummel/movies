@@ -1,7 +1,7 @@
 ---
 title: "Dawn of the Planet of the Apes"
 title_alpha_sortable: "Dawn of the Planet of the Apes"
-date: "2024-05-22T05:51:09.703Z"
+date: "2024-05-30T05:15:29.329Z"
 collections: ["apes"]
 budget_usd: 170000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [22213,7076,290]
 production_countries: ["GB","US"]
 release_date: "2014-07-08"
 release_years: [2014]
+release_decades: [2010]
 revenue_usd: 710644566
 status: "Released"
 runtime_minutes: 130

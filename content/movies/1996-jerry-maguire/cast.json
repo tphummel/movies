@@ -144,6 +144,15 @@
     "credit_id": "56d1ac1492514174680015de"
   },
   {
+    "id": 8346,
+    "name": "Jerry Ziesmer",
+    "popularity": 10.534,
+    "cast_id": 209,
+    "order": 52,
+    "character": "Trainer",
+    "credit_id": "60fec2c0568463002da65127"
+  },
+  {
     "id": 140,
     "name": "Lucy Liu",
     "popularity": 59.759,

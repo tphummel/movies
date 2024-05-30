@@ -1,7 +1,7 @@
 ---
 title: "Moneyball"
 title_alpha_sortable: "Moneyball"
-date: "2022-11-08T00:27:35.688Z"
+date: "2024-05-30T05:15:31.671Z"
 collections: []
 budget_usd: 50000000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [5,258,737,6403,11370]
 production_countries: ["US"]
 release_date: "2011-09-23"
 release_years: [2011]
+release_decades: [2010]
 revenue_usd: 110206216
 status: "Released"
 runtime_minutes: 134
 keywords: [240,387,1228,1480,6075,6219,9672,13117,170837,181019,194018,204841,208289,252104,267788]
-cast_members: [287,21007,1233,32,73457,55205,31508,84685,16859,12538,3229,1146392]
+cast_members: [287,21007,1233,32,73457,55205,31508,84685,181067,16859,12538,3229,1146392]
 crew_members: [287,559,2997,4767,5345,5361,31270,35180,64841,1324649]
 tagline: >
   What are you really worth?

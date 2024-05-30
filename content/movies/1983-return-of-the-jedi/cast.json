@@ -243,6 +243,15 @@
     "credit_id": "586575abc3a36852c9020e01"
   },
   {
+    "id": 7727,
+    "name": "Phil Tippett",
+    "popularity": 13.153,
+    "cast_id": 140,
+    "order": 118,
+    "character": "Rancor",
+    "credit_id": "5865b0c39251412b87024392"
+  },
+  {
     "id": 1218998,
     "name": "John Altman",
     "popularity": 12.029,
@@ -259,6 +268,24 @@
     "order": 128,
     "character": "Malakili - Rancor Keeper (uncredited)",
     "credit_id": "5ec54106e635710022cc2d1d"
+  },
+  {
+    "id": 670,
+    "name": "Ben Burtt",
+    "popularity": 18.845,
+    "cast_id": 203,
+    "order": 129,
+    "character": "'Freeze' Officer in Endor Bunker / Tortured Power Droid (voice) (uncredited)",
+    "credit_id": "5ec541143d3557001ce72fb5"
+  },
+  {
+    "id": 19800,
+    "name": "Richard Marquand",
+    "popularity": 10.409,
+    "cast_id": 250,
+    "order": 158,
+    "character": "Maj. Marquand - AT-ST Driver / EV-9D9 (voice) (uncredited)",
+    "credit_id": "5ec544610c0b3800206c5eb6"
   },
   {
     "id": 17244,

@@ -52,5 +52,14 @@
     "order": 5,
     "character": "Kelly Height",
     "credit_id": "540a684dc3a368799c000886"
+  },
+  {
+    "id": 1361100,
+    "name": "Bailey Spry",
+    "popularity": 3.654,
+    "cast_id": 7,
+    "order": 6,
+    "character": "Annie",
+    "credit_id": "540a685fc3a368799c00088c"
   }
 ]

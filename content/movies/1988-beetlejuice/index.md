@@ -1,7 +1,7 @@
 ---
 title: "Beetlejuice"
 title_alpha_sortable: "Beetlejuice"
-date: "2022-11-08T00:27:22.282Z"
+date: "2024-05-30T05:15:28.777Z"
 collections: []
 budget_usd: 15000000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [174,360]
 production_countries: ["US"]
 release_date: "1988-03-30"
 release_years: [1988]
+release_decades: [1980]
 revenue_usd: 74714298
 status: "Released"
 runtime_minutes: 92
 keywords: [3065,3891,4062,5941,6022,6152,6155,7925,9712,9887,10809,33505,41410,162846,244478]
-cast_members: [7447,16935,4004,11514,1920,2232,13243,528,54813]
+cast_members: [7447,16935,4004,11514,1920,2232,13243,528,54813,10565]
 crew_members: [510,6900,12843,29529,35139,11371]
 tagline: >
   He's guaranteed to put some life in your afterlife.

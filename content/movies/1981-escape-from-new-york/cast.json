@@ -90,6 +90,15 @@
     "credit_id": "52fe42e7c3a36847f802bc4d"
   },
   {
+    "id": 11770,
+    "name": "John Carpenter",
+    "popularity": 28.063,
+    "cast_id": 29,
+    "order": 16,
+    "character": "Secret Service #2 / Helicopter Pilot / Violin Player",
+    "credit_id": "5cd6bda40e0a262df5cbe456"
+  },
+  {
     "id": 8944,
     "name": "Jamie Lee Curtis",
     "popularity": 67.857,
@@ -106,5 +115,14 @@
     "order": 18,
     "character": "Pianist (uncredited)",
     "credit_id": "60fd031c5ab81a002a4f8a14"
+  },
+  {
+    "id": 2161,
+    "name": "Debra Hill",
+    "popularity": 19.557,
+    "cast_id": 37,
+    "order": 19,
+    "character": "Computer (voice) (uncredited)",
+    "credit_id": "60fd04ca17792c005dbb8c54"
   }
 ]

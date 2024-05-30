@@ -97,5 +97,14 @@
     "order": 16,
     "character": "Computer (voice) (uncredited)",
     "credit_id": "5cac1d479251411908b41090"
+  },
+  {
+    "id": 11770,
+    "name": "John Carpenter",
+    "popularity": 28.063,
+    "cast_id": 123,
+    "order": 17,
+    "character": "Norwegian (video footage) (uncredited)",
+    "credit_id": "5cac1d7e0e0a26080fae6123"
   }
 ]

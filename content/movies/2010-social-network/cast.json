@@ -171,6 +171,15 @@
     "credit_id": "52fe466f9251416c910546e3"
   },
   {
+    "id": 13520,
+    "name": "Aaron Sorkin",
+    "popularity": 18,
+    "cast_id": 61,
+    "order": 56,
+    "character": "Ad Executive",
+    "credit_id": "5643e9769251410a44003cfa"
+  },
+  {
     "id": 1011107,
     "name": "Emma Fitzpatrick",
     "popularity": 11.529,

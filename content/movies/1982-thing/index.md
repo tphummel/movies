@@ -1,7 +1,7 @@
 ---
 title: "The Thing"
 title_alpha_sortable: "Thing"
-date: "2022-11-08T00:27:35.773Z"
+date: "2024-05-30T05:15:33.067Z"
 collections: []
 budget_usd: 15000000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [33,662]
 production_countries: ["US"]
 release_date: "1982-06-25"
 release_years: [1982]
+release_decades: [1980]
 revenue_usd: 19629760
 status: "Released"
 runtime_minutes: 109
 keywords: [818,1612,1826,2340,2766,3373,4713,4862,9714,9951,13031,14728,14729,15250,34117,155821,183787,220392,238467]
-cast_members: [6856,65827,11065,15411,15412,15413,15414,15415,15416,15417,11782]
+cast_members: [6856,65827,11065,15411,15412,15413,15414,15415,15416,15417,11782,11770]
 crew_members: [1060,1767,11770,11813,15408,10770]
 tagline: >
   Man is The Warmest Place to Hide.

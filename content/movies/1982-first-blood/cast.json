@@ -9,6 +9,15 @@
     "credit_id": "52fe42efc3a36847f802e1fb"
   },
   {
+    "id": 16563,
+    "name": "Charles A. Tamburro",
+    "popularity": 4.966,
+    "cast_id": 32,
+    "order": 1,
+    "character": "Pilot",
+    "credit_id": "52fe42efc3a36847f802e22b"
+  },
+  {
     "id": 16555,
     "name": "Bill McKinney",
     "popularity": 12.765,
@@ -43,6 +52,15 @@
     "order": 5,
     "character": "Deputy Ward",
     "credit_id": "52fe42efc3a36847f802e213"
+  },
+  {
+    "id": 16556,
+    "name": "Jack Starrett",
+    "popularity": 6.033,
+    "cast_id": 24,
+    "order": 6,
+    "character": "Deputy Sgt. Arthur Galt",
+    "credit_id": "52fe42efc3a36847f802e20b"
   },
   {
     "id": 16557,

@@ -1,7 +1,7 @@
 ---
 title: "The Big Short"
 title_alpha_sortable: "Big Short"
-date: "2022-11-08T00:27:22.300Z"
+date: "2024-05-30T05:15:28.946Z"
 collections: []
 budget_usd: 28000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [4,81,508]
 production_countries: ["US"]
 release_date: "2015-12-11"
 release_years: [2015]
+release_decades: [2010]
 revenue_usd: 133346506
 status: "Released"
 runtime_minutes: 131

@@ -279,6 +279,15 @@
     "credit_id": "538c1f280e0a266712003842"
   },
   {
+    "id": 138,
+    "name": "Quentin Tarantino",
+    "popularity": 61.411,
+    "cast_id": 43,
+    "order": 38,
+    "character": "The LeQuint Dickey Mining Co. Employee",
+    "credit_id": "52fe479fc3a368484e0d1355"
+  },
+  {
     "id": 95979,
     "name": "Louise Stratten",
     "popularity": 18.264,

@@ -54,6 +54,15 @@
     "credit_id": "52fe4253c3a36847f8015989"
   },
   {
+    "id": 102429,
+    "name": "Roger Corman",
+    "popularity": 10.442,
+    "cast_id": 40,
+    "order": 6,
+    "character": "Congressman",
+    "credit_id": "52fe4254c3a36847f80159b9"
+  },
+  {
     "id": 8191,
     "name": "Chris Ellis",
     "popularity": 7.19,

@@ -27,6 +27,15 @@
     "credit_id": "52fe46f29251416c75088c71"
   },
   {
+    "id": 16847,
+    "name": "Eli Roth",
+    "popularity": 26.84,
+    "cast_id": 11,
+    "order": 3,
+    "character": "SGT. Donny Donowitz",
+    "credit_id": "52fe46f29251416c75088c8b"
+  },
+  {
     "id": 17288,
     "name": "Michael Fassbender",
     "popularity": 56.74,
@@ -306,6 +315,15 @@
     "credit_id": "52fe46f29251416c75088ceb"
   },
   {
+    "id": 50739,
+    "name": "Enzo G. Castellari",
+    "popularity": 10.113,
+    "cast_id": 77,
+    "order": 55,
+    "character": "Enzo G. Castellari",
+    "credit_id": "55692e2192514173e0000571"
+  },
+  {
     "id": 2231,
     "name": "Samuel L. Jackson",
     "popularity": 77.916,
@@ -322,5 +340,23 @@
     "order": 64,
     "character": "OSS Commander Who Agrees to Deal (voice) (uncredited)",
     "credit_id": "570d8b5292514124f90002e3"
+  },
+  {
+    "id": 59287,
+    "name": "Greg Nicotero",
+    "popularity": 14.753,
+    "cast_id": 91,
+    "order": 66,
+    "character": "Gestapo Major (uncredited)",
+    "credit_id": "570d8cefc3a3680a300003c7"
+  },
+  {
+    "id": 138,
+    "name": "Quentin Tarantino",
+    "popularity": 52.687,
+    "cast_id": 93,
+    "order": 67,
+    "character": "First Scalped Nazi / American Soldier in 'Pride of Nation' (uncredited)",
+    "credit_id": "570d8e31c3a3680a30000476"
   }
 ]

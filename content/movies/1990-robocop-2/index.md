@@ -1,7 +1,7 @@
 ---
 title: "RoboCop 2"
 title_alpha_sortable: "RoboCop 2"
-date: "2024-05-18T14:52:33.878Z"
+date: "2024-05-30T05:15:32.437Z"
 collections: ["robocop"]
 budget_usd: 35000000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [41]
 production_countries: ["US"]
 release_date: "1990-06-22"
 release_years: [1990]
+release_decades: [1990]
 revenue_usd: 45681173
 status: "Released"
 runtime_minutes: 117
 keywords: [679,6149,9663,12190,14544,14964,15090]
-cast_members: [27811,44038,119232,44049,6836,44055,105988,21629,6576,5589,13923]
+cast_members: [27811,44038,119232,44049,13310,6836,44042,44055,105988,21629,6576,5589,13923]
 crew_members: [3904,7413,7723,21271,10930,25600,44046]
 tagline: >
   He's back to protect the innocent.

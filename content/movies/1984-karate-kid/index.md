@@ -1,7 +1,7 @@
 ---
 title: "The Karate Kid"
 title_alpha_sortable: "Karate Kid"
-date: "2024-05-23T14:03:04.695Z"
+date: "2024-05-30T05:15:31.422Z"
 collections: []
 budget_usd: 8000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [5,7585,2596]
 production_countries: ["US"]
 release_date: "1984-06-22"
 release_years: [1984]
+release_decades: [1980]
 revenue_usd: 130442786
 status: "Released"
 runtime_minutes: 126

@@ -1,7 +1,7 @@
 ---
 title: "The Big Lebowski"
 title_alpha_sortable: "Big Lebowski"
-date: "2024-05-19T17:06:51.034Z"
+date: "2024-05-30T05:15:28.890Z"
 collections: []
 budget_usd: 15000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [1382,10163,37]
 production_countries: ["GB","US"]
 release_date: "1998-03-06"
 release_years: [1998]
+release_decades: [1990]
 revenue_usd: 47010480
 status: "Released"
 runtime_minutes: 117

@@ -1,7 +1,7 @@
 ---
 title: "The Abyss"
 title_alpha_sortable: "Abyss"
-date: "2024-05-17T00:54:47.270Z"
+date: "2024-05-30T05:15:28.227Z"
 collections: []
 budget_usd: 70000000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [25,1280]
 production_countries: ["US"]
 release_date: "1989-08-09"
 release_years: [1989]
+release_decades: [1980]
 revenue_usd: 90000098
 status: "Released"
 runtime_minutes: 140
 keywords: [658,3243,339,270,2772,3269,6255,3312,4410,4862,9738,4949,10503,14785,155334,161293,162351,177406,185477,233020]
-cast_members: [228,1161,2712,30151,18342,60118,1984,1534,21757,14663,87118,38570]
+cast_members: [228,1161,2712,30151,18342,60118,1984,1534,21757,14663,87118,38570,2711]
 crew_members: [2710,869,30148,30149,3987,64196,10853,93214,2710]
 tagline: >
   When you get there, you will understand.
