@@ -27,6 +27,15 @@
     "credit_id": "52fe4218c3a36847f8003b5b"
   },
   {
+    "id": 1104,
+    "name": "Jesse Ventura",
+    "popularity": 3.272,
+    "cast_id": 17,
+    "order": 3,
+    "character": "Blain Cooper",
+    "credit_id": "52fe4218c3a36847f8003b63"
+  },
+  {
     "id": 1105,
     "name": "Sonny Landham",
     "popularity": 11.445,
@@ -63,6 +72,15 @@
     "credit_id": "52fe4218c3a36847f8003b6f"
   },
   {
+    "id": 1108,
+    "name": "Shane Black",
+    "popularity": 10.069,
+    "cast_id": 21,
+    "order": 8,
+    "character": "Rick Hawkins",
+    "credit_id": "52fe4218c3a36847f8003b73"
+  },
+  {
     "id": 1109,
     "name": "Kevin Peter Hall",
     "popularity": 9.383,
@@ -79,5 +97,14 @@
     "order": 13,
     "character": "Predator (voice) (uncredited)",
     "credit_id": "5a5b85a4c3a36867f601eebf"
+  },
+  {
+    "id": 176448,
+    "name": "Jack Verbois",
+    "popularity": 10.096,
+    "cast_id": 82,
+    "order": 15,
+    "character": "Guerilla Soldier Helicopter Pilot (uncredited)",
+    "credit_id": "5a5b85c19251413f68020cbd"
   }
 ]
