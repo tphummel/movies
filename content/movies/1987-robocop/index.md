@@ -1,7 +1,7 @@
 ---
 title: "RoboCop"
 title_alpha_sortable: "RoboCop"
-date: "2024-05-18T14:56:23.036Z"
+date: "2024-05-30T05:15:32.389Z"
 collections: ["robocop"]
 budget_usd: 13000000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [41]
 production_countries: ["US"]
 release_date: "1987-07-17"
 release_years: [1987]
+release_decades: [1980]
 revenue_usd: 53424681
 status: "Released"
 runtime_minutes: 102
 keywords: [679,853,1706,4565,10891,11738,12190,18021,163081,163082,187293,188970]
-cast_members: [27811,44038,6836,780,2115,15860,30615,6719,32393,179188]
+cast_members: [27811,44038,6836,780,2115,15860,30615,6719,44042,32393,179188]
 crew_members: [5241,10491,7715,7722,7723,8277,44036]
 tagline: >
   Part man. Part machine. All cop. The future of law enforcement.

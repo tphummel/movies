@@ -1,7 +1,7 @@
 ---
 title: "Back to the Future Part III"
 title_alpha_sortable: "Back to the Future Part III"
-date: "2024-05-14T05:16:57.140Z"
+date: "2024-05-30T05:15:28.730Z"
 collections: ["bttf"]
 budget_usd: 40000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [33,56]
 production_countries: ["US"]
 release_date: "1990-05-25"
 release_years: [1990]
+release_decades: [1990]
 revenue_usd: 244527583
 status: "Released"
 runtime_minutes: 119

@@ -6,5 +6,5 @@ original_name: "Bruce Willis"
 known_for_department: "Acting"
 gender: "2"
 adult: "false"
-profile_path: "/caX3KtMU42EP3VLRFFBwqIIrch5.jpg"
+profile_path: "/A1XBu3CffBpSK8HEIJM8q7Mn4lz.jpg"
 ---

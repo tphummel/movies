@@ -63,6 +63,15 @@
     "credit_id": "52fe44479251416c7502f24b"
   },
   {
+    "id": 1658017,
+    "name": "Tom McKitterick",
+    "popularity": 4.189,
+    "cast_id": 18,
+    "order": 8,
+    "character": "Cowboy",
+    "credit_id": "579a447192514112fb0040e8"
+  },
+  {
     "id": 2167,
     "name": "Mercedes Ruehl",
     "popularity": 13.984,
@@ -70,5 +79,14 @@
     "order": 13,
     "character": "Policewoman",
     "credit_id": "579a44729251411296003cad"
+  },
+  {
+    "id": 1281538,
+    "name": "Jery Hewitt",
+    "popularity": 10.033,
+    "cast_id": 64,
+    "order": 40,
+    "character": "Baseball Fury Leader/ Punk (Beanie)",
+    "credit_id": "64e06692e19de9013a283efd"
   }
 ]

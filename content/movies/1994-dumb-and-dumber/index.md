@@ -1,7 +1,7 @@
 ---
 title: "Dumb and Dumber"
 title_alpha_sortable: "Dumb and Dumber"
-date: "2024-05-22T06:42:06.910Z"
+date: "2024-05-30T05:15:29.714Z"
 collections: []
 budget_usd: 16000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [12,2090]
 production_countries: ["US"]
 release_date: "1994-12-16"
 release_years: [1994]
+release_decades: [1990]
 revenue_usd: 247275374
 status: "Released"
 runtime_minutes: 107

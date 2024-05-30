@@ -1,7 +1,7 @@
 ---
 title: "Bull Durham"
 title_alpha_sortable: "Bull Durham"
-date: "2024-05-26T17:35:51.871Z"
+date: "2024-05-30T05:15:29.031Z"
 collections: []
 budget_usd: 7000000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [1312,21,41]
 production_countries: ["US"]
 release_date: "1988-06-15"
 release_years: [1988]
+release_decades: [1980]
 revenue_usd: 50888000
 status: "Released"
 runtime_minutes: 108
 keywords: [931,128,6075,1485,965,493,1480,1482,1484,1486,1686,156100]
-cast_members: [1269,4038,504,4039,4040,4041,4042,4051]
+cast_members: [1269,4038,504,4039,4040,4041,4042,4043,4051]
 crew_members: [4057,4052,4037,3032,2145,4054,4056,4037]
 tagline: >
   Romance is a lot like baseball. It's not whether you win or lose. It's how you play the game.

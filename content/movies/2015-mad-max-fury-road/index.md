@@ -1,7 +1,7 @@
 ---
 title: "Mad Max: Fury Road"
 title_alpha_sortable: "Mad Max: Fury Road"
-date: "2024-05-19T17:08:35.033Z"
+date: "2024-05-30T05:15:31.477Z"
 collections: []
 budget_usd: 150000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [174,79,28382,2537]
 production_countries: ["AU","US"]
 release_date: "2015-05-13"
 release_years: [2015]
+release_decades: [2010]
 revenue_usd: 378858340
 status: "Released"
 runtime_minutes: 121

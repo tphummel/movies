@@ -1,7 +1,7 @@
 ---
 title: "Promising Young Woman"
 title_alpha_sortable: "Promising Young Woman"
-date: "2024-05-25T15:02:24.929Z"
+date: "2024-05-30T05:15:32.105Z"
 collections: []
 budget_usd: 10000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [82968,7493]
 production_countries: ["US"]
 release_date: "2020-12-13"
 release_years: [2020]
+release_decades: [2020]
 revenue_usd: 20379604
 status: "Released"
 runtime_minutes: 113

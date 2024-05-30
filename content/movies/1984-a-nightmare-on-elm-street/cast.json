@@ -133,5 +133,14 @@
     "order": 18,
     "character": "Cop #1",
     "credit_id": "580d2cb4c3a3682286013066"
+  },
+  {
+    "id": 13663,
+    "name": "Robert Shaye",
+    "popularity": 16.281,
+    "cast_id": 48,
+    "order": 29,
+    "character": "Newsreader / KRGR Radio Announcer (voice, uncredited)",
+    "credit_id": "609b50a4ae36680040b21c2a"
   }
 ]

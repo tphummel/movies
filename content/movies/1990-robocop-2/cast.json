@@ -36,6 +36,15 @@
     "credit_id": "52fe440dc3a36847f807f91b"
   },
   {
+    "id": 13310,
+    "name": "Willard E. Pugh",
+    "popularity": 3.299,
+    "cast_id": 144,
+    "order": 4,
+    "character": "Mayor Kuzak",
+    "credit_id": "58728be8c3a3681731000bee"
+  },
+  {
     "id": 6836,
     "name": "Dan O'Herlihy",
     "popularity": 13.623,
@@ -43,6 +52,15 @@
     "order": 5,
     "character": "The Old Man",
     "credit_id": "52fe440dc3a36847f807f97d"
+  },
+  {
+    "id": 44042,
+    "name": "Felton Perry",
+    "popularity": 4.853,
+    "cast_id": 54,
+    "order": 6,
+    "character": "Donald Johnson",
+    "credit_id": "52fe440dc3a36847f807f9a9"
   },
   {
     "id": 44055,

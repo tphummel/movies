@@ -63,6 +63,15 @@
     "credit_id": "52fe424fc3a36847f801426d"
   },
   {
+    "id": 78902,
+    "name": "Frank Albertson",
+    "popularity": 3.156,
+    "cast_id": 23,
+    "order": 7,
+    "character": "Tom Cassidy",
+    "credit_id": "52fe424fc3a36847f8014271"
+  },
+  {
     "id": 12500,
     "name": "Patricia Hitchcock",
     "popularity": 5.375,
@@ -79,6 +88,15 @@
     "order": 9,
     "character": "George Lowery",
     "credit_id": "52fe424fc3a36847f8014279"
+  },
+  {
+    "id": 2636,
+    "name": "Alfred Hitchcock",
+    "popularity": 13.503,
+    "cast_id": 30,
+    "order": 22,
+    "character": "Man Outside Office (uncredited)",
+    "credit_id": "52fe424fc3a36847f8014289"
   },
   {
     "id": 7520,

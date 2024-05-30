@@ -1,7 +1,7 @@
 ---
 title: "The Insider"
 title_alpha_sortable: "Insider"
-date: "2022-11-08T00:27:35.647Z"
+date: "2024-05-30T05:15:31.054Z"
 collections: []
 budget_usd: 90000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [158,675,8758,8759,9195]
 production_countries: ["US"]
 release_date: "1999-10-28"
 release_years: [1999]
+release_decades: [1990]
 revenue_usd: 60289912
 status: "Released"
 runtime_minutes: 158

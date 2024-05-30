@@ -1,7 +1,7 @@
 ---
 title: "So I Married an Axe Murderer"
 title_alpha_sortable: "So I Married an Axe Murderer"
-date: "2024-05-19T17:00:50.779Z"
+date: "2024-05-30T05:15:32.709Z"
 collections: []
 budget_usd: 20000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [559]
 production_countries: ["US"]
 release_date: "1993-07-30"
 release_years: [1993]
+release_decades: [1990]
 revenue_usd: 11585483
 status: "Released"
 runtime_minutes: 93

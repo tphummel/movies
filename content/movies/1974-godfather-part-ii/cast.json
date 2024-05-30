@@ -54,6 +54,15 @@
     "credit_id": "52fe422bc3a36847f8009519"
   },
   {
+    "id": 3171,
+    "name": "Lee Strasberg",
+    "popularity": 3.523,
+    "cast_id": 14,
+    "order": 6,
+    "character": "Hyman Roth",
+    "credit_id": "52fe422bc3a36847f800951d"
+  },
+  {
     "id": 3172,
     "name": "Michael V. Gazzo",
     "popularity": 7.254,
@@ -115,6 +124,15 @@
     "order": 67,
     "character": "Sonny Corleone",
     "credit_id": "52fe422bc3a36847f80095c3"
+  },
+  {
+    "id": 1769,
+    "name": "Sofia Coppola",
+    "popularity": 10.149,
+    "cast_id": 65,
+    "order": 69,
+    "character": "Child on Ship",
+    "credit_id": "55c0e9929251410f27002014"
   },
   {
     "id": 99846,

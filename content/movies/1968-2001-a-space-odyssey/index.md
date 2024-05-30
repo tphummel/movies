@@ -1,7 +1,7 @@
 ---
 title: "2001: A Space Odyssey"
 title_alpha_sortable: "2001: A Space Odyssey"
-date: "2022-11-08T00:27:19.644Z"
+date: "2024-05-30T05:15:28.115Z"
 collections: []
 budget_usd: 12000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [21,385]
 production_countries: ["GB","US"]
 release_date: "1968-04-02"
 release_years: [1968]
+release_decades: [1960]
 revenue_usd: 71923560
 status: "Released"
 runtime_minutes: 149

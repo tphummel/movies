@@ -1,7 +1,7 @@
 ---
 title: "Backdraft"
 title_alpha_sortable: "Backdraft"
-date: "2024-05-19T15:53:13.900Z"
+date: "2024-05-30T05:15:28.584Z"
 collections: []
 budget_usd: 75000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [2231,23,33]
 production_countries: ["US"]
 release_date: "1991-05-24"
 release_years: [1991]
+release_decades: [1990]
 revenue_usd: 152368585
 status: "Released"
 runtime_minutes: 137

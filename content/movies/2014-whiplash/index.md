@@ -1,7 +1,7 @@
 ---
 title: "Whiplash"
 title_alpha_sortable: "Whiplash"
-date: "2022-11-08T00:27:35.804Z"
+date: "2024-05-30T05:15:33.795Z"
 collections: []
 budget_usd: 3300000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [2266,3172,32157]
 production_countries: ["US"]
 release_date: "2014-10-10"
 release_years: [2014]
+release_decades: [2010]
 revenue_usd: 13092000
 status: "Released"
 runtime_minutes: 107
 keywords: [242,1416,1523,1640,2176,33896,170418,176095,206298,207739,268132]
-cast_members: [996701,18999,781,129104,970216,15824,1451540]
+cast_members: [996701,18999,781,129104,970216,15824,1451540,223012,159366]
 crew_members: [53181,52443,60864,66726,66727,84348,136495,136495,1030966,1156888,1287961,1319040]
 tagline: >
   The road to greatness can take you to the edge.

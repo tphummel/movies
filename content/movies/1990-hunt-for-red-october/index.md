@@ -1,7 +1,7 @@
 ---
 title: "The Hunt for Red October"
 title_alpha_sortable: "Hunt for Red October"
-date: "2022-11-08T00:27:35.600Z"
+date: "2024-05-30T05:15:30.845Z"
 collections: []
 budget_usd: 30000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [4,1693,2767]
 production_countries: ["US"]
 release_date: "1990-03-02"
 release_years: [1990]
+release_decades: [1990]
 revenue_usd: 200512643
 status: "Released"
 runtime_minutes: 135

@@ -1,7 +1,7 @@
 ---
 title: "The Godfather Part II"
 title_alpha_sortable: "Godfather Part II"
-date: "2022-11-08T00:27:26.433Z"
+date: "2024-05-30T05:15:30.497Z"
 collections: []
 budget_usd: 13000000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [4,536]
 production_countries: ["US"]
 release_date: "1974-12-20"
 release_years: [1974]
+release_decades: [1970]
 revenue_usd: 102600000
 status: "Released"
 runtime_minutes: 202
 keywords: [131,700,701,1715,3149,4232,6049,9748,10291,10391,10909,14632,156024]
-cast_members: [1158,3087,3092,380,3096,3094,3172,3173,3174,15659,5048,14849,3085,99846]
+cast_members: [1158,3087,3092,380,3096,3094,3171,3172,3173,3174,15659,5048,14849,3085,1769,99846]
 crew_members: [1776,1776,2870,2871,3170,2988,3097,3100,3175,12288]
 tagline: >
   I don't feel I have to wipe everybody out, Tom. Just my enemies.

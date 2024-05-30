@@ -1,7 +1,7 @@
 ---
 title: "Unstoppable"
 title_alpha_sortable: "Unstoppable"
-date: "2024-05-17T01:04:02.445Z"
+date: "2024-05-30T05:15:33.425Z"
 collections: []
 budget_usd: 100000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [19776,1645,1838,19777,25,444]
 production_countries: ["GB","US"]
 release_date: "2010-11-04"
 release_years: [2010]
+release_decades: [2010]
 revenue_usd: 167805466
 status: "Released"
 runtime_minutes: 98

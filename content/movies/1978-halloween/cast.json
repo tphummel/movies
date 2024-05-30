@@ -115,5 +115,23 @@
     "order": 19,
     "character": "The Shape",
     "credit_id": "52fe4292c3a36847f80290db"
+  },
+  {
+    "id": 11777,
+    "name": "Tommy Lee Wallace",
+    "popularity": 11.763,
+    "cast_id": 47,
+    "order": 25,
+    "character": "Michael Myers (uncredited)",
+    "credit_id": "5f7642d958efd30035ada7eb"
+  },
+  {
+    "id": 11770,
+    "name": "John Carpenter",
+    "popularity": 28.063,
+    "cast_id": 37,
+    "order": 26,
+    "character": "Paul (voice) (uncredited)",
+    "credit_id": "52fe4292c3a36847f80290e3"
   }
 ]

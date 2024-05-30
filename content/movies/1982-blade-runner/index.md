@@ -1,7 +1,7 @@
 ---
 title: "Blade Runner"
 title_alpha_sortable: "Blade Runner"
-date: "2022-11-08T00:27:22.312Z"
+date: "2024-05-30T05:15:28.987Z"
 collections: []
 budget_usd: 28000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [174,5798,7965]
 production_countries: ["US","HK","GB"]
 release_date: "1982-06-25"
 release_years: [1982]
+release_decades: [1980]
 revenue_usd: 41722424
 status: "Released"
 runtime_minutes: 118

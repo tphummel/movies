@@ -81,6 +81,15 @@
     "credit_id": "52fe43ebc3a36847f80783e7"
   },
   {
+    "id": 150,
+    "name": "RZA",
+    "popularity": 15.704,
+    "cast_id": 19,
+    "order": 9,
+    "character": "Moses Jones",
+    "credit_id": "52fe43ebc3a36847f80783eb"
+  },
+  {
     "id": 40376,
     "name": "Lymari Nadal",
     "popularity": 26.17,
@@ -331,6 +340,15 @@
     "order": 83,
     "character": "Mechanic",
     "credit_id": "56c4b48ec3a3680d520002e1"
+  },
+  {
+    "id": 206398,
+    "name": "John Cenatiempo",
+    "popularity": 20.659,
+    "cast_id": 143,
+    "order": 117,
+    "character": "Cop #1 (uncredited)",
+    "credit_id": "56c51f04c3a3680d490011c7"
   },
   {
     "id": 15864,

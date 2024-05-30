@@ -1,7 +1,7 @@
 ---
 title: "The Cabin in the Woods"
 title_alpha_sortable: "Cabin in the Woods"
-date: "2022-11-08T00:27:22.323Z"
+date: "2024-05-30T05:15:29.078Z"
 collections: []
 budget_usd: 30000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [1632,10567]
 production_countries: ["US"]
 release_date: "2012-04-12"
 release_years: [2012]
+release_decades: [2010]
 revenue_usd: 71041255
 status: "Released"
 runtime_minutes: 95

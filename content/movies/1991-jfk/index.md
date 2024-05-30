@@ -1,7 +1,7 @@
 ---
 title: "JFK"
 title_alpha_sortable: "JFK"
-date: "2024-05-19T15:55:40.698Z"
+date: "2024-05-30T05:15:31.321Z"
 collections: []
 budget_usd: 40000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [174,508,644,525,183]
 production_countries: ["FR","US"]
 release_date: "1991-12-20"
 release_years: [1991]
+release_decades: [1990]
 revenue_usd: 205405498
 status: "Released"
 runtime_minutes: 189

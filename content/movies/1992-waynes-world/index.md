@@ -1,7 +1,7 @@
 ---
 title: "Wayne's World"
 title_alpha_sortable: "Wayne's World"
-date: "2024-05-19T16:57:25.432Z"
+date: "2024-05-30T05:15:33.616Z"
 collections: ["waynes-world"]
 budget_usd: 20000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [4]
 production_countries: ["US"]
 release_date: "1992-02-14"
 release_years: [1992]
+release_decades: [1990]
 revenue_usd: 183097323
 status: "Released"
 runtime_minutes: 95

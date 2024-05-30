@@ -261,6 +261,42 @@
     "credit_id": "5f846c23798e060036ce7073"
   },
   {
+    "id": 42824,
+    "name": "Carl Ciarfalio",
+    "popularity": 13.305,
+    "cast_id": 71,
+    "order": 41,
+    "character": "Ruiz's Assistant",
+    "credit_id": "5f846c35e93e950037124285"
+  },
+  {
+    "id": 99856,
+    "name": "Steven Lambert",
+    "popularity": 10.684,
+    "cast_id": 72,
+    "order": 42,
+    "character": "Van Driver",
+    "credit_id": "5f846c3f6082eb0036efafa9"
+  },
+  {
+    "id": 81687,
+    "name": "Rick Avery",
+    "popularity": 10.643,
+    "cast_id": 74,
+    "order": 44,
+    "character": "DEA Agent - Public Storage",
+    "credit_id": "5f846cc769eb900039c505ab"
+  },
+  {
+    "id": 166543,
+    "name": "Mario Roberts",
+    "popularity": 10.685,
+    "cast_id": 75,
+    "order": 45,
+    "character": "DEA Agent - Public Storage",
+    "credit_id": "5f846ccfe93e95003512260d"
+  },
+  {
     "id": 62037,
     "name": "Eileen Weisinger",
     "popularity": 10.721,
@@ -322,6 +358,15 @@
     "order": 75,
     "character": "Partygoer #4",
     "credit_id": "5f846f915a46900037ea77fa"
+  },
+  {
+    "id": 179882,
+    "name": "Toby Holguin",
+    "popularity": 10.379,
+    "cast_id": 108,
+    "order": 78,
+    "character": "Salazar Soldier",
+    "credit_id": "5f8470f839549a003561ffbd"
   },
   {
     "id": 153926,

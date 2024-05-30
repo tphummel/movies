@@ -117,6 +117,15 @@
     "credit_id": "52fe422bc3a36847f8009397"
   },
   {
+    "id": 1769,
+    "name": "Sofia Coppola",
+    "popularity": 10.149,
+    "cast_id": 43,
+    "order": 25,
+    "character": "Michael Francis Rizzi",
+    "credit_id": "52fe422bc3a36847f80093ab"
+  },
+  {
     "id": 3174,
     "name": "Richard Bright",
     "popularity": 14.095,

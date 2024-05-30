@@ -8,7 +8,15 @@
 </p>
 
 <p>Release Date: <strong>{{ .Params.release_date}}</strong></p>
-<p>Release Year: <strong><a href="{{ with $.GetPage (printf "/release_years/%s" (index .Params.release_years 0)) }}{{ .RelPermalink}}{{end}}">{{ index .Params.release_years 0 }}</a></strong></p>
+<p>Release Year: 
+  <strong>
+    <a href="{{ with $.GetPage (printf "/release_years/%s" (index .Params.release_years 0)) }}{{ .RelPermalink}}{{end}}">{{ index .Params.release_years 0 }}</a>
+  </strong>
+  (<a href="{{ with $.GetPage (printf "/release_decades/%s" (index .Params.release_decades 0)) }}{{ .RelPermalink}}{{end}}">{{ index .Params.release_years 0 }}'s</a>)
+</p>
+
+<blockquote>{{ .Params.tagline }}</blockquote>
+
 <p>Budget (USD): <strong>{{ .Params.budget_usd | lang.FormatCurrency 2 "USD" }}</strong></p>
 <p>Revenue (USD): <strong>{{ .Params.revenue_usd | lang.FormatCurrency 2 "USD" }}</strong></p>
 <p>Runtime: <strong>{{ .Params.runtime_minutes}} minutes</strong></p>

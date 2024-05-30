@@ -45,6 +45,15 @@
     "credit_id": "581e4d3b9251410a0400f221"
   },
   {
+    "id": 1291961,
+    "name": "Marcus Henderson",
+    "popularity": 3.098,
+    "cast_id": 10,
+    "order": 5,
+    "character": "Walter",
+    "credit_id": "57f4d7d7c3a3684560000d7b"
+  },
+  {
     "id": 1660452,
     "name": "Betty Gabriel",
     "popularity": 12.525,
@@ -88,5 +97,14 @@
     "order": 25,
     "character": "NCAA Prospect (uncredited)",
     "credit_id": "5f98cd7117792c00383dfe65"
+  },
+  {
+    "id": 291263,
+    "name": "Jordan Peele",
+    "popularity": 17.645,
+    "cast_id": 138,
+    "order": 26,
+    "character": "Dying Deer / UNCF PSA Narrator (voice) (uncredited)",
+    "credit_id": "5f98cd809a9f9a00367c514d"
   }
 ]

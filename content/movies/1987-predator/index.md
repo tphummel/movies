@@ -1,7 +1,7 @@
 ---
 title: "Predator"
 title_alpha_sortable: "Predator"
-date: "2024-05-18T15:45:12.985Z"
+date: "2024-05-30T05:15:31.922Z"
 collections: ["predator"]
 budget_usd: 15000000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [25,840,1302,1885,5263,5264,124763]
 production_countries: ["US"]
 release_date: "1987-06-12"
 release_years: [1987]
+release_decades: [1980]
 revenue_usd: 98267558
 status: "Released"
 runtime_minutes: 107
 keywords: [1008,1291,1297,9951,10333,10349,11060,13031,14909,14915,15248]
-cast_members: [1100,1101,1102,1105,1103,1106,1107,1109,19540]
+cast_members: [1100,1101,1102,1104,1105,1103,1106,1107,1108,1109,19540,176448]
 crew_members: [1090,1091,1092,1093,1095,1098,1099,2043,2038143]
 tagline: >
   Soon the hunt will begin.

@@ -1,7 +1,7 @@
 ---
 title: "Executive Decision"
 title_alpha_sortable: "Executive Decision"
-date: "2024-05-22T06:12:51.593Z"
+date: "2024-05-30T05:15:29.972Z"
 collections: []
 budget_usd: 55000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [1885,174]
 production_countries: ["US"]
 release_date: "1996-03-15"
 release_years: [1996]
+release_decades: [1990]
 revenue_usd: 121969216
 status: "Released"
 runtime_minutes: 132

@@ -1,7 +1,7 @@
 ---
 title: "Escape from New York"
 title_alpha_sortable: "Escape from New York"
-date: "2022-11-08T00:27:22.407Z"
+date: "2024-05-30T05:15:29.925Z"
 collections: []
 budget_usd: 6000000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [494,500,502,10720]
 production_countries: ["US"]
 release_date: "1981-05-23"
 release_years: [1981]
+release_decades: [1980]
 revenue_usd: 50244700
 status: "Released"
 runtime_minutes: 99
 keywords: [242,444,542,779,840,1543,1562,1930,2019,2095,3149,3289,4458,4565,4668,5034,5970,11107,12190,33556,34117,217083]
-cast_members: [6856,4078,7502,9221,6542,47456,5048,11782,11784,11786,8944,14692]
+cast_members: [6856,4078,7502,9221,6542,47456,5048,11782,11784,11786,11770,8944,14692,2161]
 crew_members: [511,1060,1767,2161,2359,11770]
 tagline: >
   1997. New York city is now a maximum security prison. Breaking out is impossible. Breaking in is insane.

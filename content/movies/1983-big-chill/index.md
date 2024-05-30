@@ -1,7 +1,7 @@
 ---
 title: "The Big Chill"
 title_alpha_sortable: "Big Chill"
-date: "2022-11-08T00:27:22.290Z"
+date: "2024-05-30T05:15:28.836Z"
 collections: []
 budget_usd: 0
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [5]
 production_countries: ["US"]
 release_date: "1983-09-30"
 release_years: [1983]
+release_decades: [1980]
 revenue_usd: 0
 status: "Released"
 runtime_minutes: 105
 keywords: [236,802,3739,3748,4432,5155,5609,5992,6054,9824,10776,155939,188293]
-cast_members: [13022,515,4785,227,8945,5960,39117,10080]
+cast_members: [13022,515,4785,227,8945,5960,39117,10080,28167]
 crew_members: [1527,8844,8844,5381,9966,70189]
 tagline: >
   The story of eight old friends searching for something they lost, and finding that all they needed was each other.

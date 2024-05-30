@@ -1,7 +1,7 @@
 ---
 title: "Hellraiser"
 title_alpha_sortable: "Hellraiser"
-date: "2022-11-08T00:27:32.518Z"
+date: "2024-05-30T05:15:30.772Z"
 collections: []
 budget_usd: 1000000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [1950,15338,15339,15340]
 production_countries: ["GB"]
 release_date: "1987-09-11"
 release_years: [1987]
+release_decades: [1980]
 revenue_usd: 14575193
 status: "Released"
 runtime_minutes: 93
 keywords: [818,3182,4720,5921,6152,9748,9887,10292,10327,10864,15001,17996,34117,155619,156174,161208]
-cast_members: [45588,56551,56552,14782,73040]
+cast_members: [45588,56551,56552,14782,56553,73040,56561,56560]
 crew_members: [9000,14931,31211,31211,42129,52194,56546,56548,1629958]
 tagline: >
   He'll tear your soul apart.

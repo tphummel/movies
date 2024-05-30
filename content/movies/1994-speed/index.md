@@ -1,7 +1,7 @@
 ---
 title: "Speed"
 title_alpha_sortable: "Speed"
-date: "2024-05-22T06:44:50.134Z"
+date: "2024-05-30T05:15:32.865Z"
 collections: []
 budget_usd: 30000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [25,1557]
 production_countries: ["US"]
 release_date: "1994-06-09"
 release_years: [1994]
+release_decades: [1990]
 revenue_usd: 350448145
 status: "Released"
 runtime_minutes: 116

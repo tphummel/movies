@@ -1,7 +1,7 @@
 ---
 title: "Jerry Maguire"
 title_alpha_sortable: "Jerry Maguire"
-date: "2024-05-26T17:33:26.522Z"
+date: "2024-05-30T05:15:31.269Z"
 collections: []
 budget_usd: 50000000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [559,18]
 production_countries: ["US"]
 release_date: "1996-12-13"
 release_years: [1996]
+release_decades: [1990]
 revenue_usd: 273600000
 status: "Released"
 runtime_minutes: 139
 keywords: [3658,6075,1485,579,14768,178372]
-cast_members: [500,9137,9777,11164,3035,12217,9788,5149,67778,3230,113919,10825,18271,3272,7036,1276777,140,29930,6108,80278,2222]
+cast_members: [500,9137,9777,11164,3035,12217,9788,5149,67778,3230,113919,10825,18271,3272,7036,1276777,8346,140,29930,6108,80278,2222]
 crew_members: [10685,3388,57572,11649,492,4186,11649,11649]
 tagline: >
   Everybody loved him... Everybody disappeared. The journey is everything.

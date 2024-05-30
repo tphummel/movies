@@ -1,7 +1,7 @@
 ---
 title: "A Nightmare on Elm Street"
 title_alpha_sortable: "A Nightmare on Elm Street"
-date: "2024-05-23T14:08:16.755Z"
+date: "2024-05-30T05:15:31.772Z"
 collections: []
 budget_usd: 1800000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [12,1531,18329,4764,176294]
 production_countries: ["US","GB"]
 release_date: "1984-10-31"
 release_years: [1984]
+release_decades: [1980]
 revenue_usd: 57000000
 status: "Released"
 runtime_minutes: 91
 keywords: [1566,3030,4426,6259,2116,1468,6152,2494,9826,12339,18029,33457,157418,163841,164246,170383,171814,190157,256183,325821]
-cast_members: [5141,11163,13652,13656,13657,85,5139,12826,13660,7401,13661,13662,120106,7219,42820]
+cast_members: [5141,11163,13652,13656,13657,85,5139,12826,13660,7401,13661,13662,120106,7219,42820,13663]
 crew_members: [5140,13663,13664,13665,13667,13668,13670,13672,13673,5140]
 tagline: >
   If Nancy doesn't wake up screaming she won't wake up at all.

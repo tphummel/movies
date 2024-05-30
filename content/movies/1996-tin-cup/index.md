@@ -1,7 +1,7 @@
 ---
 title: "Tin Cup"
 title_alpha_sortable: "Tin Cup"
-date: "2024-05-26T17:38:59.348Z"
+date: "2024-05-30T05:15:33.111Z"
 collections: []
 budget_usd: 45000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [508,174]
 production_countries: ["US"]
 release_date: "1996-08-16"
 release_years: [1996]
+release_decades: [1990]
 revenue_usd: 53854588
 status: "Released"
 runtime_minutes: 135

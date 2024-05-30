@@ -1,7 +1,7 @@
 ---
 title: "The Fugitive"
 title_alpha_sortable: "Fugitive"
-date: "2024-05-18T15:16:41.397Z"
+date: "2024-05-30T05:15:30.180Z"
 collections: []
 budget_usd: 44000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [174]
 production_countries: ["US"]
 release_date: "1993-08-06"
 release_years: [1993]
+release_decades: [1990]
 revenue_usd: 368875760
 status: "Released"
 runtime_minutes: 131

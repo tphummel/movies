@@ -36,6 +36,15 @@
     "credit_id": "52fe44d0c3a36847f80ab8e9"
   },
   {
+    "id": 56553,
+    "name": "Robert Hines",
+    "popularity": 4.192,
+    "cast_id": 20,
+    "order": 5,
+    "character": "Steve",
+    "credit_id": "52fe44d0c3a36847f80ab8fd"
+  },
+  {
     "id": 73040,
     "name": "Doug Bradley",
     "popularity": 16.909,
@@ -43,5 +52,23 @@
     "order": 6,
     "character": "Pinhead",
     "credit_id": "52fe44d0c3a36847f80ab92d"
+  },
+  {
+    "id": 56561,
+    "name": "Grace Kirby",
+    "popularity": 4.544,
+    "cast_id": 29,
+    "order": 7,
+    "character": "Female Cenobite",
+    "credit_id": "52fe44d0c3a36847f80ab921"
+  },
+  {
+    "id": 56560,
+    "name": "Simon Bamford",
+    "popularity": 4.441,
+    "cast_id": 28,
+    "order": 9,
+    "character": "'Butterball' Cenobite",
+    "credit_id": "52fe44d0c3a36847f80ab91d"
   }
 ]

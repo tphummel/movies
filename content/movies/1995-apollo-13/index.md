@@ -1,7 +1,7 @@
 ---
 title: "Apollo 13"
 title_alpha_sortable: "Apollo 13"
-date: "2022-11-08T00:27:22.256Z"
+date: "2024-05-30T05:15:28.493Z"
 collections: []
 budget_usd: 52000000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [23,33,7799]
 production_countries: ["US"]
 release_date: "1995-06-30"
 release_years: [1995]
+release_decades: [1990]
 revenue_usd: 355237933
 status: "Released"
 runtime_minutes: 140
 keywords: [305,1196,1432,2345,4776,9609,9672,9882,10084,10349,10617,14601,14626,193479,226233,226235,226236]
-cast_members: [31,2053,4724,33,228,8183,8191,3982,8184,15661,16841,1470]
+cast_members: [31,2053,4724,33,228,8183,102429,8191,3982,8184,15661,16841,1470]
 crew_members: [339,1060,6159,6184,6189,6190]
 tagline: >
   Houston, we have a problem.

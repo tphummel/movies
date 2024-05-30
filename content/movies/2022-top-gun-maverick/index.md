@@ -1,7 +1,7 @@
 ---
 title: "Top Gun: Maverick"
 title_alpha_sortable: "Top Gun: Maverick"
-date: "2024-05-23T13:52:43.011Z"
+date: "2024-05-30T05:15:33.164Z"
 collections: []
 budget_usd: 170000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [82819,10288,4]
 production_countries: ["US"]
 release_date: "2022-05-21"
 release_years: [2022]
+release_decades: [2020]
 revenue_usd: 1488732821
 status: "Released"
 runtime_minutes: 131

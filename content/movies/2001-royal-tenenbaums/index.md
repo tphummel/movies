@@ -1,7 +1,7 @@
 ---
 title: "The Royal Tenenbaums"
 title_alpha_sortable: "Royal Tenenbaums"
-date: "2024-05-22T06:30:57.005Z"
+date: "2024-05-30T05:15:32.605Z"
 collections: []
 budget_usd: 21000000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [9195,23449]
 production_countries: ["US"]
 release_date: "2001-10-05"
 release_years: [2001]
+release_decades: [2000]
 revenue_usd: 71441250
 status: "Released"
 runtime_minutes: 110
 keywords: [3446,3170,5561,6564,10041,155294]
-cast_members: [193,5657,7399,12052,36422,887,1532,2047,5950,8690,7447,19511,52021,1232540,71555,21042,1332415]
+cast_members: [193,5657,7399,12052,36422,887,1532,2047,5950,8690,7447,19511,52021,1232540,71555,21042,1332415,5655]
 crew_members: [5655,5655,5664,2997,3264,887,5667,1809,5655,887]
 tagline: >
   Family isn't a word ... It's a sentence.

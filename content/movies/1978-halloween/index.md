@@ -1,7 +1,7 @@
 ---
 title: "Halloween"
 title_alpha_sortable: "Halloween"
-date: "2022-11-08T00:27:30.231Z"
+date: "2024-05-30T05:15:30.578Z"
 collections: ["unstoppable-evil","calendar"]
 budget_usd: 325000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [14323,22814]
 production_countries: ["US"]
 release_date: "1978-10-24"
 release_years: [1978]
+release_decades: [1970]
 revenue_usd: 70274000
 status: "Released"
 runtime_minutes: 91
 keywords: [2546,2604,3335,6149,10333,10714,10776,14805,17987,18035,156075,157701,207159]
-cast_members: [9221,8944,11787,15500,11786,15503,15505,15506,15508,13392,15516,15518,14692]
+cast_members: [9221,8944,11787,15500,11786,15503,15505,15506,15508,13392,15516,15518,14692,11777,11770]
 crew_members: [1060,2161,11770,11776,11777,64059,66203]
 tagline: >
   The Night He Came Home!

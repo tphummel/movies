@@ -45,6 +45,15 @@
     "credit_id": "52fe4255c3a36847f801607d"
   },
   {
+    "id": 8611,
+    "name": "Chris Rebello",
+    "popularity": 4.329,
+    "cast_id": 24,
+    "order": 5,
+    "character": "Michael 'Mike' Brody",
+    "credit_id": "52fe4255c3a36847f8016095"
+  },
+  {
     "id": 8612,
     "name": "Jay Mello",
     "popularity": 6.192,
@@ -63,6 +72,15 @@
     "credit_id": "52fe4255c3a36847f8016089"
   },
   {
+    "id": 8555,
+    "name": "Carl Gottlieb",
+    "popularity": 3.289,
+    "cast_id": 20,
+    "order": 8,
+    "character": "Ben Meadows",
+    "credit_id": "52fe4255c3a36847f8016085"
+  },
+  {
     "id": 8610,
     "name": "Susan Backlinie",
     "popularity": 7.7,
@@ -70,5 +88,14 @@
     "order": 9,
     "character": "Christine 'Chrissie' Watkins",
     "credit_id": "52fe4255c3a36847f801608d"
+  },
+  {
+    "id": 488,
+    "name": "Steven Spielberg",
+    "popularity": 25.735,
+    "cast_id": 35,
+    "order": 29,
+    "character": "Amity Point Lifestation Worker (voice) (uncredited)",
+    "credit_id": "55de5b88925141472000041e"
   }
 ]

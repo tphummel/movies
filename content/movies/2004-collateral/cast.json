@@ -45,6 +45,24 @@
     "credit_id": "5823752a9251410cbe00fa29"
   },
   {
+    "id": 8689,
+    "name": "Barry Shabaka Henley",
+    "popularity": 4.801,
+    "cast_id": 30,
+    "order": 5,
+    "character": "Daniel Baker",
+    "credit_id": "52fe42fbc3a36847f80318e5"
+  },
+  {
+    "id": 36602,
+    "name": "Peter Berg",
+    "popularity": 7.675,
+    "cast_id": 16,
+    "order": 6,
+    "character": "Richard Weidner",
+    "credit_id": "52fe42fbc3a36847f8031895"
+  },
+  {
     "id": 14888,
     "name": "Bruce McGill",
     "popularity": 15.722,

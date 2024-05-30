@@ -1,7 +1,7 @@
 ---
 title: "It Follows"
 title_alpha_sortable: "It Follows"
-date: "2024-05-16T14:05:07.927Z"
+date: "2024-05-30T05:15:31.135Z"
 collections: ["unstoppable-evil"]
 budget_usd: 2000000
 tiers: []
@@ -24,11 +24,12 @@ production_companies: [8714,26995,52739]
 production_countries: ["US"]
 release_date: "2014-09-24"
 release_years: [2014]
+release_decades: [2010]
 revenue_usd: 14674076
 status: "Released"
 runtime_minutes: 101
 keywords: [966,3713,6152,9713,10629,10809,10873,18021,156075,178649,206298,209141,278994]
-cast_members: [1094091,132712,1172147,133980,1210610,1361099]
+cast_members: [1094091,132712,1172147,133980,1210610,1361099,1361100]
 crew_members: [43387,77107,77109,463602,558929,558929,937872,937874,971868,1099032,1301689,1353534,1397714,1397717,1619917,1884686]
 tagline: >
   It doesn’t think, it doesn’t feel, it doesn’t give up.

@@ -81,6 +81,15 @@
     "credit_id": "52fe4228c3a36847f800857d"
   },
   {
+    "id": 65001,
+    "name": "Shawn Schepps",
+    "popularity": 6.143,
+    "cast_id": 56,
+    "order": 9,
+    "character": "Nancy",
+    "credit_id": "56af9cdf92514101f2000437"
+  },
+  {
     "id": 2053,
     "name": "Bill Paxton",
     "popularity": 19.925,

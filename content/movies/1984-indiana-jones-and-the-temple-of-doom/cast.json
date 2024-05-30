@@ -99,6 +99,15 @@
     "credit_id": "52fe4215c3a36847f8002c39"
   },
   {
+    "id": 1,
+    "name": "George Lucas",
+    "popularity": 26.433,
+    "cast_id": 120,
+    "order": 74,
+    "character": "Missionary (uncredited)",
+    "credit_id": "5f4728f32da84600323d9c34"
+  },
+  {
     "id": 34983,
     "name": "Tress MacNeille",
     "popularity": 27.149,
@@ -106,6 +115,15 @@
     "order": 75,
     "character": "Slave Child (voice) (uncredited)",
     "credit_id": "5f4729017739410033e34208"
+  },
+  {
+    "id": 488,
+    "name": "Steven Spielberg",
+    "popularity": 62.104,
+    "cast_id": 124,
+    "order": 78,
+    "character": "Tourist at Airport (uncredited)",
+    "credit_id": "5f47293df6596f0037ab1af1"
   },
   {
     "id": 81776,

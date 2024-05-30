@@ -1,7 +1,7 @@
 ---
 title: "Die Hard"
 title_alpha_sortable: "Die Hard"
-date: "2024-05-19T16:40:27.500Z"
+date: "2024-05-30T05:15:29.432Z"
 collections: ["die-hard"]
 budget_usd: 28000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [25,1073,1885]
 production_countries: ["US"]
 release_date: "1988-07-15"
 release_years: [1988]
+release_decades: [1980]
 revenue_usd: 140767956
 status: "Released"
 runtime_minutes: 131

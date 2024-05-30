@@ -1,7 +1,7 @@
 ---
 title: "Alien: Covenant"
 title_alpha_sortable: "Alien: Covenant"
-date: "2024-05-14T21:47:53.899Z"
+date: "2024-05-30T05:15:28.288Z"
 collections: ["alien"]
 budget_usd: 97000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [1645,25,401]
 production_countries: ["GB","US"]
 release_date: "2017-05-09"
 release_years: [2017]
+release_decades: [2010]
 revenue_usd: 240891763
 status: "Released"
 runtime_minutes: 122

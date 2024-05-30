@@ -1,7 +1,7 @@
 ---
 title: "The Martian"
 title_alpha_sortable: "Martian"
-date: "2024-05-16T14:08:15.792Z"
+date: "2024-05-30T05:15:31.526Z"
 collections: []
 budget_usd: 108000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [1645,28788]
 production_countries: ["GB","US"]
 release_date: "2015-09-30"
 release_years: [2015]
+release_decades: [2010]
 revenue_usd: 630161890
 status: "Released"
 runtime_minutes: 141

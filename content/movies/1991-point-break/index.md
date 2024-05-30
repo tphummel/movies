@@ -1,7 +1,7 @@
 ---
 title: "Point Break"
 title_alpha_sortable: "Point Break"
-date: "2024-05-22T06:51:07.329Z"
+date: "2024-05-30T05:15:31.865Z"
 collections: []
 budget_usd: 24000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [1644,182,25]
 production_countries: ["JP","US"]
 release_date: "1991-01-31"
 release_years: [1991]
+release_decades: [1990]
 revenue_usd: 83531958
 status: "Released"
 runtime_minutes: 122

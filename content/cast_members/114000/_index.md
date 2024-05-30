@@ -6,5 +6,5 @@ original_name: "Kevin Rankin"
 known_for_department: "Acting"
 gender: "2"
 adult: "false"
-profile_path: "/fOW5R6BSgRvMrt2R7KAxSk7L4H2.jpg"
+profile_path: "/pgk4Is61nFWNmwKl4dN4tnrJD3K.jpg"
 ---

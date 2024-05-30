@@ -171,6 +171,15 @@
     "credit_id": "58594e469251411a4606e3ad"
   },
   {
+    "id": 1728954,
+    "name": "Daniel Naprous",
+    "popularity": 10.174,
+    "cast_id": 134,
+    "order": 21,
+    "character": "Darth Vader",
+    "credit_id": "58633da3c3a3680ab6002a76"
+  },
+  {
     "id": 15152,
     "name": "James Earl Jones",
     "popularity": 44.303,
@@ -333,6 +342,15 @@
     "credit_id": "58633f28c3a36852cc0073ed"
   },
   {
+    "id": 67367,
+    "name": "Rian Johnson",
+    "popularity": 17.102,
+    "cast_id": 121,
+    "order": 55,
+    "character": "Death Star Technician",
+    "credit_id": "58537699c3a368258c0215f6"
+  },
+  {
     "id": 63362,
     "name": "Ned Dennehy",
     "popularity": 23.747,
@@ -360,6 +378,15 @@
     "credit_id": "586340e9c3a36852c3007ce9"
   },
   {
+    "id": 71538,
+    "name": "Dave Filoni",
+    "popularity": 13.524,
+    "cast_id": 157,
+    "order": 70,
+    "character": "Stormtrooper",
+    "credit_id": "58634002c3a36852ba0075bb"
+  },
+  {
     "id": 342,
     "name": "Eugene Byrd",
     "popularity": 20.868,
@@ -385,6 +412,24 @@
     "order": 76,
     "character": "Stormtrooper",
     "credit_id": "58634238c3a36852c3007dbe"
+  },
+  {
+    "id": 71536,
+    "name": "Matthew Wood",
+    "popularity": 18.055,
+    "cast_id": 190,
+    "order": 78,
+    "character": "Stormtrooper",
+    "credit_id": "5863424ec3a36852ba00773e"
+  },
+  {
+    "id": 15347,
+    "name": "Michael Giacchino",
+    "popularity": 16.946,
+    "cast_id": 158,
+    "order": 79,
+    "character": "Stormtrooper",
+    "credit_id": "58634011c3a36852d2006b79"
   },
   {
     "id": 130081,
@@ -450,6 +495,15 @@
     "credit_id": "5ed29cc4aaec71001f6c28c3"
   },
   {
+    "id": 23607,
+    "name": "Nick Hobbs",
+    "popularity": 15.904,
+    "cast_id": 301,
+    "order": 123,
+    "character": "Engineer",
+    "credit_id": "5ed29d8321c4ca0021e0c77e"
+  },
+  {
     "id": 571562,
     "name": "Steve Blum",
     "popularity": 13.013,
@@ -466,6 +520,15 @@
     "order": 129,
     "character": "Jedha City Citizen (uncredited)",
     "credit_id": "5ed29ea4aaec71001f6c2bb2"
+  },
+  {
+    "id": 129894,
+    "name": "Gareth Edwards",
+    "popularity": 11.921,
+    "cast_id": 314,
+    "order": 132,
+    "character": "Rebel Soldier (uncredited)",
+    "credit_id": "5ed29f74aaec7100216a10aa"
   },
   {
     "id": 1588173,

@@ -1,7 +1,7 @@
 ---
 title: "Red Dawn"
 title_alpha_sortable: "Red Dawn"
-date: "2024-05-22T06:34:23.765Z"
+date: "2024-05-30T05:15:32.231Z"
 collections: []
 budget_usd: 17000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [60,216314,774]
 production_countries: ["US"]
 release_date: "1984-08-10"
 release_years: [1984]
+release_decades: [1980]
 revenue_usd: 38400000
 status: "Released"
 runtime_minutes: 114

@@ -1,7 +1,7 @@
 ---
 title: "Heat"
 title_alpha_sortable: "Heat"
-date: "2022-11-08T00:27:30.243Z"
+date: "2024-05-30T05:15:30.674Z"
 collections: []
 budget_usd: 60000000
 tiers: []
@@ -24,6 +24,7 @@ production_companies: [174,490,508,675,676,4700]
 production_countries: ["US"]
 release_date: "1995-12-15"
 release_years: [1995]
+release_decades: [1990]
 revenue_usd: 187436818
 status: "Released"
 runtime_minutes: 170
