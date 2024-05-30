@@ -26,8 +26,14 @@
       <td><a href="{{ with $.GetPage (printf "/release_years/%s" (index .Params.release_years 0)) }}{{ .RelPermalink}}{{end}}">{{ index .Params.release_years 0 }}</a></td>
       {{ $movieCrewJson := .Resources.GetMatch "crew.json" }}
       {{ $movieCrew := $movieCrewJson.Content | transform.Unmarshal }}
-      {{ $crewMember := index (first 1 (where $movieCrew "id" "==" $crewId)) 0 }}
-      <td>{{ $crewMember.job }}</td>
+      {{ $matchingCrew := where $movieCrew "id" "==" $crewId }}
+      {{ $jobs := slice }}
+
+      {{ range $matchingCrew }}
+          {{ $jobs = $jobs | append .job }}
+      {{ end }}
+
+      <td>{{ delimit $jobs ", " }}</td>
     </tr>
   {{ end }}
 </table>
