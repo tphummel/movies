@@ -102,12 +102,10 @@ async function loadMovie (movie) {
   }
 
   const topCast = creditsData.cast.filter((f) => {
-    if (f.known_for_department === 'Acting') {
-      if (f.order < 10) {
-        return f.popularity >= 5
-      } else {
-        return f.popularity >= 10
-      }
+    if (f.order < 10) {
+      return f.popularity >= 3
+    } else {
+      return f.popularity >= 10
     }
   })
 
