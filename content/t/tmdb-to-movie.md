@@ -130,8 +130,9 @@ async function loadMovie (movie) {
     .replace(/^the\-/, '')
 
   const releaseYear = data.release_date.substring(0,4)
+  const releaseDecade = Math.floor(releaseYear / 10) * 10
 
-  console.log(titleSlug, releaseYear)
+  console.log(titleSlug, releaseYear, releaseDecade)
 
   const docYaml = `---
 title: "${data.title}"
@@ -159,6 +160,7 @@ production_companies: ${JSON.stringify(data.production_companies.map(g => g.id))
 production_countries: ${JSON.stringify(data.production_countries.map(g => g.iso_3166_1))}
 release_date: "${data.release_date}"
 release_years: [${releaseYear}]
+release_decades: [${releaseDecade}]
 revenue_usd: ${data.revenue}
 status: "${data.status}"
 runtime_minutes: ${data.runtime}
