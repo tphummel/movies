@@ -1,0 +1,173 @@
+[
+  {
+    "id": 854,
+    "name": "James Stewart",
+    "popularity": 25.387,
+    "cast_id": 1,
+    "order": 0,
+    "character": "George Bailey",
+    "credit_id": "52fe4301c3a36847f8033523"
+  },
+  {
+    "id": 17752,
+    "name": "Donna Reed",
+    "popularity": 14.674,
+    "cast_id": 2,
+    "order": 1,
+    "character": "Mary Hatch",
+    "credit_id": "52fe4301c3a36847f8033527"
+  },
+  {
+    "id": 17753,
+    "name": "Lionel Barrymore",
+    "popularity": 15.247,
+    "cast_id": 3,
+    "order": 2,
+    "character": "Mr. Potter",
+    "credit_id": "52fe4301c3a36847f803352b"
+  },
+  {
+    "id": 3383,
+    "name": "Thomas Mitchell",
+    "popularity": 13.631,
+    "cast_id": 10,
+    "order": 3,
+    "character": "Uncle Billy",
+    "credit_id": "52fe4301c3a36847f803353f"
+  },
+  {
+    "id": 7666,
+    "name": "Henry Travers",
+    "popularity": 5.613,
+    "cast_id": 4,
+    "order": 4,
+    "character": "Clarence",
+    "credit_id": "52fe4301c3a36847f803352f"
+  },
+  {
+    "id": 17755,
+    "name": "Beulah Bondi",
+    "popularity": 11.975,
+    "cast_id": 6,
+    "order": 5,
+    "character": "Mrs. Bailey",
+    "credit_id": "52fe4301c3a36847f8033537"
+  },
+  {
+    "id": 17759,
+    "name": "Frank Faylen",
+    "popularity": 8.435,
+    "cast_id": 11,
+    "order": 6,
+    "character": "Ernie",
+    "credit_id": "52fe4301c3a36847f8033543"
+  },
+  {
+    "id": 4303,
+    "name": "Ward Bond",
+    "popularity": 13.464,
+    "cast_id": 20,
+    "order": 7,
+    "character": "Bert",
+    "credit_id": "52fe4301c3a36847f8033571"
+  },
+  {
+    "id": 77081,
+    "name": "Gloria Grahame",
+    "popularity": 12.491,
+    "cast_id": 21,
+    "order": 8,
+    "character": "Violet",
+    "credit_id": "52fe4301c3a36847f8033575"
+  },
+  {
+    "id": 33278,
+    "name": "H.B. Warner",
+    "popularity": 5.247,
+    "cast_id": 22,
+    "order": 9,
+    "character": "Mr. Gower",
+    "credit_id": "52fe4301c3a36847f8033579"
+  },
+  {
+    "id": 41750,
+    "name": "Sheldon Leonard",
+    "popularity": 11.504,
+    "cast_id": 47,
+    "order": 26,
+    "character": "Nick",
+    "credit_id": "52fe4301c3a36847f80335d9"
+  },
+  {
+    "id": 29579,
+    "name": "Charles Lane",
+    "popularity": 12.265,
+    "cast_id": 50,
+    "order": 29,
+    "character": "Real Estate Salesman",
+    "credit_id": "52fe4301c3a36847f80335e5"
+  },
+  {
+    "id": 120785,
+    "name": "Al Bridge",
+    "popularity": 14.993,
+    "cast_id": 72,
+    "order": 46,
+    "character": "Sheriff (uncredited)",
+    "credit_id": "55ef0ddec3a3686f170092bd"
+  },
+  {
+    "id": 5738,
+    "name": "Ellen Corby",
+    "popularity": 14.938,
+    "cast_id": 58,
+    "order": 57,
+    "character": "Ms. Davis (uncredited)",
+    "credit_id": "52fe4301c3a36847f8033605"
+  },
+  {
+    "id": 83623,
+    "name": "Tom Fadden",
+    "popularity": 12.139,
+    "cast_id": 85,
+    "order": 63,
+    "character": "Tollhouse Keeper (uncredited)",
+    "credit_id": "55ef0fe39251413e3e01b013"
+  },
+  {
+    "id": 135356,
+    "name": "Frank Fenton",
+    "popularity": 11.309,
+    "cast_id": 86,
+    "order": 64,
+    "character": "Violet's Boyfriend (uncredited)",
+    "credit_id": "55ef10349251413e3e01b026"
+  },
+  {
+    "id": 198219,
+    "name": "Mike Lally",
+    "popularity": 12.025,
+    "cast_id": 104,
+    "order": 84,
+    "character": "Building & Loan Customer (uncredited)",
+    "credit_id": "55ef13ddc3a3682c6201b001"
+  },
+  {
+    "id": 107678,
+    "name": "Almira Sessions",
+    "popularity": 16.398,
+    "cast_id": 122,
+    "order": 108,
+    "character": "Potter's Secretary (uncredited)",
+    "credit_id": "55ef16cd9251413e45019ea2"
+  },
+  {
+    "id": 941239,
+    "name": "Carl Switzer",
+    "popularity": 10.49,
+    "cast_id": 145,
+    "order": 112,
+    "character": "Freddie Othello (uncredited)",
+    "credit_id": "59e9303c9251410c0e0002b6"
+  }
+]
