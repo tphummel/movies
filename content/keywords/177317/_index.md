@@ -1,0 +1,3 @@
+---
+title: ice cream truck
+---

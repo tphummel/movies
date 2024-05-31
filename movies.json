@@ -7,6 +7,7 @@
     { "tmdb_id": 679, "mc_slug": "aliens", "rt_slug": "1000617-aliens", "name": "aliens", "collections": ["alien"]},
     { "tmdb_id": 4982, "mc_slug": "american-gangster", "rt_slug": "american_gangster", "name": "american gangster", "collections": []},
     { "tmdb_id": 568, "mc_slug": "apollo-13", "rt_slug": "apollo_13", "name": "Apollo 13", "collections": []},
+    { "tmdb_id": 17814, "mc_slug": "assault-on-precinct-13-1976", "rt_slug": "1001280-assault_on_precinct_13", "name": "assault on precinct 13", "collections": []},
     { "tmdb_id": 2924, "mc_slug": "backdraft", "rt_slug": "backdraft", "name": "backdraft", "collections": []},
     { "tmdb_id": 105, "mc_slug": "back-to-the-future", "rt_slug": "back_to_the_future", "name": "Back to the Future", "collections": ["bttf"]},
     { "tmdb_id": 165, "mc_slug": "back-to-the-future-part-ii", "rt_slug": "back_to_the_future_2", "name": "Back to the Future Part II", "collections": ["bttf"]},
