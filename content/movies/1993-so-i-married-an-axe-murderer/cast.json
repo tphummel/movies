@@ -108,6 +108,24 @@
     "credit_id": "52fe43729251416c75010aa9"
   },
   {
+    "id": 111080,
+    "name": "Patrick Bristow",
+    "popularity": 6.754,
+    "cast_id": 23,
+    "order": 12,
+    "character": "Cafe Roads Performer",
+    "credit_id": "59a5bbf99251412f16010ee7"
+  },
+  {
+    "id": 161318,
+    "name": "Al Nalbandian",
+    "popularity": 5.23,
+    "cast_id": 25,
+    "order": 14,
+    "character": "Butchershop Customer",
+    "credit_id": "59a5bc1a9251412f50011354"
+  },
+  {
     "id": 80109,
     "name": "Marla Sokoloff",
     "popularity": 18.331,

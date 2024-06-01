@@ -90,6 +90,33 @@
     "credit_id": "52fe424fc3a36847f8014279"
   },
   {
+    "id": 19781,
+    "name": "Lurene Tuttle",
+    "popularity": 5.682,
+    "cast_id": 26,
+    "order": 10,
+    "character": "Mrs. Chambers",
+    "credit_id": "52fe424fc3a36847f801427d"
+  },
+  {
+    "id": 19111,
+    "name": "John Anderson",
+    "popularity": 5.965,
+    "cast_id": 29,
+    "order": 11,
+    "character": "California Charlie",
+    "credit_id": "52fe424fc3a36847f8014285"
+  },
+  {
+    "id": 45525,
+    "name": "Mort Mills",
+    "popularity": 4.973,
+    "cast_id": 28,
+    "order": 12,
+    "character": "Highway Patrol Officer",
+    "credit_id": "52fe424fc3a36847f8014281"
+  },
+  {
     "id": 2636,
     "name": "Alfred Hitchcock",
     "popularity": 13.503,

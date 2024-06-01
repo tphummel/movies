@@ -1,7 +1,7 @@
 ---
 title: "First Blood"
 title_alpha_sortable: "First Blood"
-date: "2024-05-30T05:15:30.130Z"
+date: "2024-06-01T15:43:44.865Z"
 collections: []
 budget_usd: 15000000
 tiers: []

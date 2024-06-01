@@ -81,6 +81,33 @@
     "credit_id": "52fe4269c3a36847f801c9d7"
   },
   {
+    "id": 10209,
+    "name": "Colette Hiller",
+    "popularity": 2.687,
+    "cast_id": 31,
+    "order": 10,
+    "character": "Cpl. Colette Ferro",
+    "credit_id": "52fe4269c3a36847f801c9e7"
+  },
+  {
+    "id": 10212,
+    "name": "Ricco Ross",
+    "popularity": 2.117,
+    "cast_id": 34,
+    "order": 11,
+    "character": "Pvt. Ricco Frost",
+    "credit_id": "52fe4269c3a36847f801c9f3"
+  },
+  {
+    "id": 10210,
+    "name": "Daniel Kash",
+    "popularity": 3.783,
+    "cast_id": 32,
+    "order": 12,
+    "character": "Pvt. Daniel Spunkmeyer",
+    "credit_id": "52fe4269c3a36847f801c9eb"
+  },
+  {
     "id": 109870,
     "name": "Tom Woodruff Jr.",
     "popularity": 15.285,

@@ -1,7 +1,7 @@
 ---
 title: "Terminator 2: Judgment Day"
 title_alpha_sortable: "Terminator 2: Judgment Day"
-date: "2024-05-30T05:15:32.965Z"
+date: "2024-06-01T15:43:47.926Z"
 collections: []
 budget_usd: 102000000
 tiers: []
@@ -29,7 +29,7 @@ revenue_usd: 520000000
 status: "Released"
 runtime_minutes: 137
 keywords: [679,1366,3289,4379,4458,4565,11426,11857,14946,33556,160131,160381,162532,175468,175472,219404,269233,303361]
-cast_members: [1100,2713,820,418,3977,2716,3978,3979,3980,3981,3982,87317,14329]
+cast_members: [1100,2713,820,418,3977,2716,3978,3979,3980,3981,3982,2573580,101660,87404,157633,87317,14329]
 crew_members: [869,898,2710,2710,2710,2711,2723,3985,3986,3987]
 tagline: >
   It's nothing personal.

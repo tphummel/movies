@@ -102,8 +102,8 @@ async function loadMovie (movie) {
   }
 
   const topCast = creditsData.cast.filter((f) => {
-    if (f.order < 10) {
-      return f.popularity >= 3
+    if (f.order < 15) {
+      return f.popularity >= 2
     } else {
       return f.popularity >= 10
     }

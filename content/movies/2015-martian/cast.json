@@ -115,5 +115,23 @@
     "order": 12,
     "character": "Ryoko",
     "credit_id": "54bad73ac3a368145e004389"
+  },
+  {
+    "id": 76547,
+    "name": "Aksel Hennie",
+    "popularity": 4.76,
+    "cast_id": 10,
+    "order": 13,
+    "character": "Alex Vogel",
+    "credit_id": "547c8ad89251412d70003329"
+  },
+  {
+    "id": 1509615,
+    "name": "Nick Mohammed",
+    "popularity": 2.698,
+    "cast_id": 55,
+    "order": 14,
+    "character": "Tim Grimes",
+    "credit_id": "55f559f492514103b6000e7e"
   }
 ]

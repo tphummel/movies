@@ -99,6 +99,15 @@
     "credit_id": "52fe46f29251416c75088c93"
   },
   {
+    "id": 23286,
+    "name": "Omar Doom",
+    "popularity": 6.656,
+    "cast_id": 15,
+    "order": 11,
+    "character": "PFC. Omar Ulmer",
+    "credit_id": "52fe46f29251416c75088c9b"
+  },
+  {
     "id": 6091,
     "name": "August Diehl",
     "popularity": 27.908,

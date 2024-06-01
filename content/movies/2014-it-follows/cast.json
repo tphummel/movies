@@ -61,5 +61,23 @@
     "order": 6,
     "character": "Annie",
     "credit_id": "540a685fc3a368799c00088c"
+  },
+  {
+    "id": 1588355,
+    "name": "Leisa Pulido",
+    "popularity": 3.362,
+    "cast_id": 49,
+    "order": 12,
+    "character": "Mrs. Hannigan",
+    "credit_id": "56e0bda9925141087c0000dc"
+  },
+  {
+    "id": 76677,
+    "name": "Linda Boston",
+    "popularity": 2.703,
+    "cast_id": 62,
+    "order": 14,
+    "character": "Teacher",
+    "credit_id": "58b2823bc3a368527d0000ee"
   }
 ]

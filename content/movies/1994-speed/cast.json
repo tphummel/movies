@@ -117,6 +117,24 @@
     "credit_id": "5998943592514126010148d9"
   },
   {
+    "id": 2119353,
+    "name": "Daniel Villarreal",
+    "popularity": 6.976,
+    "cast_id": 76,
+    "order": 13,
+    "character": "Ray",
+    "credit_id": "5b8a5ab80e0a261d77012b9d"
+  },
+  {
+    "id": 1872781,
+    "name": "Simone Gad",
+    "popularity": 4.918,
+    "cast_id": 26,
+    "order": 14,
+    "character": "Bus Passenger #1",
+    "credit_id": "59989465c3a3680eed00b729"
+  },
+  {
     "id": 161897,
     "name": "Robert Mailhouse",
     "popularity": 16.785,

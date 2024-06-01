@@ -108,6 +108,15 @@
     "credit_id": "52fe423cc3a36847f800e5f9"
   },
   {
+    "id": 190793,
+    "name": "Jack Shea",
+    "popularity": 3.581,
+    "cast_id": 30,
+    "order": 12,
+    "character": "Minister",
+    "credit_id": "580d2c3ec3a3682413012956"
+  },
+  {
     "id": 120106,
     "name": "Ed Call",
     "popularity": 11.141,
@@ -115,6 +124,15 @@
     "order": 13,
     "character": "Mr. Lantz",
     "credit_id": "580d2c4ec3a368260d0125b8"
+  },
+  {
+    "id": 1698597,
+    "name": "Sandy Lipton",
+    "popularity": 3.433,
+    "cast_id": 32,
+    "order": 14,
+    "character": "Mrs. Lantz",
+    "credit_id": "580d2c5ac3a368228601302b"
   },
   {
     "id": 7219,

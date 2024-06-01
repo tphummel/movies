@@ -90,6 +90,24 @@
     "credit_id": "52fe4274c3a36847f801fd2b"
   },
   {
+    "id": 11481,
+    "name": "Frank DiLeo",
+    "popularity": 4.646,
+    "cast_id": 22,
+    "order": 10,
+    "character": "Tuddy Cicero",
+    "credit_id": "52fe4274c3a36847f801fd33"
+  },
+  {
+    "id": 99939,
+    "name": "Henny Youngman",
+    "popularity": 4.828,
+    "cast_id": 144,
+    "order": 11,
+    "character": "Himself",
+    "credit_id": "57ea57db92514137280014e6"
+  },
+  {
     "id": 11485,
     "name": "Gina Mastrogiacomo",
     "popularity": 10.698,
@@ -97,6 +115,24 @@
     "order": 12,
     "character": "Janice Rossi",
     "credit_id": "52fe4274c3a36847f801fd4f"
+  },
+  {
+    "id": 11483,
+    "name": "Catherine Scorsese",
+    "popularity": 6.22,
+    "cast_id": 27,
+    "order": 13,
+    "character": "Tommy's Mother",
+    "credit_id": "52fe4274c3a36847f801fd47"
+  },
+  {
+    "id": 1006721,
+    "name": "Charles Scorsese",
+    "popularity": 8.531,
+    "cast_id": 34,
+    "order": 14,
+    "character": "Vinnie",
+    "credit_id": "53dd95a90e0a265a8a000dad"
   },
   {
     "id": 5578,

@@ -99,6 +99,33 @@
     "credit_id": "5572220ac3a368382b0024cd"
   },
   {
+    "id": 72638,
+    "name": "Tracy Letts",
+    "popularity": 6.068,
+    "cast_id": 15,
+    "order": 11,
+    "character": "Lawrence Fields",
+    "credit_id": "55722241c3a36859c200158b"
+  },
+  {
+    "id": 57748,
+    "name": "Byron Mann",
+    "popularity": 8.379,
+    "cast_id": 21,
+    "order": 12,
+    "character": "Mr. Chau",
+    "credit_id": "5605e22b925141305e00025c"
+  },
+  {
+    "id": 467633,
+    "name": "Adepero Oduye",
+    "popularity": 5.069,
+    "cast_id": 36,
+    "order": 13,
+    "character": "Kathy Tao",
+    "credit_id": "5683788fc3a36828f500c8a5"
+  },
+  {
     "id": 543261,
     "name": "Karen Gillan",
     "popularity": 65.219,

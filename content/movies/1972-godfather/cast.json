@@ -90,6 +90,15 @@
     "credit_id": "52fe422bc3a36847f8009373"
   },
   {
+    "id": 3093,
+    "name": "Abe Vigoda",
+    "popularity": 6.481,
+    "cast_id": 14,
+    "order": 10,
+    "character": "Salvatore 'Sal' Tessio",
+    "credit_id": "52fe422bc3a36847f800937b"
+  },
+  {
     "id": 3096,
     "name": "John Cazale",
     "popularity": 11.206,
@@ -97,6 +106,33 @@
     "order": 11,
     "character": "Frederico 'Fredo' Corleone",
     "credit_id": "52fe422bc3a36847f8009387"
+  },
+  {
+    "id": 3090,
+    "name": "Richard Conte",
+    "popularity": 8.797,
+    "cast_id": 11,
+    "order": 12,
+    "character": "Don Emilio Barzini",
+    "credit_id": "52fe422bc3a36847f800936f"
+  },
+  {
+    "id": 3142,
+    "name": "John Marley",
+    "popularity": 6.816,
+    "cast_id": 33,
+    "order": 13,
+    "character": "Jack Woltz",
+    "credit_id": "52fe422bc3a36847f800938b"
+  },
+  {
+    "id": 3143,
+    "name": "Rudy Bond",
+    "popularity": 5.155,
+    "cast_id": 34,
+    "order": 14,
+    "character": "Carmine Cuneo",
+    "credit_id": "52fe422bc3a36847f800938f"
   },
   {
     "id": 20752,

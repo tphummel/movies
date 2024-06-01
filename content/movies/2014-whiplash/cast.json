@@ -63,6 +63,15 @@
     "credit_id": "5525414d925141720c001b56"
   },
   {
+    "id": 1451542,
+    "name": "Charlie Ian",
+    "popularity": 2.607,
+    "cast_id": 27,
+    "order": 7,
+    "character": "Dustin",
+    "credit_id": "552541959251415c7c00bd61"
+  },
+  {
     "id": 223012,
     "name": "Jayson Blair",
     "popularity": 3.632,
@@ -79,5 +88,50 @@
     "order": 9,
     "character": "Sophie",
     "credit_id": "52fe4ef7c3a36847f82b3fef"
+  },
+  {
+    "id": 53454,
+    "name": "Damon Gupton",
+    "popularity": 5.087,
+    "cast_id": 24,
+    "order": 10,
+    "character": "Mr. Kramer",
+    "credit_id": "5525416c9251417276001927"
+  },
+  {
+    "id": 1212459,
+    "name": "Suanne Spoke",
+    "popularity": 2.423,
+    "cast_id": 25,
+    "order": 11,
+    "character": "Aunt Emma",
+    "credit_id": "55254179c3a3687ded0016cf"
+  },
+  {
+    "id": 52939,
+    "name": "Max Kasch",
+    "popularity": 5.936,
+    "cast_id": 26,
+    "order": 12,
+    "character": "Dorm Neighbor",
+    "credit_id": "552541869251417be200a8f2"
+  },
+  {
+    "id": 1451543,
+    "name": "Kofi Siriboe",
+    "popularity": 8.642,
+    "cast_id": 29,
+    "order": 13,
+    "character": "Bassist (Nassau)",
+    "credit_id": "552541ae925141720c001b71"
+  },
+  {
+    "id": 1451545,
+    "name": "C.J. Vana",
+    "popularity": 3.11,
+    "cast_id": 31,
+    "order": 14,
+    "character": "Metz",
+    "credit_id": "552541c7c3a3687e08001774"
   }
 ]

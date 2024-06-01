@@ -90,6 +90,42 @@
     "credit_id": "52fe4458c3a368484e01dc13"
   },
   {
+    "id": 956719,
+    "name": "Tim DeZarn",
+    "popularity": 6.829,
+    "cast_id": 21,
+    "order": 10,
+    "character": "Mordecai",
+    "credit_id": "52fe4458c3a368484e01dc47"
+  },
+  {
+    "id": 62849,
+    "name": "Tom Lenk",
+    "popularity": 3.674,
+    "cast_id": 28,
+    "order": 11,
+    "character": "Ronald The Intern",
+    "credit_id": "52fe4458c3a368484e01dc6d"
+  },
+  {
+    "id": 1275716,
+    "name": "Greg Zach",
+    "popularity": 5.175,
+    "cast_id": 62,
+    "order": 12,
+    "character": "Fornicus, Lord of Bondage and Pain",
+    "credit_id": "52fe4458c3a368484e01dcf5"
+  },
+  {
+    "id": 85505,
+    "name": "Dan Payne",
+    "popularity": 9.527,
+    "cast_id": 29,
+    "order": 13,
+    "character": "Matthew Buckner",
+    "credit_id": "52fe4458c3a368484e01dc71"
+  },
+  {
     "id": 8338,
     "name": "Jodelle Ferland",
     "popularity": 10.915,

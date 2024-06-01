@@ -108,6 +108,15 @@
     "credit_id": "52fe44e0c3a36847f80af5d5"
   },
   {
+    "id": 157936,
+    "name": "James Sloyan",
+    "popularity": 8.726,
+    "cast_id": 24,
+    "order": 12,
+    "character": "Mottola",
+    "credit_id": "52fe44e0c3a36847f80af5d9"
+  },
+  {
     "id": 15988,
     "name": "Charles Dierkop",
     "popularity": 19.229,
@@ -115,6 +124,15 @@
     "order": 13,
     "character": "Floyd (Bodyguard)",
     "credit_id": "52fe44e0c3a36847f80af5dd"
+  },
+  {
+    "id": 110436,
+    "name": "Lee Paul",
+    "popularity": 9.239,
+    "cast_id": 26,
+    "order": 14,
+    "character": "Bodyguard",
+    "credit_id": "52fe44e0c3a36847f80af5e1"
   },
   {
     "id": 12134,

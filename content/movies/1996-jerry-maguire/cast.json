@@ -90,6 +90,42 @@
     "credit_id": "52fe44f1c3a36847f80b3407"
   },
   {
+    "id": 11676,
+    "name": "Mark Pellington",
+    "popularity": 4.426,
+    "cast_id": 21,
+    "order": 10,
+    "character": "Bill Dooler",
+    "credit_id": "52fe44f1c3a36847f80b340b"
+  },
+  {
+    "id": 61959,
+    "name": "Jeremy Suarez",
+    "popularity": 9.22,
+    "cast_id": 22,
+    "order": 11,
+    "character": "Tyson Tidwell",
+    "credit_id": "52fe44f1c3a36847f80b340f"
+  },
+  {
+    "id": 1076194,
+    "name": "Benjamin Kimball Smith",
+    "popularity": 2.652,
+    "cast_id": 24,
+    "order": 13,
+    "character": "Keith Cushman",
+    "credit_id": "52fe44f1c3a36847f80b3417"
+  },
+  {
+    "id": 183716,
+    "name": "Ingrid Beer",
+    "popularity": 3.183,
+    "cast_id": 25,
+    "order": 14,
+    "character": "Anne-Louise",
+    "credit_id": "52fe44f1c3a36847f80b341b"
+  },
+  {
     "id": 113919,
     "name": "Hynden Walch",
     "popularity": 12.844,

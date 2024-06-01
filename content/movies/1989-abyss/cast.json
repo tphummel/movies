@@ -81,6 +81,33 @@
     "credit_id": "52fe436ac3a36847f8052919"
   },
   {
+    "id": 951985,
+    "name": "George Robert Klek",
+    "popularity": 4.263,
+    "cast_id": 20,
+    "order": 10,
+    "character": "Wilhite",
+    "credit_id": "52fe436ac3a36847f8052921"
+  },
+  {
+    "id": 551894,
+    "name": "Christopher Murphy",
+    "popularity": 2.49,
+    "cast_id": 21,
+    "order": 11,
+    "character": "Schoenick",
+    "credit_id": "52fe436ac3a36847f8052925"
+  },
+  {
+    "id": 4732,
+    "name": "Adam Nelson",
+    "popularity": 8.212,
+    "cast_id": 22,
+    "order": 12,
+    "character": "Ensign Monk",
+    "credit_id": "52fe436ac3a36847f8052929"
+  },
+  {
     "id": 14663,
     "name": "Dick Warlock",
     "popularity": 12.329,
@@ -88,6 +115,15 @@
     "order": 13,
     "character": "Dwight Perry",
     "credit_id": "52fe436ac3a36847f805292d"
+  },
+  {
+    "id": 15442,
+    "name": "Jimmie Ray Weeks",
+    "popularity": 6.181,
+    "cast_id": 24,
+    "order": 14,
+    "character": "Leland McBride",
+    "credit_id": "52fe436ac3a36847f8052931"
   },
   {
     "id": 87118,

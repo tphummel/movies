@@ -1,7 +1,7 @@
 ---
 title: "The Warriors"
 title_alpha_sortable: "Warriors"
-date: "2024-05-30T05:15:33.572Z"
+date: "2024-06-01T15:43:48.509Z"
 collections: []
 budget_usd: 4000000
 tiers: []
@@ -29,7 +29,7 @@ revenue_usd: 22490039
 status: "Released"
 runtime_minutes: 94
 keywords: [242,542,3149,635,2987,9273,10349,15290,33426,155735,180085,192913,250391,312898]
-cast_members: [36409,1736,1737,69564,1058172,77256,55271,1658017,2167,1281538]
+cast_members: [36409,1736,1737,69564,1058172,77256,55271,1658017,1132251,1658018,1655498,71266,2167,152408,1281538]
 crew_members: [2082,1093,69568,1723,10440,664,909,1731]
 tagline: >
   These are the armies of the night. They are 100,000 strong. They outnumber the cops five to one. They could run New York City. Tonight they're all out to get the Warriors.

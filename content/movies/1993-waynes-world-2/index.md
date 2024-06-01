@@ -1,7 +1,7 @@
 ---
 title: "Wayne's World 2"
 title_alpha_sortable: "Wayne's World 2"
-date: "2024-05-30T05:15:33.695Z"
+date: "2024-06-01T15:43:48.622Z"
 collections: ["waynes-world"]
 budget_usd: 40000000
 tiers: []

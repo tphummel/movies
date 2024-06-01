@@ -99,6 +99,15 @@
     "credit_id": "52fe481dc3a368484e0e9d87"
   },
   {
+    "id": 1074615,
+    "name": "Branwell Donaghey",
+    "popularity": 8.633,
+    "cast_id": 35,
+    "order": 11,
+    "character": "Mercenary #1",
+    "credit_id": "52fe481dc3a368484e0e9e03"
+  },
+  {
     "id": 1074616,
     "name": "Vladimir \"Furdo\" Furdik",
     "popularity": 11.896,
@@ -106,6 +115,24 @@
     "order": 12,
     "character": "Mercenary #2",
     "credit_id": "52fe481dc3a368484e0e9e07"
+  },
+  {
+    "id": 1074617,
+    "name": "C.C. Smiff",
+    "popularity": 5.325,
+    "cast_id": 120,
+    "order": 13,
+    "character": "Mercenary #3",
+    "credit_id": "594ea963c3a368327903ac34"
+  },
+  {
+    "id": 1074618,
+    "name": "Shane Steyn",
+    "popularity": 6.686,
+    "cast_id": 44,
+    "order": 14,
+    "character": "Mercenary #4",
+    "credit_id": "52fe481dc3a368484e0e9e25"
   },
   {
     "id": 946696,

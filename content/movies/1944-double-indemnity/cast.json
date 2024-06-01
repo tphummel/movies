@@ -90,6 +90,15 @@
     "credit_id": "549d32ee92514131320054be"
   },
   {
+    "id": 12493,
+    "name": "Raymond Chandler",
+    "popularity": 8.933,
+    "cast_id": 27,
+    "order": 10,
+    "character": "Man Reading Book (uncredited)",
+    "credit_id": "549d3300925141312f005bdb"
+  },
+  {
     "id": 43836,
     "name": "Edmund Cobb",
     "popularity": 10.746,
@@ -99,6 +108,15 @@
     "credit_id": "549d3311c3a3682f23005780"
   },
   {
+    "id": 1042201,
+    "name": "Kernan Cripps",
+    "popularity": 8.968,
+    "cast_id": 29,
+    "order": 12,
+    "character": "Conductor (uncredited)",
+    "credit_id": "549d33259251415dc1004a03"
+  },
+  {
     "id": 121323,
     "name": "Bess Flowers",
     "popularity": 13.884,
@@ -106,5 +124,14 @@
     "order": 13,
     "character": "Norton's Secretary",
     "credit_id": "549d334b925141312f005be2"
+  },
+  {
+    "id": 120199,
+    "name": "Eddie Hall",
+    "popularity": 7.487,
+    "cast_id": 33,
+    "order": 14,
+    "character": "Man in Drug Store (uncredited)",
+    "credit_id": "549d3375c3a368764f0012d3"
   }
 ]

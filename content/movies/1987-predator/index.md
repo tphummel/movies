@@ -1,7 +1,7 @@
 ---
 title: "Predator"
 title_alpha_sortable: "Predator"
-date: "2024-05-30T05:15:31.922Z"
+date: "2024-06-01T15:43:46.762Z"
 collections: ["predator"]
 budget_usd: 15000000
 tiers: []
@@ -29,7 +29,7 @@ revenue_usd: 98267558
 status: "Released"
 runtime_minutes: 107
 keywords: [1008,1291,1297,9951,10333,10349,11060,13031,14909,14915,15248]
-cast_members: [1100,1101,1102,1104,1105,1103,1106,1107,1108,1109,19540,176448]
+cast_members: [1100,1101,1102,1104,1105,1103,1106,1107,1108,1109,72258,1412253,24969,19540,20761,176448]
 crew_members: [1090,1091,1092,1093,1095,1098,1099,2043,2038143]
 tagline: >
   Soon the hunt will begin.

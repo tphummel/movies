@@ -108,6 +108,15 @@
     "credit_id": "52fe434ec3a36847f804a271"
   },
   {
+    "id": 153884,
+    "name": "Marla Maples",
+    "popularity": 6.623,
+    "cast_id": 26,
+    "order": 12,
+    "character": "Nancy",
+    "credit_id": "52fe434ec3a36847f804a281"
+  },
+  {
     "id": 22131,
     "name": "J.T. Walsh",
     "popularity": 20.841,

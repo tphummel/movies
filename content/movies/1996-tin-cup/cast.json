@@ -63,6 +63,15 @@
     "credit_id": "576c74e492514107fc000f16"
   },
   {
+    "id": 20748,
+    "name": "Lou Myers",
+    "popularity": 2.755,
+    "cast_id": 42,
+    "order": 7,
+    "character": "Clint",
+    "credit_id": "576c74f592514107f6000dc9"
+  },
+  {
     "id": 3205,
     "name": "Richard Lineback",
     "popularity": 7.952,
@@ -79,5 +88,23 @@
     "order": 9,
     "character": "Jose",
     "credit_id": "551df316c3a368251d00014c"
+  },
+  {
+    "id": 100230,
+    "name": "Mickey Jones",
+    "popularity": 6.196,
+    "cast_id": 44,
+    "order": 10,
+    "character": "Turk",
+    "credit_id": "576c7515c3a3686b43000ab6"
+  },
+  {
+    "id": 154295,
+    "name": "Michael Milhoan",
+    "popularity": 4.345,
+    "cast_id": 45,
+    "order": 11,
+    "character": "Boone",
+    "credit_id": "576c7527c3a3686b43000ac4"
   }
 ]

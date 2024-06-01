@@ -126,6 +126,15 @@
     "credit_id": "58594de2925141724d04081c"
   },
   {
+    "id": 100085,
+    "name": "Paul Kasey",
+    "popularity": 9.561,
+    "cast_id": 125,
+    "order": 14,
+    "character": "Admiral Raddus",
+    "credit_id": "58594dfec3a3682dfe06e0f7"
+  },
+  {
     "id": 1213640,
     "name": "Stephen Stanton",
     "popularity": 10.43,

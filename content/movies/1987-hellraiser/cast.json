@@ -27,6 +27,15 @@
     "credit_id": "52fe44d0c3a36847f80ab8f5"
   },
   {
+    "id": 24737,
+    "name": "Oliver Smith",
+    "popularity": 2.381,
+    "cast_id": 19,
+    "order": 3,
+    "character": "Frank the Monster",
+    "credit_id": "52fe44d0c3a36847f80ab8f9"
+  },
+  {
     "id": 14782,
     "name": "Andrew Robinson",
     "popularity": 9.663,
@@ -70,5 +79,23 @@
     "order": 9,
     "character": "'Butterball' Cenobite",
     "credit_id": "52fe44d0c3a36847f80ab91d"
+  },
+  {
+    "id": 56554,
+    "name": "Anthony Allen",
+    "popularity": 2.454,
+    "cast_id": 21,
+    "order": 10,
+    "character": "1st Victim (uncredited)",
+    "credit_id": "52fe44d0c3a36847f80ab901"
+  },
+  {
+    "id": 1706797,
+    "name": "Frank Baker",
+    "popularity": 2.358,
+    "cast_id": 41,
+    "order": 13,
+    "character": "Derelict (uncredited)",
+    "credit_id": "58253318c3a368360b002baf"
   }
 ]

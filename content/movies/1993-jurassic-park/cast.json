@@ -99,6 +99,15 @@
     "credit_id": "52fe4238c3a36847f800d2b9"
   },
   {
+    "id": 2211,
+    "name": "Gerald R. Molen",
+    "popularity": 4.058,
+    "cast_id": 26,
+    "order": 11,
+    "character": "Gerry Harding",
+    "credit_id": "52fe4238c3a36847f800d2fb"
+  },
+  {
     "id": 30488,
     "name": "Miguel Sandoval",
     "popularity": 10.776,
@@ -106,5 +115,23 @@
     "order": 12,
     "character": "Juanito Rostagno",
     "credit_id": "52fe4238c3a36847f800d2ff"
+  },
+  {
+    "id": 176312,
+    "name": "Cameron Thor",
+    "popularity": 5.751,
+    "cast_id": 28,
+    "order": 13,
+    "character": "Lewis Dodgson",
+    "credit_id": "52fe4238c3a36847f800d303"
+  },
+  {
+    "id": 145531,
+    "name": "Christopher John Fields",
+    "popularity": 3.183,
+    "cast_id": 29,
+    "order": 14,
+    "character": "Volunteer #1",
+    "credit_id": "52fe4238c3a36847f800d307"
   }
 ]

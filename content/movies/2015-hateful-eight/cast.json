@@ -117,6 +117,24 @@
     "credit_id": "559d603f925141250f00012f"
   },
   {
+    "id": 1198202,
+    "name": "Keith Jefferson",
+    "popularity": 4.504,
+    "cast_id": 36,
+    "order": 13,
+    "character": "Charly",
+    "credit_id": "559d6028925141250b000110"
+  },
+  {
+    "id": 183519,
+    "name": "Craig Stark",
+    "popularity": 4.422,
+    "cast_id": 33,
+    "order": 14,
+    "character": "Chester Charles Smithers",
+    "credit_id": "559d5ffac3a36865a4000128"
+  },
+  {
     "id": 38673,
     "name": "Channing Tatum",
     "popularity": 77.37,

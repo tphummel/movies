@@ -90,6 +90,15 @@
     "credit_id": "52fe431ec3a36847f803bb99"
   },
   {
+    "id": 33185,
+    "name": "Jeremy Bulloch",
+    "popularity": 6.728,
+    "cast_id": 19,
+    "order": 10,
+    "character": "Boba Fett",
+    "credit_id": "52fe431ec3a36847f803bb9d"
+  },
+  {
     "id": 151529,
     "name": "Jason Wingreen",
     "popularity": 11.084,
@@ -99,6 +108,15 @@
     "credit_id": "56fce710c3a3684812001d1b"
   },
   {
+    "id": 27165,
+    "name": "John Hollis",
+    "popularity": 5.898,
+    "cast_id": 20,
+    "order": 12,
+    "character": "Lando's Aide",
+    "credit_id": "52fe431ec3a36847f803bba1"
+  },
+  {
     "id": 132538,
     "name": "Jack Purvis",
     "popularity": 11.951,
@@ -106,6 +124,15 @@
     "order": 13,
     "character": "Chief Ugnaught",
     "credit_id": "52fe431ec3a36847f803bba5"
+  },
+  {
+    "id": 132539,
+    "name": "Des Webb",
+    "popularity": 4.128,
+    "cast_id": 22,
+    "order": 14,
+    "character": "Snow Creature",
+    "credit_id": "52fe431ec3a36847f803bba9"
   },
   {
     "id": 70772,

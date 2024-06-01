@@ -99,6 +99,15 @@
     "credit_id": "52fe479fc3a368484e0d1321"
   },
   {
+    "id": 565498,
+    "name": "Laura Cayouette",
+    "popularity": 8.786,
+    "cast_id": 31,
+    "order": 11,
+    "character": "Lara Lee Candie-Fitzwilly",
+    "credit_id": "52fe479fc3a368484e0d1325"
+  },
+  {
     "id": 5377,
     "name": "Ato Essandoh",
     "popularity": 12.82,
@@ -106,6 +115,24 @@
     "order": 12,
     "character": "D'Artagnan",
     "credit_id": "52fe479fc3a368484e0d1329"
+  },
+  {
+    "id": 19300,
+    "name": "Sammi Rotibi",
+    "popularity": 6.155,
+    "cast_id": 33,
+    "order": 13,
+    "character": "Rodney",
+    "credit_id": "52fe479fc3a368484e0d132d"
+  },
+  {
+    "id": 1291797,
+    "name": "Clay Donahue Fontenot",
+    "popularity": 6.943,
+    "cast_id": 126,
+    "order": 14,
+    "character": "Big Fred's Opponent",
+    "credit_id": "567708ff92514179e300642d"
   },
   {
     "id": 25129,

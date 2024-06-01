@@ -90,6 +90,33 @@
     "credit_id": "52fe4218c3a36847f8003b7b"
   },
   {
+    "id": 72258,
+    "name": "Steve Boyum",
+    "popularity": 4.759,
+    "cast_id": 79,
+    "order": 10,
+    "character": "Hostage Executed by the Russian (uncredited)",
+    "credit_id": "5a5b85940e0a267fd302338d"
+  },
+  {
+    "id": 1412253,
+    "name": "William H. Burton Jr.",
+    "popularity": 3.052,
+    "cast_id": 150,
+    "order": 11,
+    "character": "Guerilla Soldier Shot Down from Tree (uncredited)",
+    "credit_id": "5e7501decabfe400111e97d4"
+  },
+  {
+    "id": 24969,
+    "name": "Henry Kingi",
+    "popularity": 3.423,
+    "cast_id": 81,
+    "order": 12,
+    "character": "Guerilla Soldier Blown Up in Van (uncredited)",
+    "credit_id": "5a5b85b49251413f7702207e"
+  },
+  {
     "id": 19540,
     "name": "Peter Cullen",
     "popularity": 11.807,
@@ -97,6 +124,15 @@
     "order": 13,
     "character": "Predator (voice) (uncredited)",
     "credit_id": "5a5b85a4c3a36867f601eebf"
+  },
+  {
+    "id": 20761,
+    "name": "Sven-Ole Thorsen",
+    "popularity": 7.205,
+    "cast_id": 25,
+    "order": 14,
+    "character": "Russian Officer (uncredited)",
+    "credit_id": "5742adfe9251416ce6002052"
   },
   {
     "id": 176448,

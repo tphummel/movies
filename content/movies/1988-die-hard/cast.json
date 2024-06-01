@@ -99,6 +99,24 @@
     "credit_id": "52fe4253c3a36847f80154c9"
   },
   {
+    "id": 51581,
+    "name": "Clarence Gilyard Jr.",
+    "popularity": 8.495,
+    "cast_id": 36,
+    "order": 12,
+    "character": "Theo",
+    "credit_id": "52fe4253c3a36847f80154d1"
+  },
+  {
+    "id": 1217001,
+    "name": "Lorenzo Caccialanza",
+    "popularity": 3.632,
+    "cast_id": 37,
+    "order": 14,
+    "character": "Marco",
+    "credit_id": "52fe4253c3a36847f80154d5"
+  },
+  {
     "id": 2055,
     "name": "Robert Davi",
     "popularity": 21.763,

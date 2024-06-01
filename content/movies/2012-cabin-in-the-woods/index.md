@@ -1,7 +1,7 @@
 ---
 title: "The Cabin in the Woods"
 title_alpha_sortable: "Cabin in the Woods"
-date: "2024-05-30T05:15:29.078Z"
+date: "2024-06-01T15:43:43.678Z"
 collections: []
 budget_usd: 30000000
 tiers: []
@@ -29,7 +29,7 @@ revenue_usd: 71041255
 status: "Released"
 runtime_minutes: 95
 keywords: [3623,3891,6275,7980,8303,9720,10776,12332,12377,12564,13031,13209,182026,182036,206298,207844]
-cast_members: [210824,51533,210695,486603,74568,28633,11367,10205,31137,81133,8338]
+cast_members: [210824,51533,210695,486603,74568,28633,11367,10205,31137,81133,956719,62849,1275716,85505,8338]
 crew_members: [9573,12891,47506,94534,1018965]
 tagline: >
   You think you know the story.

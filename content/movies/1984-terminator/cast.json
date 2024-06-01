@@ -90,6 +90,24 @@
     "credit_id": "56af9cdf92514101f2000437"
   },
   {
+    "id": 1258399,
+    "name": "Bruce M. Kerner",
+    "popularity": 2.607,
+    "cast_id": 57,
+    "order": 10,
+    "character": "Desk Sergeant",
+    "credit_id": "56af9d19c3a36831760004fb"
+  },
+  {
+    "id": 35710,
+    "name": "Franco Columbu",
+    "popularity": 7.338,
+    "cast_id": 22,
+    "order": 11,
+    "character": "Future Terminator",
+    "credit_id": "52fe4228c3a36847f800856d"
+  },
+  {
     "id": 2053,
     "name": "Bill Paxton",
     "popularity": 19.925,
@@ -97,6 +115,15 @@
     "order": 12,
     "character": "Punk Leader",
     "credit_id": "52fe4228c3a36847f800853b"
+  },
+  {
+    "id": 100626,
+    "name": "Brad Rearden",
+    "popularity": 3.308,
+    "cast_id": 58,
+    "order": 13,
+    "character": "Punk (uncredited)",
+    "credit_id": "56af9d4e92514101e7000466"
   },
   {
     "id": 2719,

@@ -72,6 +72,15 @@
     "credit_id": "52fe4232c3a36847f800b683"
   },
   {
+    "id": 4045,
+    "name": "Tom Silardi",
+    "popularity": 2.398,
+    "cast_id": 10,
+    "order": 8,
+    "character": "Tony",
+    "credit_id": "52fe4232c3a36847f800b687"
+  },
+  {
     "id": 4051,
     "name": "Jenny Robertson",
     "popularity": 7.132,
@@ -79,5 +88,32 @@
     "order": 9,
     "character": "Millie",
     "credit_id": "52fe4232c3a36847f800b69f"
+  },
+  {
+    "id": 4047,
+    "name": "Rick Marzan",
+    "popularity": 2.452,
+    "cast_id": 12,
+    "order": 10,
+    "character": "Jose",
+    "credit_id": "52fe4232c3a36847f800b68f"
+  },
+  {
+    "id": 4048,
+    "name": "George Buck",
+    "popularity": 3.27,
+    "cast_id": 13,
+    "order": 11,
+    "character": "Nuke's Father",
+    "credit_id": "52fe4232c3a36847f800b693"
+  },
+  {
+    "id": 4046,
+    "name": "Lloyd T. Williams",
+    "popularity": 2.773,
+    "cast_id": 11,
+    "order": 12,
+    "character": "Mickey",
+    "credit_id": "52fe4232c3a36847f800b68b"
   }
 ]

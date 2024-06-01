@@ -108,6 +108,33 @@
     "credit_id": "52fe440ac3a36847f807eb35"
   },
   {
+    "id": 59399,
+    "name": "Miguel Nino",
+    "popularity": 6.122,
+    "cast_id": 26,
+    "order": 12,
+    "character": "Chicago Cop #1",
+    "credit_id": "56a1835b92514137d60082ac"
+  },
+  {
+    "id": 1522099,
+    "name": "John Drummond",
+    "popularity": 2.173,
+    "cast_id": 27,
+    "order": 13,
+    "character": "Newscaster",
+    "credit_id": "56a183ac9251415e5e00fbca"
+  },
+  {
+    "id": 3527178,
+    "name": "Tony Fosco",
+    "popularity": 2.026,
+    "cast_id": 134,
+    "order": 14,
+    "character": "Chicago Cop #2",
+    "credit_id": "626a73c09824c8004fa88f97"
+  },
+  {
     "id": 167567,
     "name": "Mark D. Espinoza",
     "popularity": 10.228,

@@ -1,7 +1,7 @@
 ---
 title: "Die Hard"
 title_alpha_sortable: "Die Hard"
-date: "2024-05-30T05:15:29.432Z"
+date: "2024-06-01T15:43:44.134Z"
 collections: ["die-hard"]
 budget_usd: 28000000
 tiers: []
@@ -29,7 +29,7 @@ revenue_usd: 140767956
 status: "Released"
 runtime_minutes: 131
 keywords: [818,949,1441,1470,1562,1812,1953,9826,10051,10950,12670,13116,159710,162914,208289,219404,260283,299460]
-cast_members: [62,4566,7674,7673,7672,7675,7677,7676,7678,4995,10673,2055]
+cast_members: [62,4566,7674,7673,7672,7675,7677,7676,7678,4995,10673,51581,1217001,2055]
 crew_members: [1090,1091,1093,1099,2209,7715,7681,7713]
 tagline: >
   Forty stories. Twelve terrorists. One cop.

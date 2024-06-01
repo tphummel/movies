@@ -1,7 +1,7 @@
 ---
 title: "Indiana Jones and the Last Crusade"
 title_alpha_sortable: "Indiana Jones and the Last Crusade"
-date: "2024-05-30T05:15:30.896Z"
+date: "2024-06-01T15:43:45.679Z"
 collections: ["indy"]
 budget_usd: 48000000
 tiers: []
@@ -29,7 +29,7 @@ revenue_usd: 474171806
 status: "Released"
 runtime_minutes: 127
 keywords: [74,83,110,113,295,483,970,1294,1454,2652,2847,2901,5905,6956,10685,11117,14656,18034,41586,175428,184134,214548,240119]
-cast_members: [3,738,656,739,655,740,741,742,743]
+cast_members: [3,738,656,739,655,740,741,742,743,745,746,747,748,749]
 crew_members: [1,1,488,493,664,666,711,735]
 tagline: >
   The man with the hat is back. And this time, he's bringing his Dad.

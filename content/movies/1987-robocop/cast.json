@@ -90,6 +90,42 @@
     "credit_id": "52fe440dc3a36847f807f6d1"
   },
   {
+    "id": 44043,
+    "name": "Jesse D. Goins",
+    "popularity": 3.051,
+    "cast_id": 20,
+    "order": 10,
+    "character": "Joe Cox",
+    "credit_id": "52fe440dc3a36847f807f6d5"
+  },
+  {
+    "id": 100062,
+    "name": "Del Zamora",
+    "popularity": 2.383,
+    "cast_id": 40,
+    "order": 11,
+    "character": "Kaplan",
+    "credit_id": "52fe440dc3a36847f807f721"
+  },
+  {
+    "id": 105312,
+    "name": "Calvin Jung",
+    "popularity": 4.353,
+    "cast_id": 39,
+    "order": 12,
+    "character": "Steve Minh",
+    "credit_id": "52fe440dc3a36847f807f71d"
+  },
+  {
+    "id": 106768,
+    "name": "Lee de Broux",
+    "popularity": 3.769,
+    "cast_id": 37,
+    "order": 14,
+    "character": "Sal",
+    "credit_id": "52fe440dc3a36847f807f715"
+  },
+  {
     "id": 179188,
     "name": "Neil Summers",
     "popularity": 13.361,

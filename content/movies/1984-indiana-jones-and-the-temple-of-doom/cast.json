@@ -81,6 +81,15 @@
     "credit_id": "52fe4215c3a36847f8002c29"
   },
   {
+    "id": 699,
+    "name": "Chua Kah Joo",
+    "popularity": 2.281,
+    "cast_id": 13,
+    "order": 9,
+    "character": "Chen",
+    "credit_id": "52fe4215c3a36847f8002c2d"
+  },
+  {
     "id": 702,
     "name": "Philip Tan",
     "popularity": 11.581,
@@ -97,6 +106,24 @@
     "order": 12,
     "character": "Art Weber",
     "credit_id": "52fe4215c3a36847f8002c39"
+  },
+  {
+    "id": 1402218,
+    "name": "Akio Mitamura",
+    "popularity": 2.876,
+    "cast_id": 32,
+    "order": 13,
+    "character": "Chinese Pilot",
+    "credit_id": "5496e97f9251417315001633"
+  },
+  {
+    "id": 80123,
+    "name": "Michael Yama",
+    "popularity": 6.035,
+    "cast_id": 33,
+    "order": 14,
+    "character": "Chinese Co-Pilot",
+    "credit_id": "5496eb479251416e2b006625"
   },
   {
     "id": 1,

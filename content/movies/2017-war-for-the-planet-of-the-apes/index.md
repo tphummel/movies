@@ -1,7 +1,7 @@
 ---
 title: "War for the Planet of the Apes"
 title_alpha_sortable: "War for the Planet of the Apes"
-date: "2024-05-30T05:15:33.479Z"
+date: "2024-06-01T15:43:48.418Z"
 collections: ["apes"]
 budget_usd: 150000000
 tiers: []

@@ -79,5 +79,32 @@
     "order": 8,
     "character": "Richard Bowens",
     "credit_id": "52fe44fb9251416c75047a33"
+  },
+  {
+    "id": 30368,
+    "name": "Jonathan Kasdan",
+    "popularity": 7.481,
+    "cast_id": 22,
+    "order": 11,
+    "character": "Harold and Sarah's Son",
+    "credit_id": "52fe44fb9251416c75047a3f"
+  },
+  {
+    "id": 51851,
+    "name": "Jake Kasdan",
+    "popularity": 5.156,
+    "cast_id": 24,
+    "order": 13,
+    "character": "Autograph Seeker",
+    "credit_id": "52fe44fb9251416c75047a47"
+  },
+  {
+    "id": 5704,
+    "name": "Muriel Moore",
+    "popularity": 3.234,
+    "cast_id": 25,
+    "order": 14,
+    "character": "Alex's Mother",
+    "credit_id": "52fe44fb9251416c75047a4b"
   }
 ]
