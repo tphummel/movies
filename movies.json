@@ -44,6 +44,7 @@
     { "tmdb_id": 9504, "mc_slug": "glengarry-glen-ross", "rt_slug": "glengarry_glen_ross", "name": "glengarry glen ross", "collections": []},
     { "tmdb_id": 238, "mc_slug": "the-godfather", "rt_slug": "the_godfather", "name": "godfather", "collections": []},
     { "tmdb_id": 240, "mc_slug": "the-godfather-part-ii", "rt_slug": "godfather_part_ii", "name": "godfather 2", "collections": []},
+    { "tmdb_id": 769, "mc_slug": "goodfellas", "rt_slug": "1032176-goodfellas", "name": "Goodfellas", "collections": []},
     { "tmdb_id": 137, "mc_slug": "groundhog-day", "rt_slug": "groundhog_day", "name": "groundhog day", "collections": ["calendar"]},
     { "tmdb_id": 948, "mc_slug": "halloween-1978", "rt_slug": "1009113-halloween", "name": "halloween", "collections": ["unstoppable-evil", "calendar"]},
     { "tmdb_id": 273248, "mc_slug": "the-hateful-eight", "rt_slug": "the_hateful_eight", "name": "hateful eight", "collections": []},
