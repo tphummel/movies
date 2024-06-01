@@ -90,6 +90,33 @@
     "credit_id": "52fe42e7c3a36847f802ba5b"
   },
   {
+    "id": 15418,
+    "name": "Joel Polis",
+    "popularity": 3.008,
+    "cast_id": 24,
+    "order": 10,
+    "character": "Fuchs",
+    "credit_id": "52fe42e7c3a36847f802ba5f"
+  },
+  {
+    "id": 15419,
+    "name": "Thomas G. Waites",
+    "popularity": 6.755,
+    "cast_id": 25,
+    "order": 11,
+    "character": "Windows",
+    "credit_id": "52fe42e7c3a36847f802ba63"
+  },
+  {
+    "id": 6701,
+    "name": "Norbert Weisser",
+    "popularity": 4.263,
+    "cast_id": 61,
+    "order": 12,
+    "character": "Norwegian (uncredited)",
+    "credit_id": "5bda7424925141540e005519"
+  },
+  {
     "id": 11782,
     "name": "Adrienne Barbeau",
     "popularity": 28.231,

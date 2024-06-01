@@ -81,6 +81,24 @@
     "credit_id": "52fe474a9251416c75094225"
   },
   {
+    "id": 109949,
+    "name": "Alan Koss",
+    "popularity": 4.664,
+    "cast_id": 15,
+    "order": 10,
+    "character": "Patrolman Baxter",
+    "credit_id": "52fe474a9251416c75094231"
+  },
+  {
+    "id": 30553,
+    "name": "Henry Brandon",
+    "popularity": 6.208,
+    "cast_id": 16,
+    "order": 11,
+    "character": "Chaney",
+    "credit_id": "52fe474a9251416c75094235"
+  },
+  {
     "id": 53261,
     "name": "Kim Richards",
     "popularity": 15.813,
@@ -88,6 +106,15 @@
     "order": 12,
     "character": "Kathy",
     "credit_id": "52fe474a9251416c75094229"
+  },
+  {
+    "id": 15449,
+    "name": "Frank Doubleday",
+    "popularity": 4.153,
+    "cast_id": 17,
+    "order": 13,
+    "character": "White Warlord",
+    "credit_id": "52fe474a9251416c75094239"
   },
   {
     "id": 109957,

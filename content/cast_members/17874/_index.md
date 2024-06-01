@@ -1,8 +1,8 @@
 ---
-title: "Fred Thompson"
-name: "Fred Thompson"
+title: "Fred Dalton Thompson"
+name: "Fred Dalton Thompson"
 id: "17874"
-original_name: "Fred Thompson"
+original_name: "Fred Dalton Thompson"
 known_for_department: "Acting"
 gender: "2"
 adult: "false"

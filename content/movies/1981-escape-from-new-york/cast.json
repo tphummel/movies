@@ -90,6 +90,42 @@
     "credit_id": "52fe42e7c3a36847f802bc4d"
   },
   {
+    "id": 15449,
+    "name": "Frank Doubleday",
+    "popularity": 3.088,
+    "cast_id": 19,
+    "order": 10,
+    "character": "Romero",
+    "credit_id": "52fe42e7c3a36847f802bc29"
+  },
+  {
+    "id": 54564,
+    "name": "George Buck Flower",
+    "popularity": 9.934,
+    "cast_id": 28,
+    "order": 12,
+    "character": "Drunk",
+    "credit_id": "59417c699251414afb025004"
+  },
+  {
+    "id": 9785,
+    "name": "John Cothran, Jr.",
+    "popularity": 6.282,
+    "cast_id": 27,
+    "order": 13,
+    "character": "Gypsy #1",
+    "credit_id": "52fe42e7c3a36847f802bc51"
+  },
+  {
+    "id": 15508,
+    "name": "Nancy Stephens",
+    "popularity": 7.207,
+    "cast_id": 38,
+    "order": 14,
+    "character": "Stewardess",
+    "credit_id": "616ced456bdec3002ae23dd9"
+  },
+  {
     "id": 11770,
     "name": "John Carpenter",
     "popularity": 28.063,

@@ -1,7 +1,7 @@
 ---
 title: "The Terminator"
 title_alpha_sortable: "Terminator"
-date: "2024-05-30T05:15:33.016Z"
+date: "2024-06-01T15:43:47.981Z"
 collections: ["unstoppable-evil"]
 budget_usd: 6400000
 tiers: []
@@ -29,7 +29,7 @@ revenue_usd: 78371200
 status: "Released"
 runtime_minutes: 108
 keywords: [83,310,526,679,1280,1366,1373,3289,4379,4565,12339,12670,33556,162484,175468,178657,208757,219404,253388,269233,285268,303361]
-cast_members: [1100,2712,2713,1818,2714,2717,2715,2716,102441,65001,2053,2719]
+cast_members: [1100,2712,2713,1818,2714,2717,2715,2716,102441,65001,1258399,35710,2053,100626,2719]
 crew_members: [869,869,898,2710,2710,2720,2721,2723]
 tagline: >
   Your future is in its hands.

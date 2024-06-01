@@ -1,7 +1,7 @@
 ---
 title: "Indiana Jones and the Temple of Doom"
 title_alpha_sortable: "Indiana Jones and the Temple of Doom"
-date: "2024-05-30T05:15:30.946Z"
+date: "2024-06-01T15:43:45.731Z"
 collections: ["indy"]
 budget_usd: 28000000
 tiers: []
@@ -29,7 +29,7 @@ revenue_usd: 333000000
 status: "Released"
 runtime_minutes: 118
 keywords: [1454,4062,1935,2857,2860,483,3185,3450,6956,13006,14636,15149,41586,167106,170881,174465,174468,174480,175428,184134,214548]
-cast_members: [3,689,690,691,693,694,695,696,11397,702,707,1,34983,488,81776]
+cast_members: [3,689,690,691,693,694,695,696,11397,699,702,707,1402218,80123,1,34983,488,81776]
 crew_members: [488,711,1,664,666,493]
 tagline: >
   If adventure has a name... it must be Indiana Jones.

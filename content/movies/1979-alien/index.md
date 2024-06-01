@@ -1,7 +1,7 @@
 ---
 title: "Alien"
 title_alpha_sortable: "Alien"
-date: "2024-05-30T05:15:28.335Z"
+date: "2024-06-01T15:43:42.784Z"
 collections: ["alien"]
 budget_usd: 11000000
 tiers: []

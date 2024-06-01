@@ -90,6 +90,15 @@
     "credit_id": "5b7b7b5dc3a3681982003dd9"
   },
   {
+    "id": 157488,
+    "name": "Israel Juarbe",
+    "popularity": 4.157,
+    "cast_id": 32,
+    "order": 10,
+    "character": "Freddy",
+    "credit_id": "5b7b7b7c92514101e40038a7"
+  },
+  {
     "id": 83978,
     "name": "William Bassett",
     "popularity": 10.697,
@@ -106,6 +115,15 @@
     "order": 12,
     "character": "Jerry",
     "credit_id": "5b7b7ba50e0a267c7a003778"
+  },
+  {
+    "id": 2111934,
+    "name": "Juli Fields",
+    "popularity": 2.723,
+    "cast_id": 34,
+    "order": 13,
+    "character": "Susan",
+    "credit_id": "5b7b7b9d92514101e80037c4"
   },
   {
     "id": 163011,

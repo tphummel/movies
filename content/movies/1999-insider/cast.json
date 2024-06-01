@@ -117,6 +117,24 @@
     "credit_id": "52fe44d1c3a36847f80abb13"
   },
   {
+    "id": 71266,
+    "name": "Lynne Thigpen",
+    "popularity": 4.253,
+    "cast_id": 25,
+    "order": 13,
+    "character": "Mrs. Williams",
+    "credit_id": "52fe44d1c3a36847f80abb17"
+  },
+  {
+    "id": 15674,
+    "name": "Hallie Eisenberg",
+    "popularity": 6.156,
+    "cast_id": 26,
+    "order": 14,
+    "character": "Barbara Wigand",
+    "credit_id": "52fe44d1c3a36847f80abb1b"
+  },
+  {
     "id": 61153,
     "name": "Wings Hauser",
     "popularity": 14.666,

@@ -90,6 +90,24 @@
     "credit_id": "54d2a4919251413fd300079e"
   },
   {
+    "id": 968542,
+    "name": "Denise Grayson",
+    "popularity": 7.726,
+    "cast_id": 46,
+    "order": 10,
+    "character": "Gretchen",
+    "credit_id": "5643e55ec3a36870e00039d1"
+  },
+  {
+    "id": 113526,
+    "name": "Douglas Urbanski",
+    "popularity": 8.894,
+    "cast_id": 59,
+    "order": 11,
+    "character": "Larry Summers",
+    "credit_id": "5643e92f9251410a4c003a4f"
+  },
+  {
     "id": 108916,
     "name": "Rooney Mara",
     "popularity": 24.059,
@@ -97,6 +115,15 @@
     "order": 12,
     "character": "Erica Albright",
     "credit_id": "52fe466f9251416c910546c3"
+  },
+  {
+    "id": 115406,
+    "name": "Dustin Fitzsimons",
+    "popularity": 2.786,
+    "cast_id": 17,
+    "order": 14,
+    "character": "Phoenix Club President",
+    "credit_id": "52fe466f9251416c910546f3"
   },
   {
     "id": 4787,

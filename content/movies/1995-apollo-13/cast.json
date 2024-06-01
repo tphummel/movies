@@ -81,6 +81,33 @@
     "credit_id": "52fe4254c3a36847f80159b5"
   },
   {
+    "id": 8189,
+    "name": "Tracy Reiner",
+    "popularity": 2.27,
+    "cast_id": 34,
+    "order": 9,
+    "character": "Mary Haise",
+    "credit_id": "52fe4254c3a36847f80159a1"
+  },
+  {
+    "id": 8192,
+    "name": "Joe Spano",
+    "popularity": 9.042,
+    "cast_id": 38,
+    "order": 10,
+    "character": "NASA Director",
+    "credit_id": "52fe4254c3a36847f80159b1"
+  },
+  {
+    "id": 7219,
+    "name": "David Andrews",
+    "popularity": 6.69,
+    "cast_id": 35,
+    "order": 11,
+    "character": "Pete Conrad",
+    "credit_id": "52fe4254c3a36847f80159a5"
+  },
+  {
     "id": 8184,
     "name": "Mary Kate Schellhardt",
     "popularity": 10.843,
@@ -88,6 +115,24 @@
     "order": 12,
     "character": "Barbara Lovell",
     "credit_id": "52fe4253c3a36847f801598d"
+  },
+  {
+    "id": 8185,
+    "name": "Emily Ann Lloyd",
+    "popularity": 3.936,
+    "cast_id": 30,
+    "order": 13,
+    "character": "Susan Lovell",
+    "credit_id": "52fe4253c3a36847f8015991"
+  },
+  {
+    "id": 8186,
+    "name": "Miko Hughes",
+    "popularity": 6.896,
+    "cast_id": 31,
+    "order": 14,
+    "character": "Jeffrey Lovell",
+    "credit_id": "52fe4253c3a36847f8015995"
   },
   {
     "id": 15661,

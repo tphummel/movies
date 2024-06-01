@@ -115,5 +115,23 @@
     "order": 12,
     "character": "Bill Steiner",
     "credit_id": "52fe430ac3a36847f803606f"
+  },
+  {
+    "id": 912,
+    "name": "Larry Ferguson",
+    "popularity": 4.65,
+    "cast_id": 18,
+    "order": 13,
+    "character": "Chief of the Boat",
+    "credit_id": "52fe430ac3a36847f8036073"
+  },
+  {
+    "id": 17874,
+    "name": "Fred Dalton Thompson",
+    "popularity": 3.256,
+    "cast_id": 19,
+    "order": 14,
+    "character": "Admiral Painter",
+    "credit_id": "52fe430ac3a36847f8036077"
   }
 ]

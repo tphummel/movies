@@ -90,6 +90,51 @@
     "credit_id": "52fe422bc3a36847f8009529"
   },
   {
+    "id": 3281,
+    "name": "Gastone Moschin",
+    "popularity": 7.846,
+    "cast_id": 34,
+    "order": 10,
+    "character": "Don Fanucci",
+    "credit_id": "52fe422bc3a36847f8009589"
+  },
+  {
+    "id": 1213795,
+    "name": "Tom Rosqui",
+    "popularity": 4.594,
+    "cast_id": 49,
+    "order": 11,
+    "character": "Rocco Lampone",
+    "credit_id": "55c0e47a9251410f780020ba"
+  },
+  {
+    "id": 9257,
+    "name": "Bruno Kirby",
+    "popularity": 8.927,
+    "cast_id": 37,
+    "order": 12,
+    "character": "Young Clemenza",
+    "credit_id": "52fe422bc3a36847f8009597"
+  },
+  {
+    "id": 11480,
+    "name": "Frank Sivero",
+    "popularity": 7.699,
+    "cast_id": 38,
+    "order": 13,
+    "character": "Genco Abbandando",
+    "credit_id": "52fe422bc3a36847f800959b"
+  },
+  {
+    "id": 3279,
+    "name": "Francesca De Sapio",
+    "popularity": 2.88,
+    "cast_id": 32,
+    "order": 14,
+    "character": "Young Carmela",
+    "credit_id": "52fe422bc3a36847f8009581"
+  },
+  {
     "id": 15659,
     "name": "Marianna Hill",
     "popularity": 10.992,

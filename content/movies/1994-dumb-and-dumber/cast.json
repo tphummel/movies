@@ -108,6 +108,15 @@
     "credit_id": "52fe44acc3a36847f80a37bf"
   },
   {
+    "id": 184180,
+    "name": "Cam Neely",
+    "popularity": 8.245,
+    "cast_id": 25,
+    "order": 12,
+    "character": "Sea Bass",
+    "credit_id": "52fe44acc3a36847f80a37c3"
+  },
+  {
     "id": 162924,
     "name": "Rob Moran",
     "popularity": 17.511,
@@ -115,6 +124,15 @@
     "order": 13,
     "character": "Bartender",
     "credit_id": "52fe44acc3a36847f80a37cf"
+  },
+  {
+    "id": 181486,
+    "name": "Joe Baker",
+    "popularity": 4.112,
+    "cast_id": 21,
+    "order": 14,
+    "character": "Barnard",
+    "credit_id": "52fe44acc3a36847f80a37b3"
   },
   {
     "id": 60672,

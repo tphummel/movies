@@ -1,7 +1,7 @@
 ---
 title: "Minority Report"
 title_alpha_sortable: "Minority Report"
-date: "2024-05-30T05:15:31.577Z"
+date: "2024-06-01T15:43:46.407Z"
 collections: []
 budget_usd: 102000000
 tiers: []

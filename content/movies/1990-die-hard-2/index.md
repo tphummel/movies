@@ -1,7 +1,7 @@
 ---
 title: "Die Hard 2"
 title_alpha_sortable: "Die Hard 2"
-date: "2024-05-30T05:15:29.542Z"
+date: "2024-06-01T15:43:44.185Z"
 collections: ["die-hard"]
 budget_usd: 70000000
 tiers: []

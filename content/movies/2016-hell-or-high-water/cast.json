@@ -81,6 +81,24 @@
     "credit_id": "563ea2e692514134420048d9"
   },
   {
+    "id": 71562,
+    "name": "Buck Taylor",
+    "popularity": 8.344,
+    "cast_id": 14,
+    "order": 10,
+    "character": "Old Man",
+    "credit_id": "5790e34e9251416bb4002048"
+  },
+  {
+    "id": 1155333,
+    "name": "Keith Meriweather",
+    "popularity": 2.397,
+    "cast_id": 91,
+    "order": 11,
+    "character": "Rancher",
+    "credit_id": "5fe76dfcc7176d003c77202c"
+  },
+  {
     "id": 1654001,
     "name": "Amber Midthunder",
     "popularity": 34.987,
@@ -88,6 +106,15 @@
     "order": 12,
     "character": "Vernon Teller",
     "credit_id": "5790e361c3a368664b009229"
+  },
+  {
+    "id": 1179344,
+    "name": "Joe Berryman",
+    "popularity": 4.165,
+    "cast_id": 93,
+    "order": 14,
+    "character": "Bank Manager",
+    "credit_id": "5fe76e4e1ac292003dbdf43c"
   },
   {
     "id": 1215399,

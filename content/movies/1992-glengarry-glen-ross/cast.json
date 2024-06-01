@@ -79,5 +79,50 @@
     "order": 8,
     "character": "Detective",
     "credit_id": "52fe4501c3a36847f80b6da5"
+  },
+  {
+    "id": 21384,
+    "name": "Paul Butler",
+    "popularity": 2.857,
+    "cast_id": 19,
+    "order": 9,
+    "character": "Policeman",
+    "credit_id": "549735809251417315001c85"
+  },
+  {
+    "id": 171743,
+    "name": "Lori Tan Chinn",
+    "popularity": 8.917,
+    "cast_id": 21,
+    "order": 10,
+    "character": "Coat Check Girl",
+    "credit_id": "549735dec3a3686ae3006bc0"
+  },
+  {
+    "id": 4199,
+    "name": "Neal Jones",
+    "popularity": 4.435,
+    "cast_id": 46,
+    "order": 11,
+    "character": "Man in Donut Shop",
+    "credit_id": "56365a8bc3a3681b5401c1a9"
+  },
+  {
+    "id": 175037,
+    "name": "Leigh French",
+    "popularity": 4.371,
+    "cast_id": 47,
+    "order": 13,
+    "character": "Additional Voices (voice)",
+    "credit_id": "56365afc92514129fe00d2a2"
+  },
+  {
+    "id": 16580,
+    "name": "George Cheung",
+    "popularity": 9.238,
+    "cast_id": 48,
+    "order": 14,
+    "character": "Additional Voices (voice)",
+    "credit_id": "56365b2492514129fe00d2a6"
   }
 ]

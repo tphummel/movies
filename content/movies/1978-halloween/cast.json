@@ -90,6 +90,42 @@
     "credit_id": "52fe4292c3a36847f80290a7"
   },
   {
+    "id": 15510,
+    "name": "Mickey Yablans",
+    "popularity": 2.708,
+    "cast_id": 24,
+    "order": 10,
+    "character": "Richie",
+    "credit_id": "52fe4292c3a36847f80290ab"
+  },
+  {
+    "id": 15511,
+    "name": "Brent Le Page",
+    "popularity": 5.103,
+    "cast_id": 25,
+    "order": 11,
+    "character": "Lonnie",
+    "credit_id": "52fe4292c3a36847f80290af"
+  },
+  {
+    "id": 15513,
+    "name": "Adam Hollander",
+    "popularity": 2.727,
+    "cast_id": 26,
+    "order": 12,
+    "character": "Keith",
+    "credit_id": "52fe4292c3a36847f80290b3"
+  },
+  {
+    "id": 15515,
+    "name": "Robert Phalen",
+    "popularity": 2.823,
+    "cast_id": 27,
+    "order": 13,
+    "character": "Dr.  Wynn",
+    "credit_id": "52fe4292c3a36847f80290b7"
+  },
+  {
     "id": 15516,
     "name": "Tony Moran",
     "popularity": 10.656,

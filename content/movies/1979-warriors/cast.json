@@ -72,6 +72,42 @@
     "credit_id": "579a447192514112fb0040e8"
   },
   {
+    "id": 1132251,
+    "name": "Marcelino Sánchez",
+    "popularity": 2.394,
+    "cast_id": 19,
+    "order": 9,
+    "character": "Rembrandt",
+    "credit_id": "579a4471c3a3682d4f00644d"
+  },
+  {
+    "id": 1658018,
+    "name": "Terry Michos",
+    "popularity": 2.354,
+    "cast_id": 20,
+    "order": 10,
+    "character": "Vermin",
+    "credit_id": "579a4472c3a3682d4f006451"
+  },
+  {
+    "id": 1655498,
+    "name": "Roger Hill",
+    "popularity": 5.362,
+    "cast_id": 21,
+    "order": 11,
+    "character": "Cyrus",
+    "credit_id": "579a4472c3a3680e43004106"
+  },
+  {
+    "id": 71266,
+    "name": "Lynne Thigpen",
+    "popularity": 9.987,
+    "cast_id": 22,
+    "order": 12,
+    "character": "D.J.",
+    "credit_id": "579a4472c3a3682273006271"
+  },
+  {
     "id": 2167,
     "name": "Mercedes Ruehl",
     "popularity": 13.984,
@@ -79,6 +115,15 @@
     "order": 13,
     "character": "Policewoman",
     "credit_id": "579a44729251411296003cad"
+  },
+  {
+    "id": 152408,
+    "name": "John Snyder",
+    "popularity": 7.929,
+    "cast_id": 24,
+    "order": 14,
+    "character": "Gas Station Man",
+    "credit_id": "579a4473c3a368251b005d8d"
   },
   {
     "id": 1281538,

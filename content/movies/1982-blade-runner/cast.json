@@ -97,5 +97,41 @@
     "order": 10,
     "character": "Hannibal Chew",
     "credit_id": "52fe4214c3a36847f8002615"
+  },
+  {
+    "id": 53760,
+    "name": "Kevin Thompson",
+    "popularity": 3.092,
+    "cast_id": 34,
+    "order": 11,
+    "character": "Bear",
+    "credit_id": "52fe4214c3a36847f8002629"
+  },
+  {
+    "id": 107074,
+    "name": "Hy Pyke",
+    "popularity": 5.403,
+    "cast_id": 36,
+    "order": 12,
+    "character": "Taffey Lewis",
+    "credit_id": "52fe4214c3a36847f8002631"
+  },
+  {
+    "id": 951333,
+    "name": "Kimiko Hiroshige",
+    "popularity": 3.092,
+    "cast_id": 37,
+    "order": 13,
+    "character": "Cambodian Lady",
+    "credit_id": "52fe4214c3a36847f8002635"
+  },
+  {
+    "id": 112965,
+    "name": "Ben Astar",
+    "popularity": 3.129,
+    "cast_id": 65,
+    "order": 14,
+    "character": "Abdul Ben Hassan (uncredited)",
+    "credit_id": "59c32a68c3a368146100661f"
   }
 ]

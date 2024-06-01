@@ -90,6 +90,15 @@
     "credit_id": "52fe4225c3a36847f8007961"
   },
   {
+    "id": 6463,
+    "name": "Dub Taylor",
+    "popularity": 7.486,
+    "cast_id": 39,
+    "order": 10,
+    "character": "Saloon Old Timer",
+    "credit_id": "52fe4225c3a36847f8007965"
+  },
+  {
     "id": 1072,
     "name": "James Tolkan",
     "popularity": 10.482,
@@ -97,6 +106,33 @@
     "order": 11,
     "character": "Marshal Strickland",
     "credit_id": "52fe4225c3a36847f8007915"
+  },
+  {
+    "id": 1067,
+    "name": "Marc McClure",
+    "popularity": 6.72,
+    "cast_id": 27,
+    "order": 12,
+    "character": "Dave McFly",
+    "credit_id": "52fe4225c3a36847f8007931"
+  },
+  {
+    "id": 1068,
+    "name": "Wendie Jo Sperber",
+    "popularity": 4.934,
+    "cast_id": 28,
+    "order": 13,
+    "character": "Linda McFly",
+    "credit_id": "52fe4225c3a36847f8007935"
+  },
+  {
+    "id": 1952,
+    "name": "Jeffrey Weissman",
+    "popularity": 2.064,
+    "cast_id": 29,
+    "order": 14,
+    "character": "George McFly",
+    "credit_id": "52fe4225c3a36847f8007939"
   },
   {
     "id": 1237,

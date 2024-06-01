@@ -27,6 +27,15 @@
     "credit_id": "52fe4212c3a36847f8001a23"
   },
   {
+    "id": 253,
+    "name": "Douglas Rain",
+    "popularity": 2.382,
+    "cast_id": 14,
+    "order": 3,
+    "character": "HAL 9000 (voice)",
+    "credit_id": "52fe4212c3a36847f8001a3b"
+  },
+  {
     "id": 249,
     "name": "Leonard Rossiter",
     "popularity": 6.358,
@@ -52,5 +61,50 @@
     "order": 7,
     "character": "Dr. Ralph Halvorsen",
     "credit_id": "52fe4212c3a36847f8001a33"
+  },
+  {
+    "id": 108277,
+    "name": "Ed Bishop",
+    "popularity": 4.052,
+    "cast_id": 25,
+    "order": 10,
+    "character": "Aries-1B Lunar Shuttle Captain",
+    "credit_id": "52fe4212c3a36847f8001a73"
+  },
+  {
+    "id": 117540,
+    "name": "Edwina Carroll",
+    "popularity": 2.327,
+    "cast_id": 29,
+    "order": 11,
+    "character": "Aries-1B Stewardess",
+    "credit_id": "52fe4212c3a36847f8001a7f"
+  },
+  {
+    "id": 1102076,
+    "name": "Heather Downham",
+    "popularity": 3.086,
+    "cast_id": 40,
+    "order": 12,
+    "character": "Stewardess",
+    "credit_id": "539d3d76c3a3683b50002997"
+  },
+  {
+    "id": 127363,
+    "name": "Penny Brahms",
+    "popularity": 5.464,
+    "cast_id": 39,
+    "order": 13,
+    "character": "Stewardess",
+    "credit_id": "539d3d53c3a3683b2a002a98"
+  },
+  {
+    "id": 1819434,
+    "name": "Maggie d'Abo",
+    "popularity": 2.192,
+    "cast_id": 82,
+    "order": 14,
+    "character": "Stewardess",
+    "credit_id": "591e5bccc3a3687a8e028c10"
   }
 ]

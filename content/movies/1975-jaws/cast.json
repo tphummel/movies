@@ -90,6 +90,33 @@
     "credit_id": "52fe4255c3a36847f801608d"
   },
   {
+    "id": 5286,
+    "name": "Jonathan Filley",
+    "popularity": 7.741,
+    "cast_id": 23,
+    "order": 10,
+    "character": "Tom Cassidy",
+    "credit_id": "52fe4255c3a36847f8016091"
+  },
+  {
+    "id": 8614,
+    "name": "Jeffrey Voorhees",
+    "popularity": 2.659,
+    "cast_id": 27,
+    "order": 12,
+    "character": "Alex M. Kintner",
+    "credit_id": "52fe4255c3a36847f80160a1"
+  },
+  {
+    "id": 8615,
+    "name": "Craig Kingsbury",
+    "popularity": 4.052,
+    "cast_id": 28,
+    "order": 13,
+    "character": "Ben Gardner",
+    "credit_id": "52fe4255c3a36847f80160a5"
+  },
+  {
     "id": 488,
     "name": "Steven Spielberg",
     "popularity": 25.735,

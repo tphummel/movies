@@ -117,6 +117,15 @@
     "credit_id": "52fe4222c3a36847f80067db"
   },
   {
+    "id": 2069,
+    "name": "Corey Rand",
+    "popularity": 3.368,
+    "cast_id": 26,
+    "order": 13,
+    "character": "Ramon Vega",
+    "credit_id": "52fe4222c3a36847f80067cb"
+  },
+  {
     "id": 1102,
     "name": "Elpidia Carrillo",
     "popularity": 29.983,

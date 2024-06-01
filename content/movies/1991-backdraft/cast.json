@@ -81,6 +81,24 @@
     "credit_id": "52fe4375c3a36847f8055941"
   },
   {
+    "id": 83197,
+    "name": "Anthony Mockus Sr.",
+    "popularity": 2.667,
+    "cast_id": 12,
+    "order": 9,
+    "character": "Chief John Fitzgerald",
+    "credit_id": "52fe4375c3a36847f8055945"
+  },
+  {
+    "id": 156598,
+    "name": "Cedric Young",
+    "popularity": 6.336,
+    "cast_id": 13,
+    "order": 10,
+    "character": "Grindle",
+    "credit_id": "52fe4375c3a36847f8055949"
+  },
+  {
     "id": 148306,
     "name": "Juan Ramírez",
     "popularity": 10.087,
@@ -90,6 +108,15 @@
     "credit_id": "52fe4375c3a36847f805594d"
   },
   {
+    "id": 987107,
+    "name": "Kevin Casey",
+    "popularity": 3.976,
+    "cast_id": 15,
+    "order": 12,
+    "character": "Nightingale",
+    "credit_id": "52fe4375c3a36847f8055951"
+  },
+  {
     "id": 10489,
     "name": "Jack McGee",
     "popularity": 11.84,
@@ -97,6 +124,15 @@
     "order": 13,
     "character": "Schmidt",
     "credit_id": "52fe4375c3a36847f8055955"
+  },
+  {
+    "id": 152718,
+    "name": "Mark Wheeler",
+    "popularity": 5.504,
+    "cast_id": 17,
+    "order": 14,
+    "character": "Pengelly",
+    "credit_id": "52fe4375c3a36847f8055959"
   },
   {
     "id": 3217,

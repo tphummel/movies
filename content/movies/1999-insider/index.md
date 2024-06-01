@@ -1,7 +1,7 @@
 ---
 title: "The Insider"
 title_alpha_sortable: "Insider"
-date: "2024-05-30T05:15:31.054Z"
+date: "2024-06-01T15:43:45.834Z"
 collections: []
 budget_usd: 90000000
 tiers: []
@@ -29,7 +29,7 @@ revenue_usd: 60289912
 status: "Released"
 runtime_minutes: 158
 keywords: [470,917,918,3664,4434,6078,6357,8231,11208,12193,209799,219681,222517,254459]
-cast_members: [1158,934,290,6200,4492,32225,5578,537,10132,14888,11150,5658,9626,61153,7248,57991,33654]
+cast_members: [1158,934,290,6200,4492,32225,5578,537,10132,14888,11150,5658,9626,71266,15674,61153,7248,57991,33654]
 crew_members: [638,638,639,15841,10816,11099,17816]
 tagline: >
   Two men driven to tell the truth … whatever the cost.

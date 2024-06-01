@@ -108,6 +108,24 @@
     "credit_id": "547dd0e3c3a3685afd005b23"
   },
   {
+    "id": 1172813,
+    "name": "Richard King",
+    "popularity": 4.805,
+    "cast_id": 23,
+    "order": 12,
+    "character": "Stone",
+    "credit_id": "52fe4c01c3a36847f821cf45"
+  },
+  {
+    "id": 1393532,
+    "name": "Scott Lang",
+    "popularity": 6.54,
+    "cast_id": 85,
+    "order": 13,
+    "character": "Luca",
+    "credit_id": "547f265f92514124b6001760"
+  },
+  {
     "id": 55861,
     "name": "Kirk Acevedo",
     "popularity": 25.56,

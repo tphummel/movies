@@ -90,6 +90,15 @@
     "credit_id": "52fe4233c3a36847f800b85f"
   },
   {
+    "id": 4118,
+    "name": "Joy Page",
+    "popularity": 8.906,
+    "cast_id": 11,
+    "order": 10,
+    "character": "Annina Brandel",
+    "credit_id": "52fe4233c3a36847f800b863"
+  },
+  {
     "id": 4119,
     "name": "John Qualen",
     "popularity": 10.848,
@@ -99,6 +108,15 @@
     "credit_id": "52fe4233c3a36847f800b867"
   },
   {
+    "id": 4120,
+    "name": "Leonid Kinskey",
+    "popularity": 8.557,
+    "cast_id": 13,
+    "order": 12,
+    "character": "Sascha",
+    "credit_id": "52fe4233c3a36847f800b86b"
+  },
+  {
     "id": 2313,
     "name": "Curt Bois",
     "popularity": 11.29,
@@ -106,6 +124,15 @@
     "order": 13,
     "character": "Pickpocket",
     "credit_id": "52fe4233c3a36847f800b86f"
+  },
+  {
+    "id": 1331750,
+    "name": "Enrique Acosta",
+    "popularity": 3.381,
+    "cast_id": 38,
+    "order": 14,
+    "character": "Guest at Rick's (uncredited)",
+    "credit_id": "53a1b40bc3a3687ba6002f78"
   },
   {
     "id": 21877,

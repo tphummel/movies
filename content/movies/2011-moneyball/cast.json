@@ -90,6 +90,24 @@
     "credit_id": "52fe461fc3a368484e0800dd"
   },
   {
+    "id": 10489,
+    "name": "Jack McGee",
+    "popularity": 4.586,
+    "cast_id": 15,
+    "order": 10,
+    "character": "John Poloni",
+    "credit_id": "52fe461fc3a368484e0800e1"
+  },
+  {
+    "id": 61216,
+    "name": "Vyto Ruginis",
+    "popularity": 5.967,
+    "cast_id": 16,
+    "order": 11,
+    "character": "Pittaro",
+    "credit_id": "52fe461fc3a368484e0800e5"
+  },
+  {
     "id": 12538,
     "name": "Nick Searcy",
     "popularity": 12.073,
@@ -97,6 +115,15 @@
     "order": 12,
     "character": "Matt Keough",
     "credit_id": "52fe461fc3a368484e0800e9"
+  },
+  {
+    "id": 12797,
+    "name": "Glenn Morshower",
+    "popularity": 9.775,
+    "cast_id": 18,
+    "order": 13,
+    "character": "Ron Hopkins",
+    "credit_id": "52fe461fc3a368484e0800ed"
   },
   {
     "id": 3229,

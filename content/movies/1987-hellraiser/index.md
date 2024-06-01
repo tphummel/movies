@@ -1,7 +1,7 @@
 ---
 title: "Hellraiser"
 title_alpha_sortable: "Hellraiser"
-date: "2024-05-30T05:15:30.772Z"
+date: "2024-06-01T15:43:45.560Z"
 collections: []
 budget_usd: 1000000
 tiers: []
@@ -29,7 +29,7 @@ revenue_usd: 14575193
 status: "Released"
 runtime_minutes: 93
 keywords: [818,3182,4720,5921,6152,9748,9887,10292,10327,10864,15001,17996,34117,155619,156174,161208]
-cast_members: [45588,56551,56552,14782,56553,73040,56561,56560]
+cast_members: [45588,56551,56552,24737,14782,56553,73040,56561,56560,56554,1706797]
 crew_members: [9000,14931,31211,31211,42129,52194,56546,56548,1629958]
 tagline: >
   He'll tear your soul apart.

@@ -108,6 +108,15 @@
     "credit_id": "5c9e8970c3a36873447fe354"
   },
   {
+    "id": 131125,
+    "name": "Steve Monroe",
+    "popularity": 7.711,
+    "cast_id": 23,
+    "order": 12,
+    "character": "Lincoln",
+    "credit_id": "5dd88e66ef8b3200128c92f0"
+  },
+  {
     "id": 1429453,
     "name": "Sam Richardson",
     "popularity": 11.759,

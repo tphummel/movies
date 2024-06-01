@@ -99,6 +99,33 @@
     "credit_id": "52fe44f6c3a36847f80b4653"
   },
   {
+    "id": 1226596,
+    "name": "Grant Rosenmeyer",
+    "popularity": 7.667,
+    "cast_id": 52,
+    "order": 11,
+    "character": "Ari Tenenbaum",
+    "credit_id": "59fcd9c3925141164c001400"
+  },
+  {
+    "id": 57772,
+    "name": "Jonah Meyerson",
+    "popularity": 2.929,
+    "cast_id": 53,
+    "order": 12,
+    "character": "Uzi Tenenbaum",
+    "credit_id": "59fcd9d1925141169500132f"
+  },
+  {
+    "id": 946171,
+    "name": "Irina Gorovaia",
+    "popularity": 7.969,
+    "cast_id": 55,
+    "order": 14,
+    "character": "Young Margot Tenenbaum",
+    "credit_id": "59fcda0292514116ab0014ad"
+  },
+  {
     "id": 19511,
     "name": "Larry Pine",
     "popularity": 14.075,

@@ -99,6 +99,15 @@
     "credit_id": "52fe4218c3a36847f8003a3b"
   },
   {
+    "id": 11673,
+    "name": "J.J. Cohen",
+    "popularity": 3.923,
+    "cast_id": 27,
+    "order": 11,
+    "character": "Skinhead",
+    "credit_id": "52fe4218c3a36847f8003a47"
+  },
+  {
     "id": 1953,
     "name": "Casey Siemaszko",
     "popularity": 10.536,
@@ -115,6 +124,15 @@
     "order": 13,
     "character": "Match",
     "credit_id": "52fe4218c3a36847f8003a43"
+  },
+  {
+    "id": 1074,
+    "name": "Harry Waters, Jr.",
+    "popularity": 3.362,
+    "cast_id": 25,
+    "order": 14,
+    "character": "Marvin Berry",
+    "credit_id": "52fe4218c3a36847f8003a3f"
   },
   {
     "id": 7036,

@@ -108,6 +108,24 @@
     "credit_id": "52fe431ec3a36847f803bc3f"
   },
   {
+    "id": 130,
+    "name": "Kenny Baker",
+    "popularity": 9.953,
+    "cast_id": 22,
+    "order": 12,
+    "character": "R2-D2 / Paploo",
+    "credit_id": "52fe431ec3a36847f803bc43"
+  },
+  {
+    "id": 1230989,
+    "name": "Michael Pennington",
+    "popularity": 8.307,
+    "cast_id": 28,
+    "order": 13,
+    "character": "Moff Jerjerrod",
+    "credit_id": "54e9c09a92514111b80030b8"
+  },
+  {
     "id": 10734,
     "name": "Kenneth Colley",
     "popularity": 15.185,

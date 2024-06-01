@@ -6,5 +6,5 @@ original_name: "Joe Pesci"
 known_for_department: "Acting"
 gender: "2"
 adult: "false"
-profile_path: "/4AO0Rwdg2ky8Usmgzgj0dvhy7Zw.jpg"
+profile_path: "/6wPLWhZx5XvNsmEt8QwFoyvizDr.jpg"
 ---
