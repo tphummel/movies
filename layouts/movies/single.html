@@ -17,21 +17,8 @@
 
 <blockquote>{{ .Params.tagline }}</blockquote>
 
-<p>Budget (USD): <strong>{{ .Params.budget_usd | lang.FormatCurrency 2 "USD" }}</strong></p>
-<p>Revenue (USD): <strong>{{ .Params.revenue_usd | lang.FormatCurrency 2 "USD" }}</strong></p>
-<p>Runtime: <strong>{{ .Params.runtime_minutes}} minutes</strong></p>
-<p>IMDB: <strong><a href="https://imdb.com/title/{{ .Params.imdb_id }}">IMDB</a></strong></p>
+<p>⏲️ Runtime: <strong>{{ .Params.runtime_minutes}} minutes</strong></p>
 
-{{ with .Params.rotten_tomatoes }}
-  {{ if .slug }}
-    <p>Rotten Tomatoes: <strong><a href="https://www.rottentomatoes.com/m/{{ .slug }}">{{ .score | default "--" }} ({{ .review_count }})</a></strong></p>
-  {{ end }}
-{{ end }}
-{{ with .Params.metacritic }}
-  {{ if .slug }}
-    <p>Metacritic: <strong><a href="https://www.metacritic.com/movie/{{ .slug }}">{{ .score | default "--" }} ({{ .review_count }})</a></strong></p>
-  {{ end }}
-{{ end }}
 {{ with .Params.rotten_tomatoes }}
   {{ $rt := . }}
   {{ with $.Params.metacritic }}
@@ -39,30 +26,21 @@
     {{ $mcWeights := mul $mc.score $mc.review_count }}
     {{ $rtWeights := mul $rt.score $rt.review_count }}
     {{ $totalReviews := add $mc.review_count $rt.review_count }}
-    <p>Weighted Score: <strong>{{ lang.NumFmt 2 (div (add $mcWeights $rtWeights) (float $totalReviews)) }}</strong></p>
+    <p>✨ Weighted Score: <strong>{{ lang.NumFmt 2 (div (add $mcWeights $rtWeights) (float $totalReviews)) }}</strong></p>
   {{ end }}
 {{ end }}
-
-<p>Collections</p>
-<ul>
-  {{ range (.GetTerms "collections") }}
-    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+{{ with .Params.rotten_tomatoes }}
+  {{ if .slug }}
+    <p>➡️ Rotten Tomatoes: <strong><a href="https://www.rottentomatoes.com/m/{{ .slug }}">{{ .score | default "--" }} ({{ .review_count }})</a></strong></p>
   {{ end }}
-</ul>
-
-<p>Production Countries</p>
-<ul>
-  {{ range (.GetTerms "production_countries") }}
-    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+{{ end }}
+{{ with .Params.metacritic }}
+  {{ if .slug }}
+    <p>➡️ Metacritic: <strong><a href="https://www.metacritic.com/movie/{{ .slug }}">{{ .score | default "--" }} ({{ .review_count }})</a></strong></p>
   {{ end }}
-</ul>
-
-<p>Production Companies</p>
-<ul>
-  {{ range (.GetTerms "production_companies") }}
-    <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-  {{ end }}
-</ul>
+{{ end }}
+<p>💰 Budget (USD): <strong>{{ .Params.budget_usd | lang.FormatCurrency 2 "USD" }}</strong></p>
+<p>💰 Revenue (USD): <strong>{{ .Params.revenue_usd | lang.FormatCurrency 2 "USD" }}</strong></p>
 
 {{ with .Resources.GetMatch "cast.json" }}
 <h2>Cast</h2>
@@ -101,6 +79,47 @@
 {{ end }}
 
 {{ .Content }}
+
+{{ $collections := .GetTerms "collections" }}
+{{ with $collections }}
+<p>Collections: 
+{{ range $i,$term := $collections -}}
+  {{ if $i }}, {{ end }}<a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>
+{{- end -}}
+</p>
+{{ end }}
+
+
+<p>Genres: 
+{{ $genres := .GetTerms "genres" }}
+{{- range $i,$term := $genres -}}
+  {{ if $i }}, {{ end }}<a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>
+{{- end -}}
+</p>
+
+<p>Keywords: 
+{{ $keywords := .GetTerms "keywords" }}
+{{- range $i,$term := $keywords -}}
+  {{ if $i }}, {{ end }}<a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>
+{{- end -}}
+</p>
+
+<p>Production Countries:
+{{ $countries := .GetTerms "production_countries" }}
+{{- range $i,$term := $countries -}}
+  {{ if $i }}, {{ end }}<a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>
+{{- end -}}
+</p>
+
+<p>Production Companies:
+{{ $companies := .GetTerms "production_companies" }}
+{{- range $i,$term := $companies -}}
+  {{ if $i }}, {{ end }}<a href="{{ $term.RelPermalink }}">{{ $term.LinkTitle }}</a>
+{{- end -}}
+</p>
+
+<p><strong><a href="https://imdb.com/title/{{ .Params.imdb_id }}">IMDB</a></strong></p>
+<p><strong><a href="https://www.themoviedb.org/movie/{{ .Params.tsdb_id }}">TMDB</a></strong></p>
 
 <div style="opacity:0.3">
   {{ with .GitInfo }}
