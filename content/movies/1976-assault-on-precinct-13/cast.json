@@ -1,0 +1,110 @@
+[
+  {
+    "id": 103707,
+    "name": "Austin Stoker",
+    "popularity": 7.719,
+    "cast_id": 3,
+    "order": 0,
+    "character": "Ethan Bishop",
+    "credit_id": "52fe474a9251416c75094201"
+  },
+  {
+    "id": 105624,
+    "name": "Darwin Joston",
+    "popularity": 6.539,
+    "cast_id": 5,
+    "order": 1,
+    "character": "Napoleon Wilson",
+    "credit_id": "52fe474a9251416c75094209"
+  },
+  {
+    "id": 109944,
+    "name": "Laurie Zimmer",
+    "popularity": 4.5,
+    "cast_id": 6,
+    "order": 2,
+    "character": "Leigh",
+    "credit_id": "52fe474a9251416c7509420d"
+  },
+  {
+    "id": 109945,
+    "name": "Martin West",
+    "popularity": 6.518,
+    "cast_id": 7,
+    "order": 3,
+    "character": "Lawson",
+    "credit_id": "52fe474a9251416c75094211"
+  },
+  {
+    "id": 16504,
+    "name": "Tony Burton",
+    "popularity": 7.155,
+    "cast_id": 8,
+    "order": 4,
+    "character": "Wells",
+    "credit_id": "52fe474a9251416c75094215"
+  },
+  {
+    "id": 11786,
+    "name": "Charles Cyphers",
+    "popularity": 11.989,
+    "cast_id": 9,
+    "order": 5,
+    "character": "Starker",
+    "credit_id": "52fe474a9251416c75094219"
+  },
+  {
+    "id": 11787,
+    "name": "Nancy Kyes",
+    "popularity": 8.88,
+    "cast_id": 10,
+    "order": 6,
+    "character": "Julie",
+    "credit_id": "52fe474a9251416c7509421d"
+  },
+  {
+    "id": 109946,
+    "name": "Peter Bruni",
+    "popularity": 3.148,
+    "cast_id": 11,
+    "order": 7,
+    "character": "Ice Cream Man",
+    "credit_id": "52fe474a9251416c75094221"
+  },
+  {
+    "id": 109947,
+    "name": "John J. Fox",
+    "popularity": 3.452,
+    "cast_id": 12,
+    "order": 8,
+    "character": "Warden",
+    "credit_id": "52fe474a9251416c75094225"
+  },
+  {
+    "id": 53261,
+    "name": "Kim Richards",
+    "popularity": 15.813,
+    "cast_id": 13,
+    "order": 12,
+    "character": "Kathy",
+    "credit_id": "52fe474a9251416c75094229"
+  },
+  {
+    "id": 109957,
+    "name": "Gilman Rankin",
+    "popularity": 10.278,
+    "cast_id": 24,
+    "order": 17,
+    "character": "Bus Driver",
+    "credit_id": "52fe474a9251416c75094255"
+  },
+  {
+    "id": 11770,
+    "name": "John Carpenter",
+    "popularity": 16.958,
+    "cast_id": 4,
+    "order": 32,
+    "character": "Gang Member (uncredited)",
+    "credit_id": "52fe474a9251416c75094205"
+  }
+]

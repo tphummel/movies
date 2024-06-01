@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1032,
+    "name": "Martin Scorsese",
+    "popularity": 36.736,
+    "credit_id": "52fe4274c3a36847f801fcc3",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 11472,
+    "name": "Irwin Winkler",
+    "popularity": 15.065,
+    "credit_id": "52fe4274c3a36847f801fcdb",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 7170,
+    "name": "Barbara De Fina",
+    "popularity": 3.736,
+    "credit_id": "52fe4274c3a36847f801fce1",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 3769,
+    "name": "Michael Ballhaus",
+    "popularity": 3.509,
+    "credit_id": "52fe4274c3a36847f801fced",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 3661,
+    "name": "Thelma Schoonmaker",
+    "popularity": 8.782,
+    "credit_id": "52fe4274c3a36847f801fcf9",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 11474,
+    "name": "James Y. Kwei",
+    "popularity": 1.35,
+    "credit_id": "58ab1cc1925141155e000354",
+    "department": "Editing",
+    "job": "Editor"
+  }
+]

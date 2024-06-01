@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2663,
+    "name": "Jack L. Warner",
+    "popularity": 2.306,
+    "credit_id": "52fe4233c3a36847f800b883",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 4123,
+    "name": "Hal B. Wallis",
+    "popularity": 4.631,
+    "credit_id": "52fe4233c3a36847f800b87d",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 4109,
+    "name": "Michael Curtiz",
+    "popularity": 8.683,
+    "credit_id": "52fe4233c3a36847f800b83b",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 2005,
+    "name": "Arthur Edeson",
+    "popularity": 4.123,
+    "credit_id": "52fe4233c3a36847f800b88f",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 2761,
+    "name": "Owen Marks",
+    "popularity": 3.913,
+    "credit_id": "52fe4233c3a36847f800b895",
+    "department": "Editing",
+    "job": "Editor"
+  }
+]

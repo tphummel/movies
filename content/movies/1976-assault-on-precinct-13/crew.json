@@ -1,0 +1,50 @@
+[
+  {
+    "id": 11770,
+    "name": "John Carpenter",
+    "popularity": 16.958,
+    "credit_id": "52fe474a9251416c75094297",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 25194,
+    "name": "Douglas Knapp",
+    "popularity": 3.11,
+    "credit_id": "52fe474a9251416c75094249",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 109938,
+    "name": "J. Stein Kaplan",
+    "popularity": 0.367,
+    "credit_id": "52fe474a9251416c750941fd",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 11770,
+    "name": "John Carpenter",
+    "popularity": 16.958,
+    "credit_id": "54b26e84c3a3682313001726",
+    "department": "Writing",
+    "job": "Writer"
+  },
+  {
+    "id": 11770,
+    "name": "John Carpenter",
+    "popularity": 16.958,
+    "credit_id": "54b26ed7c3a368094e0045e4",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 936451,
+    "name": "Joseph Kaufmann",
+    "popularity": 3.457,
+    "credit_id": "54b26e9b925141144f001679",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

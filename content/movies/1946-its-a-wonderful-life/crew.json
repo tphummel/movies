@@ -1,0 +1,42 @@
+[
+  {
+    "id": 2662,
+    "name": "Frank Capra",
+    "popularity": 7.607,
+    "credit_id": "52fe4301c3a36847f8033549",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 2662,
+    "name": "Frank Capra",
+    "popularity": 7.607,
+    "credit_id": "52fe4301c3a36847f8033555",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 14431,
+    "name": "Joseph F. Biroc",
+    "popularity": 1.379,
+    "credit_id": "52fe4301c3a36847f803355b",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 17761,
+    "name": "Joseph Walker",
+    "popularity": 2.674,
+    "credit_id": "52fe4301c3a36847f8033561",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 17762,
+    "name": "William Hornbeck",
+    "popularity": 1.549,
+    "credit_id": "52fe4301c3a36847f8033567",
+    "department": "Editing",
+    "job": "Editor"
+  }
+]

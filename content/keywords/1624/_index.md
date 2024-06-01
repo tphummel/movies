@@ -1,0 +1,3 @@
+---
+title: vichy regime
+---
