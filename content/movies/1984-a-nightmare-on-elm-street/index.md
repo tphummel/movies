@@ -1,7 +1,7 @@
 ---
 title: "A Nightmare on Elm Street"
 title_alpha_sortable: "A Nightmare on Elm Street"
-date: "2024-06-01T15:43:46.613Z"
+date: "2024-06-26T15:26:49.931Z"
 collections: []
 budget_usd: 1800000
 tiers: []

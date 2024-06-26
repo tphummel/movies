@@ -24,6 +24,14 @@
     "job": "Editor"
   },
   {
+    "id": 508,
+    "name": "David Koepp",
+    "popularity": 9.538,
+    "credit_id": "52fe4238c3a36847f800d319",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 1060,
     "name": "Dean Cundey",
     "popularity": 9.176,
@@ -38,5 +46,13 @@
     "credit_id": "52fe4238c3a36847f800d2c9",
     "department": "Production",
     "job": "Producer"
+  },
+  {
+    "id": 4782,
+    "name": "Michael Crichton",
+    "popularity": 8.328,
+    "credit_id": "52fe4238c3a36847f800d313",
+    "department": "Writing",
+    "job": "Screenplay"
   }
 ]

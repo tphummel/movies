@@ -1,7 +1,7 @@
 ---
 title: "Aliens"
 title_alpha_sortable: "Aliens"
-date: "2024-06-01T15:43:42.831Z"
+date: "2024-06-26T15:26:46.461Z"
 collections: ["alien"]
 budget_usd: 18500000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 137
 keywords: [803,1603,1826,2345,3385,3387,3388,3389,3591,3801,4090,8087,9882,9951,13031,17937,226177,301079]
 cast_members: [10205,2712,2714,2053,3981,10206,781,6576,10207,10209,10212,10210,109870]
-crew_members: [244,869,915,1723,2710,5053,7783]
+crew_members: [244,869,915,1723,2710,2710,5053,7783]
 tagline: >
   This time it's war.
 overview: >

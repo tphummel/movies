@@ -38,5 +38,29 @@
     "credit_id": "52fe44c2c3a36847f80a874d",
     "department": "Editing",
     "job": "Editor"
+  },
+  {
+    "id": 12073,
+    "name": "Mike Myers",
+    "popularity": 21.97,
+    "credit_id": "625b57c3229ae2009bbea279",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 56156,
+    "name": "Bonnie Turner",
+    "popularity": 6.639,
+    "credit_id": "625b57d3dcb6a30066d63010",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 56157,
+    "name": "Terry Turner",
+    "popularity": 4.188,
+    "credit_id": "625b57e30e29a2005159e697",
+    "department": "Writing",
+    "job": "Screenplay"
   }
 ]

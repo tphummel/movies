@@ -8,6 +8,14 @@
     "job": "Director"
   },
   {
+    "id": 52171,
+    "name": "Michael Schiffer",
+    "popularity": 5.314,
+    "credit_id": "52fe44ccc3a36847f80aa7ff",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 541,
     "name": "Chris Lebenzon",
     "popularity": 7.013,

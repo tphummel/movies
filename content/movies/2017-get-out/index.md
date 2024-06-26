@@ -1,7 +1,7 @@
 ---
 title: "Get Out"
 title_alpha_sortable: "Get Out"
-date: "2024-06-01T15:43:44.970Z"
+date: "2024-06-26T15:26:48.395Z"
 collections: []
 budget_usd: 4500000
 tiers: []

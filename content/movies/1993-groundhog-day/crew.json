@@ -3,6 +3,14 @@
     "id": 1524,
     "name": "Harold Ramis",
     "popularity": 18.229,
+    "credit_id": "52fe421dc3a36847f8004f6b",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 1524,
+    "name": "Harold Ramis",
+    "popularity": 18.229,
     "credit_id": "52fe421cc3a36847f8004ec7",
     "department": "Directing",
     "job": "Director"
@@ -22,6 +30,14 @@
     "credit_id": "52fe421cc3a36847f8004ecd",
     "department": "Production",
     "job": "Producer"
+  },
+  {
+    "id": 1526,
+    "name": "Danny Rubin",
+    "popularity": 1.361,
+    "credit_id": "52fe421dc3a36847f8004f65",
+    "department": "Writing",
+    "job": "Screenplay"
   },
   {
     "id": 1527,

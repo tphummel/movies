@@ -1,7 +1,7 @@
 ---
 title: "Double Indemnity"
 title_alpha_sortable: "Double Indemnity"
-date: "2024-06-01T15:43:44.424Z"
+date: "2024-06-26T15:26:47.873Z"
 collections: []
 budget_usd: 927262
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 107
 keywords: [4617,9016,9807,9826,11152,12999,159531,163603,178993,208508,237459]
 cast_members: [4091,14974,13566,14975,14976,14977,14978,14979,109844,94169,12493,43836,1042201,121323,120199]
-crew_members: [8620,3146,14972,3450,3159]
+crew_members: [8620,3146,14972,3450,3146,12493,3159]
 tagline: >
   It's love and murder at first sight!
 overview: >

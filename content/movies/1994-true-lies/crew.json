@@ -56,6 +56,14 @@
     "job": "Producer"
   },
   {
+    "id": 2710,
+    "name": "James Cameron",
+    "popularity": 39.551,
+    "credit_id": "52fe461d9251416c9104992d",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 8523,
     "name": "Russell Carpenter",
     "popularity": 5.86,
@@ -78,5 +86,29 @@
     "credit_id": "52fe461c9251416c91049903",
     "department": "Directing",
     "job": "Director"
+  },
+  {
+    "id": 24796,
+    "name": "Didier Kaminka",
+    "popularity": 6.705,
+    "credit_id": "5e7a65c1d18b24001983cd1e",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 22317,
+    "name": "Simon Michaël",
+    "popularity": 4.927,
+    "credit_id": "5e7a65b7cabfe40015253deb",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 11201,
+    "name": "Claude Zidi",
+    "popularity": 11.592,
+    "credit_id": "5e7a65adcabfe40015253ddc",
+    "department": "Writing",
+    "job": "Screenplay"
   }
 ]

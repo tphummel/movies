@@ -1,7 +1,7 @@
 ---
 title: "Unforgiven"
 title_alpha_sortable: "Unforgiven"
-date: "2024-06-01T15:43:48.314Z"
+date: "2024-06-26T15:26:51.421Z"
 collections: []
 budget_usd: 14400000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 130
 keywords: [549,798,802,1016,6145,7658,9748,157512,159434,160410,207928,209631,231624]
 cast_members: [190,193,192,194,3710,3711,3712,3713,3714,2843,3715,1242148,185111,44205,976171,58058]
-crew_members: [190,190,3717,3718,356,384]
+crew_members: [190,190,3717,3718,356,384,7191]
 tagline: >
   Some legends will never be forgotten. Some wrongs can never be forgiven.
 overview: >

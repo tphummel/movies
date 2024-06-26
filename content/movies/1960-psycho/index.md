@@ -1,7 +1,7 @@
 ---
 title: "Psycho"
 title_alpha_sortable: "Psycho"
-date: "2024-06-01T15:43:46.964Z"
+date: "2024-06-26T15:26:50.286Z"
 collections: []
 budget_usd: 806947
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 109
 keywords: [612,1443,1859,1879,2217,2669,9719,10594,11677,12999,13092,13112,14604,41329,155790,156091,233450]
 cast_members: [7301,7302,7303,7304,1936,53010,14063,78902,12500,3641,19781,19111,45525,2636,7520]
-crew_members: [2636,2636,2655,7305]
+crew_members: [2636,2636,2655,7300,7305]
 tagline: >
   A new—and altogether different—screen excitement!
 overview: >

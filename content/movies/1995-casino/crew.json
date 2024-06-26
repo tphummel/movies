@@ -24,6 +24,22 @@
     "job": "Producer"
   },
   {
+    "id": 7163,
+    "name": "Nicholas Pileggi",
+    "popularity": 4.346,
+    "credit_id": "52fe424dc3a36847f8013a2f",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 1032,
+    "name": "Martin Scorsese",
+    "popularity": 30.221,
+    "credit_id": "52fe424dc3a36847f8013a29",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 1032,
     "name": "Martin Scorsese",
     "popularity": 30.221,

@@ -48,6 +48,30 @@
     "job": "Editor"
   },
   {
+    "id": 15244,
+    "name": "Ehren Kruger",
+    "popularity": 15.149,
+    "credit_id": "60a10b950f3655005743efeb",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 1279644,
+    "name": "Eric Warren Singer",
+    "popularity": 6.092,
+    "credit_id": "60a10ba180729800584b0ef8",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 9033,
+    "name": "Christopher McQuarrie",
+    "popularity": 26.685,
+    "credit_id": "60a10bab8390180029f0f57b",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 1106751,
     "name": "Tommy Harper",
     "popularity": 2.872,

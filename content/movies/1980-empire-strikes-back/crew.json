@@ -16,6 +16,22 @@
     "job": "Producer"
   },
   {
+    "id": 4298,
+    "name": "Leigh Brackett",
+    "popularity": 4.602,
+    "credit_id": "52fe431ec3a36847f803bb61",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 8844,
+    "name": "Lawrence Kasdan",
+    "popularity": 9.708,
+    "credit_id": "52fe431ec3a36847f803bb67",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 1,
     "name": "George Lucas",
     "popularity": 26.778,

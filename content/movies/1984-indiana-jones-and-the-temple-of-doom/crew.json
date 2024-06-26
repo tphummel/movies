@@ -8,6 +8,22 @@
     "job": "Director"
   },
   {
+    "id": 686,
+    "name": "Willard Huyck",
+    "popularity": 6.894,
+    "credit_id": "52fe4215c3a36847f8002bff",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 687,
+    "name": "Gloria Katz",
+    "popularity": 7.847,
+    "credit_id": "52fe4215c3a36847f8002c05",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 711,
     "name": "Robert Watts",
     "popularity": 7.319,

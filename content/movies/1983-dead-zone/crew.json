@@ -8,6 +8,14 @@
     "job": "Director"
   },
   {
+    "id": 737,
+    "name": "Jeffrey Boam",
+    "popularity": 10.781,
+    "credit_id": "52fe44299251416c7502ae4f",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 2161,
     "name": "Debra Hill",
     "popularity": 19.23,

@@ -1,5 +1,13 @@
 [
   {
+    "id": 1255,
+    "name": "David Mamet",
+    "popularity": 5.646,
+    "credit_id": "52fe4500c3a36847f80b6d79",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 10570,
     "name": "Joseph M. Caracciolo Jr.",
     "popularity": 2.939,

@@ -8,6 +8,22 @@
     "job": "Director"
   },
   {
+    "id": 7671,
+    "name": "Jeb Stuart",
+    "popularity": 7.141,
+    "credit_id": "52fe440ac3a36847f807eb5b",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 28239,
+    "name": "David Twohy",
+    "popularity": 13.661,
+    "credit_id": "52fe440ac3a36847f807eb61",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 10764,
     "name": "Arnold Kopelson",
     "popularity": 2.579,

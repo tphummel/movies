@@ -24,6 +24,14 @@
     "job": "Producer"
   },
   {
+    "id": 5045,
+    "name": "Dan O'Bannon",
+    "popularity": 6.556,
+    "credit_id": "52fe423bc3a36847f800e11d",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 5046,
     "name": "Ronald Shusett",
     "popularity": 4.31,

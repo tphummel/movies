@@ -1,7 +1,7 @@
 ---
 title: "Back to the Future"
 title_alpha_sortable: "Back to the Future"
-date: "2024-06-01T15:43:43.166Z"
+date: "2024-06-26T15:26:46.758Z"
 collections: ["bttf"]
 budget_usd: 19000000
 tiers: []

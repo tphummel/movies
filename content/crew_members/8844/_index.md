@@ -6,5 +6,5 @@ original_name: "Lawrence Kasdan"
 known_for_department: "Writing"
 gender: "2"
 adult: "false"
-profile_path: "/hZAQC6MLyR1oLHRKEZ1oUEvh0Sy.jpg"
+profile_path: "/jX1PvTXU6212ruyHhJHiFP2ZKQ9.jpg"
 ---

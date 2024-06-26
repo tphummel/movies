@@ -32,6 +32,14 @@
     "job": "Producer"
   },
   {
+    "id": 15406,
+    "name": "Bill Lancaster",
+    "popularity": 4.356,
+    "credit_id": "52fe42e7c3a36847f802b9f1",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 15408,
     "name": "Wilbur Stark",
     "popularity": 0.652,

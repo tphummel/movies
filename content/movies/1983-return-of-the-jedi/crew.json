@@ -1,11 +1,27 @@
 [
   {
+    "id": 1,
+    "name": "George Lucas",
+    "popularity": 26.778,
+    "credit_id": "52fe431ec3a36847f803bc0f",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 19800,
     "name": "Richard Marquand",
     "popularity": 10.409,
     "credit_id": "52fe431ec3a36847f803bbfd",
     "department": "Directing",
     "job": "Director"
+  },
+  {
+    "id": 8844,
+    "name": "Lawrence Kasdan",
+    "popularity": 9.708,
+    "credit_id": "52fe431ec3a36847f803bc09",
+    "department": "Writing",
+    "job": "Screenplay"
   },
   {
     "id": 665,

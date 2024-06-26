@@ -1,7 +1,7 @@
 ---
 title: "Bull Durham"
 title_alpha_sortable: "Bull Durham"
-date: "2024-06-01T15:43:43.607Z"
+date: "2024-06-26T15:26:47.153Z"
 collections: []
 budget_usd: 7000000
 tiers: []

@@ -1,7 +1,7 @@
 ---
 title: "Jerry Maguire"
 title_alpha_sortable: "Jerry Maguire"
-date: "2024-06-01T15:43:46.063Z"
+date: "2024-06-26T15:26:49.480Z"
 collections: []
 budget_usd: 50000000
 tiers: []

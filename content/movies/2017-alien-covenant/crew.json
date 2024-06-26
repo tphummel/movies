@@ -56,6 +56,22 @@
     "job": "Director of Photography"
   },
   {
+    "id": 932,
+    "name": "John Logan",
+    "popularity": 18.853,
+    "credit_id": "592daa4a9251413912000525",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 231826,
+    "name": "Dante Harper",
+    "popularity": 6.898,
+    "credit_id": "5917bd85925141572303c7e7",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 950,
     "name": "Pietro Scalia",
     "popularity": 7.167,

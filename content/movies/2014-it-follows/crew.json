@@ -35,6 +35,14 @@
     "id": 558929,
     "name": "David Robert Mitchell",
     "popularity": 5.379,
+    "credit_id": "540a6762c3a36879a2000912",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 558929,
+    "name": "David Robert Mitchell",
+    "popularity": 5.379,
     "credit_id": "537770b20e0a261431002299",
     "department": "Directing",
     "job": "Director"

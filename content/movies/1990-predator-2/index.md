@@ -1,7 +1,7 @@
 ---
 title: "Predator 2"
 title_alpha_sortable: "Predator 2"
-date: "2024-06-01T15:43:46.808Z"
+date: "2024-06-26T15:26:50.103Z"
 collections: ["predator"]
 budget_usd: 35000000
 tiers: []

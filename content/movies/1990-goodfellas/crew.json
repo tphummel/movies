@@ -8,6 +8,22 @@
     "job": "Director"
   },
   {
+    "id": 7163,
+    "name": "Nicholas Pileggi",
+    "popularity": 7.243,
+    "credit_id": "52fe4274c3a36847f801fccf",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 1032,
+    "name": "Martin Scorsese",
+    "popularity": 36.736,
+    "credit_id": "52fe4274c3a36847f801fcd5",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 11472,
     "name": "Irwin Winkler",
     "popularity": 15.065,
@@ -38,6 +54,14 @@
     "credit_id": "52fe4274c3a36847f801fcf9",
     "department": "Editing",
     "job": "Editor"
+  },
+  {
+    "id": 7163,
+    "name": "Nicholas Pileggi",
+    "popularity": 7.243,
+    "credit_id": "58ab05aec3a3686ee9003e8a",
+    "department": "Writing",
+    "job": "Book"
   },
   {
     "id": 11474,

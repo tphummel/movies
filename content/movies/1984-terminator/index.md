@@ -1,7 +1,7 @@
 ---
 title: "The Terminator"
 title_alpha_sortable: "Terminator"
-date: "2024-06-01T15:43:47.981Z"
+date: "2024-06-26T15:26:51.088Z"
 collections: ["unstoppable-evil"]
 budget_usd: 6400000
 tiers: []

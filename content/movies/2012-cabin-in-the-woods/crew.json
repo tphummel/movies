@@ -11,9 +11,25 @@
     "id": 12891,
     "name": "Joss Whedon",
     "popularity": 14.082,
+    "credit_id": "52fe4458c3a368484e01dbf3",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 12891,
+    "name": "Joss Whedon",
+    "popularity": 14.082,
     "credit_id": "52fe4458c3a368484e01dc1d",
     "department": "Production",
     "job": "Producer"
+  },
+  {
+    "id": 47506,
+    "name": "Drew Goddard",
+    "popularity": 5.712,
+    "credit_id": "52fe4458c3a368484e01dbed",
+    "department": "Writing",
+    "job": "Screenplay"
   },
   {
     "id": 47506,

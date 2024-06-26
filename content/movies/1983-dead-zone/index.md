@@ -1,7 +1,7 @@
 ---
 title: "The Dead Zone"
 title_alpha_sortable: "Dead Zone"
-date: "2024-06-01T15:43:44.091Z"
+date: "2024-06-26T15:26:47.668Z"
 collections: []
 budget_usd: 10000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 103
 keywords: [798,732,818,2858,9856,10170,10629,13005,13063,14676,14742,15002,33505,41410]
 cast_members: [4690,69054,4139,14503,2516,10559,8349,14902,252,61185,1081827,243939,12483,43429,58406,133800,971538,1008656,12643]
-crew_members: [224,2161,7413,310,5398]
+crew_members: [224,737,2161,7413,310,5398]
 tagline: >
   In his mind, he has the power to see the future. In his hands, he has the power to change it.
 overview: >

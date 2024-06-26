@@ -8,12 +8,28 @@
     "job": "Director"
   },
   {
+    "id": 3288,
+    "name": "Chris Weitz",
+    "popularity": 16.546,
+    "credit_id": "5511b34fc3a36801740020e2",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 67113,
     "name": "Greig Fraser",
     "popularity": 10.65,
     "credit_id": "5824e11e9251416d22003378",
     "department": "Camera",
     "job": "Director of Photography"
+  },
+  {
+    "id": 19242,
+    "name": "Tony Gilroy",
+    "popularity": 8.995,
+    "credit_id": "5824e07d9251416d2600328f",
+    "department": "Writing",
+    "job": "Screenplay"
   },
   {
     "id": 1174045,

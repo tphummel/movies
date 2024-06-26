@@ -62,5 +62,13 @@
     "credit_id": "52fe4216c3a36847f8002e0d",
     "department": "Production",
     "job": "Producer"
+  },
+  {
+    "id": 737,
+    "name": "Jeffrey Boam",
+    "popularity": 4.872,
+    "credit_id": "52fe4216c3a36847f8002e19",
+    "department": "Writing",
+    "job": "Screenplay"
   }
 ]

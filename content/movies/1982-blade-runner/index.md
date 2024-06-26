@@ -1,7 +1,7 @@
 ---
 title: "Blade Runner"
 title_alpha_sortable: "Blade Runner"
-date: "2024-06-01T15:43:43.562Z"
+date: "2024-06-26T15:26:47.108Z"
 collections: []
 budget_usd: 28000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 118
 keywords: [310,391,801,803,818,4565,6017,9685,10718,12190,12670,34117,178657,207268,233512,257783]
 cast_members: [3,585,586,587,588,589,590,591,592,593,20904,53760,107074,951333,112965]
-crew_members: [578,581,594,600,21918]
+crew_members: [578,581,583,594,600,7191,21918]
 tagline: >
   Man has made his match... now it's his problem.
 overview: >

@@ -54,5 +54,13 @@
     "credit_id": "52fe4215c3a36847f8002a4f",
     "department": "Camera",
     "job": "Director of Photography"
+  },
+  {
+    "id": 8844,
+    "name": "Lawrence Kasdan",
+    "popularity": 10.533,
+    "credit_id": "5895961cc3a36808a5006b12",
+    "department": "Writing",
+    "job": "Screenplay"
   }
 ]

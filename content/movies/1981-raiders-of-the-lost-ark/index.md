@@ -1,7 +1,7 @@
 ---
 title: "Raiders of the Lost Ark"
 title_alpha_sortable: "Raiders of the Lost Ark"
-date: "2024-06-01T15:43:47.011Z"
+date: "2024-06-26T15:26:50.324Z"
 collections: ["indy"]
 budget_usd: 18000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 115
 keywords: [83,483,485,486,487,488,1160,1294,1454,1456,2650,2652,2656,2853,2854,2856,6956,9032,11105,41586,175428,184134,205333,214548]
 cast_members: [3,650,652,655,653,659,660,656,658,661,663,2247,1211876,5531,15831]
-crew_members: [1,1,488,493,664,665,666]
+crew_members: [1,1,488,493,664,665,666,8844]
 tagline: >
   Indiana Jones - the new hero from the creators of JAWS and STAR WARS.
 overview: >

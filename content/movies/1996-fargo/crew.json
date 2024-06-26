@@ -19,6 +19,22 @@
     "id": 1223,
     "name": "Joel Coen",
     "popularity": 18.123,
+    "credit_id": "52fe4231c3a36847f800af65",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 1224,
+    "name": "Ethan Coen",
+    "popularity": 30.847,
+    "credit_id": "52fe4231c3a36847f800af6b",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 1223,
+    "name": "Joel Coen",
+    "popularity": 18.123,
     "credit_id": "52fe4230c3a36847f800af05",
     "department": "Directing",
     "job": "Director"

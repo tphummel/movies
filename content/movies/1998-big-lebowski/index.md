@@ -1,7 +1,7 @@
 ---
 title: "The Big Lebowski"
 title_alpha_sortable: "Big Lebowski"
-date: "2024-06-01T15:43:43.455Z"
+date: "2024-06-26T15:26:47.011Z"
 collections: []
 budget_usd: 15000000
 tiers: []

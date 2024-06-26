@@ -32,6 +32,22 @@
     "job": "Producer"
   },
   {
+    "id": 3146,
+    "name": "Billy Wilder",
+    "popularity": 16.715,
+    "credit_id": "52fe4298c3a36847f802ad8b",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 12493,
+    "name": "Raymond Chandler",
+    "popularity": 8.933,
+    "credit_id": "52fe4298c3a36847f802ad91",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 3159,
     "name": "Doane Harrison",
     "popularity": 2.313,

@@ -1,5 +1,13 @@
 [
   {
+    "id": 912,
+    "name": "Larry Ferguson",
+    "popularity": 4.65,
+    "credit_id": "52fe430ac3a36847f80360a7",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 1090,
     "name": "John McTiernan",
     "popularity": 5.889,
@@ -40,12 +48,28 @@
     "job": "Editor"
   },
   {
+    "id": 59906,
+    "name": "Donald Stewart",
+    "popularity": 0.62,
+    "credit_id": "52fe430ac3a36847f80360ad",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 66754,
     "name": "Larry DeWaay",
     "popularity": 1.138,
     "credit_id": "52fe430ac3a36847f803607d",
     "department": "Production",
     "job": "Executive Producer"
+  },
+  {
+    "id": 69567,
+    "name": "David Shaber",
+    "popularity": 0.6,
+    "credit_id": "5fb030fb7caa47003e890a93",
+    "department": "Writing",
+    "job": "Screenplay"
   },
   {
     "id": 955091,

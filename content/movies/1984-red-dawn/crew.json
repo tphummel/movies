@@ -8,6 +8,14 @@
     "job": "Executive Producer"
   },
   {
+    "id": 8328,
+    "name": "John Milius",
+    "popularity": 25.504,
+    "credit_id": "52fe431dc3a36847f803b5f1",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 17399,
     "name": "Thom Noble",
     "popularity": 5.6,
@@ -30,6 +38,14 @@
     "credit_id": "52fe431dc3a36847f803b5d7",
     "department": "Directing",
     "job": "Director"
+  },
+  {
+    "id": 8300,
+    "name": "Kevin Reynolds",
+    "popularity": 9.504,
+    "credit_id": "52fe431dc3a36847f803b5f7",
+    "department": "Writing",
+    "job": "Screenplay"
   },
   {
     "id": 1728,

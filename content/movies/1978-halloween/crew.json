@@ -11,9 +11,25 @@
     "id": 2161,
     "name": "Debra Hill",
     "popularity": 19.557,
+    "credit_id": "52fe4291c3a36847f802903d",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 2161,
+    "name": "Debra Hill",
+    "popularity": 19.557,
     "credit_id": "52fe4291c3a36847f8029043",
     "department": "Production",
     "job": "Producer"
+  },
+  {
+    "id": 11770,
+    "name": "John Carpenter",
+    "popularity": 28.063,
+    "credit_id": "52fe4292c3a36847f80290d3",
+    "department": "Writing",
+    "job": "Screenplay"
   },
   {
     "id": 11770,

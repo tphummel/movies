@@ -46,5 +46,13 @@
     "credit_id": "52fe4211c3a36847f800149b",
     "department": "Editing",
     "job": "Editor"
+  },
+  {
+    "id": 7191,
+    "name": "David Webb Peoples",
+    "popularity": 3.915,
+    "credit_id": "52fe4211c3a36847f80014ab",
+    "department": "Writing",
+    "job": "Screenplay"
   }
 ]

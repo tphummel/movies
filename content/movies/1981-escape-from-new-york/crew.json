@@ -43,8 +43,24 @@
     "id": 11770,
     "name": "John Carpenter",
     "popularity": 28.063,
+    "credit_id": "52fe42e7c3a36847f802bc45",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 11770,
+    "name": "John Carpenter",
+    "popularity": 28.063,
     "credit_id": "52fe42e7c3a36847f802bc39",
     "department": "Directing",
     "job": "Director"
+  },
+  {
+    "id": 14692,
+    "name": "Nick Castle",
+    "popularity": 46.783,
+    "credit_id": "52fe42e7c3a36847f802bbcf",
+    "department": "Writing",
+    "job": "Screenplay"
   }
 ]

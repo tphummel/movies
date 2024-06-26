@@ -67,6 +67,14 @@
     "id": 138,
     "name": "Quentin Tarantino",
     "popularity": 51.806,
+    "credit_id": "5d0846050e0a260533c9a9ac",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 138,
+    "name": "Quentin Tarantino",
+    "popularity": 51.806,
     "credit_id": "5e84101e5aba320016e426c4",
     "department": "Directing",
     "job": "Director"

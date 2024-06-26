@@ -16,6 +16,22 @@
     "job": "Producer"
   },
   {
+    "id": 20840,
+    "name": "Doug Richardson",
+    "popularity": 3.496,
+    "credit_id": "52fe42ffc3a36847f8032a51",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 1726,
+    "name": "Steven E. de Souza",
+    "popularity": 5.953,
+    "credit_id": "52fe42ffc3a36847f8032a57",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 1093,
     "name": "Lawrence Gordon",
     "popularity": 6.266,

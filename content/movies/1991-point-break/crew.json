@@ -8,6 +8,14 @@
     "job": "Director"
   },
   {
+    "id": 15304,
+    "name": "W. Peter Iliff",
+    "popularity": 12.218,
+    "credit_id": "52fe42e7c3a36847f802b869",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 15306,
     "name": "Peter Abrams",
     "popularity": 5.499,

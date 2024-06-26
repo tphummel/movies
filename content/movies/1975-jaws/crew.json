@@ -32,6 +32,22 @@
     "job": "Producer"
   },
   {
+    "id": 8554,
+    "name": "Peter Benchley",
+    "popularity": 2.508,
+    "credit_id": "52fe4255c3a36847f80160af",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 8555,
+    "name": "Carl Gottlieb",
+    "popularity": 3.289,
+    "credit_id": "52fe4255c3a36847f801602b",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 8556,
     "name": "Verna Fields",
     "popularity": 3.452,

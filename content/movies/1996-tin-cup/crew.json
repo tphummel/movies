@@ -3,6 +3,14 @@
     "id": 4037,
     "name": "Ron Shelton",
     "popularity": 5.458,
+    "credit_id": "52fe43779251416c7501187d",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 4037,
+    "name": "Ron Shelton",
+    "popularity": 5.458,
     "credit_id": "52fe43779251416c75011877",
     "department": "Directing",
     "job": "Director"
@@ -14,6 +22,14 @@
     "credit_id": "52fe43789251416c75011889",
     "department": "Production",
     "job": "Producer"
+  },
+  {
+    "id": 65396,
+    "name": "John Norville",
+    "popularity": 1.147,
+    "credit_id": "52fe43789251416c75011883",
+    "department": "Writing",
+    "job": "Screenplay"
   },
   {
     "id": 4054,

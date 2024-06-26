@@ -1,7 +1,7 @@
 ---
 title: "The Hunt for Red October"
 title_alpha_sortable: "Hunt for Red October"
-date: "2024-06-01T15:43:45.626Z"
+date: "2024-06-26T15:26:48.985Z"
 collections: []
 budget_usd: 30000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 135
 keywords: [339,470,818,2106,4410,155460,155723,208289,209817]
 cast_members: [738,7447,349,4783,15152,14324,12518,22109,13472,24047,1640,4004,17396,912,17874]
-crew_members: [1090,2209,4611,5584,8752,66754,955091]
+crew_members: [912,1090,2209,4611,5584,8752,59906,66754,69567,955091]
 tagline: >
   Invisible. Silent. Stolen.
 overview: >

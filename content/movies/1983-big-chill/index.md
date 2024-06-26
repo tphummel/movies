@@ -1,7 +1,7 @@
 ---
 title: "The Big Chill"
 title_alpha_sortable: "Big Chill"
-date: "2024-06-01T15:43:43.393Z"
+date: "2024-06-26T15:26:46.952Z"
 collections: []
 budget_usd: 0
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 105
 keywords: [236,802,3739,3748,4432,5155,5609,5992,6054,9824,10776,155939,188293]
 cast_members: [13022,515,4785,227,8945,5960,39117,10080,28167,30368,51851,5704]
-crew_members: [1527,8844,8844,5381,9966,70189]
+crew_members: [1527,8844,8844,8844,5381,9966,70189,70846]
 tagline: >
   The story of eight old friends searching for something they lost, and finding that all they needed was each other.
 overview: >

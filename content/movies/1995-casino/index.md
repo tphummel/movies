@@ -1,7 +1,7 @@
 ---
 title: "Casino"
 title_alpha_sortable: "Casino"
-date: "2024-06-01T15:43:43.789Z"
+date: "2024-06-26T15:26:47.394Z"
 collections: []
 budget_usd: 50000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 179
 keywords: [726,585,383,700,395,1228,1812,5332,2635,7336,6974,10594,10291,10391,11211,14570,18034,202371,208289]
 cast_members: [380,4430,4517,4512,7167,7169,7166,8262,166789,7164,99906,7165,105623,1574239,7168,1219275,18262,97188]
-crew_members: [149,3661,7170,1032]
+crew_members: [149,3661,7170,7163,1032,1032]
 tagline: >
   No one stays at the top forever.
 overview: >

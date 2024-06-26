@@ -24,6 +24,14 @@
     "job": "Editor"
   },
   {
+    "id": 7300,
+    "name": "Joseph Stefano",
+    "popularity": 3.399,
+    "credit_id": "52fe424fc3a36847f801420f",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 7305,
     "name": "John L. Russell",
     "popularity": 0.997,

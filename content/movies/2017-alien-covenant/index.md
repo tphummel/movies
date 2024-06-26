@@ -1,7 +1,7 @@
 ---
 title: "Alien: Covenant"
 title_alpha_sortable: "Alien: Covenant"
-date: "2024-06-01T15:43:42.725Z"
+date: "2024-06-26T15:26:46.366Z"
 collections: ["alien"]
 budget_usd: 97000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 122
 keywords: [803,1612,1706,3801,4884,5721,4862,9663,9951,9882,13031,14544,14760,14900,163402,208580,226177,231277,233300]
 cast_members: [17288,77795,8289,62862,76961,37158,181081,1486488,139150,37290,1527210,1371541,1384511,1057485,7032,61784,17051,529]
-crew_members: [578,578,8401,22498,1723,915,120,950]
+crew_members: [578,578,8401,22498,1723,915,120,932,231826,950]
 tagline: >
   The path to paradise begins in hell.
 overview: >

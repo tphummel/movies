@@ -1,7 +1,7 @@
 ---
 title: "Promising Young Woman"
 title_alpha_sortable: "Promising Young Woman"
-date: "2024-06-01T15:43:46.921Z"
+date: "2024-06-26T15:26:50.246Z"
 collections: []
 budget_usd: 10000000
 tiers: []
