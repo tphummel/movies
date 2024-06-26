@@ -1,7 +1,7 @@
 ---
 title: "First Blood"
 title_alpha_sortable: "First Blood"
-date: "2024-06-01T15:43:44.865Z"
+date: "2024-06-26T15:26:48.272Z"
 collections: []
 budget_usd: 15000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 93
 keywords: [378,422,769,796,798,1008,1375,1419,1701,2535,2801,2956,2957,3246,3737,4668,5034,5144,5386,5387,6112,6149,10685,11004,285809]
 cast_members: [16483,16563,16555,16554,6197,15824,16556,16557,16558,16559,16560,21089]
-crew_members: [2082,3986,12882,16544,16548,56967]
+crew_members: [2082,3986,12882,16483,16544,16546,16547,16548,56967]
 tagline: >
   This time he's fighting for his life.
 overview: >

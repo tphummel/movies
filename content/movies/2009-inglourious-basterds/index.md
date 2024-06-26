@@ -1,7 +1,7 @@
 ---
 title: "Inglourious Basterds"
 title_alpha_sortable: "Inglourious Basterds"
-date: "2024-06-01T15:43:45.789Z"
+date: "2024-06-26T15:26:49.153Z"
 collections: []
 budget_usd: 70000000
 tiers: []

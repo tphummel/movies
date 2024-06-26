@@ -1,7 +1,7 @@
 ---
 title: "2001: A Space Odyssey"
 title_alpha_sortable: "2001: A Space Odyssey"
-date: "2024-06-01T15:43:42.522Z"
+date: "2024-06-26T15:26:46.188Z"
 collections: []
 budget_usd: 12000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 149
 keywords: [305,306,310,312,818,1576,3222,3801,4040,12185,14626,34117,34152,155689,156039,161176,252104]
 cast_members: [245,246,247,253,249,250,251,108277,117540,1102076,127363,1819434]
-crew_members: [240,240,243,244,257]
+crew_members: [240,240,240,243,244,241,257]
 tagline: >
   The Ultimate Trip.
 overview: >

@@ -59,6 +59,14 @@
     "id": 47506,
     "name": "Drew Goddard",
     "popularity": 5.712,
+    "credit_id": "53e89181c3a368398a003628",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 47506,
+    "name": "Drew Goddard",
+    "popularity": 5.712,
     "credit_id": "5bb8d5dcc3a368242b00c800",
     "department": "Production",
     "job": "Executive Producer"

@@ -1,7 +1,7 @@
 ---
 title: "The Wild Bunch"
 title_alpha_sortable: "Wild Bunch"
-date: "2024-06-01T15:43:48.720Z"
+date: "2024-06-26T15:26:51.837Z"
 collections: []
 budget_usd: 6244087
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 145
 keywords: [240,6054,801,642,1556,2940,9812,10726,10950,13065,163671,189262]
 cast_members: [8252,7502,8253,8257,8255,8254,8258,2755,8260,8259,557983,22767,107285,31321,8262,12410,6463,990426,233128,544591,19448,553157,103565]
-crew_members: [3351,7767,7770,7768]
+crew_members: [3351,7767,7765,7770,7768,7767]
 tagline: >
   Unchanged men in a changing land
 overview: >

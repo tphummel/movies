@@ -16,6 +16,14 @@
     "job": "Director"
   },
   {
+    "id": 7765,
+    "name": "Walon Green",
+    "popularity": 10.3,
+    "credit_id": "52fe4254c3a36847f8015e8b",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 7770,
     "name": "Lou Lombardo",
     "popularity": 2.318,
@@ -30,5 +38,13 @@
     "credit_id": "52fe4254c3a36847f8015e95",
     "department": "Production",
     "job": "Producer"
+  },
+  {
+    "id": 7767,
+    "name": "Sam Peckinpah",
+    "popularity": 16.665,
+    "credit_id": "52fe4254c3a36847f8015e85",
+    "department": "Writing",
+    "job": "Screenplay"
   }
 ]

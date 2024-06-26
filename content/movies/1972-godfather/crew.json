@@ -3,6 +3,14 @@
     "id": 1776,
     "name": "Francis Ford Coppola",
     "popularity": 9.337,
+    "credit_id": "52fe422bc3a36847f80093db",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 1776,
+    "name": "Francis Ford Coppola",
+    "popularity": 9.337,
     "credit_id": "5e92505cccb15f00136de455",
     "department": "Directing",
     "job": "Director"
@@ -14,6 +22,14 @@
     "credit_id": "52fe422bc3a36847f80093cf",
     "department": "Production",
     "job": "Producer"
+  },
+  {
+    "id": 3083,
+    "name": "Mario Puzo",
+    "popularity": 6.142,
+    "credit_id": "52fe422bc3a36847f80093d5",
+    "department": "Writing",
+    "job": "Screenplay"
   },
   {
     "id": 3097,

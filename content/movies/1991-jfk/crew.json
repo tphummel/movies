@@ -1,5 +1,21 @@
 [
   {
+    "id": 1152,
+    "name": "Oliver Stone",
+    "popularity": 14.076,
+    "credit_id": "52fe427bc3a36847f802232f",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 12130,
+    "name": "Zachary Sklar",
+    "popularity": 2.727,
+    "credit_id": "52fe427bc3a36847f8022341",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 2621,
     "name": "A. Kitman Ho",
     "popularity": 3.797,
@@ -62,5 +78,21 @@
     "credit_id": "5e921a12ca4f6700147efce4",
     "department": "Directing",
     "job": "Director"
+  },
+  {
+    "id": 12128,
+    "name": "Jim Garrison",
+    "popularity": 3.141,
+    "credit_id": "5e921a620231f2001a027e33",
+    "department": "Writing",
+    "job": "Book"
+  },
+  {
+    "id": 12127,
+    "name": "Jim Marrs",
+    "popularity": 2.659,
+    "credit_id": "5e921a7d0231f20012027fe4",
+    "department": "Writing",
+    "job": "Book"
   }
 ]

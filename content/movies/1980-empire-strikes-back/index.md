@@ -1,7 +1,7 @@
 ---
 title: "The Empire Strikes Back"
 title_alpha_sortable: "Empire Strikes Back"
-date: "2024-06-01T15:43:44.551Z"
+date: "2024-06-26T15:26:47.976Z"
 collections: ["star-wars"]
 budget_usd: 18000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 124
 keywords: [11196,803,1612,1423,526,2902,3373,3388,4551,161176,244265,327713]
 cast_members: [2,3,4,3799,6,24342,24343,130,7908,12248,33185,151529,27165,132538,132539,70772,20128,10734,740,70417,47520,8664,7907,1430048,184980,15152,4515,4945]
-crew_members: [10930,12401,1,10766,307,665,19801,2551]
+crew_members: [10930,12401,4298,8844,1,10766,307,665,19801,2551]
 tagline: >
   The Star Wars saga continues.
 overview: >

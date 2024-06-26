@@ -1,7 +1,7 @@
 ---
 title: "Mad Max: Fury Road"
 title_alpha_sortable: "Mad Max: Fury Road"
-date: "2024-06-01T15:43:46.281Z"
+date: "2024-06-26T15:26:49.685Z"
 collections: []
 budget_usd: 150000000
 tiers: []

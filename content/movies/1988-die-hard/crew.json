@@ -32,6 +32,22 @@
     "job": "Editor"
   },
   {
+    "id": 1726,
+    "name": "Steven E. de Souza",
+    "popularity": 5.349,
+    "credit_id": "52fe4252c3a36847f801543b",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 7671,
+    "name": "Jeb Stuart",
+    "popularity": 3.092,
+    "credit_id": "52fe4252c3a36847f8015435",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 2209,
     "name": "Jan de Bont",
     "popularity": 9.313,

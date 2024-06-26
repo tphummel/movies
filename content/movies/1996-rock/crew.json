@@ -1,11 +1,27 @@
 [
   {
+    "id": 59332,
+    "name": "Mark Rosner",
+    "popularity": 4.136,
+    "credit_id": "52fe4530c3a36847f80c127b",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 738,
     "name": "Sean Connery",
     "popularity": 31.038,
     "credit_id": "52fe4530c3a36847f80c1287",
     "department": "Production",
     "job": "Executive Producer"
+  },
+  {
+    "id": 24049,
+    "name": "David Weisberg",
+    "popularity": 10.09,
+    "credit_id": "52fe4530c3a36847f80c126f",
+    "department": "Writing",
+    "job": "Screenplay"
   },
   {
     "id": 6581,
@@ -30,6 +46,14 @@
     "credit_id": "52fe4530c3a36847f80c12ab",
     "department": "Camera",
     "job": "Director of Photography"
+  },
+  {
+    "id": 59331,
+    "name": "Douglas S. Cook",
+    "popularity": 4.792,
+    "credit_id": "52fe4530c3a36847f80c1275",
+    "department": "Writing",
+    "job": "Screenplay"
   },
   {
     "id": 770,
@@ -62,5 +86,13 @@
     "credit_id": "52fe4530c3a36847f80c1299",
     "department": "Production",
     "job": "Executive Producer"
+  },
+  {
+    "id": 876,
+    "name": "Jonathan Hensleigh",
+    "popularity": 9.171,
+    "credit_id": "5f0e0434eec5b50036d72067",
+    "department": "Writing",
+    "job": "Screenplay"
   }
 ]

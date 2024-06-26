@@ -1,7 +1,7 @@
 ---
 title: "Executive Decision"
 title_alpha_sortable: "Executive Decision"
-date: "2024-06-01T15:43:44.707Z"
+date: "2024-06-26T15:26:48.127Z"
 collections: []
 budget_usd: 55000000
 tiers: []

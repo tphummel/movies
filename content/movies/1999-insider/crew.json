@@ -1,5 +1,21 @@
 [
   {
+    "id": 27,
+    "name": "Eric Roth",
+    "popularity": 3.575,
+    "credit_id": "52fe44d0c3a36847f80abaaf",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 638,
+    "name": "Michael Mann",
+    "popularity": 9.238,
+    "credit_id": "52fe44d0c3a36847f80abaa9",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 638,
     "name": "Michael Mann",
     "popularity": 9.238,

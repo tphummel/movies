@@ -16,6 +16,14 @@
     "job": "Producer"
   },
   {
+    "id": 583,
+    "name": "Hampton Fancher",
+    "popularity": 6.344,
+    "credit_id": "52fe4214c3a36847f800261b",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 594,
     "name": "Jordan Cronenweth",
     "popularity": 2.554,
@@ -30,6 +38,14 @@
     "credit_id": "52fe4214c3a36847f80025ed",
     "department": "Editing",
     "job": "Editor"
+  },
+  {
+    "id": 7191,
+    "name": "David Webb Peoples",
+    "popularity": 3.718,
+    "credit_id": "52fe4214c3a36847f8002621",
+    "department": "Writing",
+    "job": "Screenplay"
   },
   {
     "id": 21918,

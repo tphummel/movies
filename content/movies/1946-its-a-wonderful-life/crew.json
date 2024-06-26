@@ -38,5 +38,29 @@
     "credit_id": "52fe4301c3a36847f8033567",
     "department": "Editing",
     "job": "Editor"
+  },
+  {
+    "id": 26159,
+    "name": "Frances Goodrich",
+    "popularity": 9.979,
+    "credit_id": "52fe4301c3a36847f8033583",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 26160,
+    "name": "Albert Hackett",
+    "popularity": 6.383,
+    "credit_id": "52fe4301c3a36847f8033589",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 2662,
+    "name": "Frank Capra",
+    "popularity": 7.607,
+    "credit_id": "52fe4301c3a36847f803358f",
+    "department": "Writing",
+    "job": "Screenplay"
   }
 ]

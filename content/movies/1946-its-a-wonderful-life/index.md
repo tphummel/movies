@@ -1,7 +1,7 @@
 ---
 title: "It's a Wonderful Life"
 title_alpha_sortable: "It's a Wonderful Life"
-date: "2024-06-01T15:43:45.958Z"
+date: "2024-06-26T15:26:49.305Z"
 collections: []
 budget_usd: 3180000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 130
 keywords: [1415,290,1252,65,974,5571,5683,15274,155733,156282,156578,156597,171826,184559,196664,207317]
 cast_members: [854,17752,17753,3383,7666,17755,17759,4303,77081,33278,78902,17754,17756,106584,1033185,41750,29579,120785,5738,83623,135356,198219,107678,941239]
-crew_members: [2662,2662,14431,17761,17762]
+crew_members: [2662,2662,14431,17761,17762,26159,26160,2662]
 tagline: >
   It's a wonderful laugh! It's a wonderful love!
 overview: >

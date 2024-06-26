@@ -3,6 +3,14 @@
     "id": 240,
     "name": "Stanley Kubrick",
     "popularity": 14.773,
+    "credit_id": "52fe4212c3a36847f8001a0b",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 240,
+    "name": "Stanley Kubrick",
+    "popularity": 14.773,
     "credit_id": "5e8354893344c600182bbb4d",
     "department": "Directing",
     "job": "Director"
@@ -30,6 +38,14 @@
     "credit_id": "52fe4212c3a36847f8001a17",
     "department": "Editing",
     "job": "Editor"
+  },
+  {
+    "id": 241,
+    "name": "Arthur C. Clarke",
+    "popularity": 3.282,
+    "credit_id": "52fe4212c3a36847f8001a53",
+    "department": "Writing",
+    "job": "Screenplay"
   },
   {
     "id": 257,

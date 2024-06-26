@@ -1,7 +1,7 @@
 ---
 title: "The Royal Tenenbaums"
 title_alpha_sortable: "Royal Tenenbaums"
-date: "2024-06-01T15:43:47.589Z"
+date: "2024-06-26T15:26:50.739Z"
 collections: []
 budget_usd: 21000000
 tiers: []

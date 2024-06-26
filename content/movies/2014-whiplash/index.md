@@ -1,7 +1,7 @@
 ---
 title: "Whiplash"
 title_alpha_sortable: "Whiplash"
-date: "2024-06-01T15:43:48.669Z"
+date: "2024-06-26T15:26:51.793Z"
 collections: []
 budget_usd: 3300000
 tiers: []

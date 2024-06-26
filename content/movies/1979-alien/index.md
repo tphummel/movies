@@ -1,7 +1,7 @@
 ---
 title: "Alien"
 title_alpha_sortable: "Alien"
-date: "2024-06-01T15:43:42.784Z"
+date: "2024-06-26T15:26:46.414Z"
 collections: ["alien"]
 budget_usd: 11000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 117
 keywords: [803,1612,1825,1826,1828,1829,3801,4565,6016,7956,9882,9951,11322,34117,157634,161176,204390,226177]
 cast_members: [4139,10205,5047,5048,5049,65,5050,5051,5052]
-crew_members: [578,915,1723,5046,5053,5055,5056,5057]
+crew_members: [578,915,1723,5045,5046,5053,5055,5056,5057]
 tagline: >
   In space no one can hear you scream.
 overview: >

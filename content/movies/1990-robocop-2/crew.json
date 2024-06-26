@@ -1,5 +1,13 @@
 [
   {
+    "id": 2293,
+    "name": "Frank Miller",
+    "popularity": 8.186,
+    "credit_id": "52fe440dc3a36847f807f8d7",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 3904,
     "name": "Lee Smith",
     "popularity": 4.387,
@@ -22,6 +30,14 @@
     "credit_id": "52fe440dc3a36847f807f941",
     "department": "Production",
     "job": "Producer"
+  },
+  {
+    "id": 7765,
+    "name": "Walon Green",
+    "popularity": 3.586,
+    "credit_id": "52fe440dc3a36847f807f8dd",
+    "department": "Writing",
+    "job": "Screenplay"
   },
   {
     "id": 21271,

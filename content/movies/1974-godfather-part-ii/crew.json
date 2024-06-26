@@ -3,6 +3,14 @@
     "id": 1776,
     "name": "Francis Ford Coppola",
     "popularity": 9.337,
+    "credit_id": "5e9251c384448e00128f09b1",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 1776,
+    "name": "Francis Ford Coppola",
+    "popularity": 9.337,
     "credit_id": "5e92517a8e87020016cb1d0e",
     "department": "Directing",
     "job": "Director"

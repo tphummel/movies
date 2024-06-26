@@ -1,7 +1,7 @@
 ---
 title: "Apollo 13"
 title_alpha_sortable: "Apollo 13"
-date: "2024-06-01T15:43:42.967Z"
+date: "2024-06-26T15:26:46.574Z"
 collections: []
 budget_usd: 52000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 140
 keywords: [305,1196,1432,2345,4776,9609,9672,9882,10084,10349,10617,14601,14626,193479,226233,226235,226236]
 cast_members: [31,2053,4724,33,228,8183,102429,8191,3982,8189,8192,7219,8184,8185,8186,15661,16841,1470]
-crew_members: [339,1060,6159,6184,6189,6190]
+crew_members: [142,339,1060,6159,6184,6189,6190,7854]
 tagline: >
   Houston, we have a problem.
 overview: >

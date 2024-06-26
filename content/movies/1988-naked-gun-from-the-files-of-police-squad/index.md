@@ -1,7 +1,7 @@
 ---
 title: "The Naked Gun: From the Files of Police Squad!"
 title_alpha_sortable: "Naked Gun: From the Files of Police Squad!"
-date: "2024-06-01T15:43:46.533Z"
+date: "2024-06-26T15:26:49.883Z"
 collections: []
 budget_usd: 12000000
 tiers: []

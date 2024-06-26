@@ -1,7 +1,7 @@
 ---
 title: "Red Dawn"
 title_alpha_sortable: "Red Dawn"
-date: "2024-06-01T15:43:47.079Z"
+date: "2024-06-26T15:26:50.366Z"
 collections: []
 budget_usd: 17000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 114
 keywords: [1008,2964,1721,1981,4278,7059,14955,171676,193008,251620]
 cast_members: [723,6952,2878,1063,2884,722,6280,19737,8258,5048,98102,55841,39036,1735,65019,12298,1169,1221566,44819,16583]
-crew_members: [19423,17399,12882,8328,1728,19736]
+crew_members: [19423,8328,17399,12882,8328,8300,1728,19736]
 tagline: >
   In our time, no foreign army has ever occupied American soil. Until now.
 overview: >

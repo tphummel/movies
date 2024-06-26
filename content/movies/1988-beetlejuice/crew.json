@@ -8,6 +8,14 @@
     "job": "Director"
   },
   {
+    "id": 913,
+    "name": "Warren Skaaren",
+    "popularity": 3.234,
+    "credit_id": "54a2c1fcc3a3684d8f001c33",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 6900,
     "name": "Jane Kurson",
     "popularity": 1.595,
@@ -30,6 +38,14 @@
     "credit_id": "52fe43abc3a36847f8066709",
     "department": "Production",
     "job": "Producer"
+  },
+  {
+    "id": 34534,
+    "name": "Michael McDowell",
+    "popularity": 1.243,
+    "credit_id": "54a2c1e792514117dd001bf5",
+    "department": "Writing",
+    "job": "Screenplay"
   },
   {
     "id": 35139,

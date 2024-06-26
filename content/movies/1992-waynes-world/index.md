@@ -1,7 +1,7 @@
 ---
 title: "Wayne's World"
 title_alpha_sortable: "Wayne's World"
-date: "2024-06-01T15:43:48.571Z"
+date: "2024-06-26T15:26:51.669Z"
 collections: ["waynes-world"]
 budget_usd: 20000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 95
 keywords: [4516,5540,9755,10229,11687,10582,15214,179430,179431,187056,295106,295959]
 cast_members: [12073,56159,2879,13445,6684,56933,58198,1535,55557,7470,418,35824,18977,13023,6906,29685,15105,3126,1237079,28416,154073]
-crew_members: [13017,10815,58448,56158,14457]
+crew_members: [13017,10815,58448,56158,14457,12073,56156,56157]
 tagline: >
   You'll laugh. You'll cry. You'll hurl.
 overview: >

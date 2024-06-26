@@ -43,6 +43,14 @@
     "id": 1058,
     "name": "Bob Gale",
     "popularity": 7.645,
+    "credit_id": "52fe4221c3a36847f80064bf",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 1058,
+    "name": "Bob Gale",
+    "popularity": 7.645,
     "credit_id": "52fe4221c3a36847f800645b",
     "department": "Production",
     "job": "Producer"

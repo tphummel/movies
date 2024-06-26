@@ -8,6 +8,14 @@
     "job": "Editor"
   },
   {
+    "id": 707,
+    "name": "Dan Aykroyd",
+    "popularity": 75.219,
+    "credit_id": "52fe425fc3a36847f8019233",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 8859,
     "name": "Bernie Brillstein",
     "popularity": 5.192,
@@ -46,6 +54,14 @@
     "credit_id": "52fe425fc3a36847f801924b",
     "department": "Production",
     "job": "Producer"
+  },
+  {
+    "id": 1524,
+    "name": "Harold Ramis",
+    "popularity": 28.241,
+    "credit_id": "52fe425fc3a36847f8019239",
+    "department": "Writing",
+    "job": "Screenplay"
   },
   {
     "id": 8858,

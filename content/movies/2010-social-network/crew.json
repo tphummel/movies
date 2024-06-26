@@ -1,5 +1,13 @@
 [
   {
+    "id": 13520,
+    "name": "Aaron Sorkin",
+    "popularity": 18,
+    "credit_id": "52fe466f9251416c91054735",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 7475,
     "name": "Ceán Chaffin",
     "popularity": 10.096,

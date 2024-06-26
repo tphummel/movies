@@ -35,6 +35,14 @@
     "id": 2710,
     "name": "James Cameron",
     "popularity": 12.058,
+    "credit_id": "52fe4269c3a36847f801c9fd",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 2710,
+    "name": "James Cameron",
+    "popularity": 12.058,
     "credit_id": "52fe4269c3a36847f801c94f",
     "department": "Directing",
     "job": "Director"

@@ -1,7 +1,7 @@
 ---
 title: "Back to the Future Part II"
 title_alpha_sortable: "Back to the Future Part II"
-date: "2024-06-01T15:43:43.230Z"
+date: "2024-06-26T15:26:46.806Z"
 collections: ["bttf"]
 budget_usd: 40000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 108
 keywords: [390,391,830,952,953,1436,4379,9663,9844,10738,12026,18171,189102,196664,226370,257783]
 cast_members: [521,1062,1063,1065,1951,1072,1952,1953,1954,11673,12826,1434975,68851,58319,109,1237,37623,1064]
-crew_members: [24,38,488,489,664,1058,1059,1060,1061]
+crew_members: [24,38,488,489,664,1058,1058,1059,1060,1061]
 tagline: >
   Roads? Where we're going, we don't need roads!
 overview: >

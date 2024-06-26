@@ -24,12 +24,36 @@
     "job": "Producer"
   },
   {
+    "id": 16483,
+    "name": "Sylvester Stallone",
+    "popularity": 44.016,
+    "credit_id": "52fe42efc3a36847f802e1a3",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 16544,
     "name": "Ted Kotcheff",
     "popularity": 4.535,
     "credit_id": "52fe42efc3a36847f802e18b",
     "department": "Directing",
     "job": "Director"
+  },
+  {
+    "id": 16546,
+    "name": "Michael Kozoll",
+    "popularity": 1.534,
+    "credit_id": "52fe42efc3a36847f802e197",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 16547,
+    "name": "William Sackheim",
+    "popularity": 1.242,
+    "credit_id": "52fe42efc3a36847f802e19d",
+    "department": "Writing",
+    "job": "Screenplay"
   },
   {
     "id": 16548,

@@ -1,7 +1,7 @@
 ---
 title: "Dumb and Dumber"
 title_alpha_sortable: "Dumb and Dumber"
-date: "2024-06-01T15:43:44.480Z"
+date: "2024-06-26T15:26:47.921Z"
 collections: []
 budget_usd: 16000000
 tiers: []

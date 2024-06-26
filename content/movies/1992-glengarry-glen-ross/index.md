@@ -1,7 +1,7 @@
 ---
 title: "Glengarry Glen Ross"
 title_alpha_sortable: "Glengarry Glen Ross"
-date: "2024-06-01T15:43:45.086Z"
+date: "2024-06-26T15:26:48.525Z"
 collections: []
 budget_usd: 12500000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 100
 keywords: [642,1438,1998,2918,11836,13001,34117,179867,207268]
 cast_members: [1158,3151,7447,1903,228,1979,378,27545,8693,21384,171743,4199,175037,16580]
-crew_members: [10570,10853,20693,15890,57753,57754]
+crew_members: [1255,10570,10853,20693,15890,57753,57754]
 tagline: >
   Lie. Cheat. Steal. All in a day’s work.
 overview: >

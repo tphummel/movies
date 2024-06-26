@@ -1,7 +1,7 @@
 ---
 title: "Back to the Future Part III"
 title_alpha_sortable: "Back to the Future Part III"
-date: "2024-06-01T15:43:43.289Z"
+date: "2024-06-26T15:26:46.861Z"
 collections: ["bttf"]
 budget_usd: 40000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 119
 keywords: [387,957,999,1436,1544,1582,2284,4379,9503,9663,10125,10322,10950,12371,13008,155573,156234,208611,226370]
 cast_members: [521,1062,1065,2453,1063,1951,2454,15413,21460,4316,6463,1072,1067,1068,1952,1237]
-crew_members: [24,38,488,489,664,1058,1059,1060,1061]
+crew_members: [24,38,488,489,664,1058,1058,1059,1060,1061]
 tagline: >
   They've saved the best trip for last... But this time they may have gone too far.
 overview: >

@@ -1,7 +1,7 @@
 ---
 title: "So I Married an Axe Murderer"
 title_alpha_sortable: "So I Married an Axe Murderer"
-date: "2024-06-01T15:43:47.695Z"
+date: "2024-06-26T15:26:50.838Z"
 collections: []
 budget_usd: 20000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 93
 keywords: [388,4452,5923,9826,157758]
 cast_members: [12073,18331,57829,99,18345,28164,14104,5578,3214,50807,15105,1903,111080,161318,80109,19974]
-crew_members: [2384,5505,1918,54797,1917,15106,11506]
+crew_members: [2384,5505,1918,54797,1917,15106,65316,11506]
 tagline: >
   The honeymoon was killer.
 overview: >

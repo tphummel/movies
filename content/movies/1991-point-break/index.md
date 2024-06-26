@@ -1,7 +1,7 @@
 ---
 title: "Point Break"
 title_alpha_sortable: "Point Break"
-date: "2024-06-01T15:43:46.718Z"
+date: "2024-06-26T15:26:50.021Z"
 collections: []
 budget_usd: 24000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 122
 keywords: [5349,1524,1671,1568,1824,2796,4679,1812,1669,2006,4300,4668,4690,10726,12670,15363,187056]
 cast_members: [723,6384,2048,15309,11885,6474,103011,170231,170334,107368,11890,63934,15310,6906,15311,156925,3197,1212251,63942,86499,1240,105988,152807,152802,79363]
-crew_members: [14392,15306,15307,9614,2046,10853,2710,64935]
+crew_members: [14392,15304,15306,15307,9614,2046,10853,2710,64935]
 tagline: >
   Twenty-seven banks in three years. Anything to catch the perfect wave.
 overview: >

@@ -8,6 +8,22 @@
     "job": "Director"
   },
   {
+    "id": 67802,
+    "name": "Rick Jaffa",
+    "popularity": 15.072,
+    "credit_id": "52fe4664c3a368484e08e225",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 67803,
+    "name": "Amanda Silver",
+    "popularity": 15.878,
+    "credit_id": "52fe4664c3a368484e08e22b",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 266920,
     "name": "Peter Chernin",
     "popularity": 3.664,

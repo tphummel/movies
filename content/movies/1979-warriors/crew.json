@@ -16,6 +16,14 @@
     "job": "Producer"
   },
   {
+    "id": 69567,
+    "name": "David Shaber",
+    "popularity": 6.749,
+    "credit_id": "52fe44479251416c7502f20b",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 69568,
     "name": "David Holden",
     "popularity": 1.658,
@@ -46,6 +54,14 @@
     "credit_id": "5a6fd11892514137570060c8",
     "department": "Production",
     "job": "Executive Producer"
+  },
+  {
+    "id": 1723,
+    "name": "Walter Hill",
+    "popularity": 15.6,
+    "credit_id": "5a6fd17cc3a36848000074e4",
+    "department": "Writing",
+    "job": "Screenplay"
   },
   {
     "id": 909,

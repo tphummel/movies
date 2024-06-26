@@ -1,7 +1,7 @@
 ---
 title: "The Karate Kid"
 title_alpha_sortable: "Karate Kid"
-date: "2024-06-01T15:43:46.216Z"
+date: "2024-06-26T15:26:49.627Z"
 collections: []
 budget_usd: 8000000
 tiers: []

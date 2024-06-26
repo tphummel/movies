@@ -1,7 +1,7 @@
 ---
 title: "RoboCop 2"
 title_alpha_sortable: "RoboCop 2"
-date: "2024-06-01T15:43:47.388Z"
+date: "2024-06-26T15:26:50.583Z"
 collections: ["robocop"]
 budget_usd: 35000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 117
 keywords: [679,6149,9663,12190,14544,14964,15090]
 cast_members: [27811,44038,119232,44049,13310,6836,44042,44055,105988,91537,30615,51662,171689,194418,21629,6576,5589,13923]
-crew_members: [3904,7413,7723,21271,10930,25600,44046]
+crew_members: [2293,3904,7413,7723,7765,21271,10930,25600,44046]
 tagline: >
   He's back to protect the innocent.
 overview: >

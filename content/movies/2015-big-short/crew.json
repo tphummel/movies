@@ -43,6 +43,14 @@
     "id": 55710,
     "name": "Adam McKay",
     "popularity": 15.761,
+    "credit_id": "55187d3fc3a36862ff004a81",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 55710,
+    "name": "Adam McKay",
+    "popularity": 15.761,
     "credit_id": "55187d2e9251416f0a004c26",
     "department": "Directing",
     "job": "Director"
@@ -64,11 +72,27 @@
     "job": "Executive Producer"
   },
   {
+    "id": 136186,
+    "name": "Michael Lewis",
+    "popularity": 0.6,
+    "credit_id": "568349059251414f6300f783",
+    "department": "Writing",
+    "job": "Book"
+  },
+  {
     "id": 967387,
     "name": "Jeremy Kleiner",
     "popularity": 4.258,
     "credit_id": "568349c692514169d0002099",
     "department": "Production",
     "job": "Producer"
+  },
+  {
+    "id": 1474332,
+    "name": "Charles Randolph",
+    "popularity": 1.685,
+    "credit_id": "55721f099251416af7002098",
+    "department": "Writing",
+    "job": "Screenplay"
   }
 ]

@@ -48,12 +48,28 @@
     "job": "Director"
   },
   {
+    "id": 2199,
+    "name": "Scott Frank",
+    "popularity": 6.274,
+    "credit_id": "52fe4223c3a36847f8006f49",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 2211,
     "name": "Gerald R. Molen",
     "popularity": 9.982,
     "credit_id": "52fe4223c3a36847f8006f89",
     "department": "Production",
     "job": "Producer"
+  },
+  {
+    "id": 2200,
+    "name": "Jon Cohen",
+    "popularity": 3.961,
+    "credit_id": "52fe4223c3a36847f8006f4f",
+    "department": "Writing",
+    "job": "Screenplay"
   },
   {
     "id": 5046,

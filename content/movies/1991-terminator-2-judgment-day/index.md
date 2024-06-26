@@ -1,7 +1,7 @@
 ---
 title: "Terminator 2: Judgment Day"
 title_alpha_sortable: "Terminator 2: Judgment Day"
-date: "2024-06-01T15:43:47.926Z"
+date: "2024-06-26T15:26:51.038Z"
 collections: []
 budget_usd: 102000000
 tiers: []

@@ -24,6 +24,22 @@
     "job": "Producer"
   },
   {
+    "id": 10296,
+    "name": "Michael Goldenberg",
+    "popularity": 8.332,
+    "credit_id": "52fe426ac3a36847f801ce5f",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 10295,
+    "name": "James V. Hart",
+    "popularity": 9.439,
+    "credit_id": "52fe426ac3a36847f801ce59",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 24,
     "name": "Robert Zemeckis",
     "popularity": 27.388,

@@ -11,6 +11,14 @@
     "id": 8844,
     "name": "Lawrence Kasdan",
     "popularity": 10.533,
+    "credit_id": "52fe44fb9251416c750479fb",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 8844,
+    "name": "Lawrence Kasdan",
+    "popularity": 10.533,
     "credit_id": "52fe44fb9251416c750479f5",
     "department": "Directing",
     "job": "Director"
@@ -46,5 +54,13 @@
     "credit_id": "52fe44fb9251416c75047a0d",
     "department": "Production",
     "job": "Executive Producer"
+  },
+  {
+    "id": 70846,
+    "name": "Barbara Benedek",
+    "popularity": 0.98,
+    "credit_id": "52fe44fb9251416c75047a01",
+    "department": "Writing",
+    "job": "Screenplay"
   }
 ]

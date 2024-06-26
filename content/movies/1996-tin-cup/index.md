@@ -1,7 +1,7 @@
 ---
 title: "Tin Cup"
 title_alpha_sortable: "Tin Cup"
-date: "2024-06-01T15:43:48.077Z"
+date: "2024-06-26T15:26:51.176Z"
 collections: []
 budget_usd: 45000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 135
 keywords: [6075,2702,7439,7322,9823,11268,178378,235196,293751,297198,302670,303291,303292,304947,309176,328579,328580]
 cast_members: [1269,14343,25129,11159,53602,83362,16937,20748,3205,156756,100230,154295]
-crew_members: [4037,12922,4054,56594,25141,31027,376]
+crew_members: [4037,4037,12922,65396,4054,56594,25141,31027,376]
 tagline: >
   Golf Pro. Love Amateur.
 overview: >

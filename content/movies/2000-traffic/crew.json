@@ -32,6 +32,22 @@
     "job": "Editor"
   },
   {
+    "id": 21705,
+    "name": "Simon Moore",
+    "popularity": 6.889,
+    "credit_id": "52fe431fc3a36847f803c10d",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 2945,
+    "name": "Stephen Gaghan",
+    "popularity": 8.662,
+    "credit_id": "52fe431fc3a36847f803c113",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 9182,
     "name": "Marshall Herskovitz",
     "popularity": 11.019,

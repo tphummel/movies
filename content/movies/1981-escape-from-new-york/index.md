@@ -1,7 +1,7 @@
 ---
 title: "Escape from New York"
 title_alpha_sortable: "Escape from New York"
-date: "2024-06-01T15:43:44.657Z"
+date: "2024-06-26T15:26:48.081Z"
 collections: []
 budget_usd: 6000000
 tiers: []
@@ -30,7 +30,7 @@ status: "Released"
 runtime_minutes: 99
 keywords: [242,444,542,779,840,1543,1562,1930,2019,2095,3149,3289,4458,4565,4668,5034,5970,11107,12190,33556,34117,217083]
 cast_members: [6856,4078,7502,9221,6542,47456,5048,11782,11784,11786,15449,54564,9785,15508,11770,8944,14692,2161]
-crew_members: [511,1060,1767,2161,2359,11770]
+crew_members: [511,1060,1767,2161,2359,11770,11770,14692]
 tagline: >
   1997. New York city is now a maximum security prison. Breaking out is impossible. Breaking in is insane.
 overview: >

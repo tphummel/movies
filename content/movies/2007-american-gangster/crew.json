@@ -32,6 +32,14 @@
     "job": "Director of Photography"
   },
   {
+    "id": 2260,
+    "name": "Steven Zaillian",
+    "popularity": 17.41,
+    "credit_id": "52fe43ebc3a36847f8078397",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
     "id": 578,
     "name": "Ridley Scott",
     "popularity": 35.773,

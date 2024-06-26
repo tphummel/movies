@@ -110,7 +110,7 @@ async function loadMovie (movie) {
   })
 
   const crewJobs = [
-    'Director', 'Producer', 'Executive Producer', 'Writer', 'Editor', 'Director of Photography'
+    'Director', 'Producer', 'Executive Producer', 'Writer', 'Editor', 'Director of Photography', 'Screenplay', 'Book'
   ]
 
   const topCrew = creditsData.crew.filter((f) => {
