@@ -12,7 +12,7 @@
   <strong>
     <a href="{{ with $.GetPage (printf "/release_years/%s" (index .Params.release_years 0)) }}{{ .RelPermalink}}{{end}}">{{ index .Params.release_years 0 }}</a>
   </strong>
-  (<a href="{{ with $.GetPage (printf "/release_decades/%s" (index .Params.release_decades 0)) }}{{ .RelPermalink}}{{end}}">{{ index .Params.release_years 0 }}'s</a>)
+  (<a href="{{ with $.GetPage (printf "/release_decades/%s" (index .Params.release_decades 0)) }}{{ .RelPermalink}}{{end}}">{{ index .Params.release_decades 0 }}'s</a>)
 </p>
 
 <blockquote>{{ .Params.tagline }}</blockquote>
