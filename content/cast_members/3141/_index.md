@@ -6,5 +6,5 @@ original_name: "Marisa Tomei"
 known_for_department: "Acting"
 gender: "1"
 adult: "false"
-profile_path: "/pP0J79KUzPPjW4QO42iF4KKM7C6.jpg"
+profile_path: "/5w6qM8FWsl5SutKSpx6Va64eCTE.jpg"
 ---

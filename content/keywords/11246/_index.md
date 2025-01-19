@@ -1,0 +1,3 @@
+---
+title: barbed wire
+---

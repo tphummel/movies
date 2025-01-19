@@ -1,0 +1,74 @@
+[
+  {
+    "id": 6431,
+    "name": "Darren Aronofsky",
+    "popularity": 13.172,
+    "credit_id": "52fe44c29251416c7503ff61",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 103041,
+    "name": "Robert D. Siegel",
+    "popularity": 1.676,
+    "credit_id": "52fe44c29251416c7503ff8f",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 38805,
+    "name": "Andrew Weisblum",
+    "popularity": 5.103,
+    "credit_id": "538b23a90e0a266705001a3d",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 1116091,
+    "name": "Scott Franklin",
+    "popularity": 1.222,
+    "credit_id": "538b234c0e0a26670e001a52",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 6431,
+    "name": "Darren Aronofsky",
+    "popularity": 13.172,
+    "credit_id": "538b23360e0a266705001a32",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 33678,
+    "name": "Maryse Alberti",
+    "popularity": 3.26,
+    "credit_id": "5476fe8cc3a36826c3001325",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 66265,
+    "name": "Jennifer Roth",
+    "popularity": 2.811,
+    "credit_id": "57c45e0c9251410581004744",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 8570,
+    "name": "Vincent Maraval",
+    "popularity": 4.399,
+    "credit_id": "5be4d53e9251415c75036855",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 230691,
+    "name": "Agnès Mentre",
+    "popularity": 0.584,
+    "credit_id": "5be4d54f9251415c69036226",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]
