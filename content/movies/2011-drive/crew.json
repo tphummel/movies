@@ -1,0 +1,122 @@
+[
+  {
+    "id": 21183,
+    "name": "Nicolas Winding Refn",
+    "popularity": 6.739,
+    "credit_id": "52fe46e4c3a368484e0a9b33",
+    "department": "Directing",
+    "job": "Director"
+  },
+  {
+    "id": 56960,
+    "name": "Hossein Amini",
+    "popularity": 6.143,
+    "credit_id": "52fe46e4c3a368484e0a9b49",
+    "department": "Writing",
+    "job": "Screenplay"
+  },
+  {
+    "id": 9040,
+    "name": "Newton Thomas Sigel",
+    "popularity": 0.67,
+    "credit_id": "52fe46e4c3a368484e0a9b4f",
+    "department": "Camera",
+    "job": "Director of Photography"
+  },
+  {
+    "id": 66726,
+    "name": "Michel Litvak",
+    "popularity": 0.639,
+    "credit_id": "52fe46e4c3a368484e0a9b93",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 1182092,
+    "name": "John Palermo",
+    "popularity": 0.284,
+    "credit_id": "52fe46e4c3a368484e0a9b99",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 23485,
+    "name": "Marc Platt",
+    "popularity": 5.17,
+    "credit_id": "52fe46e4c3a368484e0a9b9f",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 20743,
+    "name": "Gigi Pritzker",
+    "popularity": 0.762,
+    "credit_id": "52fe46e4c3a368484e0a9ba5",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 73453,
+    "name": "Adam Siegel",
+    "popularity": 1.083,
+    "credit_id": "52fe46e4c3a368484e0a9bab",
+    "department": "Production",
+    "job": "Producer"
+  },
+  {
+    "id": 966286,
+    "name": "Matthew Newman",
+    "popularity": 1.005,
+    "credit_id": "54e0711dc3a36857560032b9",
+    "department": "Editing",
+    "job": "Editor"
+  },
+  {
+    "id": 60864,
+    "name": "David Lancaster",
+    "popularity": 1.067,
+    "credit_id": "5adc5b70c3a36862ef01fa98",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 964665,
+    "name": "Bill Lischak",
+    "popularity": 0.802,
+    "credit_id": "5adc5b8dc3a36862c001c90d",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 964321,
+    "name": "Linda McDonough",
+    "popularity": 0.611,
+    "credit_id": "5adc5ba79251410acb01b86c",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 62775,
+    "name": "Peter Schlessel",
+    "popularity": 1.096,
+    "credit_id": "5adc5e5a9251410ad001bb06",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 9250,
+    "name": "Jeffrey Stott",
+    "popularity": 1.607,
+    "credit_id": "5adc5fb40e0a26143c01dfb0",
+    "department": "Production",
+    "job": "Executive Producer"
+  },
+  {
+    "id": 66727,
+    "name": "Gary Michael Walters",
+    "popularity": 0.762,
+    "credit_id": "5adc5fcac3a36862bd01c90c",
+    "department": "Production",
+    "job": "Executive Producer"
+  }
+]

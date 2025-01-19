@@ -1,0 +1,3 @@
+---
+title: beaten to death
+---
