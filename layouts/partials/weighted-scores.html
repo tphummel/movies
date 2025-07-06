@@ -1,0 +1,9 @@
+{{- $result := slice -}}
+{{- range . -}}
+  {{- $mcw := mul .Params.metacritic.score .Params.metacritic.review_count -}}
+  {{- $rtw := mul .Params.rotten_tomatoes.score .Params.rotten_tomatoes.review_count -}}
+  {{- $total := add .Params.metacritic.review_count .Params.rotten_tomatoes.review_count -}}
+  {{- $score := div (add $mcw $rtw) (float $total) -}}
+  {{- $result = $result | append (dict "page" . "score" $score "mcw" $mcw "rtw" $rtw "total" $total) -}}
+{{- end -}}
+{{- return $result -}}

@@ -1,0 +1,26 @@
+{{ define "main" }}
+<h1>{{.Title}}</h1>
+
+<p>{{ partial "breadcrumb.html" . }}</p>
+
+{{ with .Content }}
+<div>{{ . }}</div>
+{{ end }}
+
+<table>
+  <tr>
+    <td>Title</td>
+    <td>Release Year</td>
+    <td>Score</td>
+  </tr>
+  {{ $pages := partial "weighted-scores.html" .Data.Pages }}
+  {{ range sort $pages "score" "desc" }}
+    {{ $p := .page }}
+    <tr>
+      <td><a class="random-target" href="{{ $p.RelPermalink }}">{{ $p.Title }}</a></td>
+      <td><a href="{{ with $.GetPage (printf "/release_years/%s" (index $p.Params.release_years 0)) }}{{ .RelPermalink}}{{end}}">{{ index $p.Params.release_years 0 }}</a></td>
+      <td title="RT: {{ $p.Params.rotten_tomatoes.score }} ({{ $p.Params.rotten_tomatoes.review_count}}), MC: {{ $p.Params.metacritic.score }} ({{ $p.Params.metacritic.review_count}})">{{ lang.NumFmt 2 .score }}</td>
+    </tr>
+  {{ end }}
+</table>
+{{ end }}

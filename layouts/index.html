@@ -64,6 +64,9 @@
     {{ with $.Site.GetPage "/movies-a-z" }}
       <li><a href="{{ .RelPermalink }}">Movies A-Z</a></li>
     {{ end }}
+    {{ with $.Site.GetPage "/movies-by-score" }}
+      <li><a href="{{ .RelPermalink }}">Movies by Score</a></li>
+    {{ end }}
   </ul>
 </div>
 

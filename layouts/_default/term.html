@@ -19,14 +19,11 @@
   </tr>
 
   {{ range .Data.Pages.ByParam "release_date" }}
+    {{ $info := index (partial "weighted-scores.html" (slice .)) 0 }}
     <tr>
       <td><a href="{{ .RelPermalink }}">{{ .Title }}</a></td>
       <td><a href="{{ with $.GetPage (printf "/release_years/%s" (index .Params.release_years 0)) }}{{ .RelPermalink}}{{end}}">{{ index .Params.release_years 0 }}</a></td>
-
-      {{ $mcWeights := mul .Params.metacritic.score .Params.metacritic.review_count }}
-      {{ $rtWeights := mul .Params.rotten_tomatoes.score .Params.rotten_tomatoes.review_count }}
-      {{ $totalReviews := add .Params.metacritic.review_count .Params.rotten_tomatoes.review_count }}
-      <td title="RT: {{ .Params.rotten_tomatoes.score }} ({{ .Params.rotten_tomatoes.review_count}}), MC: {{ .Params.metacritic.score }} ({{ .Params.metacritic.review_count}})">{{ lang.NumFmt 2 (div (add $mcWeights $rtWeights) (float $totalReviews)) }}</td>
+      <td title="RT: {{ .Params.rotten_tomatoes.score }} ({{ .Params.rotten_tomatoes.review_count}}), MC: {{ .Params.metacritic.score }} ({{ .Params.metacritic.review_count}})">{{ lang.NumFmt 2 $info.score }}</td>
     </tr>
 
   {{ end }}
