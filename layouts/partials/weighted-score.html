@@ -1,0 +1,6 @@
+{{- $mc := .Params.metacritic -}}
+{{- $rt := .Params.rotten_tomatoes -}}
+{{- $mcWeights := mul $mc.score $mc.review_count -}}
+{{- $rtWeights := mul $rt.score $rt.review_count -}}
+{{- $totalReviews := add $mc.review_count $rt.review_count -}}
+{{- return (div (add $mcWeights $rtWeights) (float $totalReviews)) -}}
