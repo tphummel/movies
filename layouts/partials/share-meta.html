@@ -1,0 +1,20 @@
+{{- /* Open Graph and Twitter meta tags for sharing */ -}}
+{{- $title := .Title | default .Site.Title -}}
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:type" content="article">
+<meta property="og:url" content="{{ .Permalink }}">
+{{- $desc := .Params.tagline | default .Description | default .Params.overview -}}
+{{- if $desc }}
+<meta property="og:description" content="{{ $desc }}">
+{{- end }}
+{{- with .Params.poster_path }}
+  {{- $clean := strings.TrimPrefix "/" . -}}
+  {{- $imageURL := printf "%sapi/images/%s" $.Site.BaseURL $clean -}}
+  <meta property="og:image" content="{{ $imageURL }}">
+  <meta name="twitter:image" content="{{ $imageURL }}">
+{{- end }}
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ $title }}">
+{{- if $desc }}
+<meta name="twitter:description" content="{{ $desc }}">
+{{- end }}
