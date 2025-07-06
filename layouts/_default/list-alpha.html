@@ -14,7 +14,7 @@
     <td>Score</td>
   </tr>
 
-    {{ range .Data.Pages.ByParam "release_date" }}
+    {{ range (where $.Site.RegularPages "Section" "movies" ).ByParam "title_alpha_sortable" }}
       <tr>
         <td><a class="random-target" href="{{ .RelPermalink }}">{{ .Title }}</a></td>
         <td><a href="{{ with $.GetPage (printf "/release_years/%s" (index .Params.release_years 0)) }}{{ .RelPermalink}}{{end}}">{{ index .Params.release_years 0 }}</a></td>
